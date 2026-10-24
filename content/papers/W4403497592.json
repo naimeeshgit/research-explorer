@@ -1,0 +1,46 @@
+{
+  "id": "W4403497592",
+  "title": "Commentary on “AI is Changing the World: For Better or for Worse?”",
+  "year": 2024,
+  "date": "2024-10-17",
+  "type": "article",
+  "venue": "Journal of Macromarketing",
+  "doi": "https://doi.org/10.1177/02761467241290813",
+  "url": "https://doi.org/10.1177/02761467241290813",
+  "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/02761467241290813?download=true",
+  "citations": 22,
+  "authors": [
+    { "name": "Praveen K. Kopalle" },
+    { "name": "Manish Gangwar" },
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A human-AI partnership with continuous oversight may outperform either alone, the authors argue, since biased data and generative-AI hallucinations cause errors.",
+    "overview": "This short commentary in the Journal of Macromarketing responds to an article titled \"AI is Changing the World: For Better or for Worse?\". The authors examine three premises about humans working with AI: that a human-AI team may outperform either alone, that AI is only as good as the quality and fairness of its training data, and that generative AI is prone to \"hallucinations\", meaning plausible-sounding but wrong outputs. They flag societal concerns such as job displacement, loss of human autonomy and biased decisions, and also discuss model collapse. They conclude that a balanced partnership, pairing human judgment with AI's scale under rigorous oversight, is needed.",
+    "question": "What premises should guide partnerships between humans and AI, and what risks arise as AI becomes embedded in society?",
+    "method": "A conceptual commentary; no empirical analysis is described in the available sources.",
+    "data": "Not stated in the available sources.",
+    "findings": [
+      "A human-AI team may outperform either working alone, but people must oversee AI to keep outcomes ethical and accurate.",
+      "AI's effectiveness depends on the quality and bias of its training data; without diverse, unbiased data it can reinforce biased decisions in areas such as hiring, healthcare and empathy-driven interactions.",
+      "Generative AI's hallucinations are especially risky in high-stakes fields such as healthcare and security, and the authors also consider model collapse.",
+      "The authors call for continuous human intervention to limit AI-driven inaccuracies and to protect societal values."
+    ],
+    "whyItMatters": "For managers deploying generative AI, the commentary argues for keeping humans in the loop, checking training data for bias and treating AI output as fallible in high-stakes settings. It also places AI's wider social effects (jobs, autonomy, bias) within marketing's responsibilities to society.",
+    "topics": ["artificial intelligence", "generative AI", "AI hallucinations", "human-AI collaboration", "algorithmic bias", "AI ethics", "macromarketing"],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4403497592",
+        "https://www.isb.edu/faculty-and-research/research-directory/commentary-on-ai-is-changing-the-world-for-better-or-for-worse"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "W4407092000",
+  "title": "Capital Structure & Firm Outcomes: Evidence from Dividend Recapitalizations in Private Equity",
+  "year": 2025,
+  "date": "2025-01-01",
+  "type": "preprint",
+  "venue": "NBER Working Paper 33435",
+  "doi": "https://doi.org/10.3386/w33435",
+  "url": "https://doi.org/10.3386/w33435",
+  "pdf": "https://www2.census.gov/library/working-papers/2025/adrm/ces/CES-WP-25-12.pdf",
+  "citations": 0,
+  "authors": [
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Abhinav Gupta" },
+    { "name": "Sabrina T. Howell" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": "We study the effect of a large increase in firm leverage. We isolate the independent, causal effect of debt using the setting of private equity-sponsored dividend recapitalizations, where companies take on debt to pay investor returns, and opportunistic responsiveness to credit supply permits a causal design. After accounting for positive selection, higher total debt (84% on average) dramatically increases the chance of financial distress (by 2.4 times the targeted firm mean), in line with Altman-Z calibrations. Dividend recapitalizations increase deal returns but reduce fund returns, possibly reflecting moral hazard. They also reduce employee wages and loan prices for pre-existing creditors.",
+  "summary": {
+    "oneLiner": "When private equity owners load portfolio companies with debt to pay investors, distress risk jumps, wages and existing lenders suffer, and fund-level returns fall.",
+    "overview": "In a dividend recapitalization, a company owned by a private equity fund borrows new money and pays it out to the fund's investors. Because sponsors tend to do this with healthy firms, simple comparisons understate the risk. The authors use periods when a PE firm's relationship banks were underwriting more CLOs, which made leveraged credit temporarily cheaper and recaps more likely, to isolate the causal effect of the extra debt. In the latest NBER version, total debt rises 84% on average and the chance of financial distress rises by 2.4 times the targeted-firm mean. Recaps raise returns on the individual deal but lower returns for the fund as a whole, which the authors suggest may reflect moral hazard, and they reduce employee wages and the prices of existing loans.",
+    "question": "What is the causal effect of a large increase in leverage on a firm, its employees, its existing creditors and its investors?",
+    "method": "An instrumental variable based on PE-bank-CLO relationships: when a PE firm's relationship banks underwrite more CLOs, leveraged credit becomes cheaper and dividend recaps more likely. In the 2024 draft, a stacked design matches recap firms with control buyouts of similar timing, industry and deal size, and simple (OLS) estimates are compared with the IV estimates to gauge selection.",
+    "data": "As described in the July 2024 draft (then titled \"Leveraged Payouts\"): PitchBook data on about 61,000 leveraged buyouts and nearly 1,600 dividend recaps; the US Census Bureau's Longitudinal Business Database for employment and wages; Burgiss fund returns and Stepstone deal returns; LCD and Dealscan loan data; Acuris CLO-i data on CLOs; LSTA secondary loan prices; and LexisNexis bankruptcy records.",
+    "findings": [
+      "After accounting for positive selection, higher total debt (84% on average) increases the chance of financial distress by 2.4 times the targeted-firm mean, in line with Altman-Z calibrations (NBER version).",
+      "Dividend recaps increase deal-level returns but reduce fund-level returns; the authors suggest this may reflect moral hazard, with sponsors benefiting from early payouts (the 2024 draft links recaps to more new funds being raised).",
+      "Recaps reduce employee wages and the prices of pre-existing creditors' loans; in the 2024 draft the creditor results are associations because the instrument is weak in that sample.",
+      "Simple comparisons show much smaller distress effects than the IV estimates, consistent with sponsors picking strong firms for recaps."
+    ],
+    "whyItMatters": "The paper suggests dividend recaps shift risk onto employees and lenders and may not even serve fund investors, which matters for limited partners negotiating fund terms, lenders pricing recap loans and regulators watching cheap CLO-fuelled credit. For corporate finance, it shows that debt raised purely to pay owners can still change real outcomes. Bhardwaj's ISB profile lists 2024 Financial Times coverage of private equity dividend recaps.",
+    "topics": ["private equity", "dividend recapitalization", "leverage", "capital structure", "financial distress", "CLOs", "moral hazard", "employee wages"],
+    "industries": ["Private equity", "Leveraged finance"],
+    "geographies": ["United States"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4407092000",
+        "https://uncipc.org/wp-content/uploads/2024/11/Gupta_Dividend_Recaps_2024.pdf",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-bhardwaj",
+        "http://www.abhishek-bhardwaj.com/"
+      ]
+    }
+  },
+  "versions": [
+    { "id": "W4407871793", "type": "preprint", "venue": "SSRN Electronic Journal", "year": 2025, "url": "https://doi.org/10.2139/ssrn.5113626" }
+  ]
+}

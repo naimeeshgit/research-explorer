@@ -1,0 +1,47 @@
+{
+  "id": "W4402937847",
+  "title": "How Does Bank Lending To Non-Banks Affect Credit Allocation And Systemic Risk",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.4946216",
+  "url": "https://doi.org/10.2139/ssrn.4946216",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    { "name": "Apoorva Javadekar" },
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When Indian banks shifted lending to non-bank lenders, dependent firms borrowed less, credit moved to riskier firms, and an NBFI failure spread through bank links.",
+    "overview": "Banks increasingly lend to non-bank financial institutions (NBFIs, such as India's NBFCs), which then lend on to firms. The authors use loan-level administrative data and a regulatory change that led some banks to move lending from non-financial firms to NBFIs; in a Faculti interview Bhardwaj describes it as a 2009 cut in the capital risk weights on banks' exposures to large non-banks in India. Firms that depended on those banks cut total borrowing and had worse real outcomes, while NBFIs used the money to lend to smaller, younger and riskier firms. The unexpected failure of a large NBFI then shows that stress can spread through bank-NBFI links and shrink credit across the economy.",
+    "question": "How does bank lending to non-bank financial institutions affect which firms get credit, and does it create channels for systemic risk?",
+    "method": "Two shocks: a regulatory change that altered banks' incentives to lend to NBFIs, comparing banks by their prior exposure to non-banks; and the unexpected failure of a large NBFI, comparing banks that were and were not exposed to it.",
+    "data": "Loan-level administrative data, per the CAFRAL seminar abstract; the setting is India according to Bhardwaj's Faculti interview. Sample period and size are not stated in the available sources.",
+    "findings": [
+      "Firms that depended on banks that shifted lending to NBFIs reduced total borrowing and had worse real outcomes, such as lower capital investment, because they could not easily replace the lost credit.",
+      "NBFIs used the extra bank funding to make new loans, increasing competition among lenders and moving credit toward smaller, younger and riskier firms.",
+      "After a large NBFI failed unexpectedly, shocks spread through bank-NBFI links; in the interview Bhardwaj says exposed banks cut credit even to unrelated firms and non-banks, reducing credit across the wider economy.",
+      "In the interview he also describes banks with prior non-bank exposure expanding lending to both groups after the rule change, while banks without such exposure substituted lending away from corporates."
+    ],
+    "whyItMatters": "The authors argue that bank-NBFI ties raise financial-stability concerns and call for more transparency about these linkages. For students following India's NBFC sector, the paper explains how a regulatory tweak can redirect credit and how a non-bank failure can tighten credit even for unrelated firms.",
+    "topics": ["non-bank financial institutions", "NBFCs", "bank lending", "credit allocation", "systemic risk", "financial contagion", "India", "bank regulation"],
+    "industries": ["Banking", "Non-bank finance"],
+    "geographies": ["India"],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://cafral.org.in/events/how-does-bank-lending-non-banks-affect-credit-allocation-and-systemic-risk",
+        "https://faculti.net/how-does-bank-lending-to-non-banks-affect-credit-allocation-and-systemic-risk",
+        "https://api.openalex.org/works/W4402937847",
+        "http://www.abhishek-bhardwaj.com/"
+      ]
+    }
+  },
+  "versions": []
+}

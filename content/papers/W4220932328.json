@@ -11,7 +11,8 @@
   "citations": 12,
   "authors": [
     {
-      "name": "Abhishek Bhardwaj"
+      "name": "Abhishek Bhardwaj",
+      "isb": "abhishek-bhardwaj"
     },
     {
       "name": "Krishnamurthy V. Subramanian"
@@ -22,39 +23,43 @@
     }
   ],
   "isb": [
-    "prasanna-tantri"
+    "prasanna-tantri",
+    "abhishek-bhardwaj"
   ],
   "abstract": "Abstract Though the monetary policy transmission and financial intermediation literature have highlighted the role of the “bank credit channel” and relationship banking, respectively, the effect of relationship banking on the transmission of monetary policy has not been investigated. In this paper, we study the impact of relationship banking on the transmission of monetary policy. Theoretically, relationship banking could ameliorate or exacerbate the effects of monetary policy shocks. Using unique and comprehensive data on bank–borrower relationships in India, we find that firms that enjoy an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
   "summary": {
-    "oneLiner": "Firms with an exclusive banking relationship are less affected by monetary policy shocks than firms borrowing from multiple banks, based on Indian bank-borrower data.",
-    "overview": "Central banks change interest rates to influence lending, and the bank credit channel is the route by which those changes reach borrowers through their banks. Relationship banking is the long-term, close tie between a firm and its lender. This paper asks whether such ties change how much a rate change affects firms. The authors argue theoretically that relationship banking could either weaken or strengthen the effect of monetary policy shocks. Using detailed data on bank-borrower relationships in India, they find that firms with an exclusive banking relationship are less affected by monetary policy shocks than firms that bank with several lenders.",
-    "question": "How does relationship banking affect the transmission of monetary policy to firms, i.e., does it amplify or dampen the effect of monetary policy shocks?",
-    "method": "The authors develop a theoretical argument that relationship banking could ameliorate or exacerbate the effects of monetary policy shocks. They then test this empirically by comparing firms with an exclusive banking relationship against firms that bank with multiple banks. The abstract does not name the specific empirical technique.",
-    "data": "Unique and comprehensive data on bank-borrower relationships in India. The abstract does not state the sample size or time period.",
+    "oneLiner": "Indian firms that borrow from a single exclusive bank are less affected by monetary policy shocks than firms that borrow from several banks.",
+    "overview": "Central-bank rate changes reach firms partly through banks' lending decisions, the so-called bank credit channel. Relationship banking, meaning close and lasting ties between a firm and its lender, has been studied on its own, but according to the authors its effect on how monetary policy is transmitted had not been examined. In theory, close ties could either cushion or amplify policy shocks. Using what they describe as unique and comprehensive data on bank-borrower relationships in India, the authors find that firms with an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
+    "question": "Does relationship banking dampen or amplify the effect of monetary policy shocks on firms?",
+    "method": "Compares how firms with an exclusive banking relationship and firms that borrow from multiple banks respond to monetary policy shocks. The available sources do not describe the empirical specification.",
+    "data": "Data on bank-borrower relationships in India, described by the authors as unique and comprehensive. Sample period and size are not stated in the available sources.",
     "findings": [
-      "Firms that enjoy an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
-      "Theoretically, relationship banking could ameliorate or exacerbate the effects of monetary policy shocks, so the direction is not fixed in advance."
+      "Theory gives no single prediction: relationship banking could either soften or worsen the effects of monetary policy shocks.",
+      "Empirically, firms with an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks."
     ],
-    "whyItMatters": "The abstract implies that the structure of firms' bank ties, not only the policy rate itself, shapes how far monetary policy reaches borrowers. This matters for how policymakers anticipate the real effects of rate changes and for how banks and firms think about exclusive versus multiple lending relationships. The abstract does not state explicit managerial or policy recommendations.",
+    "whyItMatters": "The result suggests the structure of a firm's banking ties shapes how strongly central-bank rate moves reach it, which matters for policymakers predicting the effects of rate changes and for CFOs deciding whether to concentrate borrowing with one bank. The available sources do not spell out policy recommendations.",
     "topics": [
       "monetary policy transmission",
-      "bank credit channel",
       "relationship banking",
-      "bank-borrower relationships",
+      "bank credit channel",
       "multiple banking",
-      "firm financing",
+      "corporate borrowing",
       "India"
     ],
-    "industries": [],
+    "industries": [
+      "Banking"
+    ],
     "geographies": [
       "India"
     ],
     "basis": "abstract_only",
     "source": {
-      "kind": "ai-pipeline",
-      "model": "claude-haiku-5-5",
-      "prompt": "card_v3",
-      "createdAt": "2026-10-24"
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/relationship-banking-and-monetary-policy-transmission-evidence-from-india/",
+        "https://www.isb.edu/faculty-and-research/research-directory/relationship-banking-and-monetary-policy-transmission-evidence-from-india-1"
+      ]
     }
   },
   "versions": [

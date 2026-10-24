@@ -1,0 +1,50 @@
+{
+  "id": "W4414154661",
+  "title": "Multihoming Alliances and Price Competition",
+  "year": 2025,
+  "date": "2025-09-11",
+  "type": "article",
+  "venue": "Journal of Marketing Research",
+  "doi": "https://doi.org/10.1177/00222437251381805",
+  "url": "https://doi.org/10.1177/00222437251381805",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" },
+    { "name": "Nanda S. Kumar" },
+    { "name": "Manish Gangwar" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Alliances letting viewers subscribe to rival streaming services together soften price competition when content is similar, but intensify it when content is very different.",
+    "overview": "Streaming services increasingly team up so that viewers can hold several subscriptions in one place; the authors cite Amazon Prime Video's partnerships with HBO Max and Paramount+. This paper builds a game-theory model of two horizontally differentiated services (they differ in content niche rather than overall quality) to ask what such a \"multihoming\" alliance does to prices and profits. The answer hinges on how different the partners' content is: with low differentiation the alliance softens price competition and helps the partners, while with high differentiation competition gets fiercer. In the model, consumers come out ahead either way. The paper also shows which rival a service should prefer as a partner.",
+    "question": "How does an alliance that makes it easier for consumers to subscribe to two rival streaming services at once (multihoming) affect price competition, profits and consumer welfare, and which rival should a service choose as its partner?",
+    "method": "A game-theoretic model of competition between horizontally differentiated subscription video streaming (OTT) services, comparing outcomes with and without an alliance that enables multihoming. The analysis also considers a third service outside the alliance and a focal service choosing between two potential partners.",
+    "data": "The available sources describe an analytical model; no empirical dataset is mentioned.",
+    "findings": [
+      "The alliance's effect on price competition depends on content differentiation: it intensifies competition when differentiation is high and softens it when differentiation is low.",
+      "The partnering services benefit as long as their content is not too differentiated.",
+      "A third service outside the alliance can also earn higher profits, but only when differentiation is low enough.",
+      "Consumer surplus rises under the alliance even though price competition can be softened; ISB's summaries attribute this to convenience and wider access to content.",
+      "When choosing between two rivals, a service prefers the one with higher-quality content and a smaller loyal customer base."
+    ],
+    "whyItMatters": "For streaming managers, the model suggests that partner choice matters: collaboration pays most with a rival whose content overlaps with yours and that has strong content but fewer loyal subscribers. ISB's summary of the work argues that as streaming fragments, advantage may come from carefully structured collaboration and not only from exclusive content. The result that consumers gain even when price competition softens is relevant for policymakers judging such tie-ups.",
+    "topics": ["streaming alliances", "multihoming", "OTT", "price competition", "game theory", "subscription pricing", "content differentiation", "strategic partnerships"],
+    "industries": ["Media and entertainment (video streaming)"],
+    "geographies": [],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/id/eprint/2472/",
+        "https://discover.isb.edu/all-topics/marketing/the-new-playbook-for-streaming-growth-compete-less-collaborate-more",
+        "https://discover.isb.edu/all-topics/marketing/are-strategic-alliances-the-next-big-thing-in-ott-industry",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/abhinav-uppal",
+        "https://api.openalex.org/works?filter=author.id:A5053649958|A5098561808"
+      ]
+    }
+  },
+  "versions": []
+}

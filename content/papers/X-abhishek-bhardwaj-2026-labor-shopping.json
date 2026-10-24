@@ -1,0 +1,53 @@
+{
+  "id": "X-abhishek-bhardwaj-2026-labor-shopping",
+  "title": "Labor Shopping Substitution and Retail Prices: Evidence from Plant Openings",
+  "year": null,
+  "date": null,
+  "type": "article",
+  "venue": "Journal of Political Economy Macroeconomics (accepted)",
+  "doi": null,
+  "url": "https://drive.google.com/file/d/14osslj7pUweR0zsI_r_8Ef05ALyqm3ud/view?usp=sharing",
+  "pdf": "https://drive.google.com/file/d/14osslj7pUweR0zsI_r_8Ef05ALyqm3ud/view?usp=sharing",
+  "citations": 0,
+  "authors": [
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Devaki Ghose" },
+    { "name": "Saptarshi Mukherjee" },
+    { "name": "Manpreet Singh" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A large plant opening raised local retail prices as households traded bargain-hunting time for work, while wages rose only for skilled workers, widening inequality.",
+    "overview": "Places compete hard to attract \"million dollar plants\", large new production facilities. This summary is based on the 2022 World Bank working-paper version of this study, then titled \"Million Dollar Plants and Retail Prices\"; the accepted version may differ. Comparing counties that won such a plant with runner-up counties, and using barcode-level retail price data, the authors find that prices rose in winning counties, households spent less time hunting for deals and more time working, and wages rose only for highly skilled workers. Their model explains the mechanism: more demand for labour leads shoppers to trade shopping time for work, they become less price-sensitive, and firms raise markups. The authors conclude that a plant opening can widen local income inequality.",
+    "question": "How does the opening of a large plant affect local retail prices and inequality, and through what mechanism?",
+    "method": "Compares winning and runner-up counties for large plant openings, using barcode-level price data and evidence on how households split time between shopping and work, combined with a model featuring monopolistic firms, variable markups and non-homothetic preferences (spending patterns that shift with income).",
+    "data": "Granular barcode-level retail price data, per the 2022 working-paper abstract. Specific data sources and years are not stated in the available sources.",
+    "findings": [
+      "After a large plant opened, retail prices rose in winning counties relative to runner-up counties.",
+      "Households in winning counties spent less time searching for deals and discounts and more time working.",
+      "Wages rose in winning counties, but only for highly skilled workers.",
+      "In the authors' model, shoppers who trade shopping time for work become less price-sensitive, and firms respond by raising markups.",
+      "The authors conclude that the plant raises prices broadly but wages only for some skilled workers, widening income inequality in winning counties relative to runner-up counties."
+    ],
+    "whyItMatters": "Governments offer large incentives to win big plants; this paper suggests part of the gain may be offset for many residents by higher local prices, with wage gains concentrated among skilled workers. It is relevant for place-based industrial policy and for retailers' local pricing.",
+    "topics": ["place-based policy", "plant openings", "retail prices", "markups", "time use", "income inequality", "local labor markets"],
+    "industries": ["Retail", "Manufacturing"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4223888630",
+        "https://api.openalex.org/works/W4386994806",
+        "http://www.abhishek-bhardwaj.com/",
+        "http://www.abhishek-bhardwaj.com/CV.pdf"
+      ]
+    }
+  },
+  "versions": [
+    { "id": "W4386994806", "type": "preprint", "venue": "SSRN Electronic Journal", "year": 2023, "url": "https://doi.org/10.2139/ssrn.4560164" },
+    { "id": "W4223888630", "type": "report", "venue": "World Bank Policy Research Working Paper", "year": 2022, "url": "https://doi.org/10.1596/1813-9450-9995" }
+  ]
+}

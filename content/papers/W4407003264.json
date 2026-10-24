@@ -1,0 +1,47 @@
+{
+  "id": "W4407003264",
+  "title": "Government Investment Stimulus and Household Balance Sheet Externalities",
+  "year": 2025,
+  "date": "2025-01-30",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "https://doi.org/10.1017/s0022109024000449",
+  "url": "https://doi.org/10.1017/s0022109024000449",
+  "pdf": "https://jfqa.org/wp-content/uploads/2023/12/Government-Investment-Stimulus_23611.pdf",
+  "citations": 3,
+  "authors": [
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Saptarshi Mukherjee" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": "We document spillover effects of government policies promoting capital investment on household financial choices and wealth accumulation. Using individual-level data on employment outcomes and household balance sheets, we find that increase in accelerated depreciation limits increases the layoff probability of routine workers and reduces their stock share of liquid wealth relative to non-routine workers. Background risk due to the policy is mitigated when workers have access to generous unemployment insurance benefits. Finally, we show that such portfolio rebalancing adversely impacts investment returns and the wealth accumulation of routine workers.",
+  "summary": {
+    "oneLiner": "Tax breaks for business investment raised routine workers' layoff risk, the authors find, leading their households to hold fewer stocks and build less wealth.",
+    "overview": "Governments often encourage business investment with tax rules that let firms write off equipment purchases quickly. This paper asks whether such policies spill over to workers' household finances. Using differences across US states in adopting higher Section 179 expensing limits, the authors compare workers in routine-task jobs, which machines can more easily replace, with non-routine workers. They find that higher limits raise routine workers' chance of being laid off, and their households move liquid wealth out of stocks, which lowers their investment returns and wealth growth. Generous unemployment insurance weakens the effect.",
+    "question": "Do government incentives for capital investment create spillovers onto worker households' layoff risk, portfolio choices and wealth accumulation?",
+    "method": "Difference-in-differences comparing routine and non-routine workers in the same state and year, using state-level variation in adopting federal Section 179 expensing limits. Routine status comes from occupational task-intensity scores, and state-by-year fixed effects absorb local shocks.",
+    "data": "Household data from the Survey of Income and Program Participation (SIPP), four panels covering 1996-2013 (balance-sheet data are missing for 2007-2009), combined with state Section 179 limits and occupational task data from the Dictionary of Occupational Titles.",
+    "findings": [
+      "A $100,000 increase in expensing limits raises routine workers' layoff probability by 0.41 percentage points after one year and 0.57 points over three years, relative to non-routine workers.",
+      "Routine households cut the stock share of their liquid wealth by 0.74 points the next year and 1.4 points over three years, both by leaving the stock market and by holding less stock.",
+      "The effect is weaker in states with more generous unemployment insurance benefits.",
+      "Routine households earn about 61 basis points less per year on liquid wealth after the shock, and their liquid wealth grows 6.2% less than that of non-routine households.",
+      "The authors link the mechanism to labour-replacing investment raising expected layoff risk, but say they cannot rule out a channel of lower expected lifetime earnings."
+    ],
+    "whyItMatters": "Investment stimulus is usually judged by what it does for firms; this paper suggests it can also widen wealth gaps by pushing at-risk workers out of the stock market. The authors note that unemployment insurance can blunt these spillovers and that retraining support may matter. It is relevant for tax policy, automation and household finance.",
+    "topics": ["investment tax incentives", "accelerated depreciation", "automation", "routine jobs", "household finance", "stock market participation", "unemployment insurance", "wealth inequality"],
+    "industries": ["Cross-industry"],
+    "geographies": ["United States"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://jfqa.org/wp-content/uploads/2023/12/Government-Investment-Stimulus_23611.pdf",
+        "https://www.isb.edu/faculty-and-research/research-directory/government-investment-stimulus-and-household-balance-sheet-externalities/",
+        "https://api.openalex.org/works?search=Government%20Investment%20Stimulus%20and%20Household%20Balance%20Sheet%20Externalities"
+      ]
+    }
+  },
+  "versions": []
+}

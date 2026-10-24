@@ -1,0 +1,49 @@
+{
+  "id": "W3206579957",
+  "title": "A global perspective on the marketing mix across time and space",
+  "year": 2021,
+  "date": "2021-10-21",
+  "type": "article",
+  "venue": "International Journal of Research in Marketing",
+  "doi": "https://doi.org/10.1016/j.ijresmar.2021.09.001",
+  "url": "https://doi.org/10.1016/j.ijresmar.2021.09.001",
+  "pdf": "https://lirias.kuleuven.be/retrieve/721574",
+  "citations": 120,
+  "authors": [
+    { "name": "Julian R.K. Wichmann" },
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" },
+    { "name": "Amalesh Sharma" },
+    { "name": "Marnik G. Dekimpe" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "The marketing mix is being reshaped by technology, socioeconomic and geopolitical shifts, and environmental change, with several plausible futures rather than one predictable path.",
+    "overview": "This is a conceptual perspective paper, not an empirical study. The authors ask how the marketing mix (the classic product, price, place and promotion decisions) has evolved and might evolve, organised around who carries out marketing activities, what the mix consists of, how it is implemented and where it is deployed. They argue that three global drivers (technology, socioeconomic and geopolitical shifts, and environmental change) act on consumers, suppliers and legislators. Looking ahead, they set out four pairs of opposing futures: collaboration vs. protectionism, complexity vs. simplicity, automation vs. human touch, and local adaptation vs. global uniformity, along with the conditions that decide which path wins. They close with a research agenda.",
+    "question": "How has the marketing mix evolved across time and countries, and how might it evolve as technology, socioeconomic and geopolitical conditions, and the natural environment change?",
+    "method": "A narrative synthesis of prior research. The authors use \"reverse thinking\" to derive opposing future scenarios and a contingency approach to identify the factors (moderators) that decide which scenario materialises. They say explicitly that they do not attempt an exhaustive meta-analysis.",
+    "data": "No original dataset; the paper draws on prior published research, which the authors note is still largely centred on developed markets.",
+    "findings": [
+      "Roles once split cleanly between manufacturers, retailers and consumers are blurring: consumers co-create and sell through the sharing economy, retailers expand private labels, and manufacturers run their own direct channels.",
+      "The traditional 4P framework is giving way to a more integrated view, for example physical stores used for communication and pricing tied to subscriptions, usage or modular upgrades.",
+      "Marketing is shifting from mass-market approaches to customisation (targeted advertising, behaviour-based pricing) and becoming more fragmented across channels, ad formats and dynamic prices.",
+      "Research attention has started moving from developed toward emerging markets, though the evidence base remains developed-market-centric.",
+      "Which future materialises depends on moderators such as multi-homing, market concentration, regulation, privacy attitudes, product category, firm size and cultural distance."
+    ],
+    "whyItMatters": "The authors advise managers to prepare for several possible futures, which they call \"adaptive foresight\", rather than bet on one forecast, and to choose marketing-mix actions according to category, competitive position and regulatory setting. For students it is a compact map of how platforms, AI, privacy rules and rising nationalism are reshaping everyday marketing decisions.",
+    "topics": ["marketing mix", "4Ps", "future of marketing", "emerging markets", "AI in marketing", "privacy regulation", "globalization", "research agenda"],
+    "industries": ["Cross-industry"],
+    "geographies": ["Global", "Emerging markets"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://lirias.kuleuven.be/retrieve/721574",
+        "https://eprints.exchange.isb.edu/view/isb_creators/Uppal=3AA=3A=3A.html",
+        "https://api.openalex.org/works?filter=author.id:A5053649958|A5098561808"
+      ]
+    }
+  },
+  "versions": []
+}

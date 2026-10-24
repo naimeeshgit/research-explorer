@@ -1,0 +1,48 @@
+{
+  "id": "W4410315947",
+  "title": "Bricks Processing Returns for Clicks: Can Foes Become Friends?",
+  "year": 2025,
+  "date": "2025-05-13",
+  "type": "article",
+  "venue": "Marketing Science",
+  "doi": "https://doi.org/10.1287/mksc.2023.0077",
+  "url": "https://doi.org/10.1287/mksc.2023.0077",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    { "name": "Ahmed Timoumi" },
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": "This paper analyzes buy online, return in store agreements between competing online and offline retailers, revealing how such agreements can strategically soften price competition, reduce showrooming, and potentially benefit both firms and consumers.",
+  "summary": {
+    "oneLiner": "Letting an online rival's customers return purchases at your stores can soften price competition, curb showrooming and benefit both retailers and shoppers.",
+    "overview": "Some online retailers now let customers return items at a competing physical chain's stores; the authors cite Amazon and Kohl's. This paper uses a game-theory model of price competition between an online retailer and a traditional store to ask whether such \"Buy Online, Return in Store\" (BORS) deals help or hurt each side. Two forces pull in opposite directions: easier returns make online shopping more attractive and can push the store to compete harder, while sending returning customers to the store can lead both firms to leave a group of customers that neither fights over on price. Under some conditions, notably when the two brands are moderately differentiated, the net effect softens price competition, and both firms and consumers can be better off.",
+    "question": "How does a BORS agreement between competing online and offline retailers affect price competition, showrooming and the profits of both firms?",
+    "method": "A formal game-theoretic model of price competition between an e-commerce retailer and a brick-and-mortar retailer, comparing outcomes with and without a BORS agreement.",
+    "data": "Not stated in the available sources; the paper is described as a formal model rather than an empirical study.",
+    "findings": [
+      "A BORS agreement can make competition more aggressive for the offline retailer, even though returning customers bring extra foot traffic (what the INFORMS release calls a \"return-flexibility effect\").",
+      "Under certain conditions the two retailers jointly leave a segment of customers that neither competes for on price, which softens overall price competition (a \"competition-alleviation effect\").",
+      "Both retailers can be better off when their offerings are moderately differentiated.",
+      "The agreement can reduce showrooming, where shoppers use a store to examine products and then buy elsewhere, often online.",
+      "The model allows a \"win-win-win\" outcome in which the online retailer, the offline retailer and consumers all gain."
+    ],
+    "whyItMatters": "For traditional retailers facing e-commerce, the paper suggests that cooperating with an online rival on returns can be a strategic tool beyond price cuts, including a defence against showrooming. The INFORMS release says such deals look most attractive when brands are moderately differentiated, online return rates are moderate and consumers face relatively high purchasing costs. It is a useful case for omnichannel strategy and coopetition (cooperating with competitors).",
+    "topics": ["product returns", "buy online return in store", "showrooming", "omnichannel retail", "price competition", "coopetition", "game theory", "Amazon"],
+    "industries": ["Retail", "E-commerce"],
+    "geographies": [],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/bricks-processing-returns-for-clicks-can-foes-become-friends",
+        "https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Study-Reveals-Who-Benefits-When-Online-Retailers-Let-You-Buy-Online-and-Return-at-a-Competitor-s-Stores",
+        "https://eprints.exchange.isb.edu/id/eprint/2481/",
+        "https://api.openalex.org/works/W4410315947"
+      ]
+    }
+  },
+  "versions": []
+}

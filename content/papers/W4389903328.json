@@ -1,0 +1,52 @@
+{
+  "id": "W4389903328",
+  "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+  "year": 2023,
+  "date": "2023-12-01",
+  "type": "preprint",
+  "venue": "The Review of Financial Studies (accepted); NBER Working Paper 31967",
+  "doi": "https://doi.org/10.3386/w31967",
+  "url": "https://doi.org/10.3386/w31967",
+  "pdf": "https://www.hhs.se/contentassets/cf54af00207044059617288b9a8cff58/climate_mitigation_draft_aug2432.pdf",
+  "citations": 31,
+  "authors": [
+    { "name": "Viral V. Acharya" },
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Tuomas Tomunen" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Firms with sites in many US counties appear to shift jobs away from heat-hit locations, cushioning the local employment losses that single-site firms suffer.",
+    "overview": "Extreme heat lowers worker productivity, especially in outdoor and physically demanding jobs. This paper asks whether firms that operate in several locations act as \"heat insulators\" by moving employment and activity away from places hit by heat. Using US establishment data from 2009 to 2020 and county records of heat-related losses, the authors find that single-location establishments lose employment after hot days, while establishments of multi-location firms do not, and employment grows faster at a firm's other, unaffected sites. Reallocation is stronger for larger and financially healthier firms and in construction and mining. The authors conclude that these firms dampen heat's overall employment impact while redistributing activity across places.",
+    "question": "Do firms with establishments in several locations shift employment away from areas hit by heat shocks, what helps or limits that shift, and what does it mean for local and aggregate employment?",
+    "method": "Regressions of establishment employment growth over 0 to 5 years on the heat shock in the establishment's own county and a \"peer shock\" (heat in the firm's other counties, weighted by employment there), with firm, county and year fixed effects. Peer-shock tests compare establishments in the same county and year that differ in exposure elsewhere. Robustness checks include temperature-based hot days and alternative fixed effects.",
+    "data": "Based on the August 2024 draft: US establishments from the Dun & Bradstreet Global Linkage file, 2009-2020, limited to firms averaging 100 or more employees; county-level heat-loss events from SHELDUS; Lightcast job postings; O*NET measures of occupational heat exposure; OSHA accident records; IRS county migration flows; projected heat damages; and climate-exposure measures from earnings calls.",
+    "findings": [
+      "In the August 2024 draft, single-location establishments lose roughly 1 percentage point of employment growth over three years per hot day (the draft reports 1.04 and 1.09 in different sections), while multi-location establishments show no comparable decline.",
+      "A 1% rise in heat shocks at a firm's other locations is associated with about a 1% rise in three-year employment growth at its unaffected establishments, and hit firms are more likely to enter new, less heat-exposed counties.",
+      "Reallocation is stronger for larger firms and for those with lower leverage and higher profitability, and in construction and mining; it is weakest in finance and retail, which the authors read as firms responding to productivity losses in physical work.",
+      "At the county level, own heat shocks reduce employment growth by 0.26 percentage points within a year, while heat shocks in linked counties raise it.",
+      "The authors find no measurable effect on firm profitability or expected returns, which they attribute to shocks being small relative to firm size."
+    ],
+    "whyItMatters": "As hot days become more common, the paper suggests multi-site firms act as a buffer for the economy, while single-location firms absorb local losses. The authors argue that financial constraints limit reallocation and point to credit access, labour-market competition and climate policy involving corporations as levers. For managers, spreading operations geographically may be one way to adapt to climate risk.",
+    "topics": ["climate risk", "heat shocks", "employment", "labor reallocation", "multi-establishment firms", "climate adaptation", "financial constraints"],
+    "industries": ["Construction", "Mining", "Cross-industry"],
+    "geographies": ["United States"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.hhs.se/contentassets/cf54af00207044059617288b9a8cff58/climate_mitigation_draft_aug2432.pdf",
+        "https://api.openalex.org/works/W4389903328",
+        "http://www.abhishek-bhardwaj.com/",
+        "http://www.abhishek-bhardwaj.com/CV.pdf"
+      ]
+    }
+  },
+  "versions": [
+    { "id": "W4389993377", "type": "preprint", "venue": "SSRN Electronic Journal", "year": 2023, "url": "https://doi.org/10.2139/ssrn.4660007" },
+    { "id": "W4389915135", "type": "preprint", "venue": "SSRN Electronic Journal", "year": 2023, "url": "https://doi.org/10.2139/ssrn.4667492" }
+  ]
+}

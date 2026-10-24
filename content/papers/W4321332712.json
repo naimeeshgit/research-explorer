@@ -1,0 +1,47 @@
+{
+  "id": "W4321332712",
+  "title": "Do Lending Relationships Matter When Loans Are Securitized?",
+  "year": 2023,
+  "date": "2023-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.4360620",
+  "url": "https://doi.org/10.2139/ssrn.4360620",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Saptarshi Mukherjee" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Even after loans are sold into CLOs, a firm's bank relationship still protects it from forced loan sales during CLO market stress, keeping credit flowing.",
+    "overview": "A common view is that once banks package loans into collateralized loan obligations (CLOs), the bank-borrower relationship stops mattering. This paper documents reciprocal arrangements between CLO managers and the banks that underwrite their CLOs. To protect those arrangements, CLO managers avoid selling the loans of firms tied to their underwriting bank even when liquidity shortfalls force them to shrink their portfolios, a \"fire-sale insurance\" effect that lets these firms keep borrowing during CLO market stress. In return, banks earn fees and sell costlier credit lines to these firms, and help CLO managers by arranging cheaper debt for new CLOs.",
+    "question": "Do bank lending relationships still matter for borrowers once their loans are securitized into CLOs?",
+    "method": "Not stated in the available sources beyond the conference abstract's description of CLO managers' loan sales during periods of CLO market stress and their ties to underwriting banks.",
+    "data": "Not stated in the available sources.",
+    "findings": [
+      "Lending relationships provide \"fire-sale insurance\" to firms whose loans are held in CLOs, especially firms that depend heavily on bank credit.",
+      "CLO managers and the banks that underwrite their CLOs have reciprocal arrangements.",
+      "To preserve them, CLO managers avoid selling loans of firms tied to their underwriting bank, even when liquidity shortfalls force them to shrink portfolios, so these firms can keep borrowing more during CLO market stress.",
+      "In exchange, banks earn fees and sell higher-cost credit lines to these firms, and arrange cheaper debt for the CLO managers' new CLOs.",
+      "The authors conclude that securitization has changed how bank relationships expand firms' borrowing capacity, not made them irrelevant."
+    ],
+    "whyItMatters": "The paper suggests securitization changes how relationship banking works rather than making it obsolete. That matters for firms choosing lenders, for understanding fire-sale risk in leveraged loan markets and for regulators watching ties between banks and CLO managers.",
+    "topics": ["relationship banking", "CLOs", "loan securitization", "fire sales", "leveraged loans", "credit lines"],
+    "industries": ["Banking", "Asset management"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.aeaweb.org/conference/2023/program/1580",
+        "https://api.openalex.org/works/W4321332712",
+        "http://www.abhishek-bhardwaj.com/"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "abhishek-bhardwaj",
+  "name": "Abhishek Bhardwaj",
+  "title": "Assistant Professor of Finance",
+  "area": "Finance",
+  "homepage": "http://www.abhishek-bhardwaj.com/",
+  "openalex": ["A5112694413"],
+  "photo": null,
+  "profile": {
+    "summary": "Abhishek Bhardwaj studies how banks, private equity funds and other non-bank lenders decide who gets credit, and what that means for firms, workers and financial stability. Recent work looks at collateralized loan obligations (CLOs), private equity dividend recaps and fund size, and bank lending to Indian non-banks. A second strand asks how firms and households cope with shocks such as extreme heat, investment tax breaks that favour automation, and large plant openings.",
+    "themes": [
+      {
+        "name": "Banks, non-banks and credit transmission",
+        "description": "How CLOs, insurers and non-bank lenders pass shocks on to borrowing firms, why bank relationships still matter after loans are securitized, and how banking ties shape monetary policy in India.",
+        "papers": ["W4407312638", "W4321332712", "W4245686473", "W4402937847", "W4220932328"]
+      },
+      {
+        "name": "Private equity and leverage",
+        "description": "The causal effects of dividend recaps and fund size on portfolio firms, employees, creditors and fund investors.",
+        "papers": ["W4407092000", "W4408783412"]
+      },
+      {
+        "name": "Real effects of climate and policy shocks",
+        "description": "How firms reallocate jobs after heat shocks, how investment tax incentives affect routine workers' household finances, and how big plant openings change local prices.",
+        "papers": ["W4389903328", "W4407003264", "X-abhishek-bhardwaj-2026-labor-shopping"]
+      }
+    ],
+    "talkTo": [
+      "CLOs and leveraged loan markets",
+      "Private equity dividend recaps and fund economics",
+      "Indian banks, NBFCs and systemic risk",
+      "Climate risk and how firms adapt",
+      "Governance of passive funds and retail investing (he is an independent director at Zerodha Trustee)",
+      "Moving from a Deutsche Bank FICC role to a finance PhD"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-bhardwaj",
+      "http://www.abhishek-bhardwaj.com/",
+      "http://www.abhishek-bhardwaj.com/CV.pdf"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

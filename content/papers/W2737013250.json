@@ -1,0 +1,45 @@
+{
+  "id": "W2737013250",
+  "title": "The Effect of Content Providers' Ability to Charge End-Users on the Network Neutrality Debate",
+  "year": 2017,
+  "date": "2017-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.2994107",
+  "url": "https://doi.org/10.2139/ssrn.2994107",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" },
+    { "name": "Jagmohan Singh Raju" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When content providers can charge users directly, scrapping net neutrality leaves ISPs, content providers and users equally well off, the authors' model suggests.",
+    "overview": "Network neutrality bars internet service providers (ISPs) such as Comcast from charging content providers such as Netflix for faster or preferred delivery to users. Earlier models of the debate did not let content providers charge users directly. This working paper builds a two-sided model of the internet in which the ISP can charge both users and content providers, and content providers can also charge users, as many do today. In that case the authors find every player is equally well off with or without neutrality; if providers rely only on advertising, they lose from removing neutrality while the ISP and users gain. Mixed cases, where only one provider charges users, break this indifference.",
+    "question": "How does content providers' ability to charge end-users directly change who wins and who loses from network neutrality?",
+    "method": "An analytical two-sided market model of the internet with an ISP, content providers and end-users, comparing outcomes with and without network neutrality under different content-provider revenue models.",
+    "data": "Not stated in the available sources; the paper is described as a theoretical model.",
+    "findings": [
+      "When content providers can charge end-users directly, all players are equally well off whether or not network neutrality applies.",
+      "If content providers rely only on advertising, they are worse off without neutrality, while the ISP and end-users gain.",
+      "These results hold when providers earn different advertising rates, so removing neutrality does not appear to favour stronger content providers over weaker ones.",
+      "When only one provider can charge users and the other relies on advertising, players are no longer indifferent: some content providers can gain without neutrality, and total surplus can fall."
+    ],
+    "whyItMatters": "The paper suggests the stakes of net neutrality depend on content business models: subscription-funded providers may have less to lose from ISPs charging for delivery than purely ad-funded ones. It is relevant to telecom regulation, platform pricing and ISP-content provider bargaining.",
+    "topics": ["network neutrality", "two-sided markets", "internet service providers", "platform pricing", "telecom regulation", "content providers", "advertising revenue"],
+    "industries": ["Telecommunications", "Digital media"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/id/eprint/768/",
+        "https://api.openalex.org/works/W2737013250"
+      ]
+    }
+  },
+  "versions": []
+}

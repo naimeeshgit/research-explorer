@@ -1,0 +1,45 @@
+{
+  "id": "W2150842902",
+  "title": "Script-agnostic reflow of text in document images",
+  "year": 2011,
+  "date": "2011-08-30",
+  "type": "article",
+  "venue": "International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)",
+  "doi": "https://doi.org/10.1145/2037373.2037419",
+  "url": "https://doi.org/10.1145/2037373.2037419",
+  "pdf": null,
+  "citations": 6,
+  "authors": [
+    { "name": "Saurabh Panjwani" },
+    { "name": "Abhinav Uppal", "isb": "abhinav-uppal" },
+    { "name": "Edward B. Cutrell" }
+  ],
+  "isb": ["abhinav-uppal"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A script-agnostic technique reflows text in document images for small mobile screens, reaching over 95% segmentation accuracy across English, Hindi, Kannada and Arabic.",
+    "overview": "Reading scanned documents on a small phone screen is hard, and existing \"reflow\" tools, which rearrange text to fit the screen, mainly work for Latin-script text because they rely on script-specific features and optical character recognition (OCR). That leaves other scripts and mixed-script documents poorly served. This conference paper presents a reflow method that does not assume any particular script. On a corpus of 139 images in four very different languages it achieved over 95% segmentation accuracy, and a preliminary user study of a prototype suggested usability benefits.",
+    "question": "Can text in document images be reflowed for small mobile screens without relying on script-specific features or OCR, so that it works for non-Latin and mixed-script documents?",
+    "method": "A script-agnostic technique for segmenting and reflowing text in document images, evaluated on segmentation accuracy and in a preliminary user study of a prototype.",
+    "data": "A corpus of 139 document images in English, Hindi, Kannada and Arabic.",
+    "findings": [
+      "Existing reflow solutions depend on script-specific characteristics and OCR, so they handle non-Latin and mixed-script documents poorly.",
+      "The proposed technique achieved over 95% segmentation accuracy on the 139-image corpus.",
+      "A preliminary user study of a prototype suggested usability benefits."
+    ],
+    "whyItMatters": "Because it does not depend on OCR, the approach could help mobile users read documents in scripts such as Hindi, Kannada and Arabic that Latin-focused tools handle poorly. It is an early computer-science paper, separate from Uppal's current marketing research.",
+    "topics": ["mobile reading", "document images", "text reflow", "multilingual computing", "Indian languages", "human-computer interaction"],
+    "industries": ["Technology"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2150842902",
+        "https://eprints.exchange.isb.edu/view/isb_creators/Uppal=3AA=3A=3A.html"
+      ]
+    }
+  },
+  "versions": []
+}

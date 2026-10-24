@@ -1,0 +1,50 @@
+{
+  "id": "W4407312638",
+  "title": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+  "year": 2025,
+  "date": "2025-02-01",
+  "type": "preprint",
+  "venue": "NBER Working Paper 33449 (revise and resubmit, The Journal of Finance)",
+  "doi": "https://doi.org/10.3386/w33449",
+  "url": "https://doi.org/10.3386/w33449",
+  "pdf": null,
+  "citations": 8,
+  "authors": [
+    { "name": "Abhishek Bhardwaj", "isb": "abhishek-bhardwaj" },
+    { "name": "Shan Ge" },
+    { "name": "Saptarshi Mukherjee" }
+  ],
+  "isb": ["abhishek-bhardwaj"],
+  "abstract": "CLOs fund 65% of syndicated loans, theoretically insulating borrowers from bank and idiosyncratic investor shocks. However, concentrated capital and sticky relationships expose firms to idiosyncratic shocks to insurers, the largest CLO investors. We find that: 1) insurers experiencing favorable cash flows invest more in CLOs, especially with familiar managers; 2) managers exposed to these cash flows launch more deals; 3) using an instrumental–variable approach, affected firms take out more loans at lower spreads, increase employment, and expand operations; 4) effects are stronger for private than public firms. These findings reveal significant frictions in the loan securitization market.",
+  "summary": {
+    "oneLiner": "Insurers' cash-flow windfalls flow through CLOs to borrowing firms, which then get more, cheaper loans and expand, revealing frictions in loan securitization.",
+    "overview": "Collateralized loan obligations (CLOs), vehicles that pool corporate loans and sell slices to investors, fund about 65% of syndicated loans, which in theory should shield borrowers from shocks to any single bank or investor. The authors argue that concentrated capital and sticky relationships instead expose firms to shocks at insurers, the largest CLO investors. They find that insurers with favourable cash flows invest more in CLOs, especially with managers they already know, and those managers launch more deals. Using an instrumental-variable approach, they find that affected firms borrow more at lower spreads, hire more and expand, with stronger effects for private firms.",
+    "question": "Does loan securitization through CLOs really insulate corporate borrowers from shocks to individual investors, or do shocks to insurers pass through to firms?",
+    "method": "The paper traces insurer cash-flow shocks to their CLO investments, to CLO managers' new deals and then to borrowing firms, using an instrumental-variable approach (a way to isolate cause and effect) for the firm-level results.",
+    "data": "Not stated in the available sources beyond the abstract's reference to insurers, CLO managers and borrowing firms.",
+    "findings": [
+      "Insurers experiencing favourable cash flows invest more in CLOs, especially with CLO managers they are familiar with.",
+      "CLO managers exposed to these cash flows launch more deals.",
+      "Firms affected through this channel take out more loans at lower spreads, increase employment and expand operations.",
+      "The effects are stronger for private firms than for public firms.",
+      "The authors read these results as evidence of significant frictions in the loan securitization market."
+    ],
+    "whyItMatters": "The paper suggests securitized lending is not frictionless: who invests in CLOs, and their relationships with managers, shape credit for real companies, especially private ones. That matters for regulators watching non-bank credit and insurers' portfolios, and for CFOs who rely on syndicated or leveraged loans.",
+    "topics": ["CLOs", "loan securitization", "insurance companies", "non-bank financial institutions", "syndicated loans", "credit supply", "private firms"],
+    "industries": ["Insurance", "Banking and capital markets"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4407312638",
+        "http://www.abhishek-bhardwaj.com/",
+        "http://www.abhishek-bhardwaj.com/CV.pdf"
+      ]
+    }
+  },
+  "versions": [
+    { "id": "W4379745676", "type": "preprint", "venue": "SSRN Electronic Journal", "year": 2023, "url": "https://doi.org/10.2139/ssrn.4218293" }
+  ]
+}

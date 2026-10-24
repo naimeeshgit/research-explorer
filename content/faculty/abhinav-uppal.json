@@ -1,0 +1,44 @@
+{
+  "slug": "abhinav-uppal",
+  "name": "Abhinav Uppal",
+  "title": "Assistant Professor, Marketing",
+  "area": "Marketing",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/abhinav-uppal",
+  "openalex": ["A5053649958", "A5098561808"],
+  "photo": null,
+  "profile": {
+    "summary": "Abhinav Uppal uses game-theory models to understand how firms compete on price and when rivals are better off cooperating. His recent work looks at unusual alliances between competitors: online retailers that let customers return items at a rival's stores, and streaming services that make it easy to subscribe to each other. He is also interested in how traditional retailers can respond to e-commerce, and has written on the future of the marketing mix and on AI's effects on society.",
+    "themes": [
+      {
+        "name": "Alliances between competitors",
+        "description": "When partnerships between rivals, such as shared returns or streaming tie-ups, soften price competition, and who gains: the partners, outsiders or consumers.",
+        "papers": ["W4410315947", "W4414154661"]
+      },
+      {
+        "name": "Platform pricing and regulation",
+        "description": "Two-sided models of internet pricing that ask how content business models change the stakes of network neutrality.",
+        "papers": ["W2737013250"]
+      },
+      {
+        "name": "Marketing's changing landscape",
+        "description": "How technology, AI, regulation and geopolitics are reshaping marketing decisions, and why human oversight of AI matters.",
+        "papers": ["W3206579957", "W4403497592"]
+      }
+    ],
+    "talkTo": [
+      "How traditional retailers can compete with e-commerce (returns, showrooming)",
+      "Streaming/OTT competition and partnerships",
+      "Game-theory models of pricing and competitive strategy",
+      "Net neutrality and platform pricing",
+      "How AI and regulation are changing marketing",
+      "Moving from computer science and quant trading into marketing academia"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/abhinav-uppal",
+      "https://eprints.exchange.isb.edu/view/isb_creators/Uppal=3AA=3A=3A.html",
+      "https://discover.isb.edu/all-topics/marketing/are-strategic-alliances-the-next-big-thing-in-ott-industry",
+      "https://www.isb.edu/faculty-and-research/research-directory/bricks-processing-returns-for-clicks-can-foes-become-friends"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}
