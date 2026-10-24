@@ -1,0 +1,58 @@
+{
+  "id": "W4416278801",
+  "title": "Fostering collaboration",
+  "year": 2025,
+  "date": null,
+  "type": "article",
+  "venue": "Theoretical Economics",
+  "doi": "https://doi.org/10.3982/TE5742",
+  "url": "https://www.econometricsociety.org/publications/theoretical-economics/2025/11/18/Fostering-collaboration",
+  "pdf": "https://www.econometricsociety.org/publications/theoretical-economics/2025/11/18/Fostering-collaboration/file/5742-43609-1-PB.pdf",
+  "citations": 1,
+  "authors": [
+    { "name": "Joyee Deb" },
+    { "name": "Aditya V. Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Elliot Lipnowski" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When two teams push rival projects, the best rule lets them compete until one gains a big enough lead, then makes everyone collaborate on it.",
+    "overview": "Firms often let teams pursue rival approaches to the same problem and pick one later; the paper's examples include a communications firm with two teams building competing software platforms and IBM's internal 'shootouts'. Here a manager (the principal) must eventually pick one of two projects, while each team leader wants their own project chosen and can split effort between it and helping the rival. Keeping both alive preserves flexibility while it is unclear which is better, but wastes effort on the project that loses. The authors show the uniquely optimal rule picks the first project to build a sufficient lead, with the required lead shrinking as the deadline approaches. Under that rule, teams first compete and then permanently collaborate.",
+    "question": "How should a manager, who cannot observe or pay for effort, design a rule for choosing between two rival projects so that agents compete when it is useful and collaborate when it matters?",
+    "method": "A continuous-time theoretical model. Each project's quality moves randomly, drifting upward with the effort put into it; agents privately divide effort between their own and the rival project and are rewarded only if their project is chosen, with no payments. The principal commits in advance to a selection rule. The authors compare benchmarks (no incentive problems; no commitment) and solve for the optimal rule using time-change and weak-solution techniques instead of the standard dynamic-programming approach.",
+    "data": "Theoretical paper; no dataset. Illustrative cases in the introduction: a communications firm with two 50-person teams building competing middleware platforms, and IBM's use of 'shootouts' between ideas.",
+    "findings": [
+      "Without commitment, the manager simply picks whichever project leads at the deadline, so agents only compete and effort on the losing project is wasted.",
+      "Committing to a selection rule improves on pure competition; even a rule that gives an early leader an edge can get agents to collaborate.",
+      "The uniquely optimal rule selects the first project whose lead reaches a threshold that falls over time, reaching zero at the deadline.",
+      "Under this rule agents compete at first and then collaborate permanently, and collaboration always starts before the deadline.",
+      "The authors note the optimum can be implemented by irreversibly cancelling the lagging project once the threshold is hit, without formal commitment."
+    ],
+    "whyItMatters": "For managers running internal competitions between teams or product approaches, the paper suggests keeping rival efforts going while the best option is unclear, then consolidating behind a clear cutoff that gets easier to meet as the deadline nears. It also highlights that a credible rule for how the winner will be chosen is what makes rival teams willing to help each other.",
+    "topics": ["internal competition", "team collaboration", "project selection", "organizational design", "incentives", "commitment", "game theory"],
+    "industries": ["Technology and telecommunications (illustrative examples)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://www.isb.edu/faculty-and-research/research-directory/fostering-collaboration/",
+        "https://www.econometricsociety.org/publications/theoretical-economics/2025/11/18/Fostering-collaboration",
+        "https://www.econometricsociety.org/publications/theoretical-economics/2025/11/18/Fostering-collaboration/file/5742-43609-1-PB.pdf",
+        "https://api.openalex.org/works/doi:10.3982/TE5742"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4243172535",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2020,
+      "url": "https://doi.org/10.2139/ssrn.3597730"
+    }
+  ]
+}

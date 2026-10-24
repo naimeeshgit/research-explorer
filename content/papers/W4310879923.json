@@ -1,0 +1,54 @@
+{
+  "id": "W4310879923",
+  "title": "Matching with Incomplete Preferences",
+  "year": 2022,
+  "date": "2022-12-05",
+  "type": "preprint",
+  "venue": "arXiv",
+  "doi": "https://doi.org/10.48550/arxiv.2212.02613",
+  "url": "https://arxiv.org/abs/2212.02613",
+  "pdf": "https://arxiv.org/pdf/2212.02613",
+  "citations": 0,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When people can't rank every option, a new 'compromise core' gives sensible stable matches, and forcing complete rankings can leave students worse off.",
+    "overview": "Admission systems such as India's engineering college allocation ask students to rank every option, but a student might genuinely find computer science at one IIT incomparable with chemical engineering at another. The paper studies matching markets where preferences can be incomplete in this way. The usual stability ideas then break down: the stricter one (the strong core) can have no solution, while the looser one (the weak core) can include too many to be useful. The author proposes a 'compromise core' that always exists and sits between the two, gives it an axiomatic foundation, and applies it to Indian engineering admissions. The paper argues that forcing complete rankings can produce outcomes that are Pareto dominated for students.",
+    "question": "What is a sensible notion of a stable match when participants find some options incomparable, and what does that imply for admission systems that force complete rankings?",
+    "method": "Theoretical market design. The author defines the compromise core using a dominance relation among weakly stable matchings and a social-choice tool (the uncovered set), proves existence and nesting results, characterises it with three axioms, and uses examples to show the effect of forcing complete rankings.",
+    "data": "Theoretical paper. India's IIT admissions are used as motivation; the paper notes that each year about 1.3 million students seek about 34,000 engineering seats across IITs and a few non-IITs.",
+    "findings": [
+      "With incomplete preferences the weak core is always non-empty, but the strong core can be empty.",
+      "The compromise core always exists and lies between the strong and weak cores, and both inclusions can be strict.",
+      "It is the most permissive refinement satisfying three stated axioms.",
+      "An example shows a student-proposing algorithm run on forced complete rankings can produce a matching worse for one side than one available under incomplete reporting, suggesting possible welfare gains.",
+      "Efficient algorithms and strategy-proof mechanisms for the compromise core are left for future work."
+    ],
+    "whyItMatters": "For designers of centralised admissions such as India's IIT seat allocation, the paper suggests letting applicants express genuine indecision could improve outcomes, though practical algorithms still need to be built. It also offers a lens for any matching platform whose users lack well-defined rankings.",
+    "topics": ["market design", "college admissions", "incomplete preferences", "stable matching", "IIT JEE", "India", "school choice"],
+    "industries": ["Higher education"],
+    "geographies": ["India"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+        "https://arxiv.org/abs/2212.02613",
+        "https://arxiv.org/pdf/2212.02613"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4312310469",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.2139/ssrn.4309947"
+    }
+  ]
+}

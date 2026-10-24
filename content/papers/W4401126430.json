@@ -1,0 +1,49 @@
+{
+  "id": "W4401126430",
+  "title": "Buying from a Group",
+  "year": 2024,
+  "date": "2024-07-30",
+  "type": "article",
+  "venue": "American Economic Review",
+  "doi": "https://doi.org/10.1257/aer.20230914",
+  "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230914",
+  "pdf": "https://repository.essex.ac.uk/38403/1/20756.pdf",
+  "citations": 2,
+  "authors": [
+    { "name": "Nima Haghpanah" },
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Elliot Lipnowski" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Buying land from many owners at a uniform per-share price, the buyer's best mechanism gives most weight to owners least inclined to sell.",
+    "overview": "Buying land, a business or an apartment complex from many owners is hard because no single owner can be forced to sell, and each privately knows what the asset is worth to them. The paper studies a buyer who must buy the whole thing or nothing and must pay every owner the same price per share. The buyer's best mechanism (set of trading rules) goes ahead only when the buyer's benefit exceeds a weighted average of the owners' 'virtual costs', a standard adjustment for each owner's incentive to overstate their price. Owners who, before anything is known, look less inclined to sell get more weight. This mechanism always does at least as well as simply posting a price.",
+    "question": "How should a buyer set the terms of trade when acquiring an indivisible asset jointly owned by several sellers who each have private costs, can each refuse, and must be paid the same price per share?",
+    "method": "Mechanism design theory. Sellers' per-unit costs are private and independent; the mechanism must give owners reason to report truthfully and to take part voluntarily, with payments split in proportion to ownership shares. The authors derive the buyer-optimal mechanism, compare it with posted prices and with buying from a single seller, and characterise all Pareto-efficient mechanisms.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "Trade happens only if the buyer's benefit exceeds a weighted average of sellers' virtual costs, with the weights determined inside the model.",
+      "Sellers whose costs are higher in a specific statistical sense (less inclined to sell) receive more weight.",
+      "With several sellers the optimal price has to respond to the whole profile of sellers' reports, so posted prices are no longer optimal, and the proposed mechanism always outperforms them.",
+      "Relative to a single seller, a group adds further distortions and trade can even be inefficiently high; whether group or single-seller surplus is higher depends on how large the buyer's benefit is.",
+      "The paper characterises the full Pareto frontier and notes that paying the same price per share removes sellers' incentive to trade shares among themselves beforehand."
+    ],
+    "whyItMatters": "Land acquisition and redevelopment often require uniform terms per share across many owners. The paper suggests such rules can be designed so that trade decisions reflect sellers' costs, and that the right weights depend on how owners' costs are distributed rather than on how much land each owns, which points governments to trade-offs between buyer profit, seller welfare and total efficiency.",
+    "topics": ["land acquisition", "mechanism design", "holdout problem", "group bargaining", "posted prices", "real estate redevelopment", "fairness"],
+    "industries": ["Real estate", "Land and infrastructure development"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://www.isb.edu/faculty-and-research/research-directory/buying-from-a-group/",
+        "https://www.aeaweb.org/articles?id=10.1257/aer.20230914",
+        "https://repository.essex.ac.uk/38403/1/20756.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

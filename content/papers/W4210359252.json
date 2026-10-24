@@ -1,0 +1,47 @@
+{
+  "id": "W4210359252",
+  "title": "Learning in Relational Contracts",
+  "year": 2022,
+  "date": "2022-02-01",
+  "type": "article",
+  "venue": "American Economic Journal: Microeconomics",
+  "doi": "https://doi.org/10.1257/mic.20190203",
+  "url": "https://doi.org/10.1257/mic.20190203",
+  "pdf": "https://repository.essex.ac.uk/28275/8/relncontracts_aditya_website.pdf",
+  "citations": 3,
+  "authors": [
+    { "name": "Rumen Kostadinov" },
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When firm and worker are unsure how good their match is and can't write formal contracts, they may settle for less productive, less informative work.",
+    "overview": "Picture an employee whose fit with the job looks doubtful and who may be let go unless the next project goes well. The paper models a firm and worker who both learn about match quality from the worker's visible output but rely on informal promises (a relational contract) rather than enforceable contracts. The authors show these relationships can be inefficient and trace this to a holdup problem: when today's output is valuable, incentives for costly effort can only come from the value of learning, which may not be enough. The best informal arrangement can therefore put the worker on a lower-paying, less informative task, much like a performance improvement plan, rather than ending the relationship.",
+    "question": "Can informal, self-enforcing employment relationships deliver efficient effort and learning when both sides are uncertain about the quality of their match?",
+    "method": "An infinitely repeated game between a risk-neutral firm and worker who share beliefs about match quality. Each period the firm can fire or offer a salary, the worker can quit or choose high effort (costly, more informative and more profitable) or low effort, and outcomes update beliefs. The authors compare the optimal relational contract with an efficient benchmark and study the limit where actions are taken very frequently.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "Relational contracts are inefficient exactly when the high-effort action's current revenue is large relative to the parties' outside options at the efficient cutoff, which the authors describe as holdup on current output.",
+      "The optimal contract has three zones as beliefs improve: separation, then low effort, then high effort; low effort can beat separation even though it pays less and reveals less.",
+      "When actions are very frequent, inefficiency persists only if information decays at least as fast as impatience disappears.",
+      "The authors suggest stronger outside options can reduce inefficiency, and predict that workers may move in and out of a low-effort, PIP-like phase several times."
+    ],
+    "whyItMatters": "The paper gives an economic rationale for practices like the performance improvement plans used by consulting firms, where struggling employees move to less important roles instead of being fired. It suggests the inefficiency comes from combining uncertain fit with incomplete contracts, not from uncertainty alone, which is relevant to how firms design probation and reassignment.",
+    "topics": ["relational contracts", "employee performance", "performance improvement plans", "job matching", "learning", "holdup problem", "personnel economics"],
+    "industries": ["Professional services (consulting example)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://repository.essex.ac.uk/28275/",
+        "https://repository.essex.ac.uk/28275/8/relncontracts_aditya_website.pdf",
+        "https://api.openalex.org/works/W4210359252"
+      ]
+    }
+  },
+  "versions": []
+}

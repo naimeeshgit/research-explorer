@@ -1,0 +1,64 @@
+{
+  "id": "W3212453588",
+  "title": "The wrong kind of information",
+  "year": 2023,
+  "date": "2023-05-11",
+  "type": "article",
+  "venue": "The RAND Journal of Economics",
+  "doi": "https://doi.org/10.1111/1756-2171.12440",
+  "url": "https://doi.org/10.1111/1756-2171.12440",
+  "pdf": "https://repository.essex.ac.uk/33670/1/The%20RAND%20J%20of%20Economics%20-%202023%20-%20Kuvalekar%20-%20The%20wrong%20kind%20of%20information.pdf",
+  "citations": 0,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "João Ramos" },
+    { "name": "Johannes Schneider" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Fear of liability makes well-meaning decision makers lean on court-verifiable evidence, so improving that evidence can reduce efficiency, while better private expertise always helps.",
+    "overview": "Doctors, politicians and civil servants sometimes avoid risky but worthwhile decisions for fear of being sued. In this model an agent, who may be biased toward acting, decides whether to take on a risky project using two kinds of information: evidence a court can verify and private judgment it cannot. If the project causes harm, a court looks only at the verifiable evidence, infers whether the agent was biased and decides on punishment. Punishment deters biased agents but also 'chills' well-meaning ones, who learn to overweight the verifiable evidence. The authors show that better unverifiable information always raises efficiency, while better verifiable information can lower it.",
+    "question": "When decision makers can be punished after bad outcomes based only on evidence a court can see, how does improving each kind of information affect the quality of decisions?",
+    "method": "A game-theoretic model with a designer who sets the maximum punishment, a court, and an agent who is either unbiased (wants only efficient projects) or biased (wants any project). The agent gets one verifiable and one unverifiable signal about the project; after a failure the court judges the agent using only the verifiable signal. The authors compare outcomes as each signal becomes more precise.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "Anticipating punishment, well-intentioned agents tend to overweight verifiable information and pass up efficient projects it argues against, a 'chilling effect'.",
+      "High punishment deters biased agents but chills unbiased ones; low punishment does the reverse.",
+      "More precise verifiable information can strengthen the chilling effect and lower overall efficiency.",
+      "More precise unverifiable information always raises efficiency, because it makes deterrence easier and reduces chilling."
+    ],
+    "whyItMatters": "The authors argue that the nature of information, not just its amount, has welfare consequences, and that the logic applies to CEOs, politicians and bureaucrats whenever decisions are judged on only part of what the decision maker knew. They suggest caution when improving verifiable information, since better tools may not substitute for experience and could backfire, while noting that whether the chilling effect outweighs the gains is an empirical question.",
+    "topics": ["liability", "defensive decision-making", "verifiable information", "chilling effect", "law and economics", "expert judgment", "accountability"],
+    "industries": ["Healthcare (illustrative)", "Public administration (illustrative)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://www.isb.edu/faculty-and-research/research-directory/the-wrong-kind-of-information/",
+        "https://repository.essex.ac.uk/33670/",
+        "https://repository.essex.ac.uk/33670/1/The%20RAND%20J%20of%20Economics%20-%202023%20-%20Kuvalekar%20-%20The%20wrong%20kind%20of%20information.pdf",
+        "https://api.openalex.org/works/doi:10.1111/1756-2171.12440"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4376138952",
+      "type": "article",
+      "venue": "e-Archivo (Carlos III University of Madrid)",
+      "year": 2023,
+      "url": "http://hdl.handle.net/10016/40015"
+    },
+    {
+      "id": "W3008631045",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2020,
+      "url": "https://doi.org/10.2139/ssrn.3525007"
+    }
+  ]
+}

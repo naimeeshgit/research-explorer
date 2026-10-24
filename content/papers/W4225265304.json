@@ -1,0 +1,48 @@
+{
+  "id": "W4225265304",
+  "title": "Goodwill in communication",
+  "year": 2022,
+  "date": null,
+  "type": "article",
+  "venue": "Journal of Economic Theory",
+  "doi": "https://doi.org/10.1016/j.jet.2022.105467",
+  "url": "https://doi.org/10.1016/j.jet.2022.105467",
+  "pdf": "https://repository.essex.ac.uk/32782/1/1-s2.0-S0022053122000576-main.pdf",
+  "citations": 13,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Elliot Lipnowski" },
+    { "name": "João Ramos" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "An adviser's future goodwill can price today's advice and sustain cooperation without feedback, but repeated interaction never fully substitutes for commitment.",
+    "overview": "Think of a policy analyst advising a policymaker, or a financial analyst advising a client who keeps control of the money. Often neither the quality of the advice nor whether it was followed can be observed, so feedback can't discipline the relationship. The authors show the advice itself can: the relationship's future can depend on what the expert recommends, so tempting recommendations draw down the expert's goodwill. Formally, the ongoing relationship achieves exactly what a one-shot 'cheap talk' game (free, unverifiable messages) with capped 'money burning' can. An ongoing relationship often helps, but it can never give the expert the full benefit of committing in advance.",
+    "question": "Can a long-term advisory relationship support useful communication when neither the quality of the advice nor the decision maker's actions are observable?",
+    "method": "An infinite-horizon repeated game: each period an expert privately observes a new state and sends a message, and the decision maker acts privately. The authors prove that the expert payoffs achievable in this game equal those of a static cheap-talk game with capped money burning, then apply the result to a CEO advised by an empire-building manager.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "Future goodwill can be used to 'price' today's advice, so communication alone can sustain cooperation.",
+      "The expert's achievable payoffs exactly match those of a static cheap-talk game with capped money burning.",
+      "An expert whose preferences do not depend on the state gains nothing from repetition.",
+      "Even very patient experts cannot reach the payoff they would get with full commitment (the Bayesian persuasion benchmark).",
+      "In the CEO application, the scale at which projects are implemented shrinks as the manager's goodwill is used up."
+    ],
+    "whyItMatters": "For organisations that rely on advisers whose advice is hard to evaluate, the paper suggests the future of the relationship acts as an implicit price on recommendations but cannot fully replace commitment. The authors suggest cheap talk with money burning may be a more appropriate simple model for ongoing relationships among employees, legislators or politicians, while noting their results depend on the assumption that outcomes give no feedback.",
+    "topics": ["strategic communication", "cheap talk", "advice", "repeated games", "relational incentives", "Bayesian persuasion", "corporate decision-making"],
+    "industries": ["Financial advice (illustrative)", "Public policy (illustrative)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://repository.essex.ac.uk/32782/",
+        "https://repository.essex.ac.uk/32782/1/1-s2.0-S0022053122000576-main.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

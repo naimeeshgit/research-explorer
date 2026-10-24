@@ -1,0 +1,46 @@
+{
+  "id": "W7160912465",
+  "title": "Skill Premia and Pre-Marital Investments in Marriage Markets",
+  "year": 2026,
+  "date": "2026-05-11",
+  "type": "preprint",
+  "venue": "arXiv",
+  "doi": "https://doi.org/10.48550/arxiv.2605.10060",
+  "url": "https://arxiv.org/abs/2605.10060",
+  "pdf": "https://arxiv.org/pdf/2605.10060",
+  "citations": 0,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Rising returns to skill may widen gender gaps in skill investment, since marriage-market incentives can push one gender to specialise even in symmetric settings.",
+    "overview": "Higher returns to skill should encourage everyone to invest more in education, but the marriage market complicates this: someone who expects a highly skilled spouse may invest less and specialise in work at home. In a model of searching for partners where men and women are identical in every respect, the author shows that 'asymmetric' outcomes can arise in which one gender invests much more in skills than the other. These appear once the high-skill wage passes a threshold, and symmetric outcomes can be fragile while asymmetric ones are not. The paper concludes that rising skill premia, with AI given as a contemporary example of such a shock, may widen rather than narrow gender gaps in skill acquisition.",
+    "question": "How do rising returns to skill affect men's and women's pre-marital investment in skills when marriage prospects shape the payoff to investing?",
+    "method": "A theoretical search-and-matching model of a marriage market. Agents choose costly high or low skill before searching, meet partners at random, and the payoff from a match comes from a household game in which spouses split time between paid and domestic work, without transferable utility. The author characterises equilibria, tests their stability with an existing notion of fragility, and illustrates results with a numerical example.",
+    "data": "No dataset; a numerical calibration illustrates the results. The paper connects its premises to prior empirical work on marriage markets and on women's education.",
+    "findings": [
+      "A symmetric equilibrium always exists, but asymmetric equilibria in which one gender invests fully or not at all can coexist with it.",
+      "A higher skill premium can create an asymmetric equilibrium alongside the symmetric one; whether it does depends on how match payoffs are determined.",
+      "In the symmetric equilibrium, a higher premium raises overall investment under a stated condition.",
+      "Where both exist, the symmetric equilibrium is fragile to small perturbations and the asymmetric one is not, though the author cautions that fragility may or may not bear on which outcome occurs in practice.",
+      "The model does not predict which gender specialises, because asymmetric equilibria come in mirror-image pairs."
+    ],
+    "whyItMatters": "The paper suggests a gender-neutral rise in the return to skill need not affect men and women the same way, and that gaps in education and labour-force participation could open without any change in preferences or technology. For policy, it implies rising skill premia should not be assumed to close gender gaps.",
+    "topics": ["gender gaps", "skill premium", "marriage markets", "education investment", "household specialisation", "search and matching", "artificial intelligence"],
+    "industries": [],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+        "https://arxiv.org/pdf/2605.10060",
+        "https://api.openalex.org/works?filter=author.id:A5135942432"
+      ]
+    }
+  },
+  "versions": []
+}

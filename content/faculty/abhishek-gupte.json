@@ -1,0 +1,38 @@
+{
+  "slug": "abhishek-gupte",
+  "name": "Abhishek Gupte",
+  "title": "Assistant Professor, Organisational Behaviour",
+  "area": "Organisational Behaviour",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-gupte",
+  "openalex": ["A5098084114"],
+  "photo": null,
+  "profile": {
+    "summary": "Abhishek Gupte studies occupations, knowledge work and expertise, and how professionals think about changes to their work and tools, including how occupations reorganise around technologies such as artificial intelligence and what that means for their skills. His research with NYU colleagues looks at how expert equity research analysts manage clients who know much of what they know. He has also co-written a handbook chapter on how firms and stakeholders can jointly govern complex sustainability issues.",
+    "themes": [
+      {
+        "name": "Experts, clients and changing knowledge work",
+        "description": "How expert professionals keep their authority and adapt their methods when clients share their knowledge, part of a wider interest in how occupations and expertise change with new tools.",
+        "papers": ["W4400444599"]
+      },
+      {
+        "name": "Stakeholder governance and sustainability",
+        "description": "Why firms' sustainability efforts stall on complex issues and how jointly designed governance with stakeholders could help.",
+        "papers": ["W4214857106"]
+      }
+    ],
+    "talkTo": [
+      "How AI is changing professional and knowledge work",
+      "Expertise and authority in client-facing roles such as equity research or consulting",
+      "How occupations reorganise around new technologies",
+      "Stakeholder governance on sustainability issues"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-gupte",
+      "https://www.stern.nyu.edu/index%2ephp/experience-stern/about/departments-centers-initiatives/centers-of-research/center-future-management/future-work-and-organizations-initiative/current-doctoral-students.md",
+      "https://www.isb.edu/faculty-and-research/research-directory/stakeholder-governance-aligning-stakeholder-interests-on-complex-sustainability-issues/",
+      "https://api.openalex.org/works?filter=author.id:A5098084114",
+      "https://api.openalex.org/works/W4400444599"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

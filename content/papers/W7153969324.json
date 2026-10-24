@@ -1,0 +1,47 @@
+{
+  "id": "W7153969324",
+  "title": "Reputational Spillovers",
+  "year": 2026,
+  "date": "2026-04-09",
+  "type": "preprint",
+  "venue": "arXiv",
+  "doi": "https://doi.org/10.48550/arxiv.2604.08616",
+  "url": "https://arxiv.org/abs/2604.08616",
+  "pdf": "https://arxiv.org/pdf/2604.08616",
+  "citations": 0,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Anna Sanktjohanser" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When one party bargains with several opponents at once, a single reputation for toughness can hurt it, and its weakest opponent may benefit.",
+    "overview": "Think of a government restructuring debt with several creditor groups, or a firm bargaining with several unions: a concession to one is seen by all. The paper models a central player bargaining simultaneously with two others, where each player might be a 'commitment type' who never gives in. Because the central player has one reputation across both disputes, conceding in one changes beliefs in the other. The authors find a unique equilibrium and show these spillovers matter only when one of the peripheral players starts out as the most reputable, meaning seen as most likely to be unyielding. In that case the usual lesson that toughness pays reverses: the central player does no better and may do worse, the strongest opponent loses, and the weakest may gain.",
+    "question": "How does a single reputation shared across simultaneous negotiations change bargaining outcomes compared with separate one-on-one negotiations?",
+    "method": "A continuous-time reputational bargaining model (a war of attrition) that extends the two-party benchmark of Abreu and Gul (2000) to a centre negotiating with two peripheral players. The authors solve for the unique equilibrium, compare payoffs with the benchmark, and test robustness to sequential talks, partly observable concessions and more players, the last partly numerically.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "If the central player starts at least as reputable as both opponents, outcomes match two separate one-on-one negotiations.",
+      "Spillovers affect payoffs only if one peripheral player is uniquely the most reputable at the start.",
+      "In that case the central player is no better off and can be strictly worse off, the strongest peripheral loses, and the weakest weakly gains.",
+      "The weakest opponent benefits most when the centre's higher-stakes dispute is with the other opponent.",
+      "The effect survives as commitment probabilities shrink toward zero and under the extensions studied."
+    ],
+    "whyItMatters": "For negotiators facing many counterparties, such as sovereign debtors or firms dealing with several unions, the paper suggests a reputation for toughness can be a liability because any concession becomes costly everywhere. It also suggests weaker counterparties can gain when the central party has a bigger fight elsewhere.",
+    "topics": ["bargaining", "reputation", "negotiation strategy", "sovereign debt restructuring", "labour unions", "war of attrition", "game theory"],
+    "industries": ["Sovereign debt (illustrative)", "Labour relations (illustrative)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+        "https://arxiv.org/abs/2604.08616",
+        "https://arxiv.org/pdf/2604.08616"
+      ]
+    }
+  },
+  "versions": []
+}

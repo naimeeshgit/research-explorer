@@ -1,0 +1,55 @@
+{
+  "id": "W3125714369",
+  "title": "A fair procedure in a marriage market",
+  "year": 2024,
+  "date": "2024-02-10",
+  "type": "article",
+  "venue": "Review of Economic Design",
+  "doi": "https://doi.org/10.1007/s10058-023-00348-4",
+  "url": "https://doi.org/10.1007/s10058-023-00348-4",
+  "pdf": "https://repository.essex.ac.uk/37865/1/A%20Fair%20Procedure.pdf",
+  "citations": 4,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Antonio Romero-Medina" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A matching algorithm in which both sides propose each round always yields a stable outcome and, with equal numbers, minimises the worst-off participant's regret.",
+    "overview": "The standard deferred acceptance (Gale-Shapley) algorithm produces a stable match, one no pair would want to break, but it favours whichever side does the proposing. The authors argue this is a problem where fairness matters, from task-allocation platforms to dating apps. They propose an algorithm in which both sides propose every round and gradually widen their lists, with cycles of mutual proposals settled by a coin flip. It always ends in a stable matching and, when the two sides are equal in size, gives a 'Rawlsian' stable matching that minimises the largest regret any matched person has. It also runs quickly (in polynomial time).",
+    "question": "Can a matching procedure treat both sides of a two-sided market symmetrically while still guaranteeing a stable outcome that is fair to the worst-off participants?",
+    "method": "Theoretical algorithm design in the two-sided 'marriage' matching model with strict preferences. The authors define the procedure, check stability against truncated preferences, fall back on an existing random-order mechanism when needed, and prove results on stability, fairness and computing time.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "The procedure always ends with a stable matching.",
+      "With equal numbers on both sides, the result is a Rawlsian stable matching (it minimises the maximum regret among matched agents); the same holds in markets meeting a 'regularity' condition.",
+      "In large markets with unequal sides, the output is Rawlsian with high probability.",
+      "It runs in polynomial time, whereas finding the median stable matching is computationally hard.",
+      "Unlike deferred acceptance for the proposing side, the procedure is not strategy-proof."
+    ],
+    "whyItMatters": "Platforms that match two sides, such as task-allocation services or dating apps, may care about fairness to both sides and not just stability. The paper offers a fast procedure that aims for the middle of the set of stable matchings rather than one side's favourite.",
+    "topics": ["matching markets", "market design", "stable matching", "fairness", "deferred acceptance", "algorithms", "two-sided platforms"],
+    "industries": ["Online platforms (illustrative)"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+        "https://repository.essex.ac.uk/37865/",
+        "https://repository.essex.ac.uk/37865/1/A%20Fair%20Procedure.pdf"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W2242032052",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2015,
+      "url": "https://doi.org/10.2139/ssrn.2688630"
+    }
+  ]
+}

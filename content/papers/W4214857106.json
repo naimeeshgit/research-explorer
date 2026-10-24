@@ -1,0 +1,47 @@
+{
+  "id": "W4214857106",
+  "title": "Stakeholder governance: aligning stakeholder interests on complex sustainability issues",
+  "year": 2022,
+  "date": "2022-02-11",
+  "type": "book-chapter",
+  "venue": "Handbook on the Business of Sustainability (Edward Elgar Publishing)",
+  "doi": "https://doi.org/10.4337/9781839105340.00011",
+  "url": "https://doi.org/10.4337/9781839105340.00011",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    { "name": "Sinziana Dorobantu" },
+    { "name": "Abhishek Gupte", "isb": "abhishek-gupte" },
+    { "name": "Sam Yuqing Li" }
+  ],
+  "isb": ["abhishek-gupte"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Firms act on sustainability when stakeholder interests align; for complex issues, the authors argue, jointly designed stakeholder governance rules are needed.",
+    "overview": "This handbook chapter takes stock of three decades of research on what drives firms to adopt sustainable policies and what holds them back. The authors note that corporate sustainability efforts are growing and well received but have limited impact. Firms move most readily when the interests of their stakeholders (the groups with a stake in the firm) line up, often in 'win-win' situations. On highly complex issues those interests rarely align, so firm efforts tend to be symbolic or narrow. The authors argue that stakeholder governance, meaning formal and informal rules that firms and stakeholders design together to coordinate, monitor and sanction behaviour, is needed, and call for research on how such arrangements emerge and how well they work.",
+    "question": "Why do firms' sustainability efforts fall short on complex issues, and what kind of governance could align stakeholder interests to address them?",
+    "method": "A review and conceptual chapter drawing on sustainability research; the available sources do not describe a specific empirical method.",
+    "data": "Not stated in the available sources.",
+    "findings": [
+      "Firms adopt sustainability measures most readily when stakeholder interests align, often in win-win situations.",
+      "On very complex sustainability issues stakeholder interests rarely align, so firm efforts tend to be symbolic or narrow in scope.",
+      "The authors argue that stakeholder governance, with jointly designed mechanisms for coordinating, monitoring and sanctioning behaviour, is needed for such issues.",
+      "They call for future research on how these governance arrangements emerge and how effective they are."
+    ],
+    "whyItMatters": "For managers and students interested in sustainability strategy, the chapter suggests that win-win framing has limits: on the hardest problems, progress may depend on building shared governance with stakeholders rather than acting alone.",
+    "topics": ["sustainability", "stakeholder governance", "corporate social responsibility", "ESG", "stakeholder management"],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-gupte",
+        "https://www.isb.edu/faculty-and-research/research-directory/stakeholder-governance-aligning-stakeholder-interests-on-complex-sustainability-issues/",
+        "https://api.openalex.org/works/doi:10.4337/9781839105340.00011"
+      ]
+    }
+  },
+  "versions": []
+}

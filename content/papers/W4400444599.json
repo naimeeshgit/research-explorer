@@ -1,0 +1,47 @@
+{
+  "id": "W4400444599",
+  "title": "Speaking to Those Who Know: How Experts Manage Knowledge Overlaps with Clients",
+  "year": 2024,
+  "date": "2024-07-09",
+  "type": "article",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/amproc.2024.17189abstract",
+  "url": "https://doi.org/10.5465/amproc.2024.17189abstract",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Abhishek Gupte", "isb": "abhishek-gupte" },
+    { "name": "Callen Anthony" },
+    { "name": "Beth A. Bechky" }
+  ],
+  "isb": ["abhishek-gupte"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Equity research teams handled knowledgeable clients either by asserting superior methods or by accommodating client preferences, and these stances shaped how their valuation practices changed.",
+    "overview": "Many economic and social outcomes depend on experts whose specialised knowledge clients can't easily see or judge, but experts increasingly serve clients who know their methods well. That overlap raises questions about expert authority. The study examines how equity research analysts handle it, analysing about 680 analyst reports over a decade on five publicly traded firms. It identifies two teams with different 'relational stances' toward clients: one set its expertise apart and presented its methods as conceptually superior, while the other accommodated client preferences and framed its methods as pragmatic responses to market conditions. These stances led the teams down different paths in how they introduced, adopted and used valuation methods.",
+    "question": "How do experts manage situations where their clients share much of their specialised knowledge, and how does that affect how their work practices change?",
+    "method": "Qualitative analysis of equity research reports; the available abstract does not describe the analytic approach in more detail.",
+    "data": "About 680 equity research reports spanning a decade, covering five publicly traded firms. Further details are not stated in the available sources.",
+    "findings": [
+      "Two analyst teams took distinct relational stances toward knowledgeable clients.",
+      "One team differentiated its expertise and framed its methods as conceptually superior.",
+      "The other accommodated client preferences and framed its methods as pragmatic responses to specific market conditions.",
+      "These stances led the teams to different trajectories in how they introduced, adopted and used valuation methods."
+    ],
+    "whyItMatters": "For students heading into consulting, banking or research roles, the study suggests that how experts position themselves relative to sophisticated clients may shape not only the relationship but also how their own methods evolve over time.",
+    "topics": ["expertise", "knowledge work", "equity research", "professional-client relationships", "valuation methods", "practice change", "qualitative research"],
+    "industries": ["Financial services (equity research)"],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4400444599",
+        "https://api.openalex.org/works?filter=author.id:A5098084114",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/abhishek-gupte"
+      ]
+    }
+  },
+  "versions": []
+}

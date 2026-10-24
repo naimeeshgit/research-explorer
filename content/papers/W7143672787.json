@@ -1,0 +1,49 @@
+{
+  "id": "W7143672787",
+  "title": "Similarity of Information and Collective Action",
+  "year": 2026,
+  "date": "2026-03-31",
+  "type": "article",
+  "venue": "American Economic Review",
+  "doi": "https://doi.org/10.1257/aer.20241056",
+  "url": "https://doi.org/10.1257/aer.20241056",
+  "pdf": "https://arxiv.org/pdf/2407.14773",
+  "citations": 0,
+  "authors": [
+    { "name": "Deepal Basak" },
+    { "name": "Joyee Deb" },
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When people see more similar information, collective action becomes easier if the goal is hard to reach, but harder if the goal is easy.",
+    "overview": "Recommendation algorithms mean like-minded people increasingly see the same information, and the paper asks whether that helps a group with a shared goal, such as protesters, act together. In the model, people decide whether to join a costly effort that succeeds only if enough others join; similar information can help them coordinate but can also make free-riding (letting others do the work) more tempting. The authors define 'more similar' precisely: given what you saw, you think others are more likely to have seen the same thing, while overall uncertainty stays the same. Their main result is that similarity helps when success needs many participants (a resilient regime) and can hurt when success needs only a few (a weak regime). They apply this to press censorship and to committee voting.",
+    "question": "Does making people's information more similar help or hurt their ability to act collectively toward a shared goal?",
+    "method": "A game-theoretic model of collective action ('regime change') with incomplete information. Two groups of uncertain size receive different signals about whether change is worthwhile, joining is costly, and success requires enough participants. Similarity is ranked with a new order the authors call Concentration Along the Diagonal, which keeps each person's overall uncertainty fixed. The analysis separates 'encouragement' settings, where more participation makes an individual more likely to be decisive, from 'discouragement' settings, where it makes them less likely.",
+    "data": "Theoretical paper; no dataset. The introduction motivates the question with conflicting empirical studies of protests in Russia and Hong Kong.",
+    "findings": [
+      "In encouragement settings, more similar information raises the maximum participation the group can sustain.",
+      "In discouragement settings, more similar information can reduce maximum participation, because it strengthens the temptation to free-ride.",
+      "Resilient regimes, which need many participants to topple, behave like encouragement settings; weak regimes, which need few, behave like discouragement settings.",
+      "The authors argue that curbing the media, which makes information less similar, benefits resilient authoritarian governments most, and that less powerful regimes that restrict press freedom may face larger protests.",
+      "In committees, more diverse information strengthens voting incentives when each vote carries a lot of weight and weakens them when each vote carries little."
+    ],
+    "whyItMatters": "The paper suggests that the popular story that shared news feeds and social media simply make protests bigger may be biased: the same similarity that helps movements against strong opponents can hinder movements with easier goals. For anyone designing information systems, from content algorithms to committee briefings, it implies that how much people's information overlaps is itself a choice with consequences for coordination.",
+    "topics": ["collective action", "information similarity", "social media algorithms", "protests", "free-riding", "coordination games", "committee voting", "press freedom"],
+    "industries": ["Media and social media", "Government and politics"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://arxiv.org/abs/2407.14773",
+        "https://arxiv.org/pdf/2407.14773",
+        "https://api.openalex.org/works?search=Similarity%20of%20Information%20and%20Collective%20Action"
+      ]
+    }
+  },
+  "versions": []
+}

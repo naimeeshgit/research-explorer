@@ -1,0 +1,48 @@
+{
+  "id": "W7147116814",
+  "title": "Similarity of Information in Games",
+  "year": 2026,
+  "date": "2026-03-30",
+  "type": "preprint",
+  "venue": "arXiv",
+  "doi": "https://doi.org/10.48550/arxiv.2603.28190",
+  "url": "https://arxiv.org/abs/2603.28190",
+  "pdf": "https://arxiv.org/pdf/2603.28190",
+  "citations": 0,
+  "authors": [
+    { "name": "Deepal Basak" },
+    { "name": "Joyee Deb" },
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A new measure of information similarity, based on what people believe others saw, predicts when coordination games admit more extreme outcomes like bigger bank runs.",
+    "overview": "Algorithmic targeting of content means more people see the same information, and the authors link this to the 2023 Silicon Valley Bank run. They show that standard measures such as correlation are poor guides: more correlated information does not necessarily make larger bank runs possible. Instead they propose a family of measures, 'Concentration Along the Diagonal' (CAD), based on how likely you think it is that others saw exactly what you saw. In coordination games such as bank runs, technology adoption and currency attacks, more CAD-similar information is equivalent to widening the range of possible outcomes, from a smaller minimum to a larger maximum number of participants. They also apply the measure to congestion games and second-price auctions.",
+    "question": "What is the right way to measure whether people's information has become 'more similar', and how does greater similarity change outcomes in strategic settings such as coordination games?",
+    "method": "Theoretical. The authors define CAD and weaker and stronger variants built on conditional beliefs, then prove equivalence results linking more similarity to the set of equilibria in binary-choice games where people want to do what others do, for both private-value and common-value settings, with applications to other games.",
+    "data": "Theoretical paper; no dataset.",
+    "findings": [
+      "Correlation is not the right measure: more correlated information does not necessarily allow larger bank runs.",
+      "In private-value coordination games, more CAD-similarity is equivalent to a larger set of symmetric equilibria, with a higher maximum and a lower minimum number of participants.",
+      "Analogous results hold for common-value games under a weaker variant of the order, and for more general payoffs under a stronger one.",
+      "More similar information shrinks the set of equilibria in congestion games, and raises second-price auction revenue when valuations become more similar.",
+      "Whether a regulator should prefer more homogenised information depends on which equilibrium people play: less if they coordinate on the largest run, more if on the smallest."
+    ],
+    "whyItMatters": "As recommendation algorithms homogenise what people see, regulators and platforms need a way to reason about effects on bank runs, panics and technology adoption. The paper provides a measurement tool and suggests the policy answer depends on whether people tend to coordinate on the worst or the best outcome.",
+    "topics": ["information similarity", "coordination games", "bank runs", "social media algorithms", "auctions", "financial stability", "game theory"],
+    "industries": ["Banking", "Media and social media"],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+        "https://arxiv.org/pdf/2603.28190",
+        "https://api.openalex.org/works?search=Similarity%20of%20Information%20and%20Collective%20Action"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "W4233275511",
+  "title": "Job Insecurity",
+  "year": 2020,
+  "date": null,
+  "type": "article",
+  "venue": "American Economic Journal: Microeconomics",
+  "doi": "https://doi.org/10.1257/mic.20190132",
+  "url": "https://doi.org/10.1257/mic.20190132",
+  "pdf": "https://repository.essex.ac.uk/28272/1/mic.20190132.pdf",
+  "citations": 11,
+  "authors": [
+    { "name": "Aditya Kuvalekar", "isb": "aditya-kuvalekar" },
+    { "name": "Elliot Lipnowski" }
+  ],
+  "isb": ["aditya-kuvalekar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Workers are least productive when moderately secure, because fear of firing leads them to slow down how quickly their true job fit is revealed.",
+    "overview": "Management thinkers disagree on whether fear of losing one's job motivates or distorts; the paper contrasts Andy Grove's view of fear as the opposite of complacency with Deming's view that people need security to perform. The authors model a fixed-wage worker and a firm who are both unsure whether they are a good match. The worker's effort affects both current output and how quickly match quality is revealed, and the firm can fire at any time but cannot promise to keep the worker. Because good work can't be rewarded but bad news can get the worker fired, the worker has a reason to slow down learning. The result is a U-shaped link: productivity is lowest when the job is moderately secure.",
+    "question": "How does job security affect worker productivity when worker and firm are still learning whether they are a good match and pay is fixed?",
+    "method": "A continuous-time game in which a fixed-wage worker chooses actions that affect output and the speed of learning about match quality, and the firm decides when to fire. The authors solve for a unique equilibrium, using a refinement they introduce, and describe behaviour across levels of optimism about the match.",
+    "data": "Theoretical paper; no dataset. The authors relate their predictions to findings in organisational psychology and to empirical studies of effort after probation ends.",
+    "findings": [
+      "With fixed pay and firing at will, the firm ends up no better off than if the worker always chose the lowest action, because the firing threat makes the worker want to slow the flow of information.",
+      "When beliefs are pessimistic the firm fires at once; in a middle 'probationary' zone it fires intermittently and the worker works harder than with secure employment; when beliefs are optimistic the worker avoids 'making waves' and picks the lowest action.",
+      "Effort drops sharply when the probationary zone ends, which the authors note matches existing empirical evidence.",
+      "Productivity is U-shaped in job security, lowest when the job is moderately secure, consistent with some organisational psychology research."
+    ],
+    "whyItMatters": "The paper reconciles the 'fear motivates' and 'drive out fear' schools of management: each holds in a different zone of job security. It suggests probation may raise effort while it lasts, and that employees who are comfortable but not safe may play it safe in ways that hide information about their fit. The authors say the results are robust to costly effort and performance-sensitive wages, but that promotion can change the picture.",
+    "topics": ["job insecurity", "worker productivity", "probation", "employee motivation", "firing", "match quality", "personnel economics"],
+    "industries": [],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+        "https://repository.essex.ac.uk/28272/",
+        "https://repository.essex.ac.uk/28272/1/mic.20190132.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

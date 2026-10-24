@@ -1,0 +1,50 @@
+{
+  "slug": "aditya-kuvalekar",
+  "name": "Aditya Kuvalekar",
+  "title": "Associate Professor, Economics and Public Policy",
+  "area": "Economics and Public Policy",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+  "openalex": ["A5024533513", "A5135942432"],
+  "photo": null,
+  "profile": {
+    "summary": "Aditya Kuvalekar is a microeconomic theorist whose main field is information economics: how what people know, and how similar their information is, shapes protests, voting, bargaining and relationships inside organisations. A second strand is market design, including how to buy land from a group of owners and how to run fair matching systems such as college admissions. His work appears in the American Economic Review and other leading economics journals. For MBA students it offers rigorous models of familiar management questions such as job insecurity, internal competition between teams and advice that can't be checked.",
+    "themes": [
+      {
+        "name": "Information similarity and collective action",
+        "description": "When people see more of the same information, for example because of recommendation algorithms, does that help or hurt coordination? These papers develop a new way to measure information similarity and apply it to protests, bank runs and committees.",
+        "papers": ["W7143672787", "W7147116814"]
+      },
+      {
+        "name": "Incentives, learning and advice inside organisations",
+        "description": "Models of how job security, informal employment relationships, internal competition, liability and unverifiable advice shape effort and decisions when people are still learning about each other.",
+        "papers": ["W4233275511", "W4210359252", "W4416278801", "W4225265304", "W3212453588"]
+      },
+      {
+        "name": "Market design, matching and bargaining",
+        "description": "How to design trading and matching rules that work when many parties are involved: buying land from a group, fair and stable matching, admissions with incomplete preferences, and negotiating with several counterparties at once.",
+        "papers": ["W4401126430", "W3125714369", "W4310879923", "W7153969324"]
+      },
+      {
+        "name": "Marriage markets and skill investment",
+        "description": "How marriage-market incentives can lead men and women to invest differently in skills, and why rising skill premia may widen gender gaps.",
+        "papers": ["W7160912465"]
+      }
+    ],
+    "talkTo": [
+      "Game theory and information economics",
+      "How social media and shared information affect protests and coordination",
+      "Land acquisition and buying from multiple owners",
+      "Designing fair matching and admissions systems, such as IIT JEE seat allocation",
+      "Job security, probation and employee incentives",
+      "Negotiating with several counterparties at once"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/aditya-kuvalekar",
+      "https://www.essex.ac.uk/people/kuval53401/aditya-kuvalekar",
+      "https://repository.essex.ac.uk/view/person/ak20030.default.html",
+      "https://api.openalex.org/authors?search=Aditya%20Kuvalekar",
+      "https://api.openalex.org/works?filter=author.id:A5024533513"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}
