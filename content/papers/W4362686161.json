@@ -1,0 +1,48 @@
+{
+  "id": "W4362686161",
+  "title": "Non-Passive Securities Lending by Passive Investors",
+  "year": 2023,
+  "date": null,
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.4397427",
+  "url": "https://www.isb.edu/faculty-and-research/research-directory/non-passive-securities-lending-by-passive-investors",
+  "pdf": "https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2023-05/Non_Passive_Securities_Lending_by_Passive_Investors__032223.pdf",
+  "citations": 1,
+  "authors": [
+    { "name": "Apoorv Gogar", "isb": "apoorv-gogar" },
+    { "name": "David Haushalter" },
+    { "name": "Kevin Pisciotta" }
+  ],
+  "isb": ["apoorv-gogar"],
+  "abstract": "We study passive funds' conflicts of interest by examining their securities lending decisions. We show that passive funds' lending varies with the costs of lending for their families. Passive funds are less likely to lend a security if (i) active funds in their families have a sizable stake in the security or (ii) their families have business relationships with the security's issuer. The effect of these costs is especially strong among funds with in-house lending agents that retain a high fraction of lending fees. The findings indicate that passive funds trade off maximizing investor returns with maximizing fund family value.",
+  "summary": {
+    "oneLiner": "Index funds are less likely to lend out shares when lending could cost their fund family, such as sibling active funds' stakes or pension-business ties.",
+    "overview": "Index funds earn extra income for their investors by lending shares to short sellers, but short selling can hurt the wider fund family. Using new security-level lending disclosures in SEC Form N-PORT, the authors test whether passive funds' lending decisions reflect fund-family interests. Passive funds are less likely to lend a stock when active funds in the same family hold a sizable stake in it, or when the family earns pension-services business from the issuer. These effects are strongest for funds using in-house lending agents that keep a large share of lending fees. The authors interpret this as passive funds trading off investor returns against the value of the fund family.",
+    "question": "Do conflicts of interest within fund families shape passive funds' securities lending decisions?",
+    "method": "Linear probability regressions that compare funds holding the same security at the same time but facing different family-level costs of lending (fund-date and security-date fixed effects). Additional tests look at lending after pension relationships end and check robustness to excluding the COVID-19 period, dropping each 'Big Three' family, and limiting the sample to funds tracking widely followed indexes.",
+    "data": "Form N-PORT security-level lending data from September 2019 to November 2021 for 587 index funds in 49 fund families (about 1.66 million fund-security-date observations with fee-retention data), combined with CRSP and N-CEN fund data, lending-agent fee splits from Statements of Additional Information, pension relationships from Form 5500, and daily loan quantities from IHS Markit.",
+    "findings": [
+      "A one standard deviation rise in sibling active funds' ownership weight is associated with about a 0.44 percentage point (4.4%) lower probability that the passive fund lends the security.",
+      "A pension-services relationship between the family and the issuer is associated with about a 1.7 percentage point (roughly 17%) lower lending probability, and lending rises after such relationships end.",
+      "The effects are amplified for funds that use in-house lending agents and whose agents retain a high fraction of lending fees.",
+      "Shares on loan at affected companies fall about 3.9% in the last five trading days of a quarter, which the authors describe as consistent with lending being cut back before quarter-end N-PORT disclosure.",
+      "The authors see the evidence as most consistent with funds curtailing lending under family pressure to avoid facilitating short sales."
+    ],
+    "whyItMatters": "Lending income equals about 27% of annual expenses for the sample funds, so forgone lending can matter to index-fund investors. The paper suggests that even 'passive' funds make active choices shaped by fund-family interests.",
+    "topics": ["securities lending", "index funds", "passive investing", "conflicts of interest", "short selling", "mutual fund families", "Form N-PORT"],
+    "industries": ["Asset management"],
+    "geographies": ["United States"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2023-05/Non_Passive_Securities_Lending_by_Passive_Investors__032223.pdf",
+        "https://www.isb.edu/faculty-and-research/research-directory/non-passive-securities-lending-by-passive-investors",
+        "https://api.openalex.org/works/W4362686161"
+      ]
+    }
+  },
+  "versions": []
+}

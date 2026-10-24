@@ -1,0 +1,65 @@
+{
+  "id": "W2995885834",
+  "title": "Imputing Missing Social Media Data Stream in Multisensor Studies of Human Behavior",
+  "year": 2019,
+  "date": "2019-09-01",
+  "type": "article",
+  "venue": "2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII)",
+  "doi": "https://doi.org/10.1109/acii.2019.8925479",
+  "url": "https://doi.org/10.1109/acii.2019.8925479",
+  "pdf": null,
+  "citations": 29,
+  "authors": [
+    { "name": "Koustuv Saha" },
+    { "name": "Raghu Mulukutla" },
+    { "name": "Kari Nies" },
+    { "name": "Pablo Robles-Granda" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Dong Whi Yoo" },
+    { "name": "Pino G. Audia" },
+    { "name": "Andrew Thomas Campbell" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Anind K. Dey" },
+    { "name": "Manikanta D. Reddy" },
+    { "name": "Kaifeng Jiang" },
+    { "name": "Qiang Liu" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Edward Moskal" },
+    { "name": "Aaron Striegel" },
+    { "name": "Munmun De Choudhury" },
+    { "name": "Vedant Das Swain" },
+    { "name": "Julie M. Gregg" },
+    { "name": "Ted Grover" },
+    { "name": "Suwen Lin" },
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Shayan Mirjafari" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "The ubiquitous use of social media enables researchers to obtain self-recorded longitudinal data of individuals in real-time. Because this data can be collected in an inexpensive and unobtrusive way at scale, social media has been adopted as a \"passive sensor\" to study human behavior. However, such research is impacted by the lack of homogeneity in the use of social media, and the engineering challenges in obtaining such data. This paper proposes a statistical framework to leverage the potential of social media in studies of human behavior, while navigating the challenges associated with its sparsity. Our framework is situated in a large-scale in-situ study concerning the passive assessment of psychological constructs of 757 information workers wherein four sensing streams was deployed - bluetooth beacons, wearable, smartphone, and social media. Our framework includes principled feature transformation and machine learning models that predict latent social media features from the other passive sensors. We demonstrate the efficacy of this imputation framework via a high correlation of 0.78 between actual and imputed social media features. With the imputed features, we test and validate predictions on psychological constructs like personality traits and affect. We find that adding the social media data streams, in their imputed form, improves the prediction of these measures. We discuss how our framework can be valuable in multimodal sensing studies that aim to gather comprehensive signals about an individual's state or situation.",
+  "summary": {
+    "oneLiner": "Machine-learning models can fill in missing social media features from other sensors (correlation 0.78), improving predictions of workers' personality and mood.",
+    "overview": "Social media can act as a passive sensor of behaviour, but many people post rarely or not at all, which leaves gaps in the data. In a large study of 757 information workers tracked through Bluetooth beacons, wearables, smartphones and social media, this paper builds a statistical framework that predicts the missing social media features from the other sensor streams. The imputed (filled-in) features correlated at 0.78 with the actual ones. Adding the imputed social media features improved predictions of psychological measures such as personality traits and affect (mood). The authors argue the approach can help multi-sensor studies build a fuller picture of a person's state.",
+    "question": "Can missing social media data in multi-sensor studies be imputed from other passive sensors, and does that improve predictions of psychological traits?",
+    "method": "Feature transformation and machine-learning models that predict latent social media features from beacon, wearable and smartphone data; the imputed features are then added to models that predict personality and affect.",
+    "data": "A large in-situ study of 757 information workers with four sensing streams: Bluetooth beacons, wearables, smartphones and social media. Years are not stated in the available sources.",
+    "findings": [
+      "Actual and imputed social media features showed a high correlation of 0.78.",
+      "Adding the imputed social media streams improved prediction of psychological constructs such as personality traits and affect."
+    ],
+    "whyItMatters": "Missing data is a routine problem in people analytics and wearable studies. The authors suggest the framework is useful for multi-sensor studies that try to capture comprehensive signals about a person's state or situation.",
+    "topics": ["missing data imputation", "social media data", "passive sensing", "machine learning", "personality prediction", "affect"],
+    "industries": ["Knowledge work"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2995885834"
+      ]
+    }
+  },
+  "versions": []
+}

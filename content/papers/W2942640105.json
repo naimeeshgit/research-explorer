@@ -1,0 +1,69 @@
+{
+  "id": "W2942640105",
+  "title": "The Tesserae Project: Large-Scale, Longitudinal, In Situ, Multimodal Sensing of Information Workers",
+  "year": 2019,
+  "date": "2019-04-30",
+  "type": "article",
+  "venue": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3290607.3299041",
+  "url": "https://doi.org/10.1145/3290607.3299041",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/3290607.3299041",
+  "citations": 95,
+  "authors": [
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Julie M. Gregg" },
+    { "name": "Pino G. Audia" },
+    { "name": "Ayse Elvan Bayraktaroglu" },
+    { "name": "Andrew Thomas Campbell" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Vedant Das Swain" },
+    { "name": "Munmun De Choudhury" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Anind K. Dey" },
+    { "name": "Ge Gao" },
+    { "name": "Krithika Jagannath" },
+    { "name": "Kaifeng Jiang" },
+    { "name": "Suwen Lin" },
+    { "name": "Qiang Liu" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Kizito Masaba" },
+    { "name": "Shayan Mirjafari" },
+    { "name": "Edward Moskal" },
+    { "name": "Raghu Mulukutla" },
+    { "name": "Kari Nies" },
+    { "name": "Manikanta D. Reddy" },
+    { "name": "Pablo Robles-Granda" },
+    { "name": "Koustuv Saha" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Aaron Striegel" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "The Tesserae project investigates how a suite of sensors can measure workplace performance (e.g., organizational citizenship behavior), psychological traits (e.g., personality, affect), and physical characteristics (e.g., sleep, activity) over one year. We enrolled 757 information workers across the U.S. and measure heart rate, physical activity, sleep, social context, and other aspects through smartwatches, a phone agent, beacons, and social media. We report challenges that we faced with enrollment, privacy, and incentive structures while setting up such a long-term multimodal large-scale sensor study. We discuss the tradeoffs of remote versus in-person enrollment, and showed that directly paid, in-person enrolled participants are more compliant overall compared to remotely-enrolled participants. We find that providing detailed information regarding privacy concerns up-front is highly beneficial. We believe that our experiences can benefit other large sensor projects as this field grows.",
+  "summary": {
+    "oneLiner": "In a year-long sensor study of 757 US information workers, paid in-person enrollees complied better, and explaining privacy up front helped.",
+    "overview": "The Tesserae project tracked 757 information workers across the US for a year using smartwatches, a phone app, Bluetooth beacons and social media, with the aim of measuring job performance, psychological traits such as personality and mood, and physical traits such as sleep. This short paper is a lessons-learned report on setting up a study of that size and length. The authors describe problems they hit with enrolment, privacy and incentive design. They report that participants who enrolled in person and were paid directly were more compliant overall than those enrolled remotely, and that giving detailed privacy information at the start was highly beneficial.",
+    "question": "What practical problems arise in running a year-long, large-scale, multi-sensor study of workers, and which enrolment, privacy and incentive choices work best?",
+    "method": "An experience report from setting up the study, comparing remote and in-person enrolment and reflecting on privacy communication and incentive structures. Details of the statistical comparisons are not stated in the available sources.",
+    "data": "757 information workers across the U.S., followed for one year through smartwatches (heart rate, physical activity, sleep), a phone agent, Bluetooth beacons and social media.",
+    "findings": [
+      "Directly paid participants who enrolled in person were more compliant overall than participants enrolled remotely.",
+      "Giving detailed information about privacy concerns up front was found to be highly beneficial.",
+      "The authors document enrolment, privacy and incentive challenges they expect other large sensor projects to face."
+    ],
+    "whyItMatters": "Anyone running workplace analytics or wearable programmes faces the same questions of how to recruit, pay and inform participants so they stay engaged. The authors offer their experience as a guide for future large sensor projects.",
+    "topics": ["workplace sensing", "wearables", "job performance", "study design", "privacy", "participant compliance", "information workers"],
+    "industries": ["Knowledge work"],
+    "geographies": ["United States"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2942640105",
+        "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html"
+      ]
+    }
+  },
+  "versions": []
+}

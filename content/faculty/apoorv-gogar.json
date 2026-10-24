@@ -1,0 +1,47 @@
+{
+  "slug": "apoorv-gogar",
+  "name": "Apoorv Gogar",
+  "title": "Assistant Professor, Accounting",
+  "area": "Accounting",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/apoorv-gogar",
+  "openalex": ["A5053743193"],
+  "photo": null,
+  "profile": {
+    "summary": "Apoorv Gogar is an accounting researcher who uses archival data to study how a firm's financial reporting affects the people who rely on it: creditors, information intermediaries such as credit rating agencies, and institutional investors. A central interest is how private lenders such as banks shape, and respond to, borrowers' reporting and disclosure. His working papers look at whether quarterly reporting lowers the cost of bank loans, what happened to Indian rating agencies and their clients after the ILFS default, and how fund-family conflicts shape index funds' securities lending.",
+    "themes": [
+      {
+        "name": "Financial reporting and bank debt",
+        "description": "Whether more frequent public reporting makes borrowers' private information more credible to lenders, and how that shows up in loan spreads and terms.",
+        "papers": ["X-apoorv-gogar-2026-reporting-frequency"]
+      },
+      {
+        "name": "Credit rating agencies and reputation",
+        "description": "The costs to rating agencies, and to the firms they rate, when an agency's reputation is damaged, studied through India's ILFS default.",
+        "papers": ["W4383270326"]
+      },
+      {
+        "name": "Institutional investors and conflicts of interest",
+        "description": "How fund-family interests influence passive funds' decisions to lend shares to short sellers.",
+        "papers": ["W4362686161"]
+      }
+    ],
+    "talkTo": [
+      "Quarterly vs semi-annual reporting and the cost of debt",
+      "How banks use financial statements when pricing loans",
+      "Credit rating agencies in India and the ILFS default",
+      "Index funds, securities lending and short selling",
+      "Conflicts of interest inside mutual fund families"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/apoorv-gogar",
+      "https://maastrichtuniversity.nl/gogar",
+      "https://www.isb.edu/faculty-and-research/research-directory/economic-consequences-of-reputational-damage-to-credit-rating-agencies",
+      "https://www.isb.edu/faculty-and-research/research-directory/non-passive-securities-lending-by-passive-investors",
+      "https://eprints.exchange.isb.edu/view/creators/Gogar=3AA=3A=3A.html",
+      "https://api.openalex.org/authors?search=Apoorv%20Gogar",
+      "https://www.iimb.ac.in/raiaf_iimb_symposium_2026/papers/Gogar_Neilson.pdf",
+      "https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2023-05/Non_Passive_Securities_Lending_by_Passive_Investors__032223.pdf"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

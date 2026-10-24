@@ -1,0 +1,49 @@
+{
+  "id": "W4400618169",
+  "title": "A scientific approach to decision-making: Key tools and design principles",
+  "year": 2024,
+  "date": "2024-07-14",
+  "type": "article",
+  "venue": "Journal of Business Venturing Design",
+  "doi": "https://doi.org/10.1016/j.jbvd.2024.100023",
+  "url": "https://doi.org/10.1016/j.jbvd.2024.100023",
+  "pdf": "https://openaccess.city.ac.uk/33323/3/20240704_Manuscript.pdf",
+  "citations": 10,
+  "authors": [
+    { "name": "Andrea Coali" },
+    { "name": "Elena Novelli" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Chiara Spina" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "The recent empirical studies have shown the positive impact of a scientific approach to decision-making on entrepreneurial performance. Building on this evidence, this article offers a description of the scientific approach that is oriented toward its practical implementation by entrepreneurs. Focusing on the approach's two main pillars – the processes of theory building and evidence gathering – we outline a set of tools developed to facilitate the application of the scientific approach in practical decision-making activities. Ultimately, we derive a set of design principles that researchers can adopt to develop novel tools and methodologies to aid entrepreneurial actions based on the prescriptive aspects of the scientific approach.",
+  "summary": {
+    "oneLiner": "Entrepreneurs can put the scientific approach (causal theory, falsifiable hypotheses, evidence, updating) into practice using four tools built on 13 design principles.",
+    "overview": "Field experiments have linked a \"scientific approach\" to entrepreneurial decisions with better performance: the entrepreneur treats the business idea as a theory, derives testable hypotheses, gathers evidence and updates. This conceptual paper turns that approach into practical tools: a story tree canvas, causal graphs (directed acyclic graphs), a theory map built on the Business Model or Lean Canvas, and a hypothesis canvas that links the theory to tests, measures and pass/fail thresholds. From these tools the authors derive 13 design principles, grouped under theory, hypotheses, evidence and evaluation, for anyone building similar tools. They set the approach apart from Lean Startup by its emphasis on building a theory up front and choosing experiments deliberately.",
+    "question": "How can the prescriptions of the scientific approach to entrepreneurial decision-making be turned into practical tools, and what design principles should guide such tools?",
+    "method": "A conceptual, design-oriented synthesis of prior research and of tools developed by the authors' team. The tools were pre-tested with Master's-level research assistants, scholars, practitioners and instructors, but were not individually validated, and the paper reports no new empirical study.",
+    "data": "No new data. The paper draws on earlier randomized controlled trials, including a pilot with 116 start-ups, field experiments with more than 750 early-stage entrepreneurs, and a trial with agricultural entrepreneurs in Tanzania.",
+    "findings": [
+      "The approach can be summarised in five steps: formulate a theory, outline falsifiable hypotheses, gather evidence, update the theory, then decide or repeat the cycle.",
+      "Four tools support it: a story tree canvas for breaking a problem into causes, causal graphs with subjective probabilities, a theory map that links canvas elements causally, and a one-page hypothesis canvas.",
+      "The authors derive 13 design principles, such as encouraging parsimony, making hypotheses falsifiable, choosing an appropriate evidence technique and setting thresholds in advance.",
+      "They argue the approach suits uncertain, unstructured, low-frequency but high-impact decisions, while Lean Startup may fit more structured problems.",
+      "They note that the tools' effectiveness is supported only 'prima facie' by earlier trials and call for controlled experiments and longitudinal studies."
+    ],
+    "whyItMatters": "For founders and managers making big calls with little data, the paper offers ready-to-use canvases for laying out assumptions and testing them. The authors suggest the tools could extend from entrepreneurs to managers and that the design principles could inform entrepreneurship teaching.",
+    "topics": ["entrepreneurial decision-making", "scientific approach", "lean startup", "hypothesis testing", "business experimentation", "design principles", "entrepreneurship education"],
+    "industries": ["Start-ups (cross-industry)"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4400618169",
+        "https://openaccess.city.ac.uk/33323/3/20240704_Manuscript.pdf",
+        "https://openaccess.city.ac.uk/view/creators/Sirigiri=3AA=2E=3A=3A.html"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "W2737807965",
+  "title": "Experienced Hires and Growth of Start-ups",
+  "year": 2016,
+  "date": null,
+  "type": "article",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/ambpp.2016.16929abstract",
+  "url": "https://doi.org/10.5465/ambpp.2016.16929abstract",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "This study examines the effect of hiring experienced employees on growth of a start-up. Using a unique dataset comprising of employment histories of employees of Indian Consumer Digital start-ups, we contribute to entrepreneurship and strategy literature by looking at the hiring strategies of young firms. Hiring experienced employees can catalyze firm performance in either positive or negative ways. Positive effect can be attributed to the employee experience and the negative effect to the rigidity that [they] contribute to the existing setup in the firm. Combining insights from the managerial productivity and Information Technology (IT) productivity literature, we extend the arguments to entrepreneurship human capital literature [that] focuses on the employees and beyond founder human capital. Prior studies find that firms derive significant productivity benefits from the IT investments of other firms from which they hire IT, labor, which makes experienced IT human capital a key resource to start-ups. Studies that emphasize on quality of management as a significant determinant of productivity underscore the importance of Non-IT human capital. Categorizing the employees into IT and Non-IT human capital we seek to provide insights that differentiate between the contributions of type of experienced employees. We provide evidence that these effects vary as the start-up matures from a very early phase where the start-up is synonymous with the founder to early phases where growth takes-off and eventually scales to be a larger firm.",
+  "summary": {
+    "oneLiner": "Hiring experienced IT and non-IT employees can help or hinder start-up growth, and the effects vary as start-ups mature, in Indian consumer digital firms.",
+    "overview": "Experienced hires bring know-how, but they can also bring rigidity to a young firm's way of working. This conference abstract studies how hiring experienced employees affects a start-up's growth, using the employment histories of employees at Indian consumer digital start-ups. Drawing on research about managerial productivity and IT productivity, it splits experienced employees into IT and non-IT talent to see whether their contributions differ. The author reports evidence that these effects change as the start-up moves from a founder-centred phase, through growth take-off, to scale. The abstract does not state the size or direction of the effects for each group.",
+    "question": "How does hiring experienced employees, IT and non-IT, affect a start-up's growth, and does this change as the start-up matures?",
+    "method": "Empirical analysis of employee employment histories, classifying experienced hires as IT or non-IT human capital and comparing effects across start-up life stages. The specific estimation approach is not stated in the available sources.",
+    "data": "A unique dataset of employment histories of employees of Indian consumer digital start-ups. Years and sample size are not stated in the available sources.",
+    "findings": [
+      "Hiring experienced employees can affect start-up performance positively (through their experience) or negatively (through rigidity they bring to the existing setup).",
+      "The study reports evidence that these effects vary as the start-up matures, from a founder-centred early phase through growth take-off to scale.",
+      "The abstract distinguishes IT from non-IT experienced hires but does not state how their effects differ."
+    ],
+    "whyItMatters": "Founders must decide when to bring in seasoned engineers or managers. The study extends entrepreneurship research beyond founders to early employees and suggests the value of experience may depend on the firm's stage.",
+    "topics": ["start-up hiring", "human capital", "experienced hires", "IT talent", "start-up growth", "Indian start-ups"],
+    "industries": ["Consumer digital / internet"],
+    "geographies": ["India"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2737807965"
+      ]
+    }
+  },
+  "versions": []
+}

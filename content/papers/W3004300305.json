@@ -1,0 +1,68 @@
+{
+  "id": "W3004300305",
+  "title": "A Multisensor Person-Centered Approach to Understand the Role of Daily Activities in Job Performance with Organizational Personas",
+  "year": 2019,
+  "date": "2019-12-11",
+  "type": "article",
+  "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "doi": "https://doi.org/10.1145/3369828",
+  "url": "https://doi.org/10.1145/3369828",
+  "pdf": null,
+  "citations": 45,
+  "authors": [
+    { "name": "Vedant Das Swain" },
+    { "name": "Koustuv Saha" },
+    { "name": "Hemang Rajvanshy" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Julie M. Gregg" },
+    { "name": "Suwen Lin" },
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Shayan Mirjafari" },
+    { "name": "Raghu Mulukutla" },
+    { "name": "Subigya Kumar Nepal" },
+    { "name": "Kari Nies" },
+    { "name": "Manikanta D. Reddy" },
+    { "name": "Pablo Robles-Granda" },
+    { "name": "Andrew Thomas Campbell" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Anind K. Dey" },
+    { "name": "Kaifeng Jiang" },
+    { "name": "Qiang Liu" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Edward Moskal" },
+    { "name": "Aaron Striegel" },
+    { "name": "Louis Tay" },
+    { "name": "Gregory D. Abowd" },
+    { "name": "Munmun De Choudhury" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "Several psychologists posit that performance is not only a function of personality but also of situational contexts, such as day-level activities. Yet in practice, since only personality assessments are used to infer job performance, they provide a limited perspective by ignoring activity. However, multi-modal sensing has the potential to characterize these daily activities. This paper illustrates how empirically measured activity data complements traditional effects of personality to explain a worker's performance. We leverage sensors in commodity devices to quantify the activity context of 603 information workers. By applying classical clustering methods on this multisensor data, we take a person-centered approach to describe workers in terms of both personality and activity. We encapsulate both these facets into an analytical framework that we call organizational personas. On interpreting these personas, we find empirical evidence to support that, independent of a worker's personality, their activity is associated with job performance. While consistent with the literature, we find that the activity is equally effective in explaining organizational citizenship behavior and task proficiency, but is less significantly effective for deviant behaviors. Specifically, personas that exhibit a daily-activity pattern with fewer location visits, batched phone-use, shorter desk-sessions and longer sleep duration, tend to perform better on all three performance metrics. Organizational personas and descriptive analysis can identify testable hypotheses that can disentangle the role of malleable aspects like activity in determining performance of a worker population.",
+  "summary": {
+    "oneLiner": "Beyond personality, workers' daily activity patterns, like fewer location visits, batched phone use and longer sleep, are associated with better job performance.",
+    "overview": "Firms often lean on personality tests to predict job performance, but some psychologists argue that what people do day to day also matters. This paper uses sensors in everyday devices to measure the daily activity of 603 information workers, then groups workers into \"organizational personas\" that combine personality and activity. The authors find evidence that activity is associated with performance independent of personality. Personas with fewer location visits, batched phone use, shorter desk sessions and longer sleep tended to score better on all three performance measures. The authors present the personas as a way to generate testable hypotheses, not as proof of cause and effect.",
+    "question": "Does measured daily activity help explain a worker's job performance beyond what personality explains?",
+    "method": "A person-centred approach: classical clustering of multisensor activity data together with personality to define organizational personas, followed by descriptive analysis of how the personas relate to performance.",
+    "data": "Activity data from sensors in commodity devices for 603 information workers, with performance measured as organizational citizenship behaviour, task proficiency and deviant behaviour. Years and employers are not stated in the available sources.",
+    "findings": [
+      "Independent of personality, a worker's activity is associated with job performance.",
+      "Activity was about equally useful in explaining organizational citizenship behaviour and task proficiency, but less significantly so for deviant behaviour.",
+      "Personas with fewer location visits, batched phone use, shorter desk sessions and longer sleep tended to perform better on all three performance metrics."
+    ],
+    "whyItMatters": "The authors argue that personality-only assessments give a limited view of performance. Their personas point to habits that can change, such as sleep and phone use, as candidates for future tests of what drives performance.",
+    "topics": ["job performance", "personality", "daily activity", "sleep", "phone use", "wearables", "people analytics"],
+    "industries": ["Knowledge work"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W3004300305",
+        "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html"
+      ]
+    }
+  },
+  "versions": []
+}

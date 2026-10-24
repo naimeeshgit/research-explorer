@@ -1,0 +1,59 @@
+{
+  "id": "W2942539385",
+  "title": "Social Media as a Passive Sensor in Longitudinal Studies of Human Behavior and Wellbeing",
+  "year": 2019,
+  "date": "2019-04-30",
+  "type": "article",
+  "venue": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3290607.3299065",
+  "url": "https://doi.org/10.1145/3290607.3299065",
+  "pdf": null,
+  "citations": 46,
+  "authors": [
+    { "name": "Koustuv Saha" },
+    { "name": "Ayse E. Bayraktaroglu" },
+    { "name": "Andrew T. Campbell" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Munmun De Choudhury" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Anind K. Dey" },
+    { "name": "Ge Gao" },
+    { "name": "Julie M. Gregg" },
+    { "name": "Krithika Jagannath" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Edward Moskal" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Aaron Striegel" },
+    { "name": "Dong Whi Yoo" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "Social media serves as a platform to share thoughts and connect with others. The ubiquitous use of social media also enables researchers to study human behavior as the data can be collected in an inexpensive and unobtrusive way. Not only does social media provide a passive means to collect historical data at scale, it also functions as a \"verbal\" sensor, providing rich signals about an individual's social ecological context. This case study introduces an infrastructural framework to illustrate the feasibility of passively collecting social media data at scale in the context of an ongoing multimodal sensing study of workplace performance (N=757). We study our dataset in its relationship with demographic, personality, and wellbeing attributes of individuals. Importantly, as a means to study selection bias, we examine what characterizes individuals who choose to consent to sharing social media data vs. those who do not. Our work provides practical experiences and implications for the research in the HCI field who seek to conduct similar longitudinal studies that harness the potential of social media data.",
+  "summary": {
+    "oneLiner": "Passively collecting social media data at scale is feasible in a 757-person workplace study, and comparing who consents helps gauge selection bias.",
+    "overview": "Social media posts are cheap and unobtrusive to collect, and they can act as a \"verbal\" sensor of a person's social context. This case study describes an infrastructure for passively collecting social media data at scale inside an ongoing multi-sensor study of workplace performance with 757 participants. The authors relate the social media data to participants' demographics, personality and wellbeing. They also compare people who agreed to share their social media data with those who did not, as a way to study selection bias. The paper offers practical lessons for researchers planning similar long-term studies.",
+    "question": "Is it feasible to passively collect social media data at scale in a longitudinal workplace study, and how do people who consent to share it differ from those who do not?",
+    "method": "A case study describing the data-collection framework, with analysis of the social media data against demographic, personality and wellbeing attributes and a comparison of consenters and non-consenters.",
+    "data": "Social media data from participants in an ongoing multimodal sensing study of workplace performance (N=757). Platforms and years are not stated in the available sources.",
+    "findings": [
+      "The authors show that passively collecting social media data at scale is feasible within a large multimodal sensing study.",
+      "They examine how the social media data relate to demographic, personality and wellbeing attributes; specific results are not stated in the available sources.",
+      "They characterise who chose to share social media data versus who did not, to study selection bias; the specific differences are not stated in the available sources."
+    ],
+    "whyItMatters": "Researchers and firms increasingly use digital traces to understand people. The authors offer practical experience for anyone running similar longitudinal studies, including the point that people who opt in may differ from those who do not.",
+    "topics": ["social media data", "passive sensing", "selection bias", "employee wellbeing", "personality", "longitudinal studies"],
+    "industries": ["Knowledge work"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2942539385",
+        "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html"
+      ]
+    }
+  },
+  "versions": []
+}

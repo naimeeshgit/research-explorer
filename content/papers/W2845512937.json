@@ -1,0 +1,42 @@
+{
+  "id": "W2845512937",
+  "title": "Start-up to Scale-up: Role of Organizational Structure",
+  "year": 2018,
+  "date": "2018-07-09",
+  "type": "article",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/ambpp.2018.17914abstract",
+  "url": "https://eprints.exchange.isb.edu/id/eprint/1781/",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "Organizational structure is a double-edged sword. While contributing to improving efficiency on one hand, it also stifles innovation and creativity by constraining flexibility in an organization. While extant literature provides insights regarding costs and benefits of various aspects of organizational structure in an established firm context, it is less clear as to what role organizational structure plays in a start-up. This is majorly due to data constraints. Multiple research streams unite on underlying tradeoff between flexibility-efficiency when they refer to mixed effects of organizational structure. While start-ups are resource-constrained entities that are experimenting with their business models and flexibility is their strength that provides them a conducive environment to explore. Having an organizational structure can reduce decision-making time, coordination costs and improve efficiency of processes as start-ups setup routines required to scale-up. In this study, I ask if having an organizational structure early-on helps start-ups scale-up. Using a novel linked employee-employer dataset of internet-based start-ups in India; I focus upon hierarchy and horizontal functional structure in start-ups",
+  "summary": {
+    "oneLiner": "Does adding hierarchy and functional teams early help Indian internet start-ups scale? A new linked employee-employer dataset tackles the flexibility-versus-efficiency trade-off.",
+    "overview": "Organizational structure can make a firm more efficient but can also stifle flexibility and creativity, and most research on this trade-off looks at established firms because start-up data are scarce. This single-author conference abstract asks whether having an organizational structure early on helps start-ups scale up. Start-ups are experimenting with their business models and benefit from flexibility, but structure could cut decision time and coordination costs as they build the routines needed for scale. Using a new dataset linking employees to the internet start-ups in India they work for, the study focuses on hierarchy (layers of management) and horizontal functional structure (separate functions such as marketing or engineering). The abstract does not report results.",
+    "question": "Does having an organizational structure (hierarchy and horizontal functional structure) early on help start-ups scale up?",
+    "method": "Empirical analysis of start-up structure using a linked employee-employer dataset. The specific estimation approach is not stated in the available sources.",
+    "data": "A novel linked employee-employer dataset of internet-based start-ups in India. Years and sample size are not stated in the available sources.",
+    "findings": [
+      "Not stated in the available sources: the abstract sets out the question, data and focus but does not report results.",
+      "The study frames structure as a trade-off: it may reduce decision-making time and coordination costs but can constrain the flexibility start-ups rely on to explore."
+    ],
+    "whyItMatters": "Founders scaling a company have to decide when to add managers and functional teams. The author notes that evidence on this question in start-ups has been limited by data, which this dataset aims to address.",
+    "topics": ["start-up scaling", "organizational structure", "hierarchy", "functional structure", "Indian start-ups", "strategic human capital"],
+    "industries": ["Internet start-ups"],
+    "geographies": ["India"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/id/eprint/1781/",
+        "https://api.openalex.org/works/W2845512937"
+      ]
+    }
+  },
+  "versions": []
+}

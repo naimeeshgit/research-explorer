@@ -1,0 +1,52 @@
+{
+  "slug": "anusha-sirigiri",
+  "name": "Anusha Sirigiri",
+  "title": "Assistant Professor, Entrepreneurship",
+  "area": "Entrepreneurship",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/anusha-sirigiri",
+  "openalex": ["A5069576325"],
+  "photo": null,
+  "profile": {
+    "summary": "Anusha Sirigiri studies entrepreneurship, strategy and strategic human capital: how start-ups are staffed and structured as they grow, and how entrepreneurs can make better decisions. Her start-up work uses employee-level data on Indian internet and consumer digital start-ups to ask when experienced hires and formal structure help a young firm scale, and she has co-written on turning the 'scientific approach' (treat your idea as a theory, test it, update) into practical tools. Earlier, as part of a large US study of 757 information workers, she co-authored papers using phones, wearables and social media to measure employee wellbeing and job performance.",
+    "themes": [
+      {
+        "name": "Scaling start-ups: structure and talent",
+        "description": "How hiring experienced (IT and non-IT) employees and adding hierarchy or functional teams relate to the growth of Indian internet start-ups, and how this changes as the firm matures.",
+        "papers": ["W2845512937", "W2737807965"]
+      },
+      {
+        "name": "Entrepreneurial decision-making and wellbeing",
+        "description": "Practical tools and design principles for the scientific approach to entrepreneurial decisions, and work on effectuation and entrepreneurs' wellbeing.",
+        "papers": ["W4400618169", "X-anusha-sirigiri-2024-effectuation-wellbeing"]
+      },
+      {
+        "name": "Sensing job performance and wellbeing",
+        "description": "Using phones, wearables, beacons and LinkedIn data to measure how daily activity and role clarity relate to workers' wellbeing and job performance.",
+        "papers": ["W2942640105", "W2954300939", "W3004300305", "W2986412349"]
+      },
+      {
+        "name": "Methods for large sensing studies",
+        "description": "Practical lessons on running long multi-sensor studies: collecting social media data, filling in missing data, and predicting who will keep complying.",
+        "papers": ["W2942539385", "W2995885834", "W3204546967"]
+      }
+    ],
+    "talkTo": [
+      "When a start-up should add hierarchy or functional teams",
+      "Hiring experienced engineers and managers at an early-stage start-up",
+      "Testing a business idea with hypotheses and experiments (scientific approach vs Lean Startup)",
+      "Indian internet and consumer digital start-ups as a research setting",
+      "Using wearables and digital traces in people analytics",
+      "Role clarity, wellbeing and job performance"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/anusha-sirigiri",
+      "https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/anusha-sirigiri.html",
+      "https://www.isb.edu/faculty-and-research/research-directory/effectuation-and-entrepreneurial-well-being",
+      "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html",
+      "https://api.openalex.org/authors?search=Anusha%20Sirigiri",
+      "https://api.openalex.org/works?filter=author.id:A5069576325&per_page=50&select=id,display_name,publication_year,publication_date,type,doi,cited_by_count",
+      "https://openaccess.city.ac.uk/view/creators/Sirigiri=3AA=2E=3A=3A.html"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "X-apoorv-gogar-2026-reporting-frequency",
+  "title": "Financial Reporting Frequency, the Confirmatory Role of Accounting, and the Cost of Bank Debt",
+  "year": 2026,
+  "date": null,
+  "type": "preprint",
+  "venue": "Working paper",
+  "doi": null,
+  "url": "https://www.iimb.ac.in/raiaf_iimb_symposium_2026/papers/Gogar_Neilson.pdf",
+  "pdf": "https://www.iimb.ac.in/raiaf_iimb_symposium_2026/papers/Gogar_Neilson.pdf",
+  "citations": 0,
+  "authors": [
+    { "name": "Apoorv Gogar", "isb": "apoorv-gogar" },
+    { "name": "Jed Neilson" }
+  ],
+  "isb": ["apoorv-gogar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Quarterly reporting is associated with roughly 18 basis points lower bank-loan spreads than semi-annual reporting, consistent with public reports confirming lenders' private information.",
+    "overview": "Banks already get plenty of private information from borrowers, so why would how often a firm publishes financial reports affect its loan terms? This working paper argues that frequent public reports play a \"confirmatory\" role: they make the private information borrowers give lenders more credible and verifiable. Using European firms around the EU Transparency Directive, which moved some countries from semi-annual to quarterly reporting between 2007 and 2009, the authors find that quarterly reporters pay lower loan spreads and get better or no worse non-price terms. The effect is concentrated among firms with Big 4 auditors and clean audit opinions, and is larger for unrated and below-investment-grade borrowers.",
+    "question": "Does more frequent public financial reporting lower a firm's cost of bank debt by strengthening the confirmatory role of accounting?",
+    "method": "Regressions of the log loan spread (margin over LIBOR or EURIBOR) on a quarterly-reporting indicator with borrower, loan and fixed-effect controls; a difference-in-differences design comparing firms forced from semi-annual to quarterly reporting by the EU Transparency Directive with firms already reporting quarterly, with pre-trend tests; cross-sectional splits by audit quality and credit risk; tests of non-price loan terms; and Singapore's 2003 quarterly-reporting mandate as a secondary setting.",
+    "data": "5,708 loan facilities to 981 listed non-financial firms in EU-15 countries, 2001-2018, from Worldscope (supplemented by FactSet) and DealScan (with SDC). The difference-in-differences sample covers 2004-2015 (772 observations); the Singapore test has 62 observations.",
+    "findings": [
+      "Quarterly reporters pay spreads about 18 basis points lower than semi-annual reporters, roughly 10% of the sample mean.",
+      "In the difference-in-differences tests, firms forced to switch to quarterly reporting show a significant decline in spreads, with no differential trends before the switch.",
+      "The spread reduction is concentrated among Big 4-audited firms and firms with unqualified audit opinions, and is larger for unrated and speculative-grade borrowers, which the authors read as support for the confirmatory channel.",
+      "Non-price terms are better or no worse for quarterly reporters: larger loans, more lenders in the syndicate, and some evidence of fewer covenants.",
+      "Singapore results are qualitatively similar but rest on a small sample."
+    ],
+    "whyItMatters": "The authors suggest debates over mandatory quarterly reporting should weigh its benefits for debt contracting, not only its effects on equity markets. For finance managers, the results point to a possible link between reporting frequency and borrowing costs.",
+    "topics": ["financial reporting frequency", "quarterly reporting", "bank loans", "cost of debt", "debt contracting", "EU Transparency Directive", "audit quality"],
+    "industries": ["Banking", "Listed non-financial firms"],
+    "geographies": ["Europe (EU-15)", "Singapore"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.iimb.ac.in/raiaf_iimb_symposium_2026/papers/Gogar_Neilson.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "W3204546967",
+  "title": "Predicting Participant Compliance With Fitness Tracker Wearing and Ecological Momentary Assessment Protocols in Information Workers: Observational Study",
+  "year": 2021,
+  "date": "2021-09-24",
+  "type": "article",
+  "venue": "JMIR mHealth and uHealth",
+  "doi": "https://doi.org/10.2196/22218",
+  "url": "https://doi.org/10.2196/22218",
+  "pdf": "https://mhealth.jmir.org/2021/11/e22218/PDF",
+  "citations": 24,
+  "authors": [
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Pablo Robles-Granda" },
+    { "name": "Koustuv Saha" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Jessica Young" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Munmun De Choudhury" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Aaron Striegel" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Demographics and personality explain a modest share of wearable and survey compliance, but compliance in a study's second week predicts far more.",
+    "overview": "Studies that use wearables or short in-the-moment phone surveys (ecological momentary assessments, or EMAs) lose value when participants stop complying. This observational study gave 757 information workers fitness trackers for a year and EMAs for their first 56 days, then tested how well compliance could be predicted in advance. Demographics and personality explained 16% (EMA) and 25% (wearable) of the variation in compliance in a held-out sample; adding second-week compliance raised this to 62% and 66%. Being older, a native English speaker, a previous wearable owner and conscientious were associated with higher compliance, while extraversion and holding a supervisory role were associated with lower compliance. The authors recommend running a two-week pilot to spot participants at risk of dropping off, among other practices.",
+    "question": "To what extent can participants' compliance with wearable and survey protocols be predicted from their individual characteristics and early compliance?",
+    "method": "Observational study. Thirty-one individual and behavioural variables were considered and 14 selected for beta regression models predicting EMA compliance at 56 days and wearable compliance at one year, evaluated on a held-out sample. A survey about study participation was correlated with compliance.",
+    "data": "757 information workers given fitness trackers for one year, with EMAs in their first 56 days; demographics, personality and early behaviour such as use of the study portal.",
+    "findings": [
+      "Demographics and personality explained 16% of the variance in EMA compliance and 25% in wearable compliance in a held-out sample.",
+      "Higher compliance was associated with being older, speaking English as a first language, having owned a wearable before and conscientiousness; lower compliance with extraversion and a supervisory role.",
+      "Higher wearable compliance was also negatively associated with agreeableness and neuroticism.",
+      "Adding second-week compliance explained 62% (EMA) and 66% (wearable) of the variance.",
+      "Compliance correlated with participants' views on ease of participation, the usefulness of the compliance portal, timely issue resolution and adequate pay, which the authors suggest are levers for improving it."
+    ],
+    "whyItMatters": "For anyone running wearable programmes or long panel studies, the authors recommend a two-week pilot to measure trait-like compliance, oversampling by participant characteristics to avoid bias when non-compliers are dropped, an issue-tracking portal, and careful troubleshooting support.",
+    "topics": ["wearables", "participant compliance", "ecological momentary assessment", "personality", "study design", "digital health"],
+    "industries": ["Knowledge work", "Digital health"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W3204546967",
+        "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "W2986412349",
+  "title": "LibRA: On LinkedIn based Role Ambiguity and Its Relationship with Wellbeing and Job Performance",
+  "year": 2019,
+  "date": "2019-11-07",
+  "type": "article",
+  "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+  "doi": "https://doi.org/10.1145/3359239",
+  "url": "https://www.isb.edu/faculty-and-research/research-directory/libra-on-linkedin-based-role-ambiguity-and-its-relationship-with-wellbeing-and-job-performance",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/3359239",
+  "citations": 29,
+  "authors": [
+    { "name": "Koustuv Saha" },
+    { "name": "Manikanta D. Reddy" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Edward Moskal" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Munmun De Choudhury" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "Job roles serve as a boundary between an employee and an organization, and are often considered building blocks in understanding the behavior and functioning of organizational systems. However, a lack of clarity about one's role, that is, one's work responsibilities and degree of authority, can lead to absenteeism, turnover, dissatisfaction, stress, and lower workplace performance. This paper proposes a methodology to quantitatively estimate role ambiguity via unobtrusively gathered data from LinkedIn, shared voluntarily by a cohort of information workers spanning multiple organizations. After successfully validating this LinkedIn based measure of Role Ambiguity, or LibRA against a state-of-the-art gold standard, drawing upon theories in organizational psychology, we examine the efficacy and convergent validity of LibRA in explaining established relationships of role ambiguity with wellbeing and performance measures of individuals. We find that greater LibRA is associated with depleted wellbeing, such as increased heart rate, increased arousal, decreased sleep, and higher stress. In addition, greater LibRA is associated with lower job performance such as decreased organizational citizenship behavior and decreased individual task performance. We discuss how LibRA can help fill gaps in state-of-the-art assessments of role ambiguity, and the potential of this measure in building novel technology-mediated strategies to combat role ambiguity in organizations.",
+  "summary": {
+    "oneLiner": "A role-ambiguity score built from workers' LinkedIn profiles is associated with higher stress, less sleep and lower job performance.",
+    "overview": "Role ambiguity means being unclear about your responsibilities and how much authority you have; earlier research links it to absenteeism, turnover, stress and weaker performance. This paper builds LibRA, a measure of role ambiguity estimated from LinkedIn data that a group of information workers across several organisations shared voluntarily. After validating it against an established gold-standard measure, the authors test whether it reproduces known links between role ambiguity, wellbeing and performance. Higher LibRA scores are associated with worse wellbeing (higher heart rate and arousal, less sleep, more stress) and lower job performance. The authors suggest the measure could support new technology-based ways to reduce role ambiguity at work.",
+    "question": "Can role ambiguity be measured unobtrusively from LinkedIn data, and does that measure relate to wellbeing and job performance the way organizational psychology predicts?",
+    "method": "The authors construct a LinkedIn-based role ambiguity measure, validate it against a state-of-the-art gold standard, and then test its associations with wellbeing and performance measures. Technical details of the measure are not stated in the available sources.",
+    "data": "LinkedIn data shared voluntarily by a cohort of information workers spanning multiple organizations, plus wellbeing measures (heart rate, arousal, sleep, stress) and job performance measures. Sample size and years are not stated in the available sources.",
+    "findings": [
+      "The LinkedIn-based measure was validated against a gold-standard role ambiguity measure.",
+      "Greater LibRA is associated with depleted wellbeing: higher heart rate, higher arousal, less sleep and higher stress.",
+      "Greater LibRA is associated with lower organizational citizenship behaviour (helping beyond one's formal job) and lower individual task performance."
+    ],
+    "whyItMatters": "Clear role definitions are something managers control. The authors suggest LibRA could fill gaps in current ways of assessing role ambiguity and help build technology-mediated strategies to tackle it in organizations.",
+    "topics": ["role ambiguity", "LinkedIn", "employee wellbeing", "job performance", "stress", "people analytics", "social media data"],
+    "industries": ["Knowledge work"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/libra-on-linkedin-based-role-ambiguity-and-its-relationship-with-wellbeing-and-job-performance",
+        "https://api.openalex.org/works/W2986412349"
+      ]
+    }
+  },
+  "versions": []
+}

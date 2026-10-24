@@ -1,0 +1,70 @@
+{
+  "id": "W2954300939",
+  "title": "Differentiating Higher and Lower Job Performers in the Workplace Using Mobile Sensing",
+  "year": 2019,
+  "date": "2019-06-21",
+  "type": "article",
+  "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "doi": "https://doi.org/10.1145/3328908",
+  "url": "https://doi.org/10.1145/3328908",
+  "pdf": null,
+  "citations": 82,
+  "authors": [
+    { "name": "Shayan Mirjafari" },
+    { "name": "Kizito Masaba" },
+    { "name": "Ted Grover" },
+    { "name": "Weichen Wang" },
+    { "name": "Pino G. Audia" },
+    { "name": "Andrew Thomas Campbell" },
+    { "name": "Nitesh V. Chawla" },
+    { "name": "Vedant Das Swain" },
+    { "name": "Munmun De Choudhury" },
+    { "name": "Anind K. Dey" },
+    { "name": "Sidney K. D'Mello" },
+    { "name": "Ge Gao" },
+    { "name": "Julie M. Gregg" },
+    { "name": "Krithika Jagannath" },
+    { "name": "Kaifeng Jiang" },
+    { "name": "Suwen Lin" },
+    { "name": "Qiang Liu" },
+    { "name": "Gloria J. Mark" },
+    { "name": "Gonzalo J. Martinez" },
+    { "name": "Stephen M. Mattingly" },
+    { "name": "Edward Moskal" },
+    { "name": "Raghu Mulukutla" },
+    { "name": "Subigya Nepal" },
+    { "name": "Kari Nies" },
+    { "name": "Manikanta D. Reddy" },
+    { "name": "Pablo Robles-Granda" },
+    { "name": "Koustuv Saha" },
+    { "name": "Anusha Sirigiri", "isb": "anusha-sirigiri" },
+    { "name": "Aaron Striegel" }
+  ],
+  "isb": ["anusha-sirigiri"],
+  "abstract": "Assessing performance in the workplace typically relies on subjective evaluations, such as, peer ratings, supervisor ratings and self assessments, which are manual, burdensome and potentially biased. We use objective mobile sensing data from phones, wearables and beacons to study workplace performance and offer new insights into behavioral patterns that distinguish higher and lower performers in the workplace when [considering] roles in companies (i.e., supervisors and non-supervisors) and different types of companies (i.e., high tech and consultancy). We present initial results from an ongoing year-long study of N=554 information workers collected over a period ranging from 2-8.5 months. We train a gradient boosting classifier that can classify workers as higher or lower performers with AUROC of 0.83. Our work opens the way to new forms of objective passive assessment and feedback to workers to provide potentially week by week or quarter by quarter guidance in the workplace.",
+  "summary": {
+    "oneLiner": "Phone, wearable and beacon data let a machine-learning model separate higher from lower job performers with an AUROC of 0.83 among 554 workers.",
+    "overview": "Performance reviews usually rely on peer, supervisor or self ratings, which the authors describe as manual, burdensome and potentially biased. This paper asks whether passively collected sensor data from phones, wearables and Bluetooth beacons can tell higher and lower performers apart. Using early data from an ongoing year-long study of 554 information workers, the authors look at behaviour patterns for supervisors versus non-supervisors and for high-tech versus consultancy firms. A gradient boosting classifier (a standard machine-learning method) separates higher from lower performers with an AUROC of 0.83, where 0.5 is a coin flip and 1 is perfect. The authors see this as a first step toward objective, passive performance feedback.",
+    "question": "Can objective mobile-sensing data distinguish higher from lower performers at work, taking into account role (supervisor or not) and company type?",
+    "method": "Behavioural features from phone, wearable and beacon data, compared across roles and company types, and a gradient boosting classifier trained to label workers as higher or lower performers.",
+    "data": "Initial results from an ongoing year-long study of 554 information workers, with data per person covering 2 to 8.5 months, in high-tech and consultancy companies. Company names and years are not stated in the available sources.",
+    "findings": [
+      "A gradient boosting classifier classified workers as higher or lower performers with an AUROC of 0.83.",
+      "The authors report behavioural patterns that distinguish higher and lower performers by role and company type; the specific patterns are not stated in the abstract."
+    ],
+    "whyItMatters": "Subjective reviews are costly and can be biased. The authors suggest passive sensing could eventually give workers objective feedback week by week or quarter by quarter.",
+    "topics": ["job performance", "mobile sensing", "wearables", "people analytics", "machine learning", "performance appraisal"],
+    "industries": ["Technology", "Consulting"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W2954300939",
+        "https://eprints.exchange.isb.edu/view/subjects/fac=5Fent.html"
+      ]
+    }
+  },
+  "versions": []
+}

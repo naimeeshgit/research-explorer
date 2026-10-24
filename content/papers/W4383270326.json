@@ -1,0 +1,48 @@
+{
+  "id": "W4383270326",
+  "title": "Economic Consequences of Reputational Damage to Credit Rating Agencies",
+  "year": 2023,
+  "date": null,
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.4498235",
+  "url": "https://www.isb.edu/faculty-and-research/research-directory/economic-consequences-of-reputational-damage-to-credit-rating-agencies",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Apoorv Gogar", "isb": "apoorv-gogar" },
+    { "name": "Hariom Manchiraju" },
+    { "name": "Shyam V. Sunder" }
+  ],
+  "isb": ["apoorv-gogar"],
+  "abstract": "Our study documents the direct and spillover costs arising from the loss of reputation for credit rating agencies (CRAs). Credit ratings are essential for a well-functioning debt market, and the integrity of these ratings depends on the reputation of the CRAs. Using data from the unexpected default by AAA-rated ILFS, a large Indian infrastructure finance firm, in what was dubbed \"India's Lehman moment,\" we shed light on (a) the economic effects of reputation loss for CRAs, (b) the externalities from such a reputational loss for debt issuers, and (c) CRA response to reputation loss. Unlike in prior studies, we examine publicly listed CRAs, and our setting offers a sharper identification due to the presence of both tainted and untainted CRAs, i.e., CRAs that rated ILFS debt and those that did not. We find that (i) around the dates of the ILFS default, there is a significant decline in the market values of the tainted CRAs, (ii) there is a negative spillover effect on issuers rated by the tainted CRAs, (iii) the tainted CRAs tighten their ratings after this default crisis, and (iv) such an improvement in the quality of ratings helps the tainted CRAs to hold on to their market shares. Collectively, these findings provide useful empirical evidence on the capital market impact of damage to CRAs' reputations.",
+  "summary": {
+    "oneLiner": "After AAA-rated ILFS defaulted, rating agencies that had rated it lost market value, their client issuers suffered spillovers, and the agencies tightened ratings.",
+    "overview": "Credit ratings only work if investors trust the agencies behind them. This working paper uses the unexpected default of AAA-rated ILFS, a large Indian infrastructure finance firm, in what was called \"India's Lehman moment,\" to study what happens when rating agencies lose their reputation. Because some agencies had rated ILFS debt (\"tainted\") and others had not, the authors can compare the two groups, and unlike earlier studies they look at agencies that are themselves publicly listed. They find that tainted agencies' market values fell significantly around the default dates, that issuers rated by tainted agencies suffered negative spillovers, and that tainted agencies tightened their ratings afterwards. The authors report that this improvement in rating quality helped the tainted agencies hold on to their market shares.",
+    "question": "What are the direct and spillover costs when credit rating agencies lose their reputation, and how do the agencies respond?",
+    "method": "A comparison of tainted rating agencies (those that rated ILFS debt) with untainted ones around the ILFS default, looking at the agencies' market values, effects on the issuers they rate, and later rating behaviour and market share. Further methodological detail is not stated in the available sources.",
+    "data": "Market and rating data around the ILFS default in India, covering publicly listed credit rating agencies and the debt issuers they rate. Exact data sources, years and sample sizes are not stated in the available sources.",
+    "findings": [
+      "Around the ILFS default dates, the market values of the tainted rating agencies declined significantly.",
+      "Issuers rated by the tainted agencies experienced a negative spillover effect.",
+      "The tainted agencies tightened their ratings after the default crisis.",
+      "The authors find that this improvement in rating quality helped the tainted agencies keep their market shares."
+    ],
+    "whyItMatters": "The results suggest a rating agency's lost credibility can spill over onto the firms it rates, and that agencies may respond by rating more strictly. The authors present this as evidence on how damage to rating agencies' reputations affects capital markets.",
+    "topics": ["credit rating agencies", "reputation", "ILFS default", "spillover effects", "debt markets", "India", "rating quality"],
+    "industries": ["Credit rating", "Financial services"],
+    "geographies": ["India"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/2001.html",
+        "https://eprints.exchange.isb.edu/id/eprint/2001/",
+        "https://www.isb.edu/faculty-and-research/research-directory/economic-consequences-of-reputational-damage-to-credit-rating-agencies",
+        "https://api.openalex.org/works?filter=author.id:A5053743193"
+      ]
+    }
+  },
+  "versions": []
+}
