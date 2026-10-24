@@ -1,0 +1,48 @@
+{
+  "id": "W4390616331",
+  "title": "Green Human Resource Management and Green Culture: An Integrative Sustainable Competing Values Framework and Future Research Directions",
+  "year": 2024,
+  "date": "2024-01-04",
+  "type": "article",
+  "venue": "Organization & Environment",
+  "doi": "https://doi.org/10.1177/10860266231217280",
+  "url": "https://doi.org/10.1177/10860266231217280",
+  "pdf": null,
+  "citations": 68,
+  "authors": [
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Douglas W. S. Renwick" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A conceptual framework identifies four types of green organisational culture and argues HR practices should be tailored to build the one a firm needs.",
+    "overview": "Many firms adopt 'green HRM', meaning HR practices aimed at environmental goals, but how do these practices relate to a company's culture? This conceptual paper adapts Cameron and Quinn's competing values framework into a green version with four culture types: green clan, green adhocracy, green market and green hierarchy. Each is shaped by HR practices that build employees' ability, motivation and opportunity for green behaviour, aligned with the beliefs, values and symbols the firm wants. The authors pitch the model as a diagnostic toolkit for spotting a firm's dominant green culture and deliberately developing the one that fits its sustainability goals, and caution against treating standard green HRM practices as universal fixes.",
+    "question": "How do green HRM practices relate to green organisational culture, and how can firms diagnose and develop the green culture that fits their sustainability goals?",
+    "method": "Conceptual framework development, extending Cameron and Quinn's (2011) competing values framework to green HRM and green culture. No empirical data are analysed in the available sources.",
+    "data": "None stated; the paper appears to be conceptual.",
+    "findings": [
+      "The framework proposes four green cultures: green clan, green adhocracy, green market and green hierarchy.",
+      "Each culture is described as shaped by HR practices that enhance employees' ability, motivation and opportunity for green behaviour, aligned with desired green beliefs, values and symbols.",
+      "The authors argue against treating standardised green HRM practices as universal prescriptions and call for critically evaluating their outcomes.",
+      "The paper sets out practical implications and future research directions for sustainable HRM."
+    ],
+    "whyItMatters": "For managers leading sustainability initiatives, the framework offers a way to match HR levers to the kind of green culture the firm actually needs instead of copying a generic checklist. It is the most-cited paper on this profile.",
+    "topics": ["green HRM", "sustainability", "organizational culture", "competing values framework", "sustainable HRM", "ESG"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/green-human-resource-management-and-green-culture-an-integrative-sustainable-competing-values-framework-and-future-research-directions/",
+        "https://irep.ntu.ac.uk/id/eprint/50379",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50"
+      ]
+    }
+  },
+  "versions": []
+}

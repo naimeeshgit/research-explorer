@@ -1,0 +1,57 @@
+{
+  "id": "W4403510991",
+  "title": "Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees",
+  "year": 2024,
+  "date": null,
+  "type": "article",
+  "venue": "Communications of the Association for Information Systems",
+  "doi": "https://doi.org/10.17705/1CAIS.05523",
+  "url": "https://aisel.aisnet.org/cais/vol55/iss1/24/",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Indranil Bose" },
+    { "name": "Simarjeet Singh" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A systematic review using privacy calculus maps how workplace AI can both threaten and protect employee privacy, and the trade-offs firms face.",
+    "overview": "As firms adopt AI tools to monitor, analyse and manage work, employees' privacy is increasingly at stake. This paper systematically reviews existing research to ask whether AI compromises or protects employee privacy, what the costs and benefits of adoption look like from a privacy angle, and how ever-more-capable algorithms shift the balance. It uses the privacy calculus framework, which treats privacy decisions as a weighing of expected benefits against risks. The authors lay out the challenges and opportunities this creates for organisations and propose a research agenda.",
+    "question": "Do AI technologies compromise or safeguard employee privacy, how do organisations weigh the costs and benefits of AI adoption against privacy, and how do advancing algorithms affect this balance?",
+    "method": "A systematic literature review organised around the privacy calculus framework. Search databases, time window and number of studies reviewed are not stated in the available sources.",
+    "data": "Prior published research on AI and employee privacy. The size and scope of the reviewed body of work are not stated in the available sources.",
+    "findings": [
+      "The review identifies both challenges and opportunities for employee privacy arising from evolving AI technologies.",
+      "It frames AI adoption as a trade-off between organisational efficiency and employee privacy that firms must actively balance.",
+      "The authors present the review as a roadmap for future research on AI and employee privacy."
+    ],
+    "whyItMatters": "For HR and technology leaders rolling out AI-based monitoring or analytics, the paper offers a structured way to think through the privacy costs alongside productivity gains. The authors present it as useful to both academics and practitioners.",
+    "topics": ["artificial intelligence", "employee privacy", "workplace surveillance", "privacy calculus", "systematic literature review", "HR technology"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://aisel.aisnet.org/cais/vol55/iss1/24/",
+        "https://www.isb.edu/faculty-and-research/research-directory/watch-out-you-are-live-toward-understanding-the-impact-of-ai-on-privacy-of-employees/",
+        "https://www.isb.edu/faculty-and-research/research-directory/decoding-the-impact-of-artificial-intelligence-on-employee-privacy-a-systematic-literature-review/",
+        "https://api.openalex.org/works/doi:10.17705/1CAIS.05523",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4400441017",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2024,
+      "url": "https://doi.org/10.5465/amproc.2024.15486abstract"
+    }
+  ]
+}

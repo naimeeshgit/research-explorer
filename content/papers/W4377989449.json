@@ -1,0 +1,47 @@
+{
+  "id": "W4377989449",
+  "title": "The effect of perceived control on local consumption",
+  "year": 2023,
+  "date": "2023-05-24",
+  "type": "article",
+  "venue": "Psychology & Marketing",
+  "doi": "https://doi.org/10.1002/mar.21834",
+  "url": "https://doi.org/10.1002/mar.21834",
+  "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mar.21834",
+  "citations": 10,
+  "authors": [
+    { "name": "Arani Roy", "isb": "arani-roy" },
+    { "name": "Ashesh Mukherjee" }
+  ],
+  "isb": ["arani-roy"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "People are more likely to buy local when they feel less in control, driven by the anticipated 'warm glow' of doing good.",
+    "overview": "Buying local supports community economies and can reduce the environmental footprint of marketing, so what nudges people to do it? Across eight lab and field studies, the authors find that consumers become more likely to choose local products as their sense of perceived control falls. The effect works through anticipated warm glow, the good feeling a person expects from a virtuous choice. It depends on how good the local product is perceived to be and on public self-consciousness (how much a person cares about how others see them). The results held across different manipulations and measures, including incentive-compatible choices (where real stakes are involved) and online behaviour.",
+    "question": "Does a consumer's perceived control affect the likelihood of choosing local products, and through what mechanism and under what conditions?",
+    "method": "Eight laboratory and field studies using varied manipulations and measures of perceived control and local consumption, including incentive-compatible and online behavioural measures, with mediation and moderation tests.",
+    "data": "Eight laboratory and field studies; sample sizes, participant pools and countries are not stated in the available sources.",
+    "findings": [
+      "The likelihood of local consumption increases as consumers' perceived control decreases.",
+      "Anticipated warm glow mediates the effect.",
+      "Perceived quality of the local product and the consumer's public self-consciousness act as boundary conditions.",
+      "The effects held across varied manipulations and measures, including incentive-compatible and online behaviour."
+    ],
+    "whyItMatters": "For local brands, retailers and 'buy local' campaigns, the work suggests that messaging tied to the good feeling of supporting the community may resonate especially when consumers feel a lack of control, provided the product's quality is credible. The authors frame perceived control as a self-discrepancy-based driver of local consumption.",
+    "topics": ["local consumption", "buy local", "perceived control", "warm glow", "self-discrepancy", "consumer psychology", "sustainable consumption"],
+    "industries": ["Retail", "Local and small businesses"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/the-effect-of-perceived-control-on-local-consumption/",
+        "https://eprints.exchange.isb.edu/id/eprint/1708/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/arani-roy",
+        "https://api.openalex.org/works?filter=author.id:A5020796743&per-page=50"
+      ]
+    }
+  },
+  "versions": []
+}

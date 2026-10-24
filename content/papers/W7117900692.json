@@ -1,0 +1,56 @@
+{
+  "id": "W7117900692",
+  "title": "How does informal competition shape innovation? Exploring the roles of labour flexibility and special economic zones in emerging economies",
+  "year": 2026,
+  "date": "2025-12-31",
+  "type": "article",
+  "venue": "IIMB Management Review",
+  "doi": "https://doi.org/10.1016/j.iimb.2025.100638",
+  "url": "https://doi.org/10.1016/j.iimb.2025.100638",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Bibek Bhattacharya" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Indian formal firms facing informal rivals are more likely to give staff innovation time off, though less so inside SEZs or with flexible labour.",
+    "overview": "In emerging economies, registered firms often compete with unregistered informal businesses that enjoy cost and flexibility advantages. This paper asks how that rivalry changes formal firms' approach to innovation, focusing on 'innovation time off', where employees get discretionary time to pursue new ideas. Using World Bank Enterprise Survey data on Indian firms and the attention-based view (what managers pay attention to drives strategy), the authors find that informal competition pushes formal firms toward offering innovation time off. The effect is weaker for firms located in special economic zones (SEZs) and for firms with numerical labour flexibility, meaning the ability to adjust headcount easily.",
+    "question": "How does competition from the informal sector influence formal emerging-economy firms' adoption of innovation time off, and do labour flexibility and SEZ location change this relationship?",
+    "method": "Hypothesis testing on firm-level survey data, framed by the attention-based view of the firm. Informal competition is related to the adoption of innovation time off, with numerical labour flexibility and SEZ location tested as moderators. The specific estimation technique is not stated in the available sources.",
+    "data": "World Bank Enterprise Survey data on Indian firms. The survey wave(s) and sample size are not stated in the available sources.",
+    "findings": [
+      "Informal competition is positively associated with formal firms adopting innovation time off for employees.",
+      "This relationship is weaker for firms located in special economic zones.",
+      "It is also weaker for firms with numerical labour flexibility.",
+      "The authors frame innovation time off as an important but overlooked practice in resource-constrained settings."
+    ],
+    "whyItMatters": "For managers of formal firms in markets like India, the study suggests that informal rivals may prompt investment in employee-led innovation rather than only cost-cutting. For policymakers, it suggests that policy-created firm features such as SEZ status and labour flexibility can change how firms respond strategically to competition.",
+    "topics": ["informal sector", "innovation time off", "special economic zones", "labour flexibility", "attention-based view", "emerging markets", "India", "SMEs"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["India"],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/how-does-informal-competition-shape-innovation-exploring-the-roles-of-labour-flexibility-and-special-economic-zones-in-emerging-economies/",
+        "https://api.openalex.org/works/W4400444265",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4400444265",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2024,
+      "url": "https://doi.org/10.5465/amproc.2024.14899abstract"
+    }
+  ]
+}

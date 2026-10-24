@@ -1,0 +1,40 @@
+{
+  "slug": "arani-roy",
+  "name": "Arani Roy",
+  "title": "Assistant Professor, Marketing",
+  "area": "Marketing",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/arani-roy",
+  "openalex": ["A5020796743"],
+  "photo": null,
+  "profile": {
+    "summary": "Arani Roy is a consumer psychologist who studies self-discrepancies, the gap between how people are and how they want to be, and how feeling short on resources or control shapes everyday decisions. Published work shows that people who feel a loss of control lean toward lower-risk monthly subscriptions and are more likely to buy local for the 'warm glow' it brings. Applied interests include privacy behaviour, local consumption and subscription choices, and Roy has also co-authored an ISB report on how fake news spreads on Indian social media.",
+    "themes": [
+      {
+        "name": "Perceived control and consumer choice",
+        "description": "Lab and field experiments showing how a reduced sense of control shifts what consumers buy, from shorter subscription commitments to local products.",
+        "papers": ["W4309600486", "W4377989449"]
+      },
+      {
+        "name": "Social media, self-discrepancy and misinformation",
+        "description": "The darker side of social media for consumers, from its effects on self-discrepancy and well-being to how fake news spreads and is shared in India.",
+        "papers": ["W4393234514", "W4415256294"]
+      }
+    ],
+    "talkTo": [
+      "Subscription pricing and plan design",
+      "Buy-local and sustainable consumption marketing",
+      "Consumer psychology of control and scarcity",
+      "Social media and consumer well-being",
+      "Misinformation and fake news in India",
+      "Running consumer behaviour experiments"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/arani-roy",
+      "https://eprints.exchange.isb.edu/view/isb_creators/Roy=3AA=3A=3A.html",
+      "https://api.openalex.org/authors?search=Arani%20Roy",
+      "https://api.openalex.org/works?filter=author.id:A5020796743&per-page=50",
+      "https://www.routledge.com/The-Darker-Side-of-Social-Media-Consumer-Psychology-and-Mental-Health/CloseScheinbaum/p/book/9781032530673"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

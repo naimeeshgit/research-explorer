@@ -1,0 +1,52 @@
+{
+  "id": "W4415256294",
+  "title": "Fact-Checking India: Identifying the Spread of Fake News and Policy Recommendations for Combatting Misinformation",
+  "year": 2025,
+  "date": null,
+  "type": "preprint",
+  "venue": "SSRN (ISB Institute of Data Science report)",
+  "doi": "https://doi.org/10.2139/ssrn.5586511",
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5586511",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Manish Gangwar" },
+    { "name": "Arani Roy", "isb": "arani-roy" },
+    { "name": "Shruti Mantri" },
+    { "name": "Vineet Kumar" }
+  ],
+  "isb": ["arani-roy"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Politics accounts for 46% of fake-news cases studied in India, most misinformation starts on social media, and under 20% of users verify before sharing.",
+    "overview": "This report from ISB's Institute of Data Science, launched with Cyber Peace, looks at how fake news spreads on Indian social media and how users perceive and react to it. The authors sort fake news into six themes (politics, health, crime, entertainment, general topics and religion) and find politics is the most common. Drawing on responses from more than 5,500 people, they report that young adults and socio-economically vulnerable users are the most susceptible, few users check news before sharing, and many have encountered deepfakes. The report closes with policy recommendations on awareness, literacy, AI-based detection and reporting tools.",
+    "question": "How does fake news spread across themes on social media in India, and how do users behave toward and perceive misinformation?",
+    "method": "Empirical research combining a thematic classification of fake-news stories with a large user survey. Sampling and analysis methods are not stated in the available sources.",
+    "data": "Responses from more than 5,500 individuals, plus a set of fake-news stories classified by theme. Data sources and time period are not stated in the available sources; the report is dated December 2024 and was posted to SSRN in October 2025.",
+    "findings": [
+      "Political fake news is the most common theme, at 46% of cases; politics, general issues and religion (16.8%) together make up about 94% of stories analysed, as reported.",
+      "Young adults aged 18-24 and socio-economically vulnerable users are reported as the most susceptible to misinformation.",
+      "More than 75% of fake news is reported to originate on social media platforms.",
+      "Fewer than 20% of users say they verify news before sharing it, and only 45.25% report fake news when they see it.",
+      "48.22% of users report having encountered deepfake content on social media."
+    ],
+    "whyItMatters": "The authors recommend targeted awareness campaigns (especially for 18-24-year-olds and political misinformation), social media literacy so users verify sources, AI tools for early detection, and better reporting mechanisms on platforms. Relevant for students interested in platforms, trust and safety, or public policy in India.",
+    "topics": ["fake news", "misinformation", "social media", "deepfakes", "fact-checking", "digital literacy", "India"],
+    "industries": ["Social media platforms", "Digital media"],
+    "geographies": ["India"],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5586511",
+        "https://www.isb.edu/faculty-and-research/isb-institute-of-data-science/fact-checking-india",
+        "https://www.isb.edu/faculty-and-research/research-directory/fact-checking-india/",
+        "https://eprints.exchange.isb.edu/id/eprint/2440/",
+        "https://www.isb.edu/news/isb-in-the-news/unmasking-misinformation-insights-and-policy-solutions-for-combating-fake-news-in-india",
+        "https://api.openalex.org/works/W4415256294"
+      ]
+    }
+  },
+  "versions": []
+}

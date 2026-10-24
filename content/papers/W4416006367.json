@@ -1,0 +1,55 @@
+{
+  "id": "W4416006367",
+  "title": "The Lonely Road of Injustice: How Perceived Unfairness Influences Knowledge Hiding and Well-Being",
+  "year": 2025,
+  "date": "2025-07-01",
+  "type": "article",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/amproc.2025.17250abstract",
+  "url": "https://doi.org/10.5465/amproc.2025.17250abstract",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Mantasha Firoz" },
+    { "name": "Aamna Khan" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Employees who see their workplace as unfair feel lonelier, and that loneliness is linked to hoarding knowledge and lower well-being.",
+    "overview": "This conference paper asks what happens inside employees when they feel treated unfairly. Drawing on cognitive appraisal theory (the idea that how people interpret an event shapes their emotional reaction), the authors propose that perceived injustice triggers stress and a weaker sense of belonging. Using survey data collected in two waves, they find that perceived injustice is associated with workplace loneliness, which in turn is linked to deliberately withholding information from colleagues and to poorer psychological well-being. Loneliness emerges as the key link between fairness perceptions and these outcomes.",
+    "question": "How do employees' perceptions of organisational (in)justice relate to workplace loneliness, knowledge hiding and well-being?",
+    "method": "A time-lagged survey (data collected in two phases) testing a model in which workplace loneliness mediates the link from perceived injustice to knowledge hiding and well-being outcomes.",
+    "data": "Responses from 333 participants. Country, industries and years are not stated in the available sources.",
+    "findings": [
+      "Perceived injustice is associated with higher workplace loneliness.",
+      "Workplace loneliness is linked to deliberate knowledge hiding and to lower psychological well-being, including emotional exhaustion.",
+      "The authors describe loneliness as a key mediator connecting justice perceptions to knowledge hiding and exhaustion."
+    ],
+    "whyItMatters": "The authors argue that fairness, inclusion and support can reduce knowledge hiding and improve well-being. For managers, it suggests that perceived unfairness may cost a team not just morale but also the free flow of information.",
+    "topics": ["organizational justice", "workplace loneliness", "knowledge hiding", "employee well-being", "emotional exhaustion", "cognitive appraisal theory"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/the-lonely-road-of-injustice-how-perceived-unfairness-influences-knowledge-hiding-and-well-being/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works/W7117688177"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W7117688177",
+      "type": "article",
+      "venue": "International Journal of Conflict Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1108/ijcma-04-2025-0121"
+    }
+  ]
+}

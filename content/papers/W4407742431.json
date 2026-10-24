@@ -1,0 +1,49 @@
+{
+  "id": "W4407742431",
+  "title": "Governance beyond borders: exploring executive overconfidence and firm performance using meta-analysis",
+  "year": 2025,
+  "date": "2025-02-19",
+  "type": "article",
+  "venue": "Cross Cultural & Strategic Management",
+  "doi": "https://doi.org/10.1108/ccsm-03-2024-0065",
+  "url": "https://doi.org/10.1108/ccsm-03-2024-0065",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    { "name": "Promila Agarwal" },
+    { "name": "Saneesh Edacherian" },
+    { "name": "Amit Karna" },
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Pooling 116 effect sizes worldwide, this meta-analysis finds that country-level governance factors significantly shape how executive overconfidence relates to firm performance.",
+    "overview": "Studies disagree on whether overconfident executives help or hurt their firms. This paper pools results from many prior studies (a meta-analysis) across countries to see whether national context explains the inconsistency. The authors test whether differences in governance quality, board effectiveness and shareholder protection change the overconfidence-performance link. They report that country-level factors significantly shape the relationship, and argue that executive traits should be studied together with the institutional setting in which executives operate.",
+    "question": "Do country-level factors such as governance, board effectiveness and shareholder protection moderate the relationship between executive overconfidence and firm performance?",
+    "method": "A cross-national meta-analysis, statistically combining effect sizes from prior studies and testing country-level moderators.",
+    "data": "116 independent effect sizes from studies around the world. The number of primary studies, countries and years covered are not stated in the available sources.",
+    "findings": [
+      "The relationship between executive overconfidence and firm performance is reported to be significantly shaped by country-level factors.",
+      "Governance quality, board effectiveness and shareholder protection are the national-level moderators examined.",
+      "The authors argue that contextual influences should be considered alongside trait-based explanations of executive behaviour.",
+      "The direction and size of the overall effect are not stated in the available sources."
+    ],
+    "whyItMatters": "The authors advise organisations to build national context into their governance structures when managing the risks of overconfident leaders. For students heading into strategy or board-facing roles, it is a reminder that the same CEO personality may play out differently under different governance regimes.",
+    "topics": ["executive overconfidence", "corporate governance", "firm performance", "meta-analysis", "boards of directors", "shareholder protection", "upper echelons"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Cross-national (countries not stated in the available sources)"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/governance-beyond-borders-exploring-executive-overconfidence-and-firm-performance-using-meta-analysis/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?search=executive%20overconfidence%20firm%20performance%20meta-analysis&filter=publication_year:2024-2025&select=id,title,publication_year,publication_date,doi,cited_by_count,authorships,primary_location"
+      ]
+    }
+  },
+  "versions": []
+}

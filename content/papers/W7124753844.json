@@ -1,0 +1,58 @@
+{
+  "id": "W7124753844",
+  "title": "Agility in new ventures: examining the role of autonomy and trust using a job demands-resources lens",
+  "year": 2026,
+  "date": "2026-01-19",
+  "type": "article",
+  "venue": "Evidence-based HRM: a Global Forum for Empirical Scholarship",
+  "doi": "https://doi.org/10.1108/ebhrm-05-2025-0203",
+  "url": "https://doi.org/10.1108/ebhrm-05-2025-0203",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Smita Srivastava" },
+    { "name": "Sunil Maheshwari" },
+    { "name": "Arup Varma" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Startup employees given autonomy become more agile through higher engagement, and trust in the founder strengthens that link in India but not the US.",
+    "overview": "Young ventures depend on employees who can adapt quickly, so what makes staff agile? Using the job demands-resources lens (job resources like autonomy fuel motivation and performance), the authors test whether autonomy boosts agility by raising work engagement, and whether trust in the founder amplifies this. They run two surveys, one with employees of young Indian ventures and one with US workers recruited online. Engagement carries the effect of autonomy to agility in both, but founder trust only strengthens it significantly in India, which the authors attribute to institutional and cultural differences.",
+    "question": "How does job autonomy foster employee agility in young entrepreneurial ventures, and do work engagement and trust in the founder explain or shape this link across countries?",
+    "method": "Two survey studies: a two-wave field survey of employees in young Indian ventures and a survey of US employees via Prolific. Constructs were validated with confirmatory factor analysis (AMOS), and mediation and moderated-mediation were tested with the PROCESS macro in SPSS.",
+    "data": "India: 205 employees of young ventures (two waves). United States: 184 respondents recruited through Prolific. An earlier conference version reported 187 US responses. Years of data collection are not stated in the available sources.",
+    "findings": [
+      "Work engagement mediates the relationship between job autonomy and employee agility.",
+      "Trust in the founder strengthens the link from engagement to agility, amplifying autonomy's indirect effect.",
+      "This moderating effect of founder trust was significant in the Indian sample but not in the US sample.",
+      "The authors interpret the India-US difference as reflecting institutional and cultural context; culture itself was not directly measured."
+    ],
+    "whyItMatters": "For founders and startup HR, the authors suggest that handing out autonomy works best when employees are engaged, and that personal trust in the founder may matter more in developing economies and collectivist cultures. They call for context-sensitive people practices rather than one-size-fits-all startup playbooks.",
+    "topics": ["employee agility", "startups", "job autonomy", "work engagement", "trust in founder", "job demands-resources", "cross-cultural", "India"],
+    "industries": ["Startups and young entrepreneurial ventures"],
+    "geographies": ["India", "United States"],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/agility-in-new-ventures-examining-the-role-of-autonomy-and-trust-using-a-job-demands-resources-lens/",
+        "https://www.isb.edu/faculty-and-research/research-directory/employee-agility-in-new-ventures-examining-the-role-of-trust-in-founder-in-cross-cultural-context/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5062356796&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W4385222923",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2023,
+      "url": "https://doi.org/10.5465/amproc.2023.353bp"
+    }
+  ]
+}

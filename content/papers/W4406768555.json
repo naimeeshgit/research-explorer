@@ -1,0 +1,47 @@
+{
+  "id": "W4406768555",
+  "title": "The digital escape: examining the impact of cyberloafing on gossip-induced emotional exhaustion and the mediating role of self-esteem",
+  "year": 2026,
+  "date": "2025-01-23",
+  "type": "article",
+  "venue": "Evidence-based HRM: a Global Forum for Empirical Scholarship",
+  "doi": "https://doi.org/10.1108/ebhrm-12-2023-0344",
+  "url": "https://doi.org/10.1108/ebhrm-12-2023-0344",
+  "pdf": null,
+  "citations": 4,
+  "authors": [
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Arup Varma" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Being gossiped about at work lowers self-esteem, which is linked to emotional exhaustion, and cyberloafing appears to make this harmful chain worse.",
+    "overview": "Workplace gossip is common, but how does it wear people down? This study links being the target of gossip to lower self-esteem and, through that, to emotional exhaustion (feeling drained by work). It also tests 'cyberloafing', using the internet for non-work purposes during work hours, as a possible escape. Surveying US employees across industries, the authors find that cyberloafing does not soften the blow: it strengthens the link between low self-esteem and exhaustion, heightening gossip's negative effects. The study draws on conservation of resources theory, which sees stress as the loss of valued personal resources.",
+    "question": "Does workplace gossip increase emotional exhaustion by lowering self-esteem, and does cyberloafing change this relationship?",
+    "method": "A moderated mediation model in which self-esteem mediates the gossip-to-exhaustion link and cyberloafing moderates the self-esteem-to-exhaustion link, grounded in conservation of resources theory. Analysis details beyond this are not stated in the available sources.",
+    "data": "Survey of 249 employees from various industries in the United States. Years of data collection are not stated in the available sources.",
+    "findings": [
+      "Workplace gossip is associated with substantially lower self-esteem.",
+      "Self-esteem is inversely related to emotional exhaustion.",
+      "Cyberloafing positively moderates the self-esteem-exhaustion link, which the authors say heightens gossip's adverse effects.",
+      "Effect sizes are not stated in the available sources."
+    ],
+    "whyItMatters": "The authors recommend that HR managers foster positive work environments, support emotional well-being, and adopt policies to curb cyberloafing. For managers, it suggests that letting stressed employees 'escape' online may not relieve them and could deepen exhaustion.",
+    "topics": ["workplace gossip", "cyberloafing", "emotional exhaustion", "self-esteem", "employee well-being", "conservation of resources theory"],
+    "industries": ["Various industries (not specified in the available sources)"],
+    "geographies": ["United States"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/the-digital-escape-examining-the-impact-of-cyberloafing-on-gossip-induced-emotional-exhaustion-and-the-mediating-role-of-self-esteem/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+      ]
+    }
+  },
+  "versions": []
+}

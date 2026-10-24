@@ -1,0 +1,46 @@
+{
+  "id": "W4393384494",
+  "title": "Sailing through the international assignment: exploring the role of perceived credibility in expatriate adjustment and socialization process in the host country",
+  "year": 2024,
+  "date": "2024-03-31",
+  "type": "article",
+  "venue": "Journal of Global Mobility: The Home of Expatriate Management Research",
+  "doi": "https://doi.org/10.1108/jgm-10-2023-0073",
+  "url": "https://doi.org/10.1108/jgm-10-2023-0073",
+  "pdf": null,
+  "citations": 4,
+  "authors": [
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Arup Varma" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "A conceptual model argues expatriates adjust better when socialisation helps them judge which host-country colleagues are credible sources of support.",
+    "overview": "Research on expatriates usually treats local colleagues (host country nationals) as sources of help, but says little about how expatriates decide whom to trust. This conceptual paper proposes a model in which socialisation, both formal programmes run by the parent company and the expatriate's own relationship-building, shapes how credible the expatriate finds local colleagues. Perceived credibility then underpins a support system that helps the expatriate adjust. The model draws on social identity theory, which explains how people categorise others as similar or different, and considers the role of perceived similarity.",
+    "question": "How do organisational and individual socialisation shape expatriates' perceptions of host country nationals' credibility, and how does that perceived credibility support expatriate adjustment?",
+    "method": "Conceptual model development grounded in social identity theory. No empirical data are analysed.",
+    "data": "None; this is a conceptual paper.",
+    "findings": [
+      "The model proposes that institutionalised socialisation by the parent organisation and individualised socialisation by the expatriate shape perceptions of host-country colleagues' credibility.",
+      "Perceived credibility of host country nationals is presented as the basis of the support system that enables adjustment.",
+      "Perceived similarity between expatriates and host country nationals is examined as an influence within this relationship."
+    ],
+    "whyItMatters": "The authors suggest that organisations wanting to strengthen expatriate support should focus on nurturing interpersonal relationships and the credibility of local colleagues, not just formal programmes. Useful for students heading to global HR or international assignments.",
+    "topics": ["expatriate adjustment", "global mobility", "host country nationals", "organizational socialization", "social identity theory", "international HRM"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/sailing-through-the-international-assignment-exploring-the-role-of-perceived-credibility-in-expatriate-adjustment-and-socialization-process-in-the-host-country/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+      ]
+    }
+  },
+  "versions": []
+}

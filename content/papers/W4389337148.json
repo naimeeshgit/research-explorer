@@ -1,0 +1,46 @@
+{
+  "id": "W4389337148",
+  "title": "Understanding the role of meaningfulness of work: a moderated-mediation model of bullying during work from home",
+  "year": 2024,
+  "date": "2023-12-05",
+  "type": "article",
+  "venue": "Personnel Review",
+  "doi": "https://doi.org/10.1108/pr-02-2023-0121",
+  "url": "https://doi.org/10.1108/pr-02-2023-0121",
+  "pdf": null,
+  "citations": 11,
+  "authors": [
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Arup Varma" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Bullying of remote workers is linked to exhaustion and quit intentions, and, counterintuitively, finding work meaningful strengthens the bullying-to-quitting link.",
+    "overview": "Bullying does not stop when people work from home. Using conservation of resources theory (stress as the loss of valued personal resources), this study follows home-based teleworkers over three survey waves. It finds that bullying during remote work worsens emotional exhaustion and the intention to quit. Meaningfulness of work, which one might expect to act as a buffer, instead positively moderates the link between bullying and intention to leave, a result the authors describe as counterintuitive.",
+    "question": "How does bullying during home-based teleworking relate to emotional exhaustion and turnover intention, and what role does meaningfulness of work play?",
+    "method": "A moderated-mediation model tested with three-wave longitudinal survey data, grounded in conservation of resources theory.",
+    "data": "Three-wave survey of 212 home-based teleworkers. Country, industries and years are not stated in the available sources.",
+    "findings": [
+      "Bullying during home-based teleworking is associated with greater emotional exhaustion.",
+      "It is also associated with stronger intention to quit.",
+      "Meaningfulness of work positively moderates the relationship between bullying and intention to leave, which the authors call a counterintuitive effect."
+    ],
+    "whyItMatters": "The authors say the findings can help managers better manage home-based teleworkers. For leaders of remote or hybrid teams, it flags that mistreatment can travel online and that employees who care most about their work may be the ones most ready to leave when bullied.",
+    "topics": ["workplace bullying", "remote work", "work from home", "turnover intention", "emotional exhaustion", "meaningful work", "conservation of resources theory"],
+    "industries": ["Not stated in the available sources."],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/understanding-the-role-of-meaningfulness-of-work-a-moderated-mediation-model-of-bullying-during-work-from-home/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50"
+      ]
+    }
+  },
+  "versions": []
+}

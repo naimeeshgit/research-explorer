@@ -1,0 +1,47 @@
+{
+  "id": "W7126188843",
+  "title": "Invisible norms, visible challenges: unravelling multi-level barriers to career engagement of women in India",
+  "year": 2026,
+  "date": "2026-01-30",
+  "type": "article",
+  "venue": "Asia Pacific Journal of Management",
+  "doi": "https://doi.org/10.1007/s10490-025-10109-2",
+  "url": "https://doi.org/10.1007/s10490-025-10109-2",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    { "name": "Ashneet Kaur", "isb": "ashneet-kaur" },
+    { "name": "Sudhanshu Maheshwari" },
+    { "name": "Arup Varma" }
+  ],
+  "isb": ["ashneet-kaur"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Patriarchal norms, caregiving duties and implicit bias in leadership combine across individual, organisational and societal levels to erode Indian women's sustained career engagement.",
+    "overview": "Women in India still struggle to stay engaged in their careers, especially in male-dominated sectors. This paper looks at how pressures at three levels (the individual, the organisation and society) work together to wear that engagement down. The authors first surveyed women employees to gauge their career engagement, then interviewed women whose engagement was low to understand their experiences. They report that patriarchal norms, caregiving responsibilities and unspoken biases in leadership disrupt women's career progress, and they offer guidance for employers on building more inclusive pathways.",
+    "question": "How do individual, organisational and societal factors jointly shape the career engagement of women in India, particularly in male-dominated sectors?",
+    "method": "A two-phase design: a quantitative survey measuring career engagement among women employees, followed by qualitative interviews with women who showed low engagement. The analysis uses what the authors call a double-loop gendered framework.",
+    "data": "Survey of 147 women employees (phase one) and interviews with 32 women with low career engagement (phase two), in India. Sectors, firms and years are not stated in the available sources.",
+    "findings": [
+      "Patriarchal social norms are reported as a barrier that disrupts women's career progress.",
+      "Caregiving responsibilities are identified as another factor undermining sustained career engagement.",
+      "Implicit biases within leadership structures are described as a further organisational-level barrier.",
+      "The authors argue these barriers operate across levels at once rather than in isolation."
+    ],
+    "whyItMatters": "The authors suggest employers build inclusive networks, align policies with what women actually experience, and create sustainable career pathways for women professionals. For managers in India, it frames women's disengagement as a system problem spanning home, workplace and leadership, not just an individual choice.",
+    "topics": ["women's careers", "career engagement", "gender bias", "caregiving", "diversity and inclusion", "mixed methods", "India"],
+    "industries": ["Male-dominated sectors (specific sectors not stated in the available sources)"],
+    "geographies": ["India"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/invisible-norms-visible-challenges-unravelling-multi-level-barriers-to-career-engagement-of-women-in-india/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+        "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+      ]
+    }
+  },
+  "versions": []
+}

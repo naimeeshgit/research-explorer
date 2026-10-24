@@ -1,0 +1,46 @@
+{
+  "id": "W4309600486",
+  "title": "Is it risky to subscribe? Perceived control and subscription choice",
+  "year": 2023,
+  "date": "2022-11-22",
+  "type": "article",
+  "venue": "Psychology & Marketing",
+  "doi": "https://doi.org/10.1002/mar.21759",
+  "url": "https://doi.org/10.1002/mar.21759",
+  "pdf": null,
+  "citations": 14,
+  "authors": [
+    { "name": "Arani Roy", "isb": "arani-roy" },
+    { "name": "Maria Ortiz" }
+  ],
+  "isb": ["arani-roy"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Consumers who feel a loss of control prefer monthly over yearly subscriptions, because they judge plans by risk and pick the safer-seeming option.",
+    "overview": "Subscription businesses often push annual plans, but which plan a customer picks may depend on their state of mind. Across six field and lab studies, the authors show that when people feel they have lost control (perceived control is the sense that you can influence outcomes in your life), they show higher intent to choose monthly plans than yearly ones. The proposed reason is risk: people low in control evaluate subscription options by how risky they seem and choose the one that feels less risky, typically the shorter commitment. The paper adds perceived control as a new consumer-side driver of subscription choice.",
+    "question": "How does a loss of perceived control affect consumers' choice between monthly and yearly subscription options, and why?",
+    "method": "Six studies run in the field and in the laboratory, testing the effect of reduced perceived control on subscription intent and a risk-based mechanism. Specific designs and manipulations are not stated in the available sources.",
+    "data": "Six field and laboratory studies; sample sizes, participant pools and years are not stated in the available sources.",
+    "findings": [
+      "Consumers who lose perceived control show higher subscription intent for monthly options than for yearly options.",
+      "The authors attribute this to risk: low-control consumers evaluate subscription options by their associated risk and choose the less risky-seeming option.",
+      "The paper positions perceived control as a new consumer-related antecedent of subscription choice."
+    ],
+    "whyItMatters": "The abstract states theoretical contributions only. For subscription businesses (streaming, SaaS, memberships), the result hints that customers' sense of control may affect how attractive long commitments look, something product and pricing teams could keep in mind when designing plan menus.",
+    "topics": ["subscription pricing", "perceived control", "risk aversion", "consumer decision-making", "subscription economy", "consumer psychology"],
+    "industries": ["Subscription services (specific products not stated in the available sources)"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/is-it-risky-to-subscribe-perceived-control-and-subscription-choice/",
+        "https://eprints.exchange.isb.edu/id/eprint/1784/",
+        "https://www.isb.edu/faculty-and-research/faculty-directory/arani-roy",
+        "https://api.openalex.org/works?filter=author.id:A5020796743&per-page=50"
+      ]
+    }
+  },
+  "versions": []
+}

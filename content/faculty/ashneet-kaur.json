@@ -1,0 +1,49 @@
+{
+  "slug": "ashneet-kaur",
+  "name": "Ashneet Kaur",
+  "title": "Clinical Assistant Professor (Teaching), Organisational Behaviour",
+  "area": "Organisational Behaviour",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+  "openalex": ["A5082472676"],
+  "photo": null,
+  "profile": {
+    "summary": "Ashneet Kaur studies strategic HR management where it meets technology (including AI) and entrepreneurship, with a focus on people practices in startups, small firms and large organisations going through rapid growth or digital transformation. Her papers ask what keeps employees engaged, agile and well, from founder trust in Indian startups to bullying, gossip and unfairness at work, and how context such as national culture, informal competition or a firm's green culture changes the answer. Much of the work uses multi-wave surveys of employees in India and the US, alongside conceptual frameworks and systematic reviews.",
+    "themes": [
+      {
+        "name": "Workplace mistreatment and well-being",
+        "description": "How bullying, gossip and perceived unfairness wear employees down through exhaustion, low self-esteem and loneliness, and how factors like cyberloafing or meaningful work shape the damage.",
+        "papers": ["W4389337148", "W4406768555", "W4416006367"]
+      },
+      {
+        "name": "Startups, strategy and emerging economies",
+        "description": "What makes employees in young ventures agile, how informal competition pushes Indian formal firms toward employee-led innovation, and how national governance shapes the payoff from overconfident executives.",
+        "papers": ["W7124753844", "W7117900692", "W4407742431"]
+      },
+      {
+        "name": "Context-sensitive HRM: sustainability, global mobility and gender",
+        "description": "Frameworks and evidence on tailoring HR to context: building the right green culture, helping expatriates find credible local support, and the multi-level barriers to Indian women's career engagement.",
+        "papers": ["W4390616331", "W4393384494", "W7126188843"]
+      },
+      {
+        "name": "AI and employee privacy",
+        "description": "A systematic review of whether workplace AI threatens or protects employee privacy, framed as a cost-benefit trade-off for organisations.",
+        "papers": ["W4403510991"]
+      }
+    ],
+    "talkTo": [
+      "HR and people practices in startups and high-growth firms",
+      "AI in HR and employee privacy",
+      "Remote work, bullying and employee well-being",
+      "Green HRM and building a sustainability culture",
+      "Women's career engagement in India",
+      "Expatriate adjustment and global mobility"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/ashneet-kaur",
+      "https://api.openalex.org/authors?search=Ashneet%20Kaur",
+      "https://api.openalex.org/works?filter=author.id:A5082472676&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count",
+      "https://api.openalex.org/works?filter=author.id:A5062356796&per-page=50&select=id,title,publication_year,publication_date,type,doi,cited_by_count"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}
