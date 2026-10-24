@@ -26,31 +26,34 @@
   ],
   "abstract": "This study is motivated by the challenges faced by clinics in sub‐Saharan Africa in allocating scarce and unreliable supply of antiretroviral drugs (ARVs) among a large pool of eligible patients. Existing discussion of ARV allocation is focused on qualitative rules for prioritizing certain socioeconomic and demographic patient segments over others at the national level. However, such prioritization rules are of limited utility in providing quantitative guidance on scaling up of treatment programs at individual clinics. In this study, we take the perspective of a clinic administrator whose objective is to maximize the quality‐adjusted survival of the entire patient population in its service area by allocating scarce and unreliable supply of drugs among two activities: initiating treatment for untreated patients and continuing treatment for previously treated patients. The key trade‐off underlying this allocation decision is between the marginal health benefit obtained by initiating an untreated patient on treatment and that obtained by avoiding treatment interruption of a treated patient. This trade‐off has not been explicitly studied in the clinical literature, which focuses either on the incremental value obtained from initiating treatment (over no treatment) or on the value of providing continuous treatment (over interrupted treatment) but not on the difference of the two. We cast the clinic's problem as a stochastic dynamic program and provide a partial characterization of the optimal policy, which consists of dynamic prioritization of patient segments and is characterized by state‐dependent thresholds. We use this structure of the optimal policy to design a simpler Two‐Period heuristic and show that it substantially outperforms the Safety‐Stock heuristic, which is commonly used in practice. In our numerical experiments based on realistic parameter values, the performance of the Two‐Period heuristic is within 4% of the optimal policy whereas that of the Safety‐Stock heuristic can be as much as 20% lower than that of the optimal policy. Our model can serve as a basis for developing a decision support tool for clinics to design their ARV treatment program scale‐up plans.",
   "summary": {
-    "oneLiner": "Clinics in resource-limited settings can optimize HIV treatment scale-up by using a two-period heuristic that balances initiation with risk of treatment interruption.",
-    "overview": "HIV clinics in resource-limited areas often face an ethical and operational dilemma: should they use scarce, unpredictable drug supplies to initiate new patients or ensure existing patients do not face treatment interruptions? Interrupting treatment for existing patients can lead to drug resistance, which is dangerous for the patient and costly to treat. The authors model this decision as a dynamic problem to maximize overall quality-adjusted life years. They demonstrate that common 'safety-stock' practices can lead to significant inefficiencies, and propose a more effective, robust heuristic for clinics to use when scaling up their programs.",
-    "question": "How should HIV clinics in resource-limited settings optimally allocate uncertain supplies of antiretroviral drugs between initiating new patients and maintaining treatment for existing patients to maximize overall population health?",
-    "method": "The authors model the clinic's decision-making as a stochastic dynamic program. They characterize the optimal policy and use this to develop a simpler two-period heuristic, comparing its performance against current industry practices (the Safety-Stock heuristic) and an analytical upper bound.",
-    "data": "The model uses realistic parameters for patient quality-of-life (QOL) utilities, survival rates, and drug resistance probabilities derived from established clinical literature. Numerical experiments simulate these decisions over a 24-month horizon.",
+    "oneLiner": "A clinic facing uncertain ARV supply should balance starting new patients against interrupting treated ones; a simple Two-Period heuristic beats the common safety-stock rule.",
+    "overview": "HIV clinics in sub-Saharan Africa receive scarce and unreliable supplies of antiretroviral drugs, and must choose between starting untreated patients and keeping already-treated patients on drugs. The authors model this as a stochastic dynamic program, a multi-period decision model where uncertain future supply is taken into account, aimed at maximizing quality-adjusted life years (QALYs). They show the optimal policy changes over time and depends on the state of the patient pool and inventory, and that rationing treated patients can be optimal, which raises an ethical dilemma. They propose a simpler Two-Period heuristic, a rule of thumb derived from the structure of the optimal policy, and in numerical experiments it stays within about 4% of the optimal policy, while the common Safety-Stock heuristic can fall as much as 20% short.",
+    "question": "How should a clinic allocate scarce and unreliable supplies of antiretroviral drugs between initiating untreated patients and continuing treatment for previously treated patients, in order to maximize quality-adjusted survival of its patient population?",
+    "method": "The authors cast the clinic's problem as a stochastic dynamic program and derive a partial characterization of the optimal policy, including analytical results for special cases of the resistance coefficient (0 and 1) and a two-period problem. They design a Two-Period heuristic and compare it against a Safety-Stock heuristic (common in practice) and a perfect-information upper bound, using numerical simulations and sensitivity analysis, plus an extended model with two treated-patient sub-groups.",
+    "data": "No empirical dataset. The analysis uses simulations with parameter values drawn from published literature (e.g., quality-of-life utilities from meta-analyses, survival and resistance estimates from studies in Uganda and elsewhere), a 24-month monthly-period horizon, and assumed supply distributions. The authors state they do not have operational data on drug supply distributions received by clinics.",
     "findings": [
-      "The optimal policy is state-dependent, meaning the best decision changes based on the number of patients already on treatment and the current drug inventory.",
-      "The Two-Period heuristic consistently outperforms the common Safety-Stock heuristic, with performance gaps within 4% of the theoretical optimum compared to 20% for current practices.",
-      "The Two-Period heuristic is more robust to changes in parameter values, such as the probability of drug resistance or patient quality-of-life scores.",
-      "Under some conditions, the optimal policy suggests that even with available inventory, it may be beneficial to limit treatment initiation to hedge against future supply shocks.",
-      "The insights from the main model hold in an extended version that includes patient heterogeneity (e.g., varying susceptibility to drug resistance)."
+      "The trade-off between starting an untreated patient on treatment now and avoiding treatment interruption for treated patients later has not been explicitly studied in the clinical literature, according to the authors.",
+      "The optimal policy is state-dependent, with thresholds and switching curves; static prioritization of one segment is not optimal in this setting.",
+      "Under some conditions the optimal policy denies treatment to already-treated patients to avoid future interruptions, which the authors describe as an ethical dilemma that is unlikely to be tenable in practice.",
+      "The Two-Period heuristic's average optimality gap is below 4% across the parameter values tested, whereas the Safety-Stock heuristic's gap can reach about 20%.",
+      "The Two-Period heuristic is more robust to changes in the resistance coefficient and quality-of-life parameters; the Safety-Stock gap grows with supply variability.",
+      "The authors note the results depend largely on the coefficient of variation of supply, and that the Two-Period heuristic remains robust across alternative supply scenarios tested in the appendix."
     ],
-    "whyItMatters": "The findings provide clinic administrators with a practical, computationally simple decision-support tool that is more effective than standard rules of thumb. By helping clinics better manage the trade-off between scaling up and maintaining adherence, this model can reduce treatment failures, drug resistance, and mortality in resource-constrained environments.",
+    "whyItMatters": "The authors suggest the model can serve as a basis for a decision support tool for clinics designing ARV scale-up plans, and that the Two-Period heuristic is no harder to implement than Safety-Stock and is robust to misspecification of parameters. They also note the framework may apply to non-profits dependent on donations and startups facing funding uncertainty, though the model may need adaptation for those settings.",
     "topics": [
-      "HIV treatment",
-      "global health",
-      "supply chain management",
       "inventory rationing",
-      "healthcare operations",
-      "resource-limited settings",
-      "stochastic dynamic programming"
+      "supply uncertainty",
+      "global health operations",
+      "HIV treatment scale-up",
+      "stochastic dynamic programming",
+      "heuristics",
+      "resource allocation",
+      "safety stock",
+      "quality-adjusted life years"
     ],
     "industries": [
       "Healthcare",
-      "Public Health"
+      "Global health supply chains"
     ],
     "geographies": [
       "Sub-Saharan Africa"
@@ -58,9 +61,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

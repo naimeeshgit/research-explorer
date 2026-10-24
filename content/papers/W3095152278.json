@@ -20,38 +20,37 @@
   ],
   "abstract": "I examine whether stronger creditors’ rights prevent strategic default. Borrowers who cross either of two thresholds are exempt from a creditor-rights law in India. Using a loan-day-level data set, I find that loan performance is better when the law applies and that outperformance increases after a further rise in creditors’ rights. To discern the strategic motive, I use an unprecedented invalidation of the Indian currency whereby holders of high-value currency were forced to declare their cash holdings to banks. Defaulters exempt from the law showed a greater tendency to repay their loans after invalidation.",
   "summary": {
-    "oneLiner": "Strengthening creditors' rights reduces strategic default, as evidenced by borrower behavior under Indian loan regulations and currency invalidation events.",
-    "overview": "This study investigates whether legal protections for creditors discourage strategic default—where borrowers intentionally stop repaying despite having the financial ability to do so. By comparing loan performance for borrowers subject to different levels of creditor-rights legislation in India, the author identifies that stronger legal protections lead to better loan outcomes. To confirm the strategic nature of defaults, the study analyzes how borrowers behaved when a sudden currency invalidation forced them to disclose their cash holdings. The results suggest that those who were previously exempt from strong creditor protections were more likely to pay back loans once their hidden cash was exposed.",
-    "question": "Do stronger creditors’ rights prevent strategic default by borrowers?",
-    "method": "A comparative analysis of loan performance based on regulatory thresholds and a natural experiment involving currency invalidation.",
-    "data": "Loan-day-level data set from India.",
+    "oneLiner": "In India, stronger creditor rights are linked to better loan performance, and the evidence suggests they curb strategic default.",
+    "overview": "This paper asks whether stronger creditor rights stop borrowers from strategically defaulting, meaning they can pay but choose not to. Borrowers just above or below two thresholds are exempt from a creditor-rights law, which lets the author compare loan performance with and without the law. Loans perform better when the law applies, and the gap grows after creditor rights are strengthened further. To isolate the strategic motive, the author uses an invalidation of high-value Indian currency that forced holders to declare their cash to banks; borrowers exempt from the law were more likely to repay afterwards.",
+    "question": "Do stronger creditors' rights prevent strategic default?",
+    "method": "The author compares borrowers who fall on either side of two thresholds that determine whether they are exempt from a creditor-rights law. To identify the strategic motive, the author uses the invalidation of high-value Indian currency as a setting that separates defaulters by exemption status. The abstract does not name the specific statistical technique.",
+    "data": "A loan-day-level data set from India. The abstract does not state the sample size, lenders, or time period.",
     "findings": [
-      "Loan performance is better when creditor-rights laws apply.",
-      "The outperformance of loans under creditor-rights laws increases when these rights are further strengthened.",
-      "Defaulters exempt from creditor-rights laws showed a greater tendency to repay their loans following the Indian currency invalidation."
+      "Loan performance is better when the creditor-rights law applies to the borrower.",
+      "The outperformance increases after a further rise in creditors' rights.",
+      "Defaulters exempt from the law showed a greater tendency to repay their loans after the currency invalidation, which the author uses to discern the strategic motive."
     ],
-    "whyItMatters": "For policymakers and investors, the findings suggest that robust legal enforcement against strategic default is essential for maintaining loan repayment discipline and protecting the credit system.",
+    "whyItMatters": "The paper's evidence that stronger creditor rights are associated with better loan performance and less strategic default bears on how lenders and policymakers weigh creditor protection. The abstract does not spell out specific managerial or policy recommendations.",
     "topics": [
-      "Creditors' rights",
-      "Strategic default",
-      "Loan performance",
+      "creditors' rights",
+      "strategic default",
+      "loan repayment",
+      "loan performance",
       "India",
-      "Debt collection",
-      "Legal institutions"
+      "currency invalidation",
+      "lending",
+      "debt contracts"
     ],
-    "industries": [
-      "Banking",
-      "Financial Services"
-    ],
+    "industries": [],
     "geographies": [
       "India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

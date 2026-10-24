@@ -29,28 +29,31 @@
   ],
   "abstract": "Only an estimated 62% of Indian children under the age of 2 years are fully immunized. We examined the association between India's Mission Indradhanush (MI)-a periodic intensification of the routine immunization program-which was implemented in phases across districts between March 2015 and July 2017, and routine vaccination coverage and timeliness among children. We used data from a 2015 to 2016 national survey of children (n = 29,532) and employed difference-in-difference regressions to examine binary indicators of receipt of 11 vaccines and whether vaccines were received at recommended ages. The full immunization rate was 27% higher among children under 2 years old residing in MI phase 1 and 2 districts (intervention group) as compared with those residing elsewhere (control group). The rate of receiving all vaccines at recommended ages was 8% higher in the intervention group. Receiving doses of oral polio vaccine (OPV) birth dose, OPV dose 1 (OPV1), OPV2, OPV3, bacillus Calmette-Guérin, and hepatitis B birth dose vaccines were 9%, 9%, 11%, 16%, 5%, and 19% higher in the intervention group than the control group, respectively. More research is required on the cost-effectiveness of investing in MI-type programs as compared with routine immunization.",
   "summary": {
-    "oneLiner": "India's Mission Indradhanush program, a periodic intensification of routine immunization, is associated with significantly higher full immunization rates and improved timeliness among young children.",
-    "overview": "Mission Indradhanush was a targeted initiative in India aimed at increasing vaccination coverage by intensifying routine immunization efforts in specific districts. Researchers compared children in intervention districts against those in other areas to evaluate the program's impact. The study found that children in districts where the program was implemented showed higher rates of receiving full immunizations on time. These results suggest that periodic, focused interventions can help bridge gaps in routine healthcare delivery.",
-    "question": "Does the periodic intensification of routine immunization through Mission Indradhanush (MI) improve the coverage and timeliness of vaccinations for children under 2 years old in India?",
-    "method": "The researchers used difference-in-difference regressions, a statistical technique that compares the changes in outcomes over time between a group that received an intervention and a group that did not, to analyze binary indicators for vaccine receipt.",
-    "data": "National survey data of 29,532 children collected between 2015 and 2016, covering the implementation of Mission Indradhanush phases 1 and 2.",
+    "oneLiner": "Districts in India's Mission Indradhanush phases 1 and 2 were associated with higher full immunization rates and more on-time vaccination than other districts.",
+    "overview": "India's Mission Indradhanush is a periodic drive that intensifies the routine childhood immunization programme. The authors compare children under 2 in districts that received the drive in its first two phases (March 2015 to July 2017) with children in other districts, using a difference-in-differences design, which contrasts how coverage changed over time in the two groups. They find that full immunization was 27% higher in the intervention districts, and that receiving all vaccines at the recommended ages was 8% higher. The authors call for cost-effectiveness research comparing such drives with routine immunization before further investment.",
+    "question": "Is Mission Indradhanush, a periodic intensification of routine immunization rolled out in phases across Indian districts, associated with higher vaccination coverage and better timeliness among children?",
+    "method": "Difference-in-difference regressions, a method that compares the change over time in intervention districts (MI phases 1 and 2) with the change in control districts. The outcomes were binary indicators of whether a child received each of 11 vaccines and whether vaccines were received at recommended ages.",
+    "data": "A national survey of children conducted in 2015 to 2016 (n = 29,532), covering children under 2 years old. The programme was implemented in phases across districts between March 2015 and July 2017.",
     "findings": [
-      "The full immunization rate was 27% higher among children under 2 years old in MI districts compared to the control group.",
-      "The rate of receiving all vaccines at recommended ages was 8% higher in the intervention districts.",
-      "Higher receipt rates were observed for specific vaccines, including hepatitis B birth dose (19% higher), OPV3 (16% higher), and OPV2 (11% higher)."
+      "Full immunization rate was 27% higher among children under 2 in MI phase 1 and 2 districts than in other districts.",
+      "The rate of receiving all vaccines at recommended ages was 8% higher in the intervention group.",
+      "Receipt of the OPV birth dose, OPV1, OPV2, OPV3, BCG and hepatitis B birth dose was 9%, 9%, 11%, 16%, 5% and 19% higher in the intervention group, respectively.",
+      "The authors note that an estimated 62% of Indian children under 2 are fully immunized, as background.",
+      "The authors state that more research is required on the cost-effectiveness of investing in MI-type programs as compared with routine immunization."
     ],
-    "whyItMatters": "The findings suggest that intensifying periodic health programs can effectively improve public health outcomes, though further research is needed to understand the cost-effectiveness of these programs compared to standard routine immunization.",
+    "whyItMatters": "The paper suggests that periodic intensification drives can improve both coverage and timeliness of childhood vaccination, which is relevant to health policymakers allocating programme budgets. The authors indicate that cost-effectiveness evidence is still needed before judging whether such drives are a better use of resources than routine immunization.",
     "topics": [
-      "public health",
-      "immunization programs",
-      "healthcare delivery",
-      "India healthcare",
+      "routine immunization",
       "vaccination coverage",
-      "program evaluation"
+      "Mission Indradhanush",
+      "difference-in-differences",
+      "child health",
+      "public health programmes",
+      "India health policy",
+      "cost-effectiveness"
     ],
     "industries": [
-      "healthcare",
-      "public health"
+      "Public health (childhood immunization)"
     ],
     "geographies": [
       "India"
@@ -58,9 +61,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

@@ -26,36 +26,39 @@
   ],
   "abstract": "We study the impact of yield uncertainty (supply side) and self-interested consumers (demand side) on the inefficiency in the influenza vaccine supply chain. Previous economic studies, focusing on demand side, find that the equilibrium demand is always less than the socially optimal demand because self-interested individuals do not internalize the social benefit of protecting others via reduced infectiousness (positive externality). In contrast, we show that the equilibrium demand can be greater than the socially optimal demand after accounting for the limited supply due to yield uncertainty and manufacturer's incentives. The main driver for this result is a second (negative) externality: Self-interested individuals ignore that vaccinating people with high infection costs is more beneficial for the society when supply is limited. We show that the extent of the negative externality can be reduced through more efficient and less uncertain allocation mechanisms. To investigate the relative effectiveness of government interventions on supply and demand sides under various demand and supply characteristics, we construct two partially centralized scenarios where the social planner (i.e., government) intervenes either on the demand side or the supply side, but not both. We conduct an extensive numerical analysis. This paper was accepted by Yossi Aviv, operations management.",
   "summary": {
-    "oneLiner": "When influenza vaccine supply is limited by production uncertainty, private demand can exceed the socially optimal level, creating a negative externality.",
-    "overview": "In the context of the flu vaccine, individuals often ignore the positive social benefit of preventing the spread of disease, leading to under-vaccination. However, this study finds that when vaccine supply is uncertain and limited, the opposite problem can occur: equilibrium demand may exceed what is socially optimal. This happens because individuals do not consider that it is more beneficial for society to prioritize vaccinating those at the highest risk when supply is scarce. The authors suggest that government interventions on the supply or demand side can help manage these inefficiencies.",
-    "question": "How do yield uncertainty and self-interested consumer behavior impact the efficiency of the influenza vaccine supply chain, and what is the effectiveness of government interventions?",
-    "method": "Numerical analysis of two partially centralized scenarios.",
+    "oneLiner": "Yield uncertainty in influenza vaccine supply can make self-interested demand exceed the socially optimal level, so government intervention on supply or demand matters.",
+    "overview": "Influenza vaccines are a classic case where what individuals want and what is best for society can diverge. Earlier economic work focused on demand and found that people under-vaccinate because they ignore the benefit to others of being less infectious. This paper adds the supply side: because manufacturers face uncertain yields, the available supply is limited and can be unpredictable. Under these conditions, the authors show that equilibrium demand can actually exceed the socially optimal level, because self-interested people do not account for the fact that vaccinating those with high infection costs does more good when supply is scarce. The authors then compare government interventions on the demand side and the supply side to see which works better under different conditions.",
+    "question": "How do yield uncertainty on the supply side and self-interested consumers on the demand side create inefficiency in the influenza vaccine supply chain, and how do government interventions on each side compare?",
+    "method": "Analytical modelling of the vaccine supply chain, with two partially centralized scenarios in which a social planner (the government) intervenes either on the demand side or the supply side but not both, followed by an extensive numerical analysis.",
     "data": "Not stated in the available text.",
     "findings": [
-      "Equilibrium demand can be greater than socially optimal demand when vaccine supply is limited by yield uncertainty.",
-      "A negative externality exists because individuals ignore the social value of prioritizing vaccine access for those with high infection costs.",
-      "Efficient and less uncertain allocation mechanisms can reduce the extent of the negative externality."
+      "Equilibrium demand can be greater than the socially optimal demand once limited supply from yield uncertainty and manufacturer incentives are accounted for, which reverses the result from earlier demand-side-only studies.",
+      "The main driver is a second, negative externality: self-interested individuals ignore that vaccinating people with high infection costs is more beneficial to society when supply is limited.",
+      "The extent of this negative externality can be reduced through more efficient and less uncertain allocation mechanisms.",
+      "The relative effectiveness of demand-side versus supply-side government interventions depends on demand and supply characteristics, according to the numerical analysis."
     ],
-    "whyItMatters": "Policymakers and managers should recognize that supply constraints can fundamentally change the nature of market inefficiencies in vaccine distribution, requiring distinct intervention strategies for demand and supply.",
+    "whyItMatters": "The paper suggests that policymakers and vaccine supply chain managers should not assume that more vaccination demand is always better, since limited and uncertain supply can make high demand inefficient. It implies that improving allocation mechanisms and reducing yield uncertainty can help, and that the choice between demand-side and supply-side intervention should depend on the specific conditions.",
     "topics": [
-      "vaccine supply chain",
-      "healthcare operations",
-      "positive externalities",
+      "influenza vaccine",
       "yield uncertainty",
-      "social welfare",
-      "government intervention"
+      "supply chain",
+      "consumption externality",
+      "government intervention",
+      "vaccine allocation",
+      "social planner",
+      "operations management"
     ],
     "industries": [
-      "healthcare",
-      "pharmaceuticals"
+      "Pharmaceuticals and vaccines",
+      "Healthcare"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

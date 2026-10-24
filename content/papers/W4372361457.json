@@ -23,22 +23,22 @@
   ],
   "abstract": "In this ever expanding explosion of data in the world, we are at a crucial juncture to balance quality and quantity. In healthcare, there is a need to analyze voluminous datasets for the benefit of the patients while respecting their privacy and ownership. There is a need to understand the fundamental framework of co-creation of the data between the health-care provider and the patient. There is no more opportune time such as this to harness the potential of large datasets in healthcare to catalyze value-based care for the population.",
   "summary": {
-    "oneLiner": "Healthcare providers and patients must establish a framework of data co-creation to balance privacy and ownership with the potential of large-scale data analysis.",
-    "overview": "As healthcare data expands rapidly, there is a critical need to find the right balance between collecting large volumes of information and maintaining patient privacy. The authors argue for a new framework based on the co-creation of data, where patients and providers collaborate. This approach aims to leverage large datasets to improve the quality of patient care while ensuring ethical data management.",
-    "question": "How can the healthcare sector effectively balance the use of large datasets for value-based care while respecting patient privacy and data ownership?",
-    "method": "Not stated in the available text.",
+    "oneLiner": "The paper argues that healthcare must balance large-scale data analysis with patient privacy and ownership, and that patients and providers co-create this data.",
+    "overview": "Healthcare data is growing rapidly, and the authors argue that it can improve patient care if it is analysed carefully. They say the central tension is balancing the quantity of data with its quality, while respecting patients' privacy and their ownership of the information. The abstract calls for a clearer framework for how health data is co-created by providers and patients. It positions large datasets as a way to support value-based care for populations.",
+    "question": "What fundamental framework governs the co-creation of health-care data between providers and patients, and how can large datasets be used for patient benefit while respecting privacy and ownership?",
+    "method": "Not stated in the available text. The title describes the paper as perspectives and a future direction, but the abstract names no specific method.",
     "data": "Not stated in the available text.",
     "findings": [
-      "There is an identified need to establish a fundamental framework of data co-creation between patients and healthcare providers.",
-      "Harnessing large datasets has the potential to catalyze value-based care for the broader population."
+      "Not stated in the available text. The abstract reports no empirical findings and mainly states a need for a framework on co-creation of health-care data."
     ],
-    "whyItMatters": "The paper implies that healthcare organizations must shift toward collaborative data ownership models to ethically innovate and improve patient outcomes through data-driven insights.",
+    "whyItMatters": "The abstract suggests that large healthcare datasets could catalyse value-based care for the population, provided patient privacy and ownership are respected. It implies that policy and provider practice need a clear framework for how data is co-created.",
     "topics": [
-      "Healthcare data",
-      "Data privacy",
-      "Value-based care",
-      "Data ownership",
-      "Health informatics"
+      "health-care data",
+      "data ownership",
+      "patient privacy",
+      "value-based care",
+      "data co-creation",
+      "big data in healthcare"
     ],
     "industries": [
       "Healthcare"
@@ -47,9 +47,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

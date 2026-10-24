@@ -35,28 +35,32 @@
   ],
   "abstract": "Background: Despite the availability of effective and affordable treatments, only 14% of hypertensive Indians have controlled blood pressure. Increased hypertension treatment coverage (the proportion of individuals initiated on treatment) and adherence (proportion of patients taking medicines as recommended) promise population health gains. However, governments and other payers will not invest in a large-scale hypertension control program unless it is both affordable and effective. Objective: To investigate if a national hypertension control intervention implemented across the private and public sector facilities in India could save overall costs of CVD prevention and treatment. Methods: We developed a discrete-time microsimulation model to assess the cost-effectiveness of population-level hypertension control intervention in India for combinations of treatment coverage and adherence targets. Input clinical parameters specific to India were obtained from large-scale surveys such as the Global Burden of Disease as well as local clinical trials. Input hypertensive medication cost parameters were based on government contracts. The model projected antihypertensive treatment costs, avoided CVD care costs, changes in disability-adjusted life year (DALYs) and incremental cost per DALY averted (represented as incremental cost-effectiveness ratio or ICER) over 20 years. Results: Over 20 years, at 70% coverage and adherence, the hypertension control intervention would avert 1.68% DALYs and be cost-saving overall. Increasing adherence (while keeping coverage constant) resulted in greater improvement in cost savings compared to increasing coverage (while keeping adherence constant). Results were most sensitive to the cost of antihypertensive medication, but the intervention remained highly cost-effective under all one-way sensitivity analyses. Conclusion: A national hypertension control intervention in India would most likely be budget neutral or cost-saving if the intervention can achieve and maintain high levels of both treatment coverage and adherence.",
   "summary": {
-    "oneLiner": "A national hypertension control program in India is projected to be cost-saving or budget neutral if it achieves high coverage and patient adherence.",
-    "overview": "This study evaluates whether a large-scale government program to improve blood pressure control in India is financially viable. Using a mathematical simulation, the researchers find that investing in higher treatment access and patient compliance can actually lower total healthcare costs over two decades. By preventing expensive cardiovascular diseases, the long-term savings are expected to outweigh the initial costs of medication and program administration. These findings suggest that scaling hypertension management is not just a health imperative but an economically sound policy for India.",
-    "question": "Can a national hypertension control intervention implemented across public and private sectors in India save overall costs related to cardiovascular disease (CVD) prevention and treatment?",
-    "method": "Discrete-time microsimulation model projecting costs and health outcomes (DALYs) over 20 years.",
-    "data": "Input parameters derived from Global Burden of Disease data, local Indian clinical trials, and government medication contracts.",
+    "oneLiner": "A national hypertension control program in India, at 70% coverage and adherence, would avert 1.68% of DALYs and likely be cost-saving over 20 years.",
+    "overview": "Only 14% of hypertensive Indians have controlled blood pressure, even though effective, affordable treatments exist. This study uses a computer simulation to test whether a national hypertension control program in India could pay for itself. The authors project that at 70% treatment coverage and adherence, the program would avert 1.68% of DALYs (disability-adjusted life years, a measure of healthy years lost to illness and death) and be cost-saving overall. Improving how consistently patients take their medicines produced larger cost savings than expanding the number of people put on treatment. The authors conclude the program would most likely be budget neutral or cost-saving if high coverage and adherence can be both achieved and maintained.",
+    "question": "Could a national hypertension control intervention implemented across private and public facilities in India save overall costs of cardiovascular disease (CVD) prevention and treatment?",
+    "method": "A discrete-time microsimulation model (a computer model that simulates individual patients over time in fixed steps) was used to assess cost-effectiveness for combinations of treatment coverage and adherence targets. It projected antihypertensive treatment costs, avoided CVD care costs, DALY changes and the incremental cost per DALY averted (ICER, a ratio comparing extra cost to extra health gained), with one-way sensitivity analyses to test how results change when single inputs vary.",
+    "data": "Input clinical parameters specific to India were drawn from large-scale surveys such as the Global Burden of Disease and from local clinical trials. Medication cost parameters were based on government contracts. Projection horizon was 20 years. Sample and time period beyond this are not stated in the available text.",
     "findings": [
-      "At 70% coverage and adherence, the intervention is projected to avert 1.68% of disability-adjusted life years (DALYs) and be cost-saving overall.",
-      "Increasing patient adherence results in greater cost savings than increasing treatment coverage alone.",
-      "The findings remain highly cost-effective across various sensitivity analyses, suggesting the model is robust to changing variables."
+      "At 70% coverage and adherence, the intervention would avert 1.68% of DALYs and be cost-saving overall over 20 years.",
+      "Increasing adherence while holding coverage constant produced greater cost savings than increasing coverage while holding adherence constant.",
+      "Results were most sensitive to the cost of antihypertensive medication.",
+      "The intervention remained highly cost-effective under all one-way sensitivity analyses.",
+      "The authors conclude the intervention would most likely be budget neutral or cost-saving if it can achieve and maintain high levels of both treatment coverage and adherence."
     ],
-    "whyItMatters": "For policymakers and healthcare investors, the model provides evidence that hypertension control programs can be budget-neutral or cost-saving, providing a strong economic case for national investment in chronic disease management.",
+    "whyItMatters": "The abstract frames the key concern for governments and other payers: they will invest in a large-scale hypertension control program only if it is both affordable and effective. The findings suggest that sustaining high adherence may be as important as, or more valuable than, expanding treatment coverage, and that medicine prices are the main cost driver to watch.",
     "topics": [
-      "hypertension management",
-      "healthcare cost-effectiveness",
-      "public health policy",
-      "cardiovascular disease prevention",
-      "health economics",
-      "treatment adherence"
+      "hypertension control",
+      "India health policy",
+      "cost-effectiveness",
+      "microsimulation modeling",
+      "treatment adherence",
+      "DALYs",
+      "cardiovascular disease",
+      "antihypertensive medication costs"
     ],
     "industries": [
-      "Public Health",
-      "Healthcare"
+      "Healthcare",
+      "Public health"
     ],
     "geographies": [
       "India"
@@ -64,9 +68,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

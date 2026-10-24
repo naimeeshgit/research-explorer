@@ -23,37 +23,35 @@
   ],
   "abstract": "Abstract Half‐hour returns predict same‐half‐hour returns on subsequent days. We hypothesize that this is due to institutional traders who execute their parent orders over multiple days (“repetitive institutional traders”). Using a unique data set that provides masked trader identification and trader type, we find that the half‐hour net order submission activity of repetitive institutional traders is predictive of same‐half‐hour returns on subsequent days, and that this relation subsumes the return predictability at shorter intervals. Repetitive institutional traders incur lower transaction costs than their nonrepetitive counterparts, suggesting that other traders compete to provide liquidity to the anticipated order flow originating from the repetitive traders.",
   "summary": {
-    "oneLiner": "Institutional traders executing large orders over multiple days create predictable return patterns that other market participants can anticipate and trade against.",
-    "overview": "This study examines why stock returns during a specific half-hour period on one day can predict returns during the same period on future days. The authors identify 'repetitive institutional traders'—investors who split large orders into smaller chunks executed over several days—as the primary cause. Because these traders follow a consistent, predictable schedule, other market participants can identify their activity and provide liquidity accordingly. As a result, these repetitive traders pay lower transaction costs compared to those who trade more sporadically.",
-    "question": "Does the predictable pattern of institutional traders executing parent orders over multiple days drive short-term stock return predictability at specific intraday intervals?",
-    "method": "An empirical analysis using masked trader identification to link net order submission activity with intraday returns.",
-    "data": "A unique data set providing masked trader identification and trader type information.",
+    "oneLiner": "Net order activity of institutional traders working orders over multiple days predicts same-half-hour returns on later days, and these traders pay lower transaction costs.",
+    "overview": "The paper finds that stock returns in a given half-hour of the trading day help predict returns in that same half-hour on later days. The authors suggest this happens because institutional traders execute their large parent orders over several days, which they call repetitive institutional traders. The net order submissions of these traders in a half-hour predict same-half-hour returns on later days, and this relation absorbs the predictability seen at shorter intervals. These traders also incur lower transaction costs (the costs of executing trades) than nonrepetitive traders, which the authors suggest reflects other traders competing to supply liquidity against their expected order flow.",
+    "question": "Is short-term return predictability linked to the order submission activity of repetitive institutional traders, who execute parent orders over multiple days, and how do their transaction costs compare with those of nonrepetitive traders?",
+    "method": "The abstract does not name a specific statistical technique. It relates half-hour net order submission activity of repetitive institutional traders to same-half-hour returns on subsequent days, and compares their transaction costs with those of nonrepetitive traders.",
+    "data": "The study uses a unique data set that provides masked trader identification and trader type. The market, sample period and number of traders are not stated in the available text.",
     "findings": [
-      "Half-hour net order submission activity by repetitive institutional traders is predictive of same-half-hour returns on subsequent days.",
-      "The predictive power of these traders' order flows subsumes, or explains away, return predictability observed at shorter intraday intervals.",
-      "Repetitive institutional traders appear to incur lower transaction costs than nonrepetitive traders.",
-      "The findings suggest that other market participants compete to provide liquidity to the anticipated order flow from these repetitive traders."
+      "Half-hour returns predict same-half-hour returns on subsequent days.",
+      "The half-hour net order submission activity of repetitive institutional traders is predictive of same-half-hour returns on subsequent days.",
+      "This relation subsumes the return predictability at shorter intervals.",
+      "Repetitive institutional traders incur lower transaction costs than their nonrepetitive counterparts, suggesting that other traders compete to provide liquidity to the anticipated order flow from repetitive traders."
     ],
-    "whyItMatters": "Understanding these patterns helps market participants recognize how institutional trading behavior impacts stock price dynamics and transaction costs. It suggests that liquidity providers actively 'front-run' or anticipate the predictable order schedules of large, repetitive institutional traders.",
+    "whyItMatters": "The abstract does not state explicit managerial or policy implications. It suggests that other traders compete to provide liquidity against the anticipated order flow of repetitive institutional traders, and that these traders bear lower transaction costs, which bears on how institutional orders are executed.",
     "topics": [
-      "Market microstructure",
-      "Institutional trading",
-      "Intraday returns",
-      "Order flow",
-      "Transaction costs",
-      "Liquidity provision",
-      "Return predictability"
+      "return predictability",
+      "institutional traders",
+      "order flow",
+      "transaction costs",
+      "liquidity provision",
+      "intraday returns",
+      "parent orders"
     ],
-    "industries": [
-      "Financial markets"
-    ],
+    "industries": [],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

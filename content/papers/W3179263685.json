@@ -38,28 +38,31 @@
   ],
   "abstract": "BACKGROUND: Diagnostics in many low- and middle-income countries are conducted through centralized laboratory networks. Samples are collected from patients at remote point-of-care health facilities, and diagnostic tests are performed at centralized laboratories. Sample transportation systems that deliver diagnostic samples and test results are crucial for timely diagnosis and treatment in such diagnostic networks. However, they often lack the timely and accurate data (eg, the quantity and location of samples prepared for collection) required for efficient operation. OBJECTIVE: This study aims to demonstrate the feasibility, adoption, and accuracy of a distributed data collection system that leverages basic mobile phone technology to gather reports on the quantity and location of patient samples and test results prepared for delivery in the diagnostic network of Malawi. METHODS: We designed a system that leverages unstructured supplementary service data (USSD) technology to enable health workers to submit daily reports describing the quantity of transportation-ready diagnostic samples and test results at specific health care facilities, free of charge with any mobile phone, and aggregate these data for sample transportation administrators. We then conducted a year-long field trial of this system in 51 health facilities serving 3 districts in Malawi. Between July 2019 and July 2020, the participants submitted daily reports containing the number of patient samples or test results designated for viral load, early infant diagnosis, and tuberculosis testing at each facility. We monitored daily participation and compared the submitted USSD reports with program data to assess system feasibility, adoption, and accuracy. RESULTS: The participating facilities submitted 37,771 reports over the duration of the field trial. Daily facility participation increased from an average of 50% (26/51) in the first 2 weeks of the trial to approximately 80% (41/51) by the midpoint of the trial and remained at or above 80% (41/51) until the conclusion of the trial. On average, more than 80% of the reports submitted by a facility for a specific type of sample matched the actual number of patient samples collected from that facility by a courier. CONCLUSIONS: Our findings suggest that a USSD-based system is a feasible, adoptable, and accurate solution to the challenges of untimely, inaccurate, or incomplete data in diagnostic networks. Certain design characteristics of our system, such as the use of USSD, and implementation characteristics, such as the supportive role of the field team, were necessary to ensure high participation and accuracy rates without any explicit financial incentives.",
   "summary": {
-    "oneLiner": "A USSD-based mobile phone system improves data collection accuracy and facility participation in tracking diagnostic samples within laboratory networks in Malawi.",
-    "overview": "In many low-income countries, the process of transporting samples from remote clinics to centralized labs is inefficient due to poor data tracking. This study tested a system using Unstructured Supplementary Service Data (USSD), a basic mobile technology that works on any phone without requiring internet. Health workers used this system to report daily sample quantities, achieving high levels of participation and accuracy over a one-year trial. The findings suggest that this low-cost digital tool can significantly improve logistics management in diagnostic networks without requiring financial incentives.",
-    "question": "Can a USSD-based mobile phone system provide a feasible, accurate, and adoptable method for tracking diagnostic samples and test results in the Malawi diagnostic network?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "A USSD mobile phone reporting system let health workers in 51 Malawi facilities submit daily sample counts, with over 80% of reports matching courier pickups.",
+    "overview": "Many low- and middle-income countries send patient samples from remote clinics to central labs, and the transport system often lacks timely data on how many samples are ready for pickup. The authors built a simple system using USSD, a basic text-based mobile phone service that works on any phone at no cost, so health workers can report daily sample and result counts. They ran it for a year across 51 health facilities in three Malawian districts. They found the system was feasible, adoptable, and accurate, with participation reaching about 80% and most reports matching what couriers actually collected. The authors suggest that high participation came from the system's design and the supportive field team rather than from financial incentives.",
+    "question": "Can a USSD-based mobile phone data system provide timely and accurate daily reports on the quantity and location of diagnostic samples and test results ready for transport in Malawi's diagnostic network?",
+    "method": "The authors designed a USSD-based reporting system and ran a year-long field trial. They tracked daily participation and compared submitted reports with program data, including the number of samples actually collected by couriers, to assess feasibility, adoption, and accuracy.",
+    "data": "Field trial in 51 health facilities serving 3 districts in Malawi, July 2019 to July 2020. Participants submitted 37,771 reports covering viral load, early infant diagnosis, and tuberculosis testing.",
     "findings": [
-      "A USSD-based system is a feasible, adoptable, and accurate solution to the challenges of untimely, inaccurate, or incomplete data in diagnostic networks.",
-      "Daily facility participation increased from 50% in the first two weeks to approximately 80% by the midpoint and sustained that level until the end of the trial.",
-      "On average, more than 80% of submitted reports matched the actual number of samples collected by couriers."
+      "Daily facility participation rose from an average of 50% (26/51) in the first two weeks to about 80% (41/51) by the trial midpoint, and stayed at or above 80% until the end.",
+      "On average, more than 80% of a facility's reports for a given sample type matched the number of samples a courier actually collected from that facility.",
+      "The authors suggest a USSD-based system is a feasible, adoptable, and accurate solution to untimely, inaccurate, or incomplete data in diagnostic networks.",
+      "The authors suggest design features such as USSD use, and implementation features such as the supportive role of the field team, were necessary for high participation and accuracy without explicit financial incentives."
     ],
-    "whyItMatters": "The study suggests that design choices like using USSD technology and providing supportive field teams are critical for operational success in resource-constrained environments, even in the absence of financial incentives.",
+    "whyItMatters": "For managers and policymakers running sample transport networks in resource-limited settings, the paper suggests that cheap, basic mobile phone reporting can give the timely data needed for efficient operations. The authors point to field team support and system design, rather than payments, as the drivers of participation and accuracy.",
     "topics": [
+      "USSD mobile reporting",
       "diagnostic networks",
-      "healthcare logistics",
+      "sample transportation",
       "mobile health",
-      "USSD technology",
-      "operations management",
-      "low-income country healthcare"
+      "low- and middle-income countries",
+      "health system data",
+      "Malawi",
+      "field trial"
     ],
     "industries": [
-      "healthcare",
-      "diagnostic laboratories"
+      "Healthcare",
+      "Public health diagnostics"
     ],
     "geographies": [
       "Malawi"
@@ -67,9 +70,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

@@ -47,38 +47,45 @@
   ],
   "abstract": "Low density of formal care providers in rural India results in restricted and delayed access to standardized management of hypertension. Task-sharing with pharmacies, typically the first point of contact for rural populations, can bridge the gap in access to formal care and improve health outcomes. In this study, we implemented a hypertension care program involving task-sharing with twenty private pharmacies between November 2020 and April 2021 in two blocks of Bihar, India. Pharmacists conducted free hypertension screening, and a trained physician offered free consultations at the pharmacy. We calculated the number of subjects screened, initiated on treatment (enrolled) and the change in blood pressure using the data collected through the program application. Of the 3403 subjects screened at pharmacies, 1415 either reported having a history of hypertension or had elevated blood pressure during screening. Of these, 371 (26.22%) were enrolled in the program. Of these, 129 (34.8%) made at least one follow-up visit. For these subjects, the adjusted average difference in systolic and diastolic blood pressure between the screening and follow-up visits was -11.53 (-16.95 to -6.11, 95% CI) and -4.68 (-8.53 to -0.82, 95% CI) mmHg, respectively. The adjusted odds of blood pressure being under control in this group during follow-up visits compared to screening visit was 7.07 (1.29 to 12.85, 95% CI). Task-sharing with private pharmacies can lead to early detection and improved control of blood pressure in a resource-constrained setting. Additional strategies to increase patient screening and retention rates are needed to ensure sustained health benefits.",
   "summary": {
-    "oneLiner": "Training rural pharmacists to screen and monitor blood pressure, paired with physician consultations, improves hypertension management and control in rural India.",
-    "overview": "In rural India, a shortage of formal doctors leaves many hypertension patients untreated. This study tested a 'task-sharing' model where private pharmacies performed free blood pressure screenings and facilitated monthly consultations with a physician. The program helped patients achieve significant reductions in blood pressure and improved overall control. However, the study also highlights that maintaining patient follow-up remains a significant challenge for long-term health success.",
-    "question": "Does a hypertension care program that utilizes task-sharing with private pharmacies improve blood pressure control in resource-constrained rural Indian settings?",
-    "method": "A retrospective cohort study evaluating a hypertension care program where pharmacists conducted screenings and coordinated physician consultations over five months. The researchers used linear and logistic regression models to analyze changes in blood pressure and the likelihood of achieving blood pressure control, clustering standard errors at the pharmacy level.",
-    "data": "A sample of 3,403 individuals screened at 20 private pharmacies across two blocks in the Bhojpur district of Bihar, India, between November 2020 and April 2021.",
+    "oneLiner": "Task-sharing with 20 private pharmacies in rural Bihar was associated with lower blood pressure among enrolled patients who returned for follow-up, though retention was low.",
+    "overview": "The study looked at a hypertension program in which pharmacists in 20 private pharmacies in two rural Bihar blocks screened people for free and a physician visited monthly to diagnose and prescribe. Of 3,403 people screened, 1,415 were potentially hypertensive and 371 enrolled, but only 129 (about 35% of enrolled) returned for at least one follow-up. Among those 129, blood pressure fell on average and the odds of being under control were higher at follow-up than at screening. The authors describe this as a retrospective cohort study without a comparison group, so the changes cannot be attributed to the program alone. Patient retention was the main weakness they identified.",
+    "question": "Can task-sharing with private pharmacies, where pharmacists screen and a physician consults, help detect hypertension early and improve blood pressure control in rural India?",
+    "method": "A retrospective cohort study using programme data from a pharmacy-based hypertension care program. The authors reported operational outcomes (screening, consultation, enrolment, follow-up) descriptively and estimated changes in systolic and diastolic blood pressure and the odds of controlled blood pressure using linear and logistic regressions, both unadjusted and adjusted for patient fixed effects, with standard errors clustered by pharmacy.",
+    "data": "Programme records from 20 private pharmacies in Behea and Udwantnagar blocks of Bhojpur district, Bihar, India, collected between 23 November 2020 and 30 April 2021. Of 3,403 screened subjects, 1,415 were potentially hypertensive, 371 enrolled, and 129 with at least one follow-up visit formed the clinical analysis sample.",
     "findings": [
-      "Among enrolled patients who attended follow-up visits, the program is associated with an average reduction of 11.53 mmHg in systolic blood pressure and 4.68 mmHg in diastolic blood pressure.",
-      "The adjusted odds of blood pressure being under control during follow-up visits compared to the initial screening visit was 7.07.",
-      "The program reached 3,403 individuals, but patient retention was a challenge, as only 35% of the 371 enrolled hypertensive subjects attended at least one follow-up visit."
+      "Of 3,403 people screened, 1,415 were potentially hypertensive and 371 (26.22%) enrolled in the program.",
+      "Of the enrolled, 129 (34.8%) made at least one follow-up visit.",
+      "Adjusted average change in systolic blood pressure between screening and follow-up was -11.53 mmHg (95% CI -16.95 to -6.11); diastolic was -4.68 mmHg (95% CI -8.53 to -0.82).",
+      "Adjusted odds of blood pressure being under control at follow-up versus screening were 7.07 (95% CI 1.29 to 12.85).",
+      "The authors state that task-sharing with private pharmacies 'can lead to early detection and improved control of blood pressure', and that additional strategies to increase screening and retention are needed.",
+      "The authors note the study lacked a comparator group and that the COVID-19 second wave may have reduced screenings and retention."
     ],
-    "whyItMatters": "The findings suggest that collaborating with the private sector through task-sharing can bridge gaps in healthcare delivery in areas with limited public infrastructure. For managers and policymakers, the study emphasizes that while such models are feasible, future success depends on designing better incentives to improve patient retention and ensure pharmacists remain engaged.",
+    "whyItMatters": "The authors suggest the model offers policymakers a plausible way to work with the private sector to expand hypertension care in areas with weak public health delivery, and argue for public investment in such task-sharing programs. They emphasise that improving patient retention and aligning pharmacist and patient incentives are needed for success, and note that the program did not pay pharmacies or cover patients' medication costs.",
     "topics": [
-      "hypertension management",
+      "hypertension",
       "task-sharing",
-      "rural healthcare",
-      "pharmacy-based care",
-      "public-private partnership",
-      "healthcare delivery models"
+      "community pharmacists",
+      "rural India",
+      "private sector healthcare",
+      "patient retention",
+      "blood pressure control",
+      "non-communicable diseases",
+      "health program evaluation"
     ],
     "industries": [
-      "healthcare",
-      "pharmacy"
+      "Healthcare",
+      "Retail pharmacy"
     ],
     "geographies": [
-      "India"
+      "Bihar, India",
+      "Rural India"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

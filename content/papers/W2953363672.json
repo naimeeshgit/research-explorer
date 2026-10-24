@@ -26,39 +26,44 @@
   ],
   "abstract": "In many emerging economies, callers may abandon ambulance requests due to a combination of operational (small fleet size), infrastructural (long travel times) and behavioral factors (low trust in the ambulance system). As a result, ambulance capacity, which is already scarce, is wasted in serving calls that are likely to be abandoned later. In this article, we investigate the design of an ambulance system in the presence of abandonment behavior, using a two-step approach. First, because the callers’ actual willingness to wait for ambulances is censored, we adopt a Maximum Likelihood Estimator estimation approach suitable for interval censored data. Second, we employ a simulation-based optimization approach to explicitly incorporate customers’ willingness to wait in: (i) tactical short-term decisions such as modification of dispatch policies and ambulance allocations at existing base locations; and (ii) strategic long-term network design decisions of increasing fleet size and re-designing base locations. We calibrate our models using data from a major metropolitan city in India where historically 81.3% of calls were successfully served without being abandoned. We find that modifying dispatch policies or reallocating ambulances provide relatively small gains in successfully served calls (around 1%). By contrast, increasing fleet size and network re-design can more significantly increase the fraction of successfully served calls with the latter being particularly more effective. Redesigning bases with the current fleet size is equivalent to increasing the fleet size by 8.6% at current base locations. Similarly, adding 29% more ambulances and redesigning the base locations is equivalent to doubling the fleet size at the current base locations and adding 34% more ambulances and redesigning base locations is equivalent to a three-fold increase. Our results indicate that in the absence of changes in behavioral factors, significant investment is required to modify operational factors by increasing fleet size, and to modify infrastructural factors by redesigning base locations.",
   "summary": {
-    "oneLiner": "In emerging economies, systemic improvements in ambulance fleet size and base locations are necessary to address high call abandonment rates.",
-    "overview": "In many emerging economies, ambulance systems face high abandonment rates because callers grow impatient due to long wait times or low trust. This study examines how to improve service by accounting for how long people are actually willing to wait. The authors show that simply changing dispatch rules offers minimal benefit. Instead, structural changes like expanding the fleet and strategically relocating ambulance bases are much more effective at ensuring more calls are successfully served.",
-    "question": "How can ambulance systems in emerging economies be designed to improve service rates when callers abandon requests due to long wait times?",
-    "method": "The authors used a two-step approach: a Maximum Likelihood Estimator to handle censored data regarding wait-time tolerance, followed by a simulation-based optimization to test various fleet and base location configurations.",
-    "data": "Data from a major metropolitan city in India, where 81.3% of calls were historically served successfully.",
+    "oneLiner": "Callers in an Indian city abandon ambulance requests; adding ambulances or redesigning bases helps more than changing dispatch rules.",
+    "overview": "Ambulance calls in many emerging economies are sometimes abandoned because of small fleets, long travel times and low trust in the system, which wastes scarce ambulance capacity. The authors first estimate how long callers are willing to wait, using a statistical method suited to data recorded only as ranges (interval-censored data). They then use simulation-based optimization, which tests different system designs on simulated scenarios to find the best ones, to compare short-term fixes with long-term network changes. Using data from a major Indian metropolitan city, they find that tactical changes give small gains of around 1%, while larger fleets and redesigned base locations raise the share of served calls more substantially.",
+    "question": "How should an ambulance system be designed when callers may abandon requests, considering both short-term tactical changes (dispatch policies and allocation of ambulances to existing bases) and long-term strategic changes (fleet size and base locations)?",
+    "method": "A two-step approach: (1) a Maximum Likelihood Estimator, a standard statistical method for estimating parameters from data, adapted for interval-censored data, to estimate callers' willingness to wait; and (2) a simulation-based optimization approach that explicitly incorporates willingness to wait into tactical decisions (dispatch policies and ambulance allocation at existing bases) and strategic decisions (fleet size and base-location network design).",
+    "data": "Models are calibrated using data from a major metropolitan city in India, where historically 81.3% of calls were successfully served without being abandoned. The sample size and time period are not stated in the available text.",
     "findings": [
-      "Modifying dispatch policies or reallocating existing ambulances provides only small gains (around 1%) in successfully served calls.",
-      "Increasing fleet size and redesigning base locations significantly increases the fraction of successfully served calls.",
-      "Redesigning base locations is particularly effective, with the authors noting that redesigning bases with the current fleet is equivalent to increasing the fleet size by 8.6%.",
-      "Combining fleet expansion with network redesign leads to substantial operational gains compared to status quo base configurations."
+      "Modifying dispatch policies or reallocating ambulances provides relatively small gains in successfully served calls, around 1%.",
+      "Increasing fleet size and redesigning the network can more significantly increase the fraction of successfully served calls, with network redesign described as particularly more effective.",
+      "Redesigning bases with the current fleet size is equivalent to increasing the fleet size by 8.6% at current base locations.",
+      "Adding 29% more ambulances together with redesigning base locations is equivalent to doubling the fleet size at current base locations.",
+      "Adding 34% more ambulances together with redesigning base locations is equivalent to a three-fold increase in fleet size.",
+      "The authors indicate that, absent changes in behavioral factors, significant investment is required to change operational factors (fleet size) and infrastructural factors (base locations)."
     ],
-    "whyItMatters": "For managers and policymakers in emerging markets, this research suggests that minor operational tweaks are insufficient to solve capacity crises. Significant capital investment in infrastructure (base locations) and fleet expansion is necessary to reduce abandonment and improve emergency medical service performance.",
+    "whyItMatters": "The authors suggest that, unless behavioral factors such as trust in the ambulance system change, operators need significant investment in more ambulances and redesigned base locations to reduce abandonment, since operational tweaks to dispatch policy yield only small gains.",
     "topics": [
-      "Emergency medical services",
-      "Operations management",
-      "Emerging markets",
-      "Network design",
-      "Queueing behavior",
-      "Public health logistics"
+      "ambulance dispatch",
+      "emergency medical services",
+      "call abandonment",
+      "fleet sizing",
+      "base location design",
+      "simulation optimization",
+      "emerging economies",
+      "censored data",
+      "healthcare operations India"
     ],
     "industries": [
-      "Healthcare",
-      "Emergency services"
+      "Emergency medical services (ambulance systems)"
     ],
     "geographies": [
-      "India"
+      "India (a major metropolitan city)",
+      "Emerging economies (general context)"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

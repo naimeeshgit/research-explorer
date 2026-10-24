@@ -26,28 +26,30 @@
   ],
   "abstract": "Seizing the latest technological advances in distributed work, an increasing number of firms have set up offshore captive centers (CCs) in emerging economies to carry out sophisticated R&D work. We analyze survey data from 132 R&D CCs established by foreign multinational companies in India to understand how firms execute distributed innovative work. Specifically, we examine the performance outcomes of projects using different technology-enabled coordination strategies to manage their interdependencies across multiple locations. We find that modularization of work across locations is largely ineffective when the underlying tasks are less routinized, less analyzable, and less familiar to the CC. Coordination based on information sharing across locations is effective when the CC performs tasks that are less familiar to it. A key contribution of our work is the explication of the task contingencies under which coordination based on modularization versus information sharing yield differential performance outcomes.",
   "summary": {
-    "oneLiner": "This study examines how different coordination strategies for offshore R&D tasks impact performance based on the nature of the work being performed.",
-    "overview": "Multinational firms often use offshore captive centers to handle complex research and development tasks. This paper investigates which methods—specifically modularization or information sharing—work best for managing tasks across global locations. The findings suggest that the effectiveness of these strategies depends on how routine, analyzable, and familiar the tasks are to the offshore team. By matching the right coordination strategy to specific task characteristics, firms can achieve better performance in their distributed innovation efforts.",
-    "question": "How do different technology-enabled coordination strategies (modularization vs. information sharing) affect the performance of distributed R&D projects based on specific task characteristics?",
-    "method": "A survey of managers.",
-    "data": "132 R&D captive centers established by foreign multinational companies in India.",
+    "oneLiner": "Splitting R&D work into modules across locations fails for non-routine, hard-to-analyze, unfamiliar tasks, while information sharing helps when tasks are unfamiliar to the offshore center.",
+    "overview": "Many multinational firms run offshore captive centers in India and other emerging economies to do sophisticated R&D work. This study surveys 132 such R&D centers established by foreign multinationals in India to see how distributed innovation projects perform. The authors compare two technology-enabled ways of coordinating work across locations: modularization, which splits work into separable pieces, and information sharing across sites. They find that modularization is largely ineffective when tasks are less routinized, less analyzable, and less familiar to the center, while information sharing is effective when the center is handling tasks it is unfamiliar with.",
+    "question": "How do different technology-enabled coordination strategies (modularization of work and information sharing across locations) affect project performance in offshore R&D captive centers, and how does this depend on task characteristics?",
+    "method": "Survey-based empirical study of R&D projects in captive centers, with performance outcomes analyzed against coordination strategies and task contingencies. The abstract does not name the specific statistical technique.",
+    "data": "Survey data from 132 R&D captive centers established by foreign multinational companies in India.",
     "findings": [
-      "Modularization of work across locations is largely ineffective when tasks are less routinized, less analyzable, and less familiar to the captive center.",
-      "Coordination based on information sharing is effective when the captive center performs tasks that are less familiar to it.",
-      "The study identifies specific task contingencies that determine whether modularization or information sharing leads to better performance."
+      "Modularization of work across locations is largely ineffective when the underlying tasks are less routinized, less analyzable, and less familiar to the captive center.",
+      "Coordination based on information sharing across locations is effective when the captive center performs tasks that are less familiar to it.",
+      "The authors identify the task contingencies under which modularization versus information sharing yield differential performance outcomes."
     ],
-    "whyItMatters": "Managers can improve the success of offshore R&D by recognizing that a 'one-size-fits-all' approach to coordination is ineffective; instead, they must select strategies that align with the specific nature of the technical tasks being outsourced.",
+    "whyItMatters": "The authors argue their main contribution is specifying the task conditions under which modularization and information sharing lead to different performance outcomes, which can guide how firms divide and coordinate distributed innovative work. The abstract does not spell out specific managerial recommendations.",
     "topics": [
-      "Offshore R&D",
-      "Captive Centers",
-      "Distributed Innovation",
-      "Coordination Mechanisms",
-      "Task Characteristics",
-      "Global Operations",
-      "IT Outsourcing"
+      "captive centers",
+      "offshore R&D",
+      "distributed innovation",
+      "modularization",
+      "information sharing",
+      "task characteristics",
+      "coordination mechanisms",
+      "India outsourcing"
     ],
     "industries": [
-      "Research and Development"
+      "R&D services",
+      "offshore captive centers"
     ],
     "geographies": [
       "India"
@@ -55,9 +57,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

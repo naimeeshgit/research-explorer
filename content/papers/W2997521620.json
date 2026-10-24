@@ -29,38 +29,44 @@
   ],
   "abstract": "In February 2017, India capped the retail price of coronary stents and restricted the channel margin to bring Percutaneous Transluminal Coronary Angioplasty (PTCA) procedure, which uses coronary stents, within reach of millions of patients who previously could not afford it. Prior research shows that care providers respond to such regulations in a way that compensates for their loss in profits because of price control. Therefore, price control policies often introduce unintended consequences, such as distortions in clinical decision making. We investigate such distortions through empirical analysis of claims data from a representative public insurance program in the Indian state of Karnataka. Our data comprises 25, 769 insurance claims from 69 private and seven public hospitals from February 2016 to February 2018. The public insurance context is ideal for investigating distortions in clinical decisions as the price paid by patients, and thereby access to the treatment, does not change after price control. We find that the change in the average volume of PTCA procedures per hospital per month after price control disproportionately increased when compared to the change in the clinical alternative – Coronary Artery Bypass Graft (CABG) procedures. This increase corresponds to 6% of the average number of PTCA procedures and 28% of the average number of CABG procedures before the price control. In addition, disproportionate increase in PTCA procedures occurred only among private hospitals, indicating the possibility of profit-maximization intentions driving the clinical choices. Such clinical distortions can have negative implications for patient health outcomes in the long run. We discuss alternative policies to improve access and affordability to healthcare products and services which are likely to not suffer from similar distortions.",
   "summary": {
-    "oneLiner": "India's coronary stent price caps led to a disproportionate increase in procedures at private hospitals, suggesting potential profit-driven clinical distortions.",
-    "overview": "In 2017, the Indian government capped the price of coronary stents to improve affordability for patients undergoing heart procedures. Researchers analyzed insurance data to see if hospitals changed their clinical behavior following this regulation. They found that private hospitals increased the volume of stent-based procedures relative to alternative heart surgeries after the price controls were implemented. This indicates that price regulations may inadvertently influence clinical decision-making when providers seek to maintain profit margins.",
-    "question": "Did the implementation of price controls on coronary stents lead to unintended clinical distortions in hospital procedure volumes?",
-    "method": "The authors performed an empirical analysis comparing procedure volumes before and after the price control policy, specifically comparing Percutaneous Transluminal Coronary Angioplasty (PTCA) with Coronary Artery Bypass Graft (CABG) procedures.",
-    "data": "25,769 insurance claims from 69 private and 7 public hospitals in the Indian state of Karnataka, spanning February 2016 to February 2018.",
+    "oneLiner": "After India capped coronary stent prices, private hospitals in Karnataka shifted toward the cheaper-to-deliver PTCA procedure over the alternative CABG surgery, suggesting profit-driven clinical distortion.",
+    "overview": "In February 2017 India capped the retail price of coronary stents and restricted the channel margin, aiming to make angioplasty (PTCA, a stent-based procedure to open blocked heart arteries) affordable for millions. The authors argue that price controls can push providers to change what they do to recover lost profits, which can distort clinical decisions. Using insurance claims from a public insurance program in Karnataka, they compare how PTCA and CABG (bypass surgery, the clinical alternative) volumes changed after the cap. They find PTCA volume rose disproportionately, and only at private hospitals, which they say suggests profit motives may be shaping treatment choices.",
+    "question": "Did India's coronary stent price control lead to unintended distortions in clinical decisions, specifically a shift from CABG to PTCA procedures?",
+    "method": "Empirical analysis comparing changes in average monthly PTCA volumes per hospital with changes in CABG volumes before and after the price control. The abstract does not name the specific estimation technique.",
+    "data": "25,769 insurance claims from 69 private and seven public hospitals in the Indian state of Karnataka, from February 2016 to February 2018, drawn from a representative public insurance program.",
     "findings": [
-      "The average volume of PTCA procedures per hospital per month disproportionately increased compared to the clinical alternative (CABG) after the price control was enacted.",
-      "The observed increase in PTCA procedures corresponds to 6% of the average PTCA volume and 28% of the average CABG volume prior to the policy.",
-      "The disproportionate shift toward PTCA procedures occurred exclusively within private hospitals, suggesting profit-maximization motivations might be driving clinical choices."
+      "The change in average monthly PTCA volume per hospital after price control increased disproportionately compared with the change in CABG volume.",
+      "The increase corresponds to about 6% of average pre-control PTCA procedures and about 28% of average pre-control CABG procedures.",
+      "The disproportionate increase in PTCA occurred only among private hospitals, indicating the possibility of profit-maximization intentions driving clinical choices.",
+      "Such clinical distortions can have negative implications for patient health outcomes in the long run."
     ],
-    "whyItMatters": "The study suggests that price caps on healthcare products may lead to unintended clinical distortions that could negatively impact long-term patient health, highlighting the need for policymakers to consider alternative approaches to affordability.",
+    "whyItMatters": "The authors suggest price controls can create unintended clinical distortions that may harm patient outcomes over time. They recommend exploring alternative policies to improve access and affordability of healthcare products and services that are less likely to create similar distortions.",
     "topics": [
-      "healthcare policy",
       "price controls",
+      "healthcare regulation",
+      "coronary stents",
+      "PTCA",
+      "CABG",
+      "unintended consequences",
+      "private hospitals",
       "clinical decision making",
-      "hospital management",
-      "medical procedure volume",
-      "stent pricing"
+      "India healthcare policy",
+      "insurance claims data"
     ],
     "industries": [
       "Healthcare",
-      "Hospitals"
+      "Medical devices"
     ],
     "geographies": [
-      "India"
+      "India",
+      "Karnataka"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

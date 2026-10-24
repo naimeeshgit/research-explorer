@@ -26,27 +26,30 @@
   ],
   "abstract": "Stan Kent, vice president of pharmacy at NorthShore University HealthSystem, is faced with the challenge of seasonal planning for the influenza vaccine. The supply received by the multilocation healthcare system is unreliable in terms of timing and quantity. As part of improved planning, Kent is contemplating a new contract with NorthShore's major supplier of flu vaccines. The options under consideration include fixing either the date of delivery or the quantity delivered. The main decision involved in either option would be how much vaccine to order. The case also provides details about the seasonal influenza epidemic in the United States, illustrates operational complexities of the U.S. flu vaccine supply chain, and provides a brief description of the various channels used to distribute flu vaccine to end consumers. The main objective of the case is to illustrate supply chain decision making when there is an unreliable supply (in contrast to the usual case of uncertain demand). A secondary objective is to make students think about appropriate internal (within sector) and external (other sectors) benchmarks to evaluate the performance of a health commodity supply chain.",
   "summary": {
-    "oneLiner": "This case explores managing supply chain uncertainty by analyzing trade-offs in ordering strategies for seasonal flu vaccines with unreliable supply.",
-    "overview": "NorthShore University HealthSystem faces significant challenges in planning for seasonal flu vaccines due to inconsistent delivery timing and quantities from suppliers. The case focuses on how managers can optimize ordering decisions by choosing between fixed-date or fixed-quantity supply contracts. It highlights the complexities of healthcare supply chains where the primary hurdle is unpredictable supply, rather than the more common issue of uncertain demand. Students are encouraged to use performance benchmarks to evaluate how effectively the system delivers vaccines to patients.",
-    "question": "How can healthcare managers optimize vaccine procurement strategies when faced with unreliable supply timing and quantity?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "A teaching case on NorthShore's flu vaccine planning, where unreliable supplier timing and quantity make ordering decisions hard, with benchmarking for health supply chains.",
+    "overview": "Stan Kent, a hospital pharmacy vice president at NorthShore University HealthSystem, must plan each season's flu vaccine orders when the supplier's delivery timing and quantities are unreliable. He is considering a new contract that would fix either the delivery date or the delivered quantity, and in both cases the key decision is how much vaccine to order. The case covers the seasonal flu epidemic in the United States, the operational complexity of the US flu vaccine supply chain, and the channels used to distribute vaccine to end consumers. It is designed to show how to make supply chain decisions when supply, rather than demand, is uncertain, and to help students choose fair benchmarks for judging a health commodity supply chain.",
+    "question": "How should a multilocation healthcare system plan and order seasonal flu vaccine when supply is unreliable in timing and quantity, and which contract option (fixed delivery date or fixed delivered quantity) suits it?",
+    "method": "Teaching case study. The abstract describes a business case narrative with a decision problem and background on the epidemic, supply chain and distribution channels; it does not describe a research design or quantitative analysis.",
+    "data": "Setting is NorthShore University HealthSystem, a multilocation healthcare system in the United States, and the US seasonal influenza vaccine supply chain. Sample size and time period are not stated in the available text.",
     "findings": [
-      "The case illustrates that supply chain decision-making in healthcare is significantly complicated by unreliable supply.",
-      "Performance in health commodity supply chains can be evaluated by identifying appropriate internal and external benchmarks."
+      "The abstract reports no empirical findings. It presents the decision options under consideration: fixing either the delivery date or the delivered quantity, with the order quantity as the main decision in both.",
+      "The case is intended to illustrate supply chain decision making when supply is unreliable, in contrast to the more usual case of uncertain demand.",
+      "A secondary aim is to prompt students to consider internal (within the sector) and external (other sectors) benchmarks for evaluating a health commodity supply chain."
     ],
-    "whyItMatters": "The case helps managers understand how to structure supply contracts to mitigate risks associated with volatile and unreliable upstream supply chains.",
+    "whyItMatters": "For managers of healthcare systems and vaccine supply chains, the case shows how supplier unreliability in timing and quantity affects ordering and how contract terms might address it. It also raises how to benchmark supply chain performance for health commodities, both against peers in the sector and against other industries.",
     "topics": [
-      "Supply chain management",
-      "Healthcare operations",
-      "Procurement strategy",
-      "Inventory planning",
-      "Operations management",
-      "Risk management"
+      "flu vaccine planning",
+      "unreliable supply",
+      "supply chain decision making",
+      "healthcare supply chain",
+      "vaccine distribution",
+      "supplier contracts",
+      "order quantity decisions",
+      "supply chain benchmarking"
     ],
     "industries": [
       "Healthcare",
-      "Pharmaceuticals"
+      "Pharmaceutical and vaccine supply"
     ],
     "geographies": [
       "United States"
@@ -54,9 +57,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

@@ -26,29 +26,36 @@
   ],
   "abstract": "Abstract This paper analyzes 31 months of data on 137 single‐stock futures (SSFs) traded on OneChicago. The results indicate that on the days they trade, SSFs contribute approximately 24% of the price discovery for underlying stocks. Information revelation in the SSFs market decreases with the ratio of spreads in the futures and the stock markets and the volatility in the stock market. Moreover, the quality of the market for the underlying stocks improves substantially after the introduction of the SSFs market, with the largest improvement occurring on days with SSFs trading. © 2008 Wiley Periodicals, Inc. Jrl Fut Mark 28:335– 353, 2008",
   "summary": {
-    "oneLiner": "Single stock futures (SSFs) contribute 24% of price discovery for underlying stocks, suggesting they serve as a significant venue for informed trading.",
-    "overview": "Single stock futures (SSFs) in the US provide a venue for investors to trade with leverage and lower transaction costs, which attracts informed traders. The study finds that SSFs contribute roughly 24% of the price discovery for their underlying stocks, indicating that new information is frequently reflected in futures prices before the stock price. Furthermore, the introduction of SSFs leads to improvements in the underlying stock market quality, such as narrower bid-ask spreads and lower adverse selection risk. The authors also find evidence of both market-level and security-level learning, as the market becomes more efficient and trading spreads narrow over time.",
-    "question": "Do single stock futures (SSFs) contribute to the price discovery of their underlying stocks, and how does their introduction impact the market quality of those underlying assets?",
-    "method": "The authors apply the Hasbrouck (1995) methodology to estimate the information share of single stock futures. They also employ cross-sectional regressions to examine determinants of this information share and measure changes in stock market liquidity using pre- and post-listing data.",
-    "data": "The study uses 31 months of intraday transaction and quote data for 137 single-stock futures traded on the OneChicago exchange and their underlying stocks listed on the NYSE and NASDAQ, covering the period from January 2003 to July 2005.",
+    "oneLiner": "Single stock futures on OneChicago contributed about 24 percent of price discovery for underlying US stocks, and underlying stock market quality improved after their launch.",
+    "overview": "This paper asks whether trading in single stock futures, contracts on individual shares, helps set the prices of the underlying stocks. Using 31 months of OneChicago data on 137 stocks, the authors estimate that futures account for about 24 percent of price discovery, which they describe as a significant share. The futures market's share rises when futures volume is high relative to stock volume and when futures spreads are low relative to stock spreads. Underlying stocks also showed lower spreads and lower adverse selection costs after futures listings, and the authors report evidence of both market-wide and stock-specific learning over time.",
+    "question": "Do single stock futures contribute to price discovery (the process by which trading reveals information in prices) for their underlying stocks, and how does futures trading affect stock market quality?",
+    "method": "The authors apply the Hasbrouck (1995) information share methodology to estimate each market's contribution to price discovery, adapting it to futures prices using a no-arbitrage model. They then run cross-sectional, Fama-MacBeth style monthly, and pooled panel regressions to explain information share, and compare stock market liquidity before and after futures listings and on trade versus no-trade days. They also test calendar-time and listing-event-time trends to look for learning.",
+    "data": "Daily and intraday data from January 2003 to July 2005 for 137 NYSE and NASDAQ stocks with single stock futures on the OneChicago exchange. Stock quote and trade data come from the NYSE TAQ database and futures data from OneChicago. Only the shortest maturity contract per stock is used, and the sample is restricted to days with at least three trades and two price changes.",
     "findings": [
-      "SSFs contribute approximately 24 percent of the price discovery for underlying stocks.",
-      "Information revelation in the SSFs market increases with the ratio of futures to stock market volume and decreases with the ratio of spreads and stock market volatility.",
-      "The quality of the underlying stock market improves significantly following the introduction of the SSFs market, characterized by lower bid-ask spreads and reduced adverse selection.",
-      "Evidence suggests both market-level and security-level learning occurs, which is associated with greater efficiency and tighter spreads over time."
+      "Single stock futures contribute approximately 24 percent of information revelation (price discovery) for underlying stocks; lower and upper bound averages are 24.4 and 24.6 percent, significantly different from zero.",
+      "The futures information share increases with the futures-to-stock volume ratio and decreases with the futures-to-stock spread ratio and with stock volatility; the authors note the volatility sign was an empirical question.",
+      "The information share does not appear to depend on whether the underlying stock is listed on NYSE or NASDAQ.",
+      "After futures listings, the underlying stock's quoted spread fell 20.2 percent and effective spread fell 18.6 percent; the adverse selection component (lambda) fell from 12.3 to 10.2 percent.",
+      "Stock market quality is better on days with futures trading than on days without, which the authors say is consistent with informed traders moving to the futures market.",
+      "Evidence suggests both market-level and security-level learning, associated with greater efficiency over time, though the listing-time information share trend is only marginally significant at the 10 percent level."
     ],
-    "whyItMatters": "For investors and regulators, the results suggest that SSFs are an important component of the price discovery process. The findings imply that derivative markets, by attracting informed traders, can enhance the overall efficiency and liquidity of the primary stock market.",
+    "whyItMatters": "The authors state that the futures market plays an important role in price discovery for underlying stocks and that a liquid futures market makes a significant contribution to price discovery. They suggest informed traders may find futures a lower-cost venue than options, and that the futures market may act as a venue for informed trading. The findings are associated with, rather than proven to cause, improved stock market quality.",
     "topics": [
-      "Single stock futures",
-      "Price discovery",
-      "Market microstructure",
-      "Informed trading",
-      "Market liquidity",
-      "Bid-ask spreads",
-      "Information asymmetry"
+      "single stock futures",
+      "price discovery",
+      "information share",
+      "market microstructure",
+      "derivatives and stock markets",
+      "bid-ask spreads",
+      "adverse selection",
+      "learning curve",
+      "OneChicago",
+      "futures trading"
     ],
     "industries": [
-      "Financial markets"
+      "Securities trading",
+      "Derivatives markets",
+      "Equity markets"
     ],
     "geographies": [
       "United States"
@@ -56,9 +63,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

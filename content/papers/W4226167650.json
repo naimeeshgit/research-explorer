@@ -26,40 +26,38 @@
   ],
   "abstract": "Abstract We identify a novel way of evergreening loans in India. A low-quality bank lends to a related party of an insolvent borrower, and the loan recipient transfers the funds to the insolvent borrower using internal capital markets. Incremental investments, interest rates charged, and loan delinquency rates collectively indicate evergreening. These loans are unlikely to represent arm’s length transactions or rescue of troubled related firms by stronger firms to prevent group-wide spillover effects. Indirect evergreening is less likely to be detected by regulatory audits. It has significant real consequences at the firm and industry levels.",
   "summary": {
-    "oneLiner": "Insolvent Indian firms may use related party transactions to secretly evergreen loans, bypassing regulatory oversight and creating systemic industry consequences.",
-    "overview": "This study identifies a practice called 'indirect evergreening,' where banks provide loans to a healthy affiliate of an insolvent borrower. These funds are then channeled to the distressed firm to help them appear solvent. The authors suggest this method is used specifically to hide bad debt from regulatory audits. These transactions do not appear to be legitimate business rescue efforts between related firms.",
-    "question": "How do insolvent borrowers and banks use related parties to indirectly evergreen loans and bypass regulatory scrutiny in India?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "Indirect evergreening in India: banks lend to related parties that pass funds to insolvent borrowers, which audits are less likely to catch.",
+    "overview": "The paper describes a way that banks keep troubled borrowers afloat, called evergreening, which means rolling over or refinancing loans so that bad debts look current. Here, a low-quality bank lends to a related party of an insolvent borrower, and that related party moves the money to the insolvent firm through internal capital markets (transfers of funds within a business group). The authors say that new investments, interest rates and loan delinquency rates together point to evergreening. They also argue these loans are unlikely to be arm's-length deals (terms set as between unrelated parties) and that regulatory audits are less likely to detect this route.",
+    "question": "Can banks evergreen loans indirectly, by lending to a related party of an insolvent borrower that then passes the funds on to the insolvent firm?",
+    "method": "The abstract does not name a specific empirical method. It says the authors examine incremental investments, interest rates charged and loan delinquency rates on these loans.",
+    "data": "Setting is India. The sample, data source and time period are not stated in the available text.",
     "findings": [
-      "Banks sometimes lend to related parties of insolvent borrowers, who then transfer those funds to the distressed firm via internal capital markets.",
-      "The patterns of incremental investments, interest rates, and loan delinquency rates suggest these loans are a form of evergreening.",
-      "These transactions are unlikely to be arm’s length or genuine rescue attempts by stronger firms to protect their corporate groups.",
-      "Indirect evergreening appears less likely to be detected by standard regulatory audits.",
-      "This practice has measurable real consequences for individual firms and the broader industry."
+      "Incremental investments, interest rates charged, and loan delinquency rates collectively indicate evergreening.",
+      "These loans are unlikely to represent arm's length transactions or rescue of troubled related firms by stronger firms to prevent group-wide spillover effects.",
+      "Indirect evergreening is less likely to be detected by regulatory audits.",
+      "Indirect evergreening has significant real consequences at the firm and industry levels."
     ],
-    "whyItMatters": "For regulators and investors, this highlights a hidden channel for credit risk that evades traditional audit detection, potentially leading to mispricing of risk and delayed recognition of corporate insolvency.",
+    "whyItMatters": "The abstract implies that regulators and bank supervisors may miss this form of evergreening in audits, and that it has significant real effects on firms and industries. It does not give specific policy or investment recommendations.",
     "topics": [
-      "Evergreening",
-      "Corporate Governance",
-      "Banking Regulation",
-      "Related Party Transactions",
-      "Credit Risk",
-      "Non-performing Assets",
-      "Internal Capital Markets"
+      "evergreening",
+      "related party lending",
+      "internal capital markets",
+      "bank loan delinquency",
+      "insolvent borrowers",
+      "business groups",
+      "India banking",
+      "regulatory audits"
     ],
-    "industries": [
-      "Banking"
-    ],
+    "industries": [],
     "geographies": [
       "India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

@@ -26,28 +26,32 @@
   ],
   "abstract": "ABSTRACT Prior research shows that borrowers are more likely to default when their banks are financially distressed, particularly where contract enforcement is weak. We examine whether regulatory intervention in the form of Prompt Corrective Action (PCA), which seeks to improve bank health through enhanced monitoring, reverses such defaults. To address this question, we exploit the bright‐line entry thresholds in India's PCA regime using a regression discontinuity framework. We first show that such defaults exist in India. Our main result is that PCA intervention significantly reduces such defaults. The result is robust to variation in methodology and alternative definitions of bank health. Our evidence suggests that PCA reduces such defaults by credibly signaling to borrowers the likely restoration of bank health and continuity of lending relationships. Its effectiveness was reinforced by an earlier regulatory reform that improved the timeliness of loan‐loss provisioning, enhancing the credibility of enforcement. Overall, our findings suggest that PCA, when underpinned by credible financial reporting, can serve as an effective policy tool to curb strategic defaults.",
   "summary": {
-    "oneLiner": "Regulatory intervention through Prompt Corrective Action (PCA) helps reduce borrower defaults by signaling improved bank stability and preserving lending relationships.",
-    "overview": "When banks face financial distress, borrowers may strategically default, especially in environments with weak contract enforcement. This study examines whether Prompt Corrective Action (PCA), a regulatory framework that imposes stricter monitoring on struggling banks, can prevent these defaults. The authors find that such interventions effectively reduce borrower defaults by signaling to the market that the bank's health will be restored. This mechanism works best when supported by credible financial reporting and timely loan-loss provisioning.",
-    "question": "Does regulatory intervention via Prompt Corrective Action (PCA) reverse borrower defaults triggered by bank financial distress?",
-    "method": "A regression discontinuity framework, which compares banks just above and below the regulatory thresholds for PCA intervention.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "India's Prompt Corrective Action regime for weak banks reduces borrower defaults, suggesting it signals restored bank health and lending continuity.",
+    "overview": "Prior research finds borrowers are more likely to default when their banks are in financial distress, especially where contracts are hard to enforce. Prompt Corrective Action (PCA) is a regulatory intervention meant to improve struggling banks' health through closer monitoring. The authors use a regression discontinuity design, which compares banks just above and just below the bright-line thresholds that trigger PCA entry, to isolate its effect. They find PCA significantly reduces these defaults, and suggest it works by credibly signalling that bank health will be restored and lending relationships will continue. An earlier reform that made loan-loss provisioning more timely made the enforcement more credible and reinforced PCA's effect.",
+    "question": "Does regulatory intervention through Prompt Corrective Action reverse the borrower defaults that tend to rise when banks are financially distressed?",
+    "method": "Regression discontinuity framework (a design that compares cases just on either side of a cutoff), exploiting the bright-line entry thresholds of India's PCA regime. The authors also report that results are robust to variation in methodology and to alternative definitions of bank health.",
+    "data": "Setting is India's PCA regime for banks. The sample, time period and data source are not stated in the available text.",
     "findings": [
-      "PCA intervention is associated with a significant reduction in borrower defaults at distressed banks.",
-      "The effectiveness of PCA appears to be driven by a credible signal to borrowers regarding the restoration of bank health and the continuity of lending relationships.",
-      "Regulatory reforms that improved the timeliness of loan-loss provisioning reinforced the effectiveness of PCA by enhancing the credibility of enforcement."
+      "Such defaults exist in India, the authors first show, consistent with prior research that borrowers default more when their banks are distressed, particularly where contract enforcement is weak.",
+      "PCA intervention significantly reduces such defaults.",
+      "The result is robust to variation in methodology and to alternative definitions of bank health.",
+      "The evidence suggests PCA reduces such defaults by credibly signalling to borrowers the likely restoration of bank health and continuity of lending relationships.",
+      "An earlier regulatory reform that improved the timeliness of loan-loss provisioning reinforced PCA's effectiveness by enhancing the credibility of enforcement.",
+      "Overall, the findings suggest PCA, when underpinned by credible financial reporting, can serve as an effective policy tool to curb strategic defaults."
     ],
-    "whyItMatters": "The findings suggest that PCA is an effective policy tool for regulators to curb strategic defaults, provided the intervention is backed by credible financial reporting and strong regulatory enforcement.",
+    "whyItMatters": "The authors suggest PCA, especially when backed by credible financial reporting, can be an effective policy tool for curbing strategic defaults. For bank regulators, this points to the value of intervention that signals recovery to borrowers, and of timely loan-loss provisioning in making enforcement credible.",
     "topics": [
-      "bank regulation",
       "prompt corrective action",
+      "bank distress",
       "loan defaults",
-      "financial distress",
-      "bank monitoring",
-      "regulatory policy",
-      "strategic default"
+      "strategic default",
+      "regulatory intervention",
+      "regression discontinuity",
+      "loan-loss provisioning",
+      "Indian banking"
     ],
     "industries": [
-      "banking"
+      "Banking"
     ],
     "geographies": [
       "India"
@@ -55,9 +59,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

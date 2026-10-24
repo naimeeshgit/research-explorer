@@ -29,35 +29,36 @@
   ],
   "abstract": "Virtual appointments between patients and healthcare providers can offer a cost-effective alternative to traditional office appointments for managing chronic conditions. Virtual appointments increase contact with the physician by either substituting or complementing office appointments, leading to improved health outcomes. The true value of virtual appointments cannot be realized until they are truly integrated with the office appointment systems. In this study, we introduce a capacity allocation model to study the use of virtual appointments in a chronic care setting. Specifically, we develop a finite horizon stochastic dynamic program to determine which patients to schedule for office and virtual appointments that maximizes aggregate health benefits across a cohort of patients. Optimal policy characterization for this problem is challenging. We find that, under certain conditions, a myopic heuristic, where the sickest patients are scheduled for office appointments and the next sickest patients are scheduled for virtual appointments, is optimal. We show that the myopic heuristic performs well even in more general settings. Our findings further show that virtual appointments serve a dual purpose: they may reduce the number of office appointments and may trigger follow-up office appointments.",
   "summary": {
-    "oneLiner": "Integrating virtual appointments into chronic care improves health outcomes by using a structured capacity allocation policy to prioritize patient needs.",
-    "overview": "Virtual appointments offer a flexible way to manage chronic conditions, either by replacing or adding to traditional in-person office visits. This study explores how healthcare providers can best allocate their capacity between virtual and physical appointments to maximize patient health benefits. The authors show that a simple rule—prioritizing the sickest patients for in-person care and the next-sickest for virtual care—is often the best way to manage patient schedules. This approach helps balance the dual role of virtual care in both reducing the need for office visits and identifying when follow-up in-person care is necessary.",
-    "question": "How can healthcare providers optimally allocate capacity between office and virtual appointments to maximize aggregate health benefits for chronic care patients?",
-    "method": "The authors developed a finite horizon stochastic dynamic program, a mathematical framework used to make a sequence of optimal decisions under uncertainty.",
+    "oneLiner": "Scheduling the sickest patients for office visits and the next sickest for virtual visits is optimal under certain conditions, and performs well more generally.",
+    "overview": "Virtual appointments, such as video or phone consultations, can be a cheaper alternative to office visits for managing chronic conditions. The authors build a capacity allocation model that decides which patients should get office appointments and which should get virtual ones, with the aim of maximizing overall health benefits across a group of patients over a finite time horizon. Finding the best policy is hard, but the authors find that under certain conditions a simple rule works: give office visits to the sickest patients and virtual visits to the next sickest. They report that this rule performs well even in more general settings. The paper also suggests virtual appointments can both reduce the number of office visits and trigger follow-up office visits.",
+    "question": "How should a healthcare provider decide which chronic-care patients get office appointments and which get virtual appointments so as to maximize aggregate health benefits?",
+    "method": "The authors introduce a capacity allocation model, developed as a finite horizon stochastic dynamic program (a multi-period decision model that handles uncertainty over time). They characterize optimal policies, identify a myopic heuristic (a simple rule that decides period by period without looking ahead) and test how well it performs in more general settings.",
     "data": "Not stated in the available text.",
     "findings": [
-      "A myopic heuristic, where the sickest patients receive office visits and the next sickest receive virtual appointments, is optimal under certain conditions.",
-      "The myopic heuristic performs well even in more general, complex settings.",
-      "Virtual appointments serve a dual purpose by potentially reducing the volume of office visits while also acting as a trigger for necessary follow-up in-person appointments."
+      "Under certain conditions, a myopic heuristic is optimal: the sickest patients are scheduled for office appointments and the next sickest for virtual appointments.",
+      "The myopic heuristic performs well even in more general settings.",
+      "Virtual appointments serve a dual purpose: they may reduce the number of office appointments and may trigger follow-up office appointments."
     ],
-    "whyItMatters": "The findings provide a clear decision-making framework for healthcare managers to integrate virtual care into existing systems, potentially increasing the efficiency and reach of chronic disease management.",
+    "whyItMatters": "The paper suggests that virtual appointments are most valuable when they are truly integrated with office appointment systems, and that a simple severity-based scheduling rule can perform well for providers allocating scarce appointment capacity.",
     "topics": [
-      "telemedicine",
-      "healthcare operations",
-      "chronic disease management",
+      "virtual appointments",
+      "telehealth",
+      "chronic care",
       "capacity allocation",
-      "service operations",
-      "healthcare management"
+      "appointment scheduling",
+      "stochastic dynamic programming",
+      "healthcare operations"
     ],
     "industries": [
-      "healthcare"
+      "Healthcare"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

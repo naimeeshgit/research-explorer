@@ -23,38 +23,39 @@
   ],
   "abstract": "Consider a video rental retailer who procures DVDs or video cassettes from a distributor and rents them to the customers. To meet the time-varying rental demand, the retailer needs to develop cost-effective procurement and disposal policies. In this paper, we first present a base model in which the underlying rental demand is decreasing over time, backorders are not allowed and the disposal price is exogenous. For this base model, we show that the optimal procurement quantity is equal to the sum of effective demands (rental demand net of returns) over an integral number of periods, and the optimal disposal policy can be determined by solving a simple dynamic program with polynomial complexity. We then analyze the case of endogenous disposal prices and derive optimal disposal policies by solving a quadratic optimization problem with tree constraints. We also extend the base model to allow for backorders and to cases where the retailer has multiple procurement opportunities and a contractual period where disposals are not allowed. We show that the qualitative nature of the procurement policy is preserved in these cases and the optimal procurement and selling policies can be determined using similar dynamic programming algorithms.",
   "summary": {
-    "oneLiner": "This paper provides mathematical models to help rental retailers optimize how many units to buy, when to sell them, and how to manage pricing.",
-    "overview": "Retailers of rental goods, such as DVD shops, must balance buying new inventory with the inevitable drop in demand over time. This research provides a framework for determining the best time to acquire stock and when to dispose of it to maximize cost-efficiency. The authors developed dynamic programming algorithms—mathematical methods for solving complex problems by breaking them into simpler steps—to handle scenarios with varying demand and pricing structures.",
-    "question": "How can rental retailers determine optimal procurement, disposal, and pricing policies for inventory facing time-varying demand?",
-    "method": "Mathematical modeling using dynamic programming and quadratic optimization.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "Models how a video rental retailer should time DVD purchases and disposals as rental demand falls over time, using dynamic programming.",
+    "overview": "The paper studies a video rental retailer that buys DVDs or video cassettes from a distributor and rents them to customers, whose demand changes over time. The authors first analyse a base model in which demand declines, unfilled orders (backorders) are not allowed, and the resale price of used discs is fixed. They find the optimal purchase quantity equals the sum of net rental demand (rentals minus returns) over a whole number of periods, and that disposal decisions can be found with a simple dynamic program, a step-by-step optimisation method. The model is then extended to endogenous disposal prices, where the resale price depends on the retailer's choices, multiple purchase opportunities, and a contract period in which disposals are not allowed. The authors say the basic shape of the procurement policy is preserved in these extensions.",
+    "question": "How should a rental retailer set its procurement and disposal policies for rental goods when rental demand varies over time?",
+    "method": "Theoretical operations research modelling. The authors build a base model, derive its optimal procurement and disposal policies analytically, and then analyse extensions with endogenous disposal prices, backorders, multiple procurement opportunities, and a no-disposal contract period. For these they solve a quadratic optimisation problem and use dynamic programming algorithms.",
+    "data": "No empirical dataset is mentioned in the available text. The model is set in the context of a video rental retailer with time-varying rental demand and disposal of discs.",
     "findings": [
-      "The optimal procurement quantity is equivalent to the total effective demand over an integer number of periods.",
-      "Optimal disposal policies for exogenous disposal prices can be determined via a dynamic program with polynomial complexity.",
-      "When disposal prices are endogenous, optimal policies can be derived by solving a quadratic optimization problem with tree constraints.",
-      "The qualitative nature of the procurement policy remains consistent even when backorders are allowed or when there are multiple procurement opportunities.",
-      "The retailer can determine optimal procurement and selling policies using dynamic programming algorithms across various operational constraints."
+      "The optimal procurement quantity equals the sum of effective demands (rental demand net of returns) over an integral number of periods.",
+      "The optimal disposal policy in the base model can be determined by solving a simple dynamic program with polynomial complexity, meaning computation grows at a manageable rate with problem size.",
+      "With endogenous disposal prices, optimal disposal policies can be derived by solving a quadratic optimisation problem with tree constraints.",
+      "The qualitative nature of the procurement policy is preserved when backorders, multiple procurement opportunities and a no-disposal contractual period are added.",
+      "The optimal procurement and selling policies in these extended cases can be determined using similar dynamic programming algorithms."
     ],
-    "whyItMatters": "The findings provide managers with systematic, algorithmic approaches to inventory lifecycle management, helping them reduce waste and optimize turnover for goods with declining rental appeal.",
+    "whyItMatters": "The paper offers rental retailers a way to decide how many units to buy and when to dispose of them as demand declines, and it states that the same logic extends to richer conditions such as backorders and contract constraints. The available text does not go further into managerial implications.",
     "topics": [
-      "inventory management",
-      "rental business models",
-      "procurement strategy",
+      "rental goods",
+      "procurement policy",
+      "disposal policy",
       "dynamic programming",
-      "operations research",
-      "lifecycle pricing"
+      "inventory management",
+      "video rental retail",
+      "backorders",
+      "optimal pricing"
     ],
     "industries": [
-      "retail",
-      "rental services"
+      "Video rental retail (DVD and video cassette rental)"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

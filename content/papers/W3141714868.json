@@ -29,32 +29,34 @@
   ],
   "abstract": "Firms in technology markets often outsource the manufacture of core components—components that are central to product performance and comprise a substantial portion of product costs. Despite the strategic importance of core-component outsourcing, there is little empirical evidence (and many conflicting opinions) about its impact on consumer demand. The authors address this gap with an examination of panel data from the flat panel TV industry, across key regions globally. Results from their estimation indicate that core-component outsourcing reduces the firm’s ability to be on the technological frontier; this hurts demand, because the authors’ estimates suggest that consumers care about firms being on the frontier. However, such outsourcing also reduces costs. Finally, the authors find that outsourcing increases the intensity of competition in the marketplace. They assess these (often opposing) effects and conduct thought experiments to quantify the performance impact of core-component outsourcing.",
   "summary": {
-    "oneLiner": "Core component outsourcing reduces production costs but hinders innovation, potentially damaging a firm's reputation and competitive position.",
-    "overview": "Firms often outsource key components to save money, but this paper finds that such a decision can reduce a firm’s ability to stay at the cutting edge of technology. Being at the 'technological frontier' helps boost consumer demand, so losing that edge can hurt a brand. Furthermore, outsourcing may make brands more similar to each other, intensifying price competition. The authors show that the decision to outsource is a delicate balance between these efficiency gains and potential losses in brand value and competitive differentiation.",
-    "question": "What is the impact of core component outsourcing on firm performance, specifically considering consumer demand, production costs, and competitive interactions?",
-    "method": "The authors develop a structural model of supply and demand for the LCD TV industry. They utilize a random coefficients logit model for demand, a Bertrand-Nash pricing model for competition, and moment inequalities to estimate fixed costs. They control for endogeneity using instrumental variables.",
-    "data": "The study uses a unique panel dataset from the flat panel television market (LCD and PDP) spanning North America, Europe, and Japan between 2004 and 2005, containing 383 observations.",
+    "oneLiner": "In the LCD TV industry, outsourcing core components cut costs but weakened firms' position on the technology frontier, which hurt consumer demand.",
+    "overview": "Many technology firms outsource core components, such as the screen in an LCD TV, to outside suppliers. Using panel data from the flat panel TV market in North America, Europe and Japan over 2004-2005, the authors build a structural model of consumers, pricing and outsourcing decisions. They find outsourcing lowers marginal production costs (about 21% on average) but makes a firm less likely to reach the technology frontier, defined as the largest display size it can produce. Consumers value being on the frontier, so the loss hurts demand, and outsourcing also intensifies competition. The authors conclude that outsourcing involves a trade-off that firms must resolve when making sourcing decisions.",
+    "question": "What is the impact of core component outsourcing on consumer demand, and through which mechanisms (costs, technological position, competition) does it operate?",
+    "method": "A structural econometric model combining a consumer demand model (random coefficients logit following Berry, Levinsohn and Pakes), a pricing game among multi-product firms, a cost model, and a revealed-preference model of outsourcing decisions estimated with moment inequalities. Reduced-form instrumental variable (3SLS and IV) analyses are used as preliminary evidence. Counterfactual thought experiments simulate outcomes such as all firms outsourcing, all firms insourcing, and a Sony-Samsung joint venture.",
+    "data": "Quarterly brand, technology and size-level data from DisplaySearch reports covering October 2004 to October 2005, for North America, Europe and Japan (the three regions that account for over 86% of revenue in the sample). The final unbalanced panel has 383 observations, 50 products (brand-technology-size combinations) and eight largest brands plus a composite of others.",
     "findings": [
-      "Core component outsourcing reduces the firm’s marginal cost of production by almost 21% on average.",
-      "Outsourcing is associated with a 17% reduction in the likelihood that a firm will reach the technological frontier.",
-      "A firm’s position on the technological frontier creates a positive 'aura effect' that increases demand for its other products.",
-      "Outsourcing increases the intensity of market competition because it reduces differentiation between products.",
-      "Moving to outsourcing generally leads to lower prices and higher margins, but firms that were previously technology leaders may suffer profit losses due to decreased demand.",
-      "The authors' thought experiments suggest that joint ventures, like the one between Sony and Samsung, can negatively affect the profits of the involved parties while benefiting competitors."
+      "Outsourcing of core components is associated with a significant reduction in marginal cost, with a cost saving of almost 21% on average, per the authors' estimates.",
+      "Outsourcing reduces a firm's likelihood of reaching the technology frontier; the authors state it is 17% less likely to reach the frontier after switching from in-house production to outsourcing.",
+      "A firm's position on the technology frontier has a positive effect on demand, which the authors interpret as an aura effect, though the estimated effect is modest in the reported specification.",
+      "Estimated fixed cost of insourcing is about $455 million for an LCD plant and $277 million for a PDP plant, relative to outsourcing, per the authors' estimates.",
+      "Counterfactual results suggest that if all firms outsource, firms that are neither at the frontier nor at the bottom fare worst, and firms on the frontier can offset price drops with revenue gains.",
+      "Thought experiment on a Sony-Samsung joint venture suggests the venture would have reduced profits for both parties, while benefiting some competitors; the authors note the merger decision is treated as exogenous.",
+      "The authors state the paper's results depend on modeling assumptions, and that their thought experiments hold outsourcing structure fixed, so they make no strong policy-invariance claims."
     ],
-    "whyItMatters": "The findings suggest that firms should not view outsourcing solely through the lens of cost reduction. Managers must consider the 'aura' that a leadership position in technology provides, as well as how outsourcing decisions change their firm's competitive differentiation relative to rivals. Strategic choices should be based on the net effect of costs, consumer brand perceptions, and likely competitor responses.",
+    "whyItMatters": "The authors suggest managers should weigh the cost savings of outsourcing against the risk of losing technological leadership and the aura it gives other products, since the net effect determines whether a firm is better off outsourcing. They present their framework as a way for managers to simulate the consequences of sourcing strategies on profits, prices and competitor response. The paper notes that recommendations on whether firms should outsource in general are difficult to make, because outcomes depend on who outsources and the competitive environment.",
     "topics": [
-      "outsourcing",
+      "core component outsourcing",
       "technology frontier",
-      "consumer demand",
-      "competitive strategy",
-      "structural modeling",
-      "brand aura effect",
-      "firm profitability"
+      "aura effect",
+      "LCD TV industry",
+      "consumer electronics",
+      "structural demand estimation",
+      "competitive response",
+      "make or buy decisions"
     ],
     "industries": [
-      "consumer electronics",
-      "flat panel television"
+      "Consumer electronics",
+      "Flat panel televisions (LCD and plasma)"
     ],
     "geographies": [
       "North America",
@@ -64,9 +66,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

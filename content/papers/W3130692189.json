@@ -20,37 +20,36 @@
   ],
   "abstract": "I examine whether higher creditor rights prevent strategic default. Borrowers who cross either of two thresholds are exempt from a creditor rights law in India. Using a loan day-level dataset, I ﬁnd that loan performance is better when the law applies and that outperformance increases after a further rise in creditor rights. To discern the strategic motive, I use an unprecedented invalidation of the Indian currency whereby holders of high-value currency were forced to declare their cash holdings to banks. Defaulters exempt from the law showed a greater tendency to repay their loans during the ban period.",
   "summary": {
-    "oneLiner": "This paper suggests that stronger creditor rights reduce strategic defaults by Indian borrowers, particularly when they cannot hide liquid assets.",
-    "overview": "Strategic default occurs when a borrower chooses to stop paying back a loan even though they have the money to pay. This study examines whether stronger legal protections for creditors make such behavior less likely. By looking at how borrowers reacted to a mandatory currency exchange program in India, the author identifies that those protected by stricter laws were less likely to withhold payments they could afford to make.",
+    "oneLiner": "Stronger creditor rights in India appear to reduce strategic default, with exempt borrowers repaying more when cash holdings were exposed during a currency ban.",
+    "overview": "The paper asks whether giving lenders stronger legal rights reduces borrowers who can pay but choose not to (strategic default). Borrowers just above two size thresholds fall outside a creditor rights law in India, which lets the study compare loans on either side of the cutoffs. The author finds loans perform better when the law applies, and performance improves further after creditor rights are increased. To separate strategic motives from inability to pay, the paper uses India's currency invalidation, which forced holders of high-value notes to declare their cash to banks, and finds exempt defaulters were more likely to repay during the ban period.",
     "question": "Do higher creditor rights prevent strategic default by borrowers?",
-    "method": "A comparative analysis using loan performance around specific regulatory thresholds and an exogenous shock created by a currency ban.",
-    "data": "Loan day-level dataset in India.",
+    "method": "The author uses thresholds in a creditor rights law as a basis for comparing borrowers who are subject to the law with those who are exempt. To isolate strategic motives, the study uses the invalidation of high-value Indian currency, during which holders had to declare cash holdings to banks.",
+    "data": "A loan day-level dataset of Indian loans. The abstract does not state the sample size, lender types, or time period beyond the currency ban period.",
     "findings": [
-      "Loan performance is better when creditor rights laws apply to the borrower.",
-      "Outperformance of loans increases following a further rise in creditor rights.",
-      "Borrowers exempt from creditor rights laws show a greater tendency to repay loans only when forced to disclose cash holdings during a currency ban, suggesting they were previously acting strategically."
+      "Loan performance is better when the creditor rights law applies to the borrower.",
+      "Outperformance increases after a further rise in creditor rights.",
+      "During the currency ban period, defaulters exempt from the law showed a greater tendency to repay their loans, which the paper uses to discern a strategic motive."
     ],
-    "whyItMatters": "The findings suggest that the efficacy of bankruptcy or debt recovery laws is highly dependent on a borrower's ability to hide assets and the legal tools available to lenders to overcome such information asymmetries.",
+    "whyItMatters": "The abstract suggests that stronger creditor rights may discourage strategic default, which bears on how lenders and policymakers design and enforce creditor protection laws. The paper does not spell out specific recommendations in the abstract.",
     "topics": [
       "strategic default",
       "creditor rights",
       "loan performance",
-      "debt enforcement",
-      "corporate finance",
-      "banking regulation"
+      "India",
+      "currency invalidation",
+      "bankruptcy law",
+      "credit risk"
     ],
-    "industries": [
-      "Banking"
-    ],
+    "industries": [],
     "geographies": [
       "India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

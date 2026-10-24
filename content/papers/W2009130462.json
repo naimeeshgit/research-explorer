@@ -32,26 +32,29 @@
   ],
   "abstract": "BACKGROUND: There is scant evidence on the association between diagnosis delays and the receipt of test results in HIV Early Infant Diagnosis (EID) programs. We determine the association between diagnosis delays and other health care system and patient factors on result receipt. METHODS: We reviewed 703 infant HIV test records for tests performed between January 2008 and February 2009 at a regional referral hospital and level four health center in Uganda. The main outcome was caregiver receipt of the test result. The primary study variable was turnaround time (time between sample collection and result availability at the health facility). Additional variables included clinic entry point, infant age at sample collection, reported HIV status and receipt of antiretroviral prophylaxis for prevention of mother-to-child transmission. We conducted a pooled analysis in addition to separate analyses for each facility. We estimated the relative risk of result receipt using modified Poisson regression with robust standard errors. RESULTS: Overall, the median result turnaround time, was 38 days. 59% of caregivers received infant test results. Caregivers were less likely to receive results at turnaround times greater than 49 days compared to 28 days or fewer (ARR = 0.83; 95% CI = 0.70-0.98). Caregivers were more likely to receive results at the PMTCT clinic (ARR = 1.81; 95% CI = 1.40-2.33) and less likely at the pediatric ward (ARR = 0.54; 95% CI = 0.37-0.81) compared to the immunization clinic. At the level four health center, result receipt was half as likely among infants older than 9 months compared to 3 months and younger (ARR= 0.47; 95% CI = 0.25-0.93). CONCLUSION: In this study setting, we find evidence that longer turnaround times, clinic entry point and age at sample collection may be associated with receipt of infant HIV test results.",
   "summary": {
-    "oneLiner": "Longer wait times for HIV test results are associated with lower rates of caregivers returning to receive those results for infants in Uganda.",
-    "overview": "In Uganda's HIV Early Infant Diagnosis program, researchers studied whether delays in delivering lab results to clinics affected whether caregivers returned to pick them up. They found that when wait times exceeded 49 days, caregivers were significantly less likely to receive the results compared to waiting 28 days or fewer. Additionally, where a patient entered the healthcare system mattered, with better follow-up in prevention clinics and worse outcomes in pediatric wards. The findings suggest that reducing administrative and logistical delays could improve the number of infants who successfully receive their diagnosis.",
-    "question": "What is the association between diagnosis turnaround time and the receipt of infant HIV test results by caregivers?",
-    "method": "The authors conducted a retrospective review of infant HIV test records and used modified Poisson regression with robust standard errors to estimate the relative risk of result receipt.",
-    "data": "518 infant HIV test records from two government health facilities (a regional referral hospital and a level four health center) in Uganda, covering tests performed between January 2008 and February 2009.",
+    "oneLiner": "In two Ugandan HIV infant testing sites, longer lab turnaround times and clinic entry point were associated with lower caregiver receipt of infant HIV results.",
+    "overview": "Infants exposed to HIV need early testing, but in Uganda dried blood samples often take weeks to get results back. This retrospective study reviewed 518 infant HIV test records from a regional referral hospital and a level four health center from 2008 to 2009. Caregivers were less likely to receive results when turnaround exceeded 49 days compared with 28 days or fewer, and the pattern varied by clinic entry point. The authors describe these as associations, not proven causes, and note the study was from an earlier phase of the program.",
+    "question": "Is the time between sample collection and result availability (turnaround time), along with clinic entry point, infant age and other patient factors, associated with whether caregivers receive infant HIV test results in Uganda's Early Infant Diagnosis program?",
+    "method": "Retrospective review of programmatic records, analysed with modified Poisson regression with robust standard errors to estimate relative risks of result receipt, both unadjusted and adjusted, in a pooled analysis and separately for each facility. Sensitivity analyses tested the 28-day threshold, missing outcome data and outliers.",
+    "data": "703 infant HIV test records for tests performed January 2008 to February 2009 at a regional referral hospital (RRH) in Eastern Uganda and a level four health center (HC4) on the outskirts of Kampala; 518 records were analysed (387 RRH, 131 HC4).",
     "findings": [
-      "Caregivers were less likely to receive infant test results when turnaround times exceeded 49 days compared to 28 days or fewer.",
-      "Caregivers were more likely to receive results if the infant was referred through a PMTCT (prevention of mother-to-child transmission) clinic compared to an immunization clinic.",
-      "Caregivers were less likely to receive results if the infant was referred through a pediatric ward compared to an immunization clinic.",
-      "At the level four health center, caregivers were less likely to receive results for infants older than 9 months compared to infants 3 months or younger."
+      "Overall median turnaround time was 38 days; 59% of caregivers received results.",
+      "In the adjusted pooled analysis, caregivers were less likely to receive results when turnaround exceeded 49 days versus 28 days or fewer (ARR 0.83; 95% CI 0.70–0.98).",
+      "Compared with the immunization clinic, caregivers were more likely to receive results from the PMTCT referral clinic (ARR 1.81; 95% CI 1.40–2.33) and less likely from the pediatric ward (ARR 0.54; 95% CI 0.37–0.81).",
+      "At the HC4, result receipt was about half as likely for infants older than 9 months at sample collection compared with 3 months or younger (ARR 0.47; 95% CI 0.25–0.93).",
+      "Turnaround time was not significantly associated with result receipt at either facility analysed separately; the authors suggest this may reflect low statistical power.",
+      "The authors conclude that longer turnaround times, clinic entry point and age at sample collection may be associated with result receipt."
     ],
-    "whyItMatters": "The study suggests that operational improvements to reduce laboratory turnaround times, such as SMS notification or point-of-care testing, may increase the likelihood of caregivers receiving critical test results, thereby enabling timely medical intervention for HIV-exposed infants.",
+    "whyItMatters": "The authors suggest that operational interventions to shorten turnaround time, such as SMS delivery of results or point-of-care testing, are likely to be effective, though they note the clinical impact remains to be studied. They also suggest targeted efforts for caregivers of infants referred through the pediatric ward or who are older. The association between turnaround and receipt is presented as an input for assessing the effectiveness of such interventions.",
     "topics": [
       "HIV early infant diagnosis",
-      "healthcare logistics",
-      "operational efficiency",
-      "public health",
-      "test result receipt",
       "turnaround time",
-      "patient follow-up"
+      "test result receipt",
+      "health care operations",
+      "Uganda",
+      "global health",
+      "patient follow-up",
+      "retrospective study"
     ],
     "industries": [
       "Healthcare"
@@ -62,9 +65,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

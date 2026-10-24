@@ -32,42 +32,43 @@
   ],
   "abstract": "Telemedicine is increasingly used across the developing world to expand access to healthcare, to improve outcomes, and to reduce costs. One common model is that of telemedicine centers, which are small primary care facilities run by midlevel (nonphysician) providers who conduct a preliminary examination and then facilitate a telemedicine visit with a remote physician in real time. However, the impact of this channel of care delivery—particularly on existing physical healthcare-delivery channels—has not been thoroughly examined. We use data from one of the largest tele-ophthalmology implementations in the world to examine this issue. Using a quasi-experimental difference-in-differences approach, we find that opening a nearby telemedicine center generates a 31% increase in the overall network visit rate from the population within 10 km of the new center, 62% of which is driven by new patients, suggesting a substantial increase in access. The rate of eyeglasses prescriptions to correct for simple refractive errors increases by 18.5%, whereas the rate of cataract surgery to replace the natural lens in a patient’s eye with an artificial lens remains unchanged. The increase in access and treatment rates does not significantly impact the direct costs incurred by patients, but reduces their indirect costs (measured as travel distance) by 30% (12 km). Finally, we find significant spatial heterogeneity in these effects, which vary with the distance of patients to facilities. These results have important implications for the design of telemedicine networks and the portfolio of healthcare services provided through them. This paper was accepted by Stefan Scholtes, healthcare management. Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4488 .",
   "summary": {
-    "oneLiner": "Opening telemedicine centers increases overall patient access and reduces indirect travel costs without cannibalizing existing surgical demand in the healthcare network.",
-    "overview": "Telemedicine centers allow patients to consult remote physicians through local, non-physician-led facilities, potentially bridging gaps in healthcare delivery. This study evaluates how these centers influence patient behavior and network utilization. The researchers find that these centers effectively attract new patients and increase the uptake of routine services, such as prescription eyewear, while travel distance barriers are reduced. The findings suggest that telemedicine acts as a complementary channel for healthcare access rather than a substitute for existing in-person surgical services.",
-    "question": "What is the impact of opening telemedicine centers on existing physical healthcare-delivery channels, patient access, and costs?",
-    "method": "A quasi-experimental difference-in-differences approach, which compares changes in outcomes in treatment areas relative to control areas before and after the intervention.",
-    "data": "Data from one of the world's largest tele-ophthalmology implementations in Southern India.",
+    "oneLiner": "Opening a nearby telemedicine center in southern India was associated with a 31% rise in network visits, mostly from new patients, and shorter travel distances.",
+    "overview": "Telemedicine centers are small primary care clinics staffed by midlevel, nonphysician providers who examine patients and then connect them in real time to a remote physician. This study uses data from one of the largest tele-ophthalmology programs in the world, in southern India, to ask how opening such a center affects the existing physical eye-care network. The authors find that a nearby center is associated with a 31% increase in network visits from people living within 10 km, with most of that increase coming from new patients. Eyeglass prescriptions rise, cataract surgery rates do not change, direct patient costs do not change significantly, and travel distance falls by about 30%.",
+    "question": "What is the impact of opening a telemedicine center on the existing physical healthcare-delivery channels, including visit rates, treatment mix, patient costs, and travel distance?",
+    "method": "A quasi-experimental difference-in-differences approach, which compares changes over time in areas near a new telemedicine center with changes in comparable areas that did not get one.",
+    "data": "Data from one of the largest tele-ophthalmology implementations in the world, in southern India. The time period and exact sample size are not stated in the available text.",
     "findings": [
-      "Opening a nearby telemedicine center is associated with a 31% increase in the overall network visit rate for the population living within 10 km.",
-      "62% of the increase in visit rates is driven by new patients.",
-      "Eyeglasses prescriptions for simple refractive errors increase by 18.5%.",
-      "Rates of cataract surgery remain unchanged, suggesting the telemedicine centers do not substitute for in-person surgical procedures.",
-      "Indirect patient costs, measured as travel distance, are reduced by 30% (or 12 km) on average.",
-      "There is significant spatial heterogeneity in these effects, which vary based on patient distance to the facilities."
+      "Opening a nearby telemedicine center generates a 31% increase in the overall network visit rate from the population within 10 km of the new center.",
+      "62% of the increase in visits is driven by new patients, suggesting a substantial increase in access.",
+      "The rate of eyeglasses prescriptions to correct simple refractive errors increases by 18.5%.",
+      "The rate of cataract surgery remains unchanged.",
+      "The increase in access and treatment rates does not significantly impact direct costs incurred by patients.",
+      "Indirect costs, measured as travel distance, fall by 30% (12 km).",
+      "The effects show significant spatial heterogeneity, varying with the distance of patients to facilities."
     ],
-    "whyItMatters": "The study offers evidence for healthcare providers and policymakers on how to design telemedicine networks to improve accessibility. It demonstrates that telemedicine can effectively expand reach for routine care without negatively impacting the demand for specialized, high-intensity services like surgery.",
+    "whyItMatters": "The authors say the results have important implications for the design of telemedicine networks and for the mix of healthcare services delivered through them. The findings suggest that telemedicine centers can expand access and shift which services are used, while reducing patients' indirect travel costs.",
     "topics": [
       "telemedicine",
       "healthcare access",
-      "service delivery",
+      "developing countries",
+      "difference-in-differences",
       "tele-ophthalmology",
-      "healthcare management",
       "patient travel costs",
-      "multichannel healthcare"
+      "midlevel providers",
+      "healthcare delivery channels"
     ],
     "industries": [
-      "Healthcare",
-      "Ophthalmology"
+      "Healthcare"
     ],
     "geographies": [
-      "India"
+      "Southern India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

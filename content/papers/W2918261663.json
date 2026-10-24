@@ -50,41 +50,49 @@
   ],
   "abstract": "In India, the country with the world's largest burden of tuberculosis (TB), most patients first seek care in the private healthcare sector, which is fragmented and unregulated. Ongoing initiatives are demonstrating effective approaches for engaging with this sector, and form a central part of India's recent National Strategic Plan: here we aimed to address their potential impact on TB transmission in urban settings, when taken to scale. We developed a mathematical model of TB transmission dynamics, calibrated to urban populations in Mumbai and Patna, two major cities in India where pilot interventions are currently ongoing. We found that, when taken to sufficient scale to capture 75% of patient-provider interactions, the intervention could reduce incidence by upto 21.3% (95% Bayesian credible interval (CrI) 13.0-32.5%) and 15.8% (95% CrI 7.8-28.2%) in Mumbai and Patna respectively, between 2018 and 2025. There is a stronger impact on TB mortality, with a reduction of up to 38.1% (95% CrI 20.0-55.1%) in the example of Mumbai. The incidence impact of this intervention alone may be limited by the amount of transmission that has already occurred by the time a patient first presents for care: model estimates suggest an initial patient delay of 4-5 months before first seeking care, followed by a diagnostic delay of 1-2 months before ultimately initiating TB treatment. Our results suggest that the transmission impact of such interventions could be maximised by additional measures to encourage early uptake of TB services.",
   "summary": {
-    "oneLiner": "A mathematical model suggests that engaging the private healthcare sector for TB care could significantly reduce TB incidence and mortality in Indian cities.",
-    "overview": "In India, most tuberculosis (TB) patients first seek care from private providers, who are often fragmented and lack standardized diagnostic or treatment protocols. This study developed a mathematical model based on patient surveys in Mumbai and Patna to estimate the impact of programs that incentivize these private providers to meet public health standards. The findings suggest that these interventions could substantially reduce TB deaths and cases, particularly when they improve the speed of diagnosis. However, because many patients delay seeking care for several months before visiting any provider, the authors suggest that these engagements alone are not enough to eliminate TB and should be paired with efforts to encourage earlier care-seeking.",
-    "question": "What is the potential impact of scaling up public-private engagement models on TB transmission, incidence, and mortality in urban India?",
-    "method": "The researchers developed a deterministic, compartmental mathematical model of TB transmission, calibrated using community-based patient pathway surveys and epidemiological data from Mumbai and Patna. They used a Bayesian melding procedure to account for parameter uncertainty and conducted sensitivity analyses to identify key drivers of impact.",
-    "data": "The study utilized patient-provider interaction data from 76 TB patients in Mumbai and 64 in Patna, alongside epidemiological data (prevalence, Annual Risk of TB Infection, and drug resistance trends) in these urban settings between 2018 and 2025.",
+    "oneLiner": "A simulation model suggests engaging private TB providers in Mumbai and Patna could cut incidence and deaths, but late care-seeking limits the impact.",
+    "overview": "India has the world's largest tuberculosis burden, and most patients first seek care from private providers, which are fragmented and often use inaccurate or no testing. This study builds a mathematical model of TB transmission calibrated to urban slums in Mumbai and Patna, where pilot programmes give subsidies and incentives to private providers to improve diagnosis and treatment. The authors estimate that if such engagement covers 75% of patient-provider interactions, TB incidence could fall by up to 21.3% in Mumbai and 15.8% in Patna between 2018 and 2025, with a larger effect on deaths in Mumbai. They conclude that the gains could be maximised by measures that encourage patients to seek care earlier, because patients often delay for months before first visiting a provider.",
+    "question": "What impact could effective engagement of private healthcare providers have on TB transmission, particularly TB incidence, in urban India, and what are the key drivers of that impact?",
+    "method": "The authors developed a deterministic compartmental model, a set of linked equations that track people moving between disease and care-seeking states, of TB transmission. They calibrated it to urban slum settings using patient care-seeking pathway surveys, estimated prevalence and annual risk of TB infection (ARTI, the share of people infected per year), and drug-resistance data. They simulated two versions of a Public Private Support Agency (PPSA) intervention, one improving diagnostic accuracy and one also encouraging early testing, and compared outcomes with a no-intervention baseline. Uncertainty was captured with Bayesian melding across 100,000 parameter sets, and sensitivity analysis identified which inputs mattered most.",
+    "data": "Community-based patient pathway surveys with 76 TB patients and 196 patient-provider interactions in Mumbai, and 64 TB patients and 121 patient-provider interactions in Patna, both recently conducted. Prevalence and ARTI values were borrowed from surveys in Chennai and Delhi, since Mumbai and Patna had no such surveys. Projections cover 2018 to 2025, with intervention scale-up over several years. No patient-level outcome data from the intervention itself were used.",
     "findings": [
-      "Scaling up engagement to 75% of patient-provider interactions could reduce TB incidence by up to 21.3% in Mumbai and 15.8% in Patna by 2025.",
-      "The impact on mortality is potentially stronger, with a predicted reduction of up to 38.1% in the Mumbai scenario.",
-      "The intervention is associated with a meaningful reduction in the burden of multi-drug-resistant TB (MDR-TB).",
-      "Model estimates suggest an initial patient delay of 4–5 months before seeking care, which may limit the transmission impact of provider-focused interventions.",
-      "The effectiveness of the engagement model is sensitive to the local mix of providers, such as the prevalence of chemists versus fully qualified medical providers in different cities."
+      "At 75% coverage of patient-provider interactions, the intervention could reduce incidence by up to 21.3% (95% CrI 13.0–32.5%) in Mumbai and 15.8% (95% CrI 7.8–28.2%) in Patna between 2018 and 2025.",
+      "Mortality impact is stronger, with a reduction of up to 38.1% (95% CrI 20.0–55.1%) in Mumbai.",
+      "Model estimates suggest an initial patient delay of 4–5 months (4.4 months in Mumbai, 5.2 in Patna) before first seeking care, with broad uncertainty, followed by a diagnostic delay of 1–2 months.",
+      "The authors suggest the incidence impact of this intervention alone may be limited by transmission that has already occurred before patients first present for care.",
+      "Adding early diagnostic testing by providers increases impact substantially, and the authors note it can be as impactful as improving accuracy for the diagnostic delay.",
+      "Results are most sensitive to assumed prevalence and ARTI. In Mumbai, quality of care among less-than-fully-qualified providers is key; in Patna, quality among fully qualified providers matters most.",
+      "The authors state that engaging the private sector alone will not be enough to meet India's TB elimination aspirations, though it lays foundations for TB control.",
+      "The authors note the patient delay estimate is inferred from the model rather than directly measured, and that it differs from retrospective interview evidence (median around 18 days)."
     ],
-    "whyItMatters": "For policymakers and healthcare managers, this study highlights that engaging the private sector is a necessary foundation for TB control in India. However, it warns that clinical interventions at the provider level are limited by patient delays, implying that health systems must also invest in active case-finding and public health awareness to encourage earlier symptom presentation to achieve elimination goals.",
+    "whyItMatters": "For policymakers and programme managers, the paper suggests that scaling up private-sector engagement could meaningfully reduce TB burden, especially deaths, and that intervention priorities should be tailored to each city. The authors argue that additional measures to encourage early care-seeking, such as active case-finding and social protection, could be needed to maximise transmission impact. They also state that the private sector is a key foundation for future TB interventions in India.",
     "topics": [
       "tuberculosis control",
       "private sector engagement",
-      "healthcare access",
-      "disease transmission modeling",
-      "public health policy",
+      "India healthcare",
+      "transmission modelling",
+      "care-seeking delays",
+      "public private partnership",
+      "MDR-TB",
+      "urban slums",
       "diagnostic delay",
-      "urban healthcare"
+      "health policy"
     ],
     "industries": [
-      "healthcare",
-      "public health"
+      "Healthcare",
+      "Public health"
     ],
     "geographies": [
+      "Mumbai, India",
+      "Patna, India",
       "India"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

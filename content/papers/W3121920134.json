@@ -26,28 +26,31 @@
   ],
   "abstract": null,
   "summary": {
-    "oneLiner": "Dual-class IPO firms face a persistent valuation discount because their voting structures insulate management, making them harder to replace than single-class firm managers.",
-    "overview": "Dual-class firms, where one class of shares holds superior voting rights for insiders, consistently trade at lower prices relative to their fundamentals than single-class companies. This valuation discount is not caused by poor operating performance or stock market pricing errors, but rather appears to be a rational market response to the governance risks involved. The study finds that dual-class managers are harder to replace through internal mechanisms, and firms that eventually unify their share classes see a significant increase in value. Essentially, investors discount these stocks because the governance structure entrenches insiders at the expense of shareholder control.",
-    "question": "Does the dual-class share structure at IPOs influence firm valuation and governance, and how does the market price these firms over time?",
-    "method": "The study uses regression analysis on financial ratios, event study methodology around CEO turnover and share unification dates, and Fama-French three-factor model regressions to evaluate long-term abnormal returns.",
-    "data": "A sample of 2,622 initial public offerings (IPOs), including 253 dual-class issues, sourced from the Disclosure New Issues database for the period 1990 through 1998.",
+    "oneLiner": "Dual-class IPO firms trade at lower valuations for at least five years, without weaker stock or operating returns; valuations rise when they unify share classes.",
+    "overview": "Dual-class firms issue shares with unequal voting power, letting insiders control more votes than their cash-flow stake. The authors track 2,622 US IPOs from 1990 to 1998 and find dual-class firms trade at lower prices relative to earnings and replacement cost, from the IPO date for at least five years. Their stock and operating returns are not abnormally low, so the authors say the discount is not a clear pricing error. Dual-class CEOs also turn over slightly less often, and when firms unify share classes, stock prices rise about 5 to 6 percent around the event.",
+    "question": "Do dual-class share structures, which separate voting rights from cash-flow rights, affect how the market prices newly public firms, both at the IPO and over the following years?",
+    "method": "Event-based and regression analysis: valuation ratios (earnings-to-price and inverse Tobin's Q) compared across dual- and single-class firms year by year with controls for industry, size, growth, leverage and profitability; long-run stock return tests (buy-and-hold, Fama-French regressions); operating performance regressions; a logistic regression and event-window studies of CEO turnover; and an event study around share unifications.",
+    "data": "Firm-commitment common stock IPOs from 1990 to 1998, drawn from the Disclosure New Issues database and matched to COMPUSTAT, yielding 2,622 IPOs including 253 dual-class issues. Returns use CRSP data and firms are tracked for five years after the IPO. Financial and governance data are for U.S. markets.",
     "findings": [
-      "Dual-class firms trade at a significant valuation discount relative to fundamentals (earnings and replacement cost) compared to single-class firms, which persists for at least five years post-IPO.",
-      "The valuation discount does not reflect abnormally low stock returns or poor operating performance, suggesting the market pricing of dual-class IPOs is efficient.",
-      "CEO turnover occurs less frequently in dual-class firms than in single-class firms.",
-      "Internal disciplinary mechanisms for CEO turnover appear more effective in single-class firms, while dual-class firms rely more on the external market for corporate control to displace underperforming management.",
-      "Firms that unify their dual-class share structures experience positive abnormal returns of 5 to 6 percent, which suggests value gains upon eliminating the dual-class structure."
+      "Relative to fundamentals, dual-class firms trade at lower prices than single-class firms both at the IPO date and for at least the subsequent five years.",
+      "Dual-class firms show little or no evidence of abnormal long-run stock returns, which the authors say suggests the discount is rational rather than a pricing error.",
+      "Operating performance (ROE and ROA) shows no significant difference between dual- and single-class firms in most regressions.",
+      "CEO turnover is slightly less frequent among dual-class firms, though the raw difference is not significant; a logistic regression finds a significantly smaller likelihood for duals, a difference the authors describe as relatively small in magnitude.",
+      "For single-class firms, negative abnormal returns precede internal CEO turnover but not external turnover; for dual-class firms the pattern reverses.",
+      "Among 37 dual-class firms that unified share classes, stock prices rose more than five percent in the five-day window around the effective date; the authors say this likely understates the true effect.",
+      "The authors state that their evidence remains suggestive, since the unification decision is endogenous and causality cannot be fully established."
     ],
-    "whyItMatters": "The findings provide empirical support for the view that investors penalize firms with governance structures that insulate management. For managers and investors, this highlights that dual-class equity acts as a form of entrenchment that can depress firm value, and that moving toward a one-share, one-vote structure can create significant value for shareholders.",
+    "whyItMatters": "The authors suggest that governance structures set at IPO are priced by investors and that investors discount firms whose voting structure favours insiders. For investors and policymakers, the paper indicates the discount is not explained by weak operations or poor later stock returns, though the authors note the evidence is suggestive rather than conclusive. For managers and boards, the results imply that the voting structure chosen at IPO carries a valuation cost that persists for years.",
     "topics": [
       "dual-class equity",
-      "IPO firm value",
+      "IPO valuation",
       "corporate governance",
-      "shareholder rights",
-      "managerial entrenchment",
+      "entrenchment",
+      "voting rights",
       "CEO turnover",
-      "valuation discounts",
-      "one-share one-vote"
+      "share unification",
+      "Tobin's Q",
+      "long-run IPO returns"
     ],
     "industries": [],
     "geographies": [
@@ -56,9 +59,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

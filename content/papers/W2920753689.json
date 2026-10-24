@@ -26,34 +26,34 @@
   ],
   "abstract": "In this chapter, the authors unpack the use of multiple channels to market a given product or service from the manufacturer’s point of view. They briefly review transaction cost logic regarding safeguarding specific investments, promoting adaptation, and mitigating the under-supply of activities lacking good output measures as the drivers of governance forms in a channel. Then, they develop and extend this logic to incorporate three key forms of heterogeneity – namely, firm, outlet, and customer pathways as well as synergies between different governance forms.",
   "summary": {
-    "oneLiner": "This chapter applies transaction cost economics to explain how manufacturers design multichannel marketing strategies by considering investment risks and environmental heterogeneity.",
-    "overview": "The authors examine how companies decide whether to manage different distribution channels internally or through external partners. They use transaction cost economics, a framework that analyzes the costs of making versus buying, to understand why firms choose certain governance structures. By extending this framework to account for variations in firms, outlets, and customer paths, the paper provides a roadmap for managing the complexities of selling through multiple channels simultaneously.",
-    "question": "How can transaction cost logic be extended to explain the design of multichannel marketing systems by manufacturers?",
-    "method": "Not stated in the available text.",
+    "oneLiner": "Applies transaction cost logic to multichannel marketing, extending it to firm, outlet and customer heterogeneity and to synergies between governance forms.",
+    "overview": "This book chapter looks at why manufacturers sell the same product or service through several channels and how they should govern those channels. It starts from transaction cost logic, which explains governance choices by three drivers: protecting specific investments, promoting adaptation, and mitigating under-supply of activities that lack good output measures. The authors then extend this logic to account for differences across firms, outlets and customer pathways, and for synergies between different governance forms. The abstract presents this as a conceptual development rather than a report of empirical results.",
+    "question": "How can transaction cost logic guide a manufacturer's governance choices when it uses multiple channels to market one product or service, once firm, outlet and customer pathway differences and synergies between governance forms are taken into account?",
+    "method": "Conceptual. The authors briefly review transaction cost logic and then develop and extend it. The abstract does not describe any empirical data collection or testing.",
     "data": "Not stated in the available text.",
     "findings": [
-      "Transaction cost logic regarding safeguarding specific investments and promoting adaptation helps drive governance forms in a channel.",
-      "The governance of channels is influenced by the need to mitigate the under-supply of activities that lack clear output measures.",
-      "Multichannel design is influenced by three key forms of heterogeneity: firm, outlet, and customer pathways.",
-      "Synergies between different governance forms play a role in shaping multichannel marketing strategies."
+      "The abstract identifies three transaction cost drivers of governance forms in a channel: safeguarding specific investments, promoting adaptation, and mitigating under-supply of activities lacking good output measures.",
+      "The authors extend this logic to three forms of heterogeneity: firm, outlet, and customer pathways.",
+      "The authors also address synergies between different governance forms.",
+      "The abstract does not report empirical results."
     ],
-    "whyItMatters": "The framework offers managers a structured way to evaluate the costs and benefits of different channel configurations, helping them optimize their go-to-market strategies in complex environments.",
+    "whyItMatters": "Not stated in the available text.",
     "topics": [
-      "multichannel marketing",
+      "multichannel distribution",
+      "channel design",
       "transaction cost economics",
-      "channel management",
-      "governance structure",
-      "distribution strategy",
-      "marketing channels"
+      "channel governance",
+      "manufacturer channel strategy",
+      "synergies between governance forms"
     ],
     "industries": [],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

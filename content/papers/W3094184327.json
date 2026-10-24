@@ -26,29 +26,31 @@
   ],
   "abstract": "Abstract We examine the Indian bank asset quality review, which doubled the declared loan delinquency rate. Relative economic stability during the exercise and the absence of a capital backstop together make it unique. We find that the expected reduction in information asymmetry does not automatically lead to the recapitalization of banks by markets. The consequent undercapitalization leads to underinvestment and risk-shifting through zombie lending. The impact flows to the real economy through borrowers, including shadow banks, and adversely impacts growth. These findings show that bank cleanup exercises not accompanied by policies aimed at recapitalization may be insufficient even during normal times.",
   "summary": {
-    "oneLiner": "Bank cleanup exercises that increase transparency about bad loans can harm the real economy if they are not paired with active bank recapitalization.",
-    "overview": "This paper examines India's 'asset quality review,' a regulatory initiative that forced banks to declare higher rates of bad, or delinquent, loans. The authors argue that while this increased transparency, it failed to trigger automatic bank recapitalization by private investors. Consequently, undercapitalized banks engaged in 'zombie lending'—continuing to fund unproductive firms to avoid recognizing losses—which ultimately hindered economic growth. The study highlights that forced transparency without government-backed capital support can lead to unintended negative consequences for lending and economic output.",
-    "question": "Does increasing transparency through bank asset quality reviews lead to recapitalization and improved economic outcomes in the absence of a capital backstop?",
+    "oneLiner": "India's 2015 bank asset quality review doubled declared loan delinquencies, but without recapitalization it led to underinvestment, zombie lending and slower real growth.",
+    "overview": "The paper studies India's asset quality review, a regulatory exercise that forced banks to recognise far more bad loans, roughly doubling the declared delinquency rate. The authors note the exercise happened during relative economic stability and without a capital backstop, which makes it unusual. They find that clearer information about bank loan quality did not automatically lead markets to inject new capital into banks. Undercapitalized banks then cut back on investment and engaged in zombie lending, meaning they kept lending to weak borrowers, and the effects spread to borrowers, including shadow banks, and to economic growth. The authors conclude that clean-up exercises without recapitalization policies may be insufficient even in normal times.",
+    "question": "Does a bank asset quality review that reveals hidden loan delinquencies lead markets to recapitalize banks, and what are the consequences for lending and the real economy when it does not?",
     "method": "Not stated in the available text.",
     "data": "Not stated in the available text.",
     "findings": [
-      "The expected reduction in information asymmetry does not automatically lead to the recapitalization of banks by markets.",
-      "Undercapitalization following transparency initiatives is associated with underinvestment and risk-shifting through zombie lending.",
-      "The impact of undercapitalized banks flows to the real economy, including shadow banks, and adversely impacts growth."
+      "The expected reduction in information asymmetry from the review does not automatically lead to recapitalization of banks by markets.",
+      "The resulting undercapitalization is associated with underinvestment and risk-shifting through zombie lending.",
+      "The impact flows to the real economy through borrowers, including shadow banks, and adversely affects growth.",
+      "The authors suggest bank cleanup exercises not accompanied by recapitalization policies may be insufficient even during normal times."
     ],
-    "whyItMatters": "Bank cleanup exercises not accompanied by policies aimed at recapitalization may be insufficient to support economic health, even when conducted during periods of relative economic stability.",
+    "whyItMatters": "The authors suggest that regulators running bank clean-ups should pair them with policies aimed at recapitalizing banks, since cleaning up balance sheets alone may not be enough to restore lending and growth.",
     "topics": [
-      "banking regulation",
-      "asset quality review",
-      "zombie lending",
-      "information asymmetry",
+      "bank asset quality review",
       "bank recapitalization",
-      "financial stability",
-      "credit markets"
+      "zombie lending",
+      "underinvestment",
+      "shadow banks",
+      "non-performing loans",
+      "India banking",
+      "bank capital"
     ],
     "industries": [
-      "banking",
-      "shadow banking"
+      "Banking",
+      "Shadow banking"
     ],
     "geographies": [
       "India"
@@ -56,9 +58,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

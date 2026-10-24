@@ -23,36 +23,38 @@
   ],
   "abstract": "Many service environments such as outpatient departments comprise repeated episodes of finite duration wherein customers arriving during an episode must be served before the end of that episode. Scheduling resources and customer arrivals in such settings involves trading off customer wait against resources’ time and effort. We hypothesize that this trade‐off leads to a “slow first, fast later” pattern of system speed, which allows build‐up of inventory earlier for more efficient utilization of faster system speed later. As a natural corollary, we also hypothesize that greater anticipated workload, which causes faster inventory build‐up, leads to a larger increase in system speed earlier in the service episode than later. We empirically validate these hypotheses using operational data from a high volume tertiary care outpatient department. Our estimation results suggest that due to hypothesized system speed pattern, patients arriving around the middle (later) part of the episode experience 20% (63%) shorter length of stay compared to those arriving at the beginning. Further, additional anticipated workload of 1 patient per hour leads to 14%, 4%, and negligible reduction in the average length of stay during the earlier, middle, and later part of the service episode, respectively. Counterfactual simulations based on our model estimates show that “slow first, fast later” system speed pattern yields faster completion of work as compared to an equivalent constant system speed pattern.",
   "summary": {
-    "oneLiner": "Service systems with finite time windows exhibit a 'slow first, fast later' speed pattern, improving overall efficiency and reducing wait times for later arrivals.",
-    "overview": "In many service environments like outpatient clinics, service must be completed by a specific end time. This study finds that providers typically operate slowly at the beginning of a shift and speed up toward the end. This pattern allows the facility to manage the accumulation of customers (inventory) more effectively. By accelerating operations as the deadline approaches, the system achieves faster overall work completion compared to maintaining a constant speed throughout the day.",
-    "question": "How do resource scheduling and arrival patterns influence service speed in finite-duration episodes, and what are the effects on customer wait times?",
-    "method": "Empirical validation using operational data and counterfactual simulations based on model estimates.",
-    "data": "A high-volume tertiary care outpatient department.",
+    "oneLiner": "Outpatient data suggest a \"slow first, fast later\" speed pattern: patients arriving mid-episode see shorter stays, and total work finishes sooner.",
+    "overview": "Many services, such as hospital outpatient clinics, run in repeated sessions that end at a fixed time, and every customer who arrives during a session must be served before it closes. The authors argue that staff speed should vary within each session: they work more slowly early on, which lets a backlog of patients build up, and then work faster later to clear that backlog. Using operational data from a high-volume tertiary care outpatient department (a large specialist hospital clinic), they find that patients arriving mid-session or later have much shorter stays than those arriving at the start. They also find that a higher expected workload speeds up the early-session change more than the later one, and simulations based on their estimates suggest this pattern finishes work faster than a constant speed.",
+    "question": "Does system speed follow a \"slow first, fast later\" pattern within finite-duration service episodes, and does greater anticipated workload make the speed increase larger earlier in the episode than later?",
+    "method": "The authors estimate a model on operational data to test two hypotheses: the \"slow first, fast later\" speed pattern and a larger early-episode speed response to anticipated workload. They then run counterfactual simulations based on the model estimates to compare this speed pattern with a constant speed.",
+    "data": "Operational data from a high-volume tertiary care outpatient department. The time period is not stated in the available text.",
     "findings": [
-      "Service systems exhibit a 'slow first, fast later' pattern of speed to optimize resource utilization.",
-      "Patients arriving in the middle or later parts of a service episode experience 20% to 63% shorter stays than those arriving at the beginning.",
-      "Higher anticipated workloads lead to significant increases in system speed during the earlier parts of an episode.",
-      "A 'slow first, fast later' speed pattern results in faster overall completion of work compared to a constant speed strategy."
+      "Estimation results suggest that, due to the hypothesized system speed pattern, patients arriving around the middle of the episode experience about 20% shorter length of stay than those arriving at the beginning.",
+      "Patients arriving in the later part of the episode experience about 63% shorter length of stay than those arriving at the beginning.",
+      "Additional anticipated workload of 1 patient per hour is associated with about 14%, 4%, and negligible reductions in average length of stay during the earlier, middle, and later parts of the episode, respectively.",
+      "Counterfactual simulations based on the model estimates show that the \"slow first, fast later\" pattern yields faster completion of work than an equivalent constant system speed."
     ],
-    "whyItMatters": "For operations managers, this suggests that adapting service speed based on time remaining and anticipated workload can improve operational efficiency and patient throughput without necessarily increasing resources.",
+    "whyItMatters": "The authors frame the findings as a trade-off between customer wait and the time and effort of resources in scheduling both staff and arrivals within service episodes. They suggest that building up a queue early allows more efficient use of faster speed later, which may matter for managers scheduling outpatient or similar episodic services. The paper's abstract does not state explicit policy recommendations.",
     "topics": [
-      "Operations Management",
-      "Service Efficiency",
-      "Queueing Theory",
-      "Resource Scheduling",
-      "Healthcare Operations",
-      "Process Improvement"
+      "service operations",
+      "outpatient scheduling",
+      "system speed",
+      "length of stay",
+      "healthcare operations",
+      "workload and capacity",
+      "finite-duration service episodes",
+      "queue build-up"
     ],
     "industries": [
-      "Healthcare"
+      "Healthcare (outpatient department of a tertiary care hospital)"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

@@ -32,38 +32,43 @@
   ],
   "abstract": "Problem definition: Healthcare systems in resource-limited settings rely on diagnostic networks in which medical samples (e.g., blood, sputum) and results need to be transported between geographically dispersed healthcare facilities and centralized laboratories. Academic/practical relevance: Existing sample transportation (ST) systems typically operate fixed schedules, which do not account for demand variability and lead to unnecessary transportation visits as well as delays. Methodology: We design an optimized sample transportation (OST) system that comprises two components: (i) a new approach for timely collection of information on transportation demand (samples and results) using low-cost technology based on feature phones, and (ii) an optimization-based solution approach to the problem of routing and scheduling courier trips in a multistage transportation system. Results: Our solution approach performs well in a range of numerical experiments. Furthermore, we implement OST in collaboration with Riders For Health, who operate the national ST system in Malawi. Based on analysis of field data describing over 20,000 samples and results transported during July–October 2019, we show that the implementation of OST routes reduced average ST delays in three districts of Malawi by approximately 25%. In addition, the proportion of unnecessary trips by ST couriers decreased by 55%. Managerial implications: Our approach for improving ST operations is feasible and effective in Malawi and can be applied to other resource-limited settings, particularly in sub-Saharan Africa. History: This paper has been accepted as part of the 2021 Manufacturing & Service Operations Management Practice-Based Research Competition. Funding: This work was supported by Bill and Melinda Gates Foundation [Grant OPP1182217] and by the National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health [Grant U54EB027049]. The content is solely the responsibility of the authors and does not necessarily represent the official views of the funding organizations. Supplemental Material: The e-companion is available at https://doi.org/10.1287/msom.2022.1182 .",
   "summary": {
-    "oneLiner": "An optimized sample transportation system using low-cost technology and dynamic routing significantly reduced diagnostic delays and courier trips in Malawi.",
-    "overview": "Healthcare systems in resource-limited areas often struggle with rigid sample transportation schedules that ignore actual daily demand. By implementing a system that uses basic feature phones to collect real-time data and applying mathematical models to optimize courier routes, this study provides a more responsive framework. The approach was successfully tested in Malawi, leading to faster diagnostic turnarounds and more efficient use of transportation resources.",
-    "question": "How can data-driven, optimized routing and scheduling of couriers improve the efficiency of diagnostic sample transportation in resource-limited healthcare settings?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "Replacing fixed courier schedules in Malawi with demand-driven daily routes cut sample transport delays by about 25% and unnecessary courier trips by 55%.",
+    "overview": "Health clinics in resource-limited settings must send blood and sputum samples to central labs and return results, usually by courier on fixed timetables. The authors argue fixed schedules ignore how much demand varies day to day, causing wasted trips and delays. They built an optimized sample transportation (OST) system that collects daily demand through low-cost feature phones and then plans courier routes and schedules across several stages of transport. Working with Riders For Health, which runs Malawi's national sample transport network, they implemented OST and report that, over July to October 2019, it was associated with roughly 25% lower average delays in three districts and a 55% drop in unnecessary courier trips.",
+    "question": "How can sample transportation in a resource-limited healthcare diagnostic network be redesigned to account for demand variability, reducing delays and unnecessary trips?",
+    "method": "The authors design an optimized sample transportation (OST) system with two parts: a feature-phone-based way to collect timely information on transport demand (samples and results), and an optimization approach for routing and scheduling courier trips in a multistage transport system. They test the solution approach in numerical experiments and then implement OST in Malawi, analysing field data on delays and courier trips.",
+    "data": "Field data describing over 20,000 samples and results transported during July–October 2019 in Malawi, covering three districts. Data came from the national sample transport system operated by Riders For Health. The abstract also refers to numerical experiments but gives no further detail on them.",
     "findings": [
-      "The implementation of optimized routes reduced average diagnostic sample transportation delays in three Malawian districts by approximately 25%.",
-      "The proportion of unnecessary courier trips decreased by 55% following the implementation of the new system."
+      "The solution approach performs well in a range of numerical experiments.",
+      "Implementing OST routes reduced average sample transport delays in three districts of Malawi by approximately 25%.",
+      "The proportion of unnecessary trips by sample transport couriers decreased by 55%."
     ],
-    "whyItMatters": "The authors suggest that this approach is feasible and effective in resource-limited settings, offering a scalable model for improving public health diagnostic infrastructure, particularly in sub-Saharan Africa.",
+    "whyItMatters": "The authors state that their approach for improving sample transport operations is feasible and effective in Malawi and can be applied to other resource-limited settings, particularly in sub-Saharan Africa. For managers of logistics or health networks, the paper suggests that collecting real-time demand and routing couriers daily can be an alternative to fixed schedules.",
     "topics": [
-      "Healthcare operations management",
-      "Logistics optimization",
-      "Resource-constrained supply chains",
-      "Public health diagnostics",
-      "Service operations",
-      "Transportation routing"
+      "sample transportation",
+      "healthcare logistics",
+      "vehicle routing",
+      "courier scheduling",
+      "demand variability",
+      "resource-limited settings",
+      "feature phones",
+      "sub-Saharan Africa",
+      "Malawi",
+      "operations in global health"
     ],
     "industries": [
       "Healthcare",
-      "Logistics"
+      "Diagnostic laboratory services"
     ],
     "geographies": [
       "Malawi",
-      "Sub-Saharan Africa"
+      "sub-Saharan Africa"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

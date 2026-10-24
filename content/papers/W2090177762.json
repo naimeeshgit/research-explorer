@@ -29,39 +29,42 @@
   ],
   "abstract": "The total size of the edible oils market in India was estimated to be 13 million tons (mt) out of which imports amounted to about 4 mt. This made India the largest importer of edible oils in the world. Various edible oils are consumed in the India depending on the regional tastes and preferences. A differential in the duties on oil seed and oils made it favorable to import edible oils instead of oilseeds. Similarly, a differential duty between the refined oil and the raw oil encouraged the import of raw oil in order to support the domestic refineries. Adani Wilmar Limited (AWL) was a part of the Adani group, which started as a trading company mainly into exports of commodities. The group had recently entered into the infrastructure sector with the building of the Mundra port. The group had formed a joint venture with Wilmar Trading of Singapore to enter into the edible oil business. The company was setting up a re.nery with capacity of 600 tons per day. It planned to sell half of the production as bulk oil and the rest as packed oil. The company viewed supply chain management as one of the important means to get a competitive edge. Approximately 70% of the total logistics cost was accounted for by transportation cost. Some of the key decisions the company faced was the location of the warehouses, mode choice and routing.",
   "summary": {
-    "oneLiner": "Adani Wilmar Limited leveraged supply chain management and strategic infrastructure, such as the Mundra port, to enter the competitive Indian edible oil market.",
-    "overview": "Adani Wilmar Limited (AWL), a joint venture between the Adani Group and Wilmar Trading, entered the Indian edible oil market by setting up refinery operations. Because India is the world's largest importer of edible oils, the company aimed to gain a competitive advantage through efficient supply chain management. Key operational challenges for the firm included optimizing transportation costs, which made up 70% of their total logistics spend, and making strategic choices regarding warehouse locations and routing. The firm balanced its business model by selling a mix of bulk and packaged oil to meet regional consumer preferences.",
-    "question": "How did Adani Wilmar Limited approach its market entry and supply chain strategy within the context of India's import-dependent edible oil industry?",
+    "oneLiner": "Case on Adani Wilmar's edible oil venture in India, where duties and transport costs shape warehouse, mode and routing decisions.",
+    "overview": "This case covers Adani Wilmar Limited, a joint venture between the Adani group and Wilmar Trading of Singapore, entering India's edible oil business. India was the world's largest importer of edible oils, and tax differentials (import duties) favoured importing oil over oilseed and raw oil over refined oil. The company planned a 600-ton-per-day refinery and saw supply chain management as a source of competitive advantage, with transportation making up about 70% of logistics cost. The key decisions it faced were where to locate warehouses, which transport mode to choose, and how to route shipments.",
+    "question": "The abstract frames the decisions the company faced: where to locate warehouses, which mode of transport to choose, and how to route shipments.",
     "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "data": "The abstract gives market figures: India's edible oil market was estimated at 13 million tons, of which about 4 million tons were imported. It also gives a logistics cost share of about 70% for transportation. The time period and detailed sources are not stated in the available text.",
     "findings": [
-      "The company viewed supply chain management as a critical mechanism for achieving a competitive edge in the market.",
-      "Logistics costs were significantly impacted by transportation, which accounted for approximately 70% of the total logistics expense.",
-      "Strategic infrastructure, such as the Mundra port, supported the group's expansion into the edible oil sector."
+      "India's edible oil market was estimated at 13 million tons, with imports of about 4 million tons, making India the largest importer of edible oils in the world.",
+      "A differential in duties on oilseed and oils made importing edible oils more favourable than importing oilseeds.",
+      "A differential duty between refined and raw oil encouraged importing raw oil to support domestic refineries.",
+      "Approximately 70% of the total logistics cost was accounted for by transportation cost."
     ],
-    "whyItMatters": "The case illustrates how operational decisions, specifically in logistics and supply chain network design, are pivotal for new entrants in commodity-based industries with high import dependency.",
+    "whyItMatters": "The abstract presents supply chain management as one of the company's important means of gaining a competitive edge. Its focus on warehouse location, transport mode and routing, and on transport's large share of logistics cost, points to these choices as central for an edible oil business that depends on imports and tax differentials.",
     "topics": [
-      "Supply chain management",
-      "Market entry strategy",
-      "Edible oil industry",
-      "Logistics optimization",
-      "Joint ventures",
-      "Commodity trading"
+      "edible oil imports",
+      "supply chain management",
+      "logistics cost",
+      "warehouse location",
+      "transport mode choice",
+      "import duties",
+      "Adani Wilmar",
+      "India FMCG"
     ],
     "industries": [
-      "Edible oil",
-      "Infrastructure",
-      "Commodity trading"
+      "Edible oils",
+      "Logistics and supply chain"
     ],
     "geographies": [
-      "India"
+      "India",
+      "Singapore"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

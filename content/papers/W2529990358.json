@@ -29,28 +29,33 @@
   ],
   "abstract": "Background A retrospective review of all patients transferred by helicopter ambulance to the Great Western Hospital over a 20-month period between January 2003 and September 2004 was undertaken to establish the case-mix of patients (trauma and non-trauma) transferred and the outcome of their admission and length of hospital stay. Methods Details of all Helicopter Emergency Ambulance Service (HEAS) transfers to this unit in the study time period were obtained from the three HEAS providers in the area and case notes for all patients (where available) were reviewed. Results 156 trauma patients were transferred (total patients 193). 111 cases were identified for analysis (45 transfers had inadequate information to identify them) with mean age of 33 years (range 1-92 years). Mean Injury Severity Score on admission was 12 (range 1-36). 45 (or 41%) patients were discharged home from the Accident and Emergency Department. 24 cases had operations, 9 patients required ICU care and 2 were pronounced dead on arrival in the A&E Department. Average hospital stay following HEAS transfer was 2.97 in-hospital days (range 0-18). Conclusions Pre-hospital Helicopter Ambulance transfer in the acute setting is of debatable value. There is no doubt that it can be an extremely valuable service but triage criteria are at fault if as many as 41% of patients transferred are being discharged home from casualty having incurred the financial cost of helicopter transfer (estimated costs per transfer range from £4,500 to £6,000). We present the data collected in this study. We propose that, if 41 percent of all trauma admissions transferred by helicopter ambulance are discharged home directly from the emergency department, the triage criteria for helicopter emergency ambulance transfer are at fault. We suggest that the triage criteria should be reviewed locally and nationally and the appropriate changes should then be implemented.",
   "summary": {
-    "oneLiner": "High rates of helicopter ambulance transfers for patients later discharged from emergency care suggest that current triage criteria require re-evaluation.",
-    "overview": "This study examined the outcomes of patients transported by helicopter to a single hospital to determine if the high financial cost of this service is justified by patient acuity. The authors found that a significant portion of transferred patients were discharged immediately from the emergency department, indicating that many may not have required such specialized transport. They suggest that current triage protocols—the rules determining who receives helicopter transport—need to be reviewed to better allocate healthcare resources.",
-    "question": "Are the current triage criteria for helicopter ambulance transfers effective, given the patient case-mix and subsequent hospital outcomes?",
-    "method": "A retrospective review of helicopter emergency ambulance service (HEAS) transfers and patient case notes over a 20-month period.",
-    "data": "193 total patient transfers to the Great Western Hospital between January 2003 and September 2004, with 111 cases available for detailed analysis.",
+    "oneLiner": "Retrospective review of helicopter ambulance transfers to one UK hospital found 41% discharged home from A&E, prompting a call to review triage criteria.",
+    "overview": "The authors looked back at patients flown by helicopter ambulance to the Great Western Hospital over about 20 months from 2003 to 2004. Only 111 of the 156 trauma patients transferred could be analysed, because 45 transfers had inadequate information. Of these, 41% were discharged home directly from the Accident and Emergency Department, and the authors estimate each transfer cost £4,500 to £6,000. They argue that if so many patients do not need admission, the criteria for sending helicopters may be at fault, and they suggest reviewing them locally and nationally. The authors also say helicopter transfer can be valuable, so their stance is that its value is debatable rather than clearly absent.",
+    "question": "What is the case-mix and outcome of patients transferred by helicopter ambulance to the Great Western Hospital, and should the triage criteria for helicopter transfer be changed?",
+    "method": "A retrospective review: the authors collected records of all helicopter ambulance transfers to the unit from the three helicopter providers in the area and reviewed the case notes where available. Triage is the process of deciding which patients to send and how urgently.",
+    "data": "All helicopter ambulance transfers to the Great Western Hospital between January 2003 and September 2004 (about 20 months). 193 patients were transferred in total, 156 of them trauma patients, and 111 cases were analysed. The abstract does not describe the setting beyond the hospital and the helicopter providers.",
     "findings": [
-      "41% of trauma patients transferred by helicopter were discharged directly from the emergency department.",
-      "The average Injury Severity Score for transferred patients was 12.",
-      "The high volume of patients discharged immediately suggests that triage criteria for helicopter transfers are at fault.",
-      "The authors suggest that triage criteria should be reviewed at both local and national levels to ensure efficient resource utilization."
+      "Of 111 analysed cases, mean age was 33 years (range 1 to 92) and mean Injury Severity Score on admission was 12 (range 1 to 36).",
+      "45 patients (41%) were discharged home from the Accident and Emergency Department.",
+      "24 cases had operations, 9 required intensive care unit (ICU) care, and 2 were pronounced dead on arrival.",
+      "Average in-hospital stay after helicopter transfer was 2.97 days (range 0 to 18).",
+      "The authors describe pre-hospital helicopter transfer in the acute setting as of debatable value, while acknowledging it can be an extremely valuable service.",
+      "The authors state that triage criteria are at fault if as many as 41% of transferred patients are discharged home from casualty; they propose this as a basis for review."
     ],
-    "whyItMatters": "Given the high cost of helicopter transport, which ranges from £4,500 to £6,000 per transfer, poor triage criteria result in inefficient resource allocation that significantly impacts hospital budgets.",
+    "whyItMatters": "For hospital managers and ambulance service planners, the paper suggests that a large share of helicopter transfers may not need hospital admission, which raises cost questions given estimated costs of £4,500 to £6,000 per transfer. The authors recommend that triage criteria for helicopter transfer be reviewed locally and nationally. The study is small and retrospective, with 45 of 156 trauma transfers excluded for incomplete records, so the authors' call for change rests on this one centre's data.",
     "topics": [
-      "healthcare operations",
-      "resource allocation",
-      "emergency medical services",
-      "triage protocols",
-      "cost-benefit analysis"
+      "helicopter ambulance",
+      "pre-hospital care",
+      "trauma triage",
+      "emergency medicine",
+      "retrospective review",
+      "healthcare costs",
+      "patient transfer",
+      "injury severity score"
     ],
     "industries": [
       "Healthcare",
-      "Emergency Medical Services"
+      "Emergency medical services"
     ],
     "geographies": [
       "United Kingdom"
@@ -58,9 +63,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

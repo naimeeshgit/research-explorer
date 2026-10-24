@@ -38,36 +38,39 @@
   ],
   "abstract": "Background: Few studies have rigorously evaluated the associations between organizational characteristics and intervention choices made by health care organizations participating in quality improvement collaboratives (QICs). Objective: To examine the relationship between clinic characteristics and intervention choices made by primary care clinics that provide HIV care and that participated in a QIC. Design: Cross-sectional study of Ryan White CARE Act (now called Ryan White HIV/AIDS Treatment Modernization Act) funded clinics that participated in a QIC. Data were collected using surveys of clinicians and administrators in participating clinics and monthly reports of clinic improvement activities. Measures: Number of interventions attempted, percent of interventions repeated, percent of interventions evaluated, ratings of intervention importance, and organizational characteristics. Results: Clinics varied significantly in their intervention choices. Organizations with a more open culture and a greater emphasis on quality improvement attempted more interventions (p<0.01, p<0.05) and interventions that were more comprehensive (p<0.01, p<0.10). Presence of multi-disciplinary teams and measurement of progress toward quantifiable goals also were associated with comprehensiveness of interventions (p<0.01, p<0.05). Conclusion: Organizational characteristics of clinics seem to predict intervention choices during the QIC. Further research is needed on how these organizational characteristics impact quality of care through intervention choices.",
   "summary": {
-    "oneLiner": "Clinics' internal organizational culture and structure significantly influence the number and type of quality improvement interventions they choose to implement.",
-    "overview": "This study examines why some primary care clinics choose different strategies for improving quality during collaborative programs. It finds that clinics with a more open culture, a stronger focus on quality improvement, and the use of multi-disciplinary teams are more likely to attempt a higher volume of interventions. Additionally, clinics that track progress toward specific goals tend to select more comprehensive improvement strategies. The research suggests that organizational environment is a key driver of how healthcare providers approach quality initiatives.",
-    "question": "What is the relationship between a clinic's organizational characteristics and the specific quality improvement intervention choices they make?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "In an HIV-care improvement collaborative, open cultures and a stronger quality-improvement emphasis were associated with more, and more comprehensive, clinic interventions.",
+    "overview": "This study looks at why some health clinics choose to try more improvement projects than others while taking part in a quality improvement collaborative, a group where several organizations work together on improving care. The clinics were primary care providers offering HIV care. The authors found that clinics with a more open culture and a greater emphasis on quality improvement tried more interventions, and that these interventions were more comprehensive. Having multi-disciplinary teams and tracking progress toward measurable goals were also linked to more comprehensive interventions. The authors say these characteristics seem to predict intervention choices, but they do not show how those choices affect quality of care.",
+    "question": "How are clinic organizational characteristics associated with the intervention choices that primary care clinics providing HIV care make while participating in a quality improvement collaborative?",
+    "method": "A cross-sectional study, meaning data were collected at one point in a single snapshot rather than followed over time. Data came from surveys of clinicians and administrators in participating clinics and from monthly reports of clinic improvement activities. Outcomes included the number of interventions attempted, the share repeated, the share evaluated, ratings of intervention importance, and organizational characteristics.",
+    "data": "Ryan White CARE Act funded clinics that provided HIV care and participated in a quality improvement collaborative. Data came from clinician and administrator surveys and monthly clinic improvement reports. The sample size and time period are not stated in the available text.",
     "findings": [
-      "Organizations with a more open culture attempted more interventions.",
-      "A greater organizational emphasis on quality improvement is associated with more interventions and interventions that are more comprehensive.",
-      "The presence of multi-disciplinary teams is associated with the comprehensiveness of interventions.",
-      "The measurement of progress toward quantifiable goals is associated with the comprehensiveness of interventions."
+      "Clinics varied significantly in their intervention choices.",
+      "Organizations with a more open culture and a greater emphasis on quality improvement attempted more interventions (p<0.01, p<0.05).",
+      "Organizations with a more open culture and a greater emphasis on quality improvement attempted interventions that were more comprehensive (p<0.01, p<0.10).",
+      "Presence of multi-disciplinary teams and measurement of progress toward quantifiable goals were also associated with comprehensiveness of interventions (p<0.01, p<0.05).",
+      "The authors conclude that organizational characteristics of clinics seem to predict intervention choices during the collaborative, and that further research is needed on how these characteristics affect quality of care through intervention choices."
     ],
-    "whyItMatters": "Understanding these associations helps healthcare leaders recognize that organizational culture and structure are critical factors in the success and selection of quality improvement efforts.",
+    "whyItMatters": "The authors suggest that clinic organizational characteristics seem to predict which improvement interventions clinics choose, which may matter for those designing or managing quality improvement collaboratives. They call for further research on how these characteristics affect quality of care through intervention choices. The paper does not make specific recommendations for managers or policymakers.",
     "topics": [
-      "quality improvement",
-      "healthcare management",
+      "quality improvement collaboratives",
       "organizational culture",
-      "intervention design",
-      "clinic performance",
-      "healthcare operations"
+      "health care management",
+      "intervention choice",
+      "HIV care",
+      "primary care clinics",
+      "multi-disciplinary teams",
+      "performance measurement"
     ],
     "industries": [
-      "healthcare"
+      "Health care (primary care clinics providing HIV care)"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

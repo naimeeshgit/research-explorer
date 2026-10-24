@@ -20,36 +20,33 @@
   ],
   "abstract": "Foreword - Richard Bagozzi Preface Acknowledgments 1. WHAT IS MEASUREMENT? Overview What Is Measurement Error? Overview of Traditional Measure Development Procedures Conceptual and Operational Definitions Domain Delineation Measure Design and Item Generation Internal Consistency Reliability Test-Retest Reliability Dimensionality - Exploratory Factor Analysis Dimensionality - Confirmatory Factor Analysis and Structural Equation Modeling Validity General Issues in Measurement Summary Appendices 2. WHAT IS MEASUREMENT ERROR? Overview Random Error Systematic Error Types of Random and Systematic Error Illustrations of Measurement Error Through Error Patterns Patterns of Responses in Measurement Error Summary Appendix 3. WHAT CAUSES MEASUREMENT ERROR? Overview Sources of Measurement Error Taxonomy of Error Sources Summary 4. CAN EMPIRICAL PROCEDURES PINPOINT TYPES OF MEASUREMENT ERROR? Overview Internal Consistency Reliability Procedures Test-Retest Reliability Procedures Factor Analysis Procedures Validity Tests Summary 5. HOW CAN MEASUREMENT ERROR BE IDENTIFIED AND CORRECTED FOR IN MEASURE DEVELOPMENT? Overview Guidelines for Identifying and Correcting For Error in Measure Development Generic Issues in Designing Psychometric Tests Item-to-Total Correlations (Internal Consistency Procedures) Item Means Test-Retest Correlations (Test-Retest Reliability) Factor Loadings (Exploratory Factor Analysis) Residuals (Confirmatory Factor Analysis) Cross-Construct Correlations (Validity Tests) Conditions of Future Use of Measures Discussion Summary 6. HOW CAN ERROR BE IDENTIFIED THROUGH INNOVATIVE DESIGN AND ANALYSES? Overview Using Internal Consistency and Test-Retest Reliability in Conjunction Using Correlations Across Item-Level Correlations Empirical Assessment of Item-Sequencing Effects Summary 7. HOW DO MEASURES DIFFER? Overview Stimulus-Centered Versus Respondent-Centered Scales Formative and Reflective Indicators of Constructs Summary 8. WHAT ARE EXAMPLES OF MEASURES AND MEASUREMENT ACROSS VARIOUS DISCIPLINES? Overview Types of Measures Types of Response Formats Specific Examples of Scales From Different Disciplines Cross-Cultural Measurement Summary 9. WHAT ARE THE IMPLICATIONS OF UNDERSTANDING MEASUREMENT ERROR FOR RESEARCH DESIGN AND ANALYSIS? Overview Implications for Using Measures in Research Design Implications for Using Structural Equation Modeling Implications for Applied Research Summary 10. HOW DOES MEASUREMENT ERROR AFFECT RESEARCH DESIGN? Overview Types of Research Designs Measurement Error in Survey Designs Measurement Error in Experimental Designs Research Design and Measurement Error Summary Appendices 11. WHAT IS THE ROLE OF MEASUREMENT IN SCIENCE? Overview Assumptions of Measurement Qualitative Versus Quantitative Research Measuring the Measurable From Physical to Psychological Measurement Informal Measurement Ethics in Measurement Summary 12. WHAT ARE THE KEY PRINCIPLES AND GUIDING ORIENTATIONS OF THIS BOOK? Overview Summary of Chapters Implications for Measurement and Research Design Summary of Orientations References Index About the Author",
   "summary": {
-    "oneLiner": "This work explores the sources, identification, and correction of measurement error in research design, emphasizing its critical role in scientific rigor.",
-    "overview": "Measurement error occurs when there is a discrepancy between the measured value of a variable and its true value. This book provides a comprehensive framework for understanding both random and systematic errors in data collection. It outlines various statistical procedures, such as factor analysis and internal consistency checks, to identify and mitigate these errors in research. Ultimately, the text argues that recognizing these errors is essential for valid research design across both physical and psychological sciences.",
-    "question": "How can researchers identify, understand, and mitigate measurement error to improve the quality of research design and data analysis?",
+    "oneLiner": "A book-length guide to measurement error and how it affects research design, covering measure development, reliability, validity, and factor analysis.",
+    "overview": "The text provided is a table of contents for a book by Madhu Viswanathan on measurement error in research. It moves from defining measurement and error, through their causes and how empirical tests can detect them, to measure development and the implications for research design and analysis. Later chapters cover survey and experimental designs and the role of measurement in science. The text itself does not report any study results, so this card describes the book's scope rather than specific findings.",
+    "question": "The chapter headings pose questions such as What Is Measurement Error?, What Causes Measurement Error?, and How Does Measurement Error Affect Research Design? The text does not state a single overarching research question.",
     "method": "Not stated in the available text.",
     "data": "Not stated in the available text.",
     "findings": [
-      "Measurement error consists of both random and systematic components that can distort research outcomes.",
-      "Statistical techniques like internal consistency reliability, factor analysis, and structural equation modeling (SEM) are primary tools for identifying and correcting for errors.",
-      "Innovative design techniques, such as assessing item-sequencing effects, can help pinpoint errors that standard measures might miss.",
-      "The nature of a measurement, such as whether it is a formative or reflective indicator, significantly influences how error should be managed."
+      "Not stated in the available text. The provided text is a table of contents and reports no results."
     ],
-    "whyItMatters": "Understanding measurement error allows researchers to design more robust studies, leading to more accurate data interpretations and stronger conclusions in applied research and managerial decision-making.",
+    "whyItMatters": "The chapter list indicates the book addresses implications of measurement error for research design and analysis, for using measures in research, and for applied research. The text does not state specific implications for managers, policymakers, or investors.",
     "topics": [
-      "Measurement error",
-      "Research design",
-      "Psychometrics",
-      "Structural equation modeling",
-      "Survey methodology",
-      "Factor analysis",
-      "Data validity",
-      "Research methodology"
+      "measurement error",
+      "measure development",
+      "reliability",
+      "validity",
+      "factor analysis",
+      "structural equation modeling",
+      "research design",
+      "survey design"
     ],
     "industries": [],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

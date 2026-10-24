@@ -32,28 +32,28 @@
   ],
   "abstract": "India faces a dual challenge of poor access and inappropriate use of antibiotics, fuelling antimicrobial resistance. In this context, the appropriate use of novel antibiotics demands innovation in their introduction into clinical practice in Indian healthcare settings. Novel stewardship-linked differential access pathways for health care facilities based on good antibiotic stewardship practice could offer a feasible solution. Early planning, targeted stewardship strategies and real-time monitoring are critical to developing scalable models for introduction and usage of reserve class of antibiotics in India. Such models may provide lessons learned that could be adapted and adopted by settings or countries beyond India.",
   "summary": {
-    "oneLiner": "Stewardship-linked access models may provide a feasible way to introduce novel reserve antibiotics while mitigating antimicrobial resistance in India.",
-    "overview": "India is currently balancing the need to increase access to newer, 'reserve' antibiotics while preventing their overuse, which drives antibiotic resistance. The authors propose a strategy that ties access to these powerful drugs to a hospital’s adherence to good antibiotic stewardship—the systematic effort to optimize how antibiotics are prescribed and used. By combining early planning with real-time monitoring of drug usage, healthcare systems can create a safer, scalable framework for introducing these medicines. This approach aims to bridge the gap between necessary clinical access and responsible consumption.",
-    "question": "How can India effectively introduce novel reserve antibiotics into clinical practice while addressing the dual challenges of access and inappropriate use?",
+    "oneLiner": "Proposes stewardship-linked differential access pathways so Indian health facilities can introduce reserve antibiotics responsibly, with early planning and real-time monitoring.",
+    "overview": "India faces both poor access to antibiotics and inappropriate use, which together drive antimicrobial resistance (when germs stop responding to drugs). The authors argue that newer 'reserve class' antibiotics need a careful introduction into Indian clinical practice. They propose giving health care facilities differential access to these drugs, linked to how well each facility practises antibiotic stewardship (using antibiotics appropriately). They say early planning, targeted stewardship strategies and real-time monitoring are critical to building scalable models that other settings could adapt.",
+    "question": "How can novel, reserve-class antibiotics be introduced and used in Indian health care settings in a scalable way that supports good stewardship?",
     "method": "Not stated in the available text.",
     "data": "Not stated in the available text.",
     "findings": [
-      "Stewardship-linked differential access pathways are suggested as a feasible solution for managing reserve antibiotics.",
-      "Early planning, targeted stewardship strategies, and real-time monitoring are identified as critical components for scaling these models.",
-      "The proposed models may offer transferable lessons for other countries facing similar antibiotic access and resistance challenges."
+      "Novel stewardship-linked differential access pathways for health care facilities, based on good antibiotic stewardship practice, could offer a feasible solution.",
+      "Early planning, targeted stewardship strategies and real-time monitoring are critical to developing scalable models for introducing and using reserve-class antibiotics in India.",
+      "Such models may provide lessons that could be adapted and adopted by settings or countries beyond India."
     ],
-    "whyItMatters": "The framework helps managers and policymakers balance the medical necessity of providing new, powerful antibiotics with the systemic imperative to preserve their long-term effectiveness by curbing resistance.",
+    "whyItMatters": "The paper points to health system planners and policymakers in India as the audience: linking access to reserve antibiotics with stewardship performance could help introduce these drugs while limiting resistance. The authors suggest the resulting models may offer lessons for other countries.",
     "topics": [
-      "Antimicrobial resistance",
-      "Antibiotic stewardship",
-      "Healthcare access",
-      "Pharmaceutical policy",
-      "Public health",
-      "Healthcare management"
+      "antimicrobial resistance",
+      "antibiotic stewardship",
+      "reserve antibiotics",
+      "differential access",
+      "drug introduction",
+      "health care India",
+      "hospital policy"
     ],
     "industries": [
-      "Healthcare",
-      "Pharmaceuticals"
+      "healthcare"
     ],
     "geographies": [
       "India"
@@ -61,9 +61,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

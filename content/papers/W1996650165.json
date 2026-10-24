@@ -35,31 +35,34 @@
   ],
   "abstract": "BACKGROUND: Xpert MTB/RIF (Xpert) is being widely adopted in high TB burden countries. Analysis is needed to guide the placement of devices within health systems to optimize the tuberculosis (TB) case detection rate (CDR). METHODS: We used epidemiological and operational data from Uganda (139 sites serving 87,600 individuals tested for TB) to perform a model-based comparison of the following placement strategies for Xpert devices: 1) Health center level (sites ranked by size from national referral hospitals to health care level III centers), 2) Smear volume (sites ranked from highest to lowest volume of smear microscopy testing), 3) Antiretroviral therapy (ART) volume (sites ranked from greatest to least patients on ART), 4) External equality assessment (EQA) performance (sites ranked from worst to best smear microscopy performance) and 5) TB prevalence (sites ranked from highest to lowest). We compared two clinical algorithms, one where Xpert was used only for smear microscopy negative samples versus another replacing smear microscopy. The primary outcome was TB CDR; secondary outcomes were detection of multi-drug resistant TB, number of sites requiring device placement to achieve specified rollout coverage, and cost. RESULTS: Placement strategies that prioritized sites with higher TB prevalence maximized CDR, with an incremental rate of 6.2-12.6% compared to status quo (microscopy alone). Diagnosis of MDR-TB was greatest in the TB Prevalence strategy when Xpert was used in place of smear microscopy. While initial implementation costs were lowest in the Smear Volume strategy, cost per additional TB case detected was lowest in the TB prevalence strategy. CONCLUSION: In Uganda, placement of Xpert devices in sites with high TB prevalence yielded the highest TB CDR at the lowest cost per additional case diagnosed. These results represent novel use of program level data to inform the optimal placement of new technology in resource-constrained settings.",
   "summary": {
-    "oneLiner": "Placing diagnostic Xpert devices in sites with the highest tuberculosis prevalence maximizes case detection while minimizing cost per additional case diagnosed in Uganda.",
-    "overview": "When introducing new diagnostic technology like the Xpert MTB/RIF into resource-constrained health systems, deciding where to place these devices is critical for efficiency. This study used operational data from Uganda to compare different strategies for allocating these devices across 139 health facilities. The findings suggest that prioritizing sites based on their local tuberculosis prevalence is superior to other methods, such as prioritizing by patient volume or antiretroviral therapy capacity. This approach achieves the highest rate of disease detection and the lowest cost per additional case diagnosed.",
-    "question": "Which placement strategy for Xpert MTB/RIF diagnostic devices best optimizes tuberculosis case detection rates and costs in the Ugandan healthcare system?",
-    "method": "The authors developed a decision-analytic model using operational and epidemiological data from 139 health sites. They simulated outcomes for five distinct device placement strategies—based on health center hierarchy, smear microscopy volume, antiretroviral therapy (ART) volume, external quality assessment (EQA) performance, and tuberculosis (TB) prevalence—under two different clinical diagnostic algorithms.",
-    "data": "National-level data from 139 health facilities in Uganda performing tuberculosis smear microscopy in 2011, covering 87,600 individuals tested for TB.",
+    "oneLiner": "In Uganda, placing Xpert TB testing devices at high-TB-prevalence sites gave the highest case detection at the lowest cost per extra case, per a model.",
+    "overview": "The authors ask where a new, faster TB test (Xpert MTB/RIF) should be placed among Uganda's smear-microscopy sites to find the most TB cases. They built a decision-analytic model using 2011 site-level data from 139 sites and compared five placement rules, such as ranking by facility level, testing volume, HIV treatment volume, lab quality, or estimated TB prevalence. Placing devices at the sites with the highest TB prevalence gave the largest gain in case detection, about 6.2 to 12.6 percentage points over microscopy alone, and the lowest cost per additional case found. The authors present this as a model-based estimate and note that results depended on the diagnostic algorithm used and on the availability of devices.",
+    "question": "Which placement strategy for Xpert MTB/RIF devices within Uganda's health system best maximizes tuberculosis case detection rate (CDR), and at what cost?",
+    "method": "A model-based (decision-analytic) comparison built in TreeAge Pro and Excel. The model simulated five placement strategies (health center level, smear volume, ART volume, external quality assessment performance, and TB prevalence) at 0, 25, 50, 75 and 100 percent Xpert rollout, and compared two diagnostic algorithms: Xpert used only for smear-negative samples versus Xpert replacing smear microscopy. Sensitivity analyses varied the quality-assessment adjustments and the algorithm, and a cost analysis estimated first-year implementation cost and cost per additional case.",
+    "data": "Site-level operational and epidemiological data for 139 of 1,089 Uganda sites that performed smear microscopy in 2011 (sites processing on average at least two sputum samples daily), covering about 87,600 individuals tested for TB, from the National TB Reference Laboratory, National TB Control Program and National AIDS Control Program. Model inputs on drug resistance and diagnostic accuracy came from a national drug resistance survey and published literature. Time period: calendar year 2011.",
     "findings": [
-      "Prioritizing sites by TB prevalence yielded the highest TB case detection rates compared to other strategies.",
-      "The TB prevalence strategy resulted in the lowest cost per additional TB case detected.",
-      "The strategy prioritizing ART volume was the most costly and required the highest number of device placements to achieve equivalent rollout coverage.",
-      "Diagnosis of multi-drug resistant tuberculosis (MDR-TB) was greatest when using the TB prevalence strategy, particularly when Xpert replaced smear microscopy.",
-      "While initial implementation costs were lowest in the Smear Volume strategy, this did not equate to the lowest cost per detected case."
+      "Placement strategies prioritizing sites with higher TB prevalence maximized case detection, with an incremental rate of 6.2 to 12.6 percent compared to status quo microscopy alone.",
+      "Diagnosis of MDR-TB was greatest in the TB Prevalence strategy when Xpert was used in place of smear microscopy.",
+      "Initial implementation costs were lowest in the Smear Volume strategy, but cost per additional TB case detected was lowest in the TB Prevalence strategy.",
+      "When Xpert replaced smear microscopy, the ART Volume strategy beat the TB Prevalence strategy in total case detection and MDR-TB detection when Xpert availability was below 39 percent of the patient population; at higher availability TB Prevalence became superior.",
+      "Results were stable to a 10 percent underestimate of microscopy sensitivity and specificity for the base case, but the EQA Performance strategy's advantage was lost when microscopy performance was overestimated by more than 2 percent (results not shown).",
+      "The authors state that relative differences in CDR between the best and worst strategies were small (2.3 percent), but that these could be clinically significant given roughly 65,000 incident cases per year in Uganda (about 1,500 additional cases per year)."
     ],
-    "whyItMatters": "The study suggests that policymakers in resource-limited settings can significantly improve public health outcomes by using program-level data to inform the strategic, data-driven placement of new technologies rather than relying on standard institutional hierarchies.",
+    "whyItMatters": "The authors suggest that program-level data such as TB prevalence, smear volume and quality-assessment results can guide where scarce new diagnostic devices are placed, and that placement should consider long-term cost per additional case as well as up-front implementation cost. They note that personnel, training, infrastructure and electricity costs were excluded, and that the choice of diagnostic algorithm matters for placement.",
     "topics": [
-      "tuberculosis",
-      "diagnostic placement",
-      "resource allocation",
-      "public health logistics",
-      "healthcare operations",
-      "case detection rate",
-      "cost-effectiveness"
+      "tuberculosis diagnostics",
+      "Xpert MTB/RIF",
+      "device placement",
+      "resource-constrained health systems",
+      "Uganda",
+      "decision-analytic modelling",
+      "cost per case detected",
+      "HIV and TB co-infection",
+      "global health operations"
     ],
     "industries": [
       "Healthcare",
-      "Public Health"
+      "Public health laboratory services"
     ],
     "geographies": [
       "Uganda"
@@ -67,9 +70,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

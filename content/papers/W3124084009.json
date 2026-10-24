@@ -32,36 +32,39 @@
   ],
   "abstract": "This paper studies a model of community-based healthcare delivery for a chronic disease. In this setting, patients periodically visit the healthcare delivery system, which influences their disease progression and consequently their health outcomes. We investigate how the provider can maximize community-level health outcomes through better operational decisions pertaining to capacity allocation across different patients. To do so, we develop an integrated capacity allocation model that incorporates clinical (disease progression) and operational (capacity constraint) aspects. Specifically, we model the provider's problem as a finite horizon stochastic dynamic program, where the provider decides which patients to schedule at the beginning of each period. Therapy is provided to scheduled patients, which may improve their health states. Patients that are not seen follow their natural disease progression. We derive a quantitative measure for comparison of patients' health states and use it to design an easy-to-implement myopic heuristic that is provably optimal in special cases of the problem. We employ the myopic heuristic in a more general setting and test its performance using operational and clinical data obtained from Mobile C.A.R.E. Foundation, a community-based provider of pediatric asthma care in Chicago. Our extensive computational experiments suggest that the myopic heuristic can improve the health gains at the community level by up to 15% over the current policy. The benefit is driven by the ability of our myopic heuristic to alter the duration between visits for patients with different health states depending on the tightness of the capacity and the health states of the entire patient population.",
   "summary": {
-    "oneLiner": "A new capacity allocation model for chronic care improves community health outcomes by optimizing patient scheduling based on individual health states and resource availability.",
-    "overview": "In managing chronic diseases, healthcare providers often struggle to balance limited capacity with the varying needs of their patients. This paper introduces an integrated model that helps providers decide which patients to schedule for care to maximize overall community health. By accounting for both how a disease progresses and the current capacity constraints, the authors developed a simple decision rule (a myopic heuristic) to improve patient scheduling. Testing this approach with data from pediatric asthma care providers, they found significant potential improvements in community health outcomes.",
-    "question": "How can a healthcare provider optimize capacity allocation across different patients to maximize community-level health outcomes for chronic diseases?",
-    "method": "A finite horizon stochastic dynamic program (a mathematical method used to make sequential decisions under uncertainty) and a myopic heuristic (a rule that focuses on immediate results).",
-    "data": "Operational and clinical data from Mobile C.A.R.E. Foundation, a provider of pediatric asthma care in Chicago.",
+    "oneLiner": "A provider can raise community-level health gains for chronic patients by up to 15% through smarter capacity allocation, using a simple myopic scheduling heuristic.",
+    "overview": "The paper studies a community clinic that treats patients with a chronic disease, where patients visit periodically and visits affect how their disease progresses. Because capacity is limited, the provider must decide which patients to schedule in each period, while unseen patients keep progressing naturally. The authors model this as a finite-horizon stochastic dynamic program (a multi-period decision problem with random outcomes) and design an easy-to-implement myopic heuristic (a rule that optimizes one period at a time) based on a quantitative measure for comparing patients' health states. Tested with operational and clinical data from a Chicago pediatric asthma provider, the heuristic suggests community health gains of up to 15% over the current policy, mainly by changing the time between visits depending on capacity tightness and the overall patient mix.",
+    "question": "How can a healthcare provider maximize community-level health outcomes for chronic-disease patients through better operational decisions about how to allocate limited capacity across patients?",
+    "method": "The authors model the provider's problem as a finite-horizon stochastic dynamic program that integrates disease progression with capacity constraints. They derive a quantitative measure for comparing patients' health states and use it to design a myopic heuristic, which is shown to be provably optimal in special cases. They then apply the heuristic in a more general setting and test it through extensive computational experiments.",
+    "data": "Operational and clinical data from Mobile C.A.R.E. Foundation, a community-based provider of pediatric asthma care in Chicago. The time period is not stated in the available text.",
     "findings": [
-      "The proposed myopic heuristic suggests that health gains at the community level can be improved by up to 15% over the current policy.",
-      "The improvement is driven by the model's ability to adjust the time between patient visits based on both individual health status and overall capacity constraints."
+      "The myopic heuristic is provably optimal in special cases of the problem.",
+      "Extensive computational experiments suggest the heuristic can improve community-level health gains by up to 15% over the current policy.",
+      "The benefit is driven by the heuristic's ability to alter the duration between visits for patients with different health states, depending on capacity tightness and the health states of the entire patient population."
     ],
-    "whyItMatters": "For healthcare managers, this research provides a practical, easy-to-implement framework for improving patient health outcomes without needing additional resources, simply by making better decisions on how to allocate existing capacity.",
+    "whyItMatters": "The paper suggests that providers of community-based chronic care can improve population health outcomes without adding capacity, by changing how they schedule patients. The heuristic is described as easy to implement, which the authors present as a practical benefit for providers.",
     "topics": [
-      "Healthcare operations",
-      "Capacity allocation",
-      "Chronic disease management",
-      "Stochastic dynamic programming",
-      "Patient scheduling",
-      "Public health management"
+      "capacity allocation",
+      "healthcare operations",
+      "chronic disease management",
+      "dynamic programming",
+      "myopic heuristic",
+      "community-based care",
+      "pediatric asthma",
+      "appointment scheduling"
     ],
     "industries": [
-      "Healthcare"
+      "healthcare"
     ],
     "geographies": [
-      "USA"
+      "Chicago, United States"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

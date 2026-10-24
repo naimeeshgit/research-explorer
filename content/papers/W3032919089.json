@@ -26,34 +26,35 @@
   ],
   "abstract": "Job rotation inside an organization creates two conflicting effects. It disciplines agents by creating the fear that their successors may discover and report their hidden information. Thus, the agent takes actions that align with the principal’s objective. However, job rotation can create a moral hazard problem. If information is soft and therefore, nonverifiable, the principal cannot attribute blame to the agent or the successor. Agents shirk, thereby hurting performance. Thus, the importance of disciplining versus moral hazard effects depends on the availability of hard information. Using unique loan-level data, we show that job rotation hinders performance when the information is soft. This paper was accepted by Giesecke Kay, finance.",
   "summary": {
-    "oneLiner": "Mandatory job rotation can harm organizational performance when the information held by employees is 'soft' or difficult to verify.",
-    "overview": "Job rotation is a double-edged sword for organizations. While it can act as a disciplining mechanism by ensuring a successor might uncover an employee's hidden actions, it can also create moral hazard if the work relies on 'soft' information—information that is hard to verify or document. In such cases, if performance suffers, it becomes difficult for management to determine whether the original employee or the new one is at fault. This study finds that when this type of unverifiable information is prevalent, rotating employees can lead to a decline in overall performance.",
-    "question": "Does mandatory job rotation serve as a disciplining mechanism or does it create moral hazard, and how does the nature of information (hard versus soft) mediate this effect?",
-    "method": "Empirical analysis using loan-level data.",
-    "data": "Unique loan-level data.",
+    "oneLiner": "Job rotation hinders performance when information is soft, according to unique loan-level data.",
+    "overview": "The paper studies whether moving employees between roles inside a firm helps or hurts performance. Rotation has two opposing effects: it discourages agents (employees acting for a principal, such as a manager or owner) from hiding information, because a successor might uncover and report it, but it can also weaken incentives, because when information is soft (subjective and hard to verify), nobody can be clearly blamed for poor results. Using unique loan-level data, the authors show that rotation hinders performance when information is soft. They argue that which effect dominates depends on how much hard, verifiable information is available.",
+    "question": "Does job rotation within an organization help or hurt performance, and does the answer depend on whether information is hard or soft?",
+    "method": "Empirical analysis of unique loan-level data. The abstract does not name a specific estimation design.",
+    "data": "Unique loan-level data. The sample size, country, institution and time period are not stated in the available text.",
     "findings": [
-      "Job rotation hinders performance when information is 'soft' (non-verifiable).",
-      "The net effect of job rotation depends on the balance between its potential to discipline agents and the moral hazard it creates."
+      "Job rotation hinders performance when the information is soft.",
+      "The importance of the disciplining effect versus the moral hazard effect depends on the availability of hard information."
     ],
-    "whyItMatters": "Managers should be cautious in implementing mandatory rotation policies, as the effectiveness of such schemes depends heavily on the verifiability of the information their employees manage.",
+    "whyItMatters": "The paper suggests that organizations weighing job rotation should consider how much hard, verifiable information is available, since rotation's disciplining benefit may be outweighed by moral hazard when information is soft. This is directly implied by the abstract rather than spelled out as a managerial recommendation.",
     "topics": [
-      "Job rotation",
-      "Moral hazard",
-      "Principal-agent problem",
-      "Performance management",
-      "Information asymmetry",
-      "Banking"
+      "job rotation",
+      "moral hazard",
+      "soft information",
+      "hard information",
+      "loan officers",
+      "principal-agent problems",
+      "bank lending"
     ],
     "industries": [
-      "Banking"
+      "Banking (loan officers, per the title)"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

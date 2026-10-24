@@ -23,35 +23,35 @@
   ],
   "abstract": "First National Healthcare (FNH) runs a large network of hospitals and has worked to systematically reduce waiting times in its emergency departments. One of FNH's regional networks has run a successful marketing campaign promoting its low ED waiting times that other regions want to emulate. The corporate quality manager must now determine whether to allow these campaigns to be rolled out and, if so, which waiting time estimates to use. Are the numbers currently being reported accurate? Is there a more accurate way of estimating patient waiting time that can be easily understood by consumers?",
   "summary": {
-    "oneLiner": "This case explores the strategic and operational implications of marketing emergency department waiting times to attract patients to a hospital network.",
-    "overview": "First National Healthcare is evaluating the efficacy and accuracy of marketing low emergency department (ED) wait times to consumers. The firm must decide if promoting these metrics across its regional networks is advisable and what methodology should be used to calculate waiting times. The challenge lies in balancing operational transparency with the potential for misinterpretation or inaccuracy in patient-facing data.",
-    "question": "Should a hospital network market emergency department waiting times, and what is the most accurate and consumer-friendly way to calculate these estimates?",
+    "oneLiner": "A hospital network's marketing of low emergency-room waiting times prompts a question: are reported waiting-time figures accurate, and is there a clearer estimate for consumers?",
+    "overview": "This Kellogg case follows First National Healthcare, a large hospital network that has tried to cut waiting times in its emergency departments. One regional network ran a successful campaign advertising its low waits, and other regions want to copy it. The corporate quality manager has to decide whether to allow such campaigns to roll out and which waiting-time figures should be used. The case asks whether the currently reported numbers are accurate and whether a more accurate estimate exists that consumers can easily understand.",
+    "question": "Are the emergency department waiting-time numbers FNH currently reports accurate, and is there a more accurate way to estimate patient waiting time that consumers can easily understand?",
     "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "data": "Setting is First National Healthcare's emergency departments, including one regional network's reported waiting times. Sample size and time period are not stated in the available text.",
     "findings": [
-      "The regional network's previous marketing campaign promoting low ED waiting times was considered successful by the organization.",
-      "There is uncertainty regarding whether the currently reported waiting time numbers are accurate.",
-      "The organization is seeking a more accurate estimation method that remains easily understood by consumers."
+      "Not stated in the available text."
     ],
-    "whyItMatters": "Managers must weigh the marketing benefits of publicizing operational metrics against the risks of data inaccuracy and the potential for misleading patients in high-stakes healthcare settings.",
+    "whyItMatters": "The corporate quality manager must decide whether regional marketing campaigns promoting low ED waiting times should be rolled out across the network, and which waiting-time estimates should be used for them. The case frames this as a question of accuracy and of whether consumers can understand the estimates.",
     "topics": [
-      "Healthcare operations",
-      "Service marketing",
-      "Waiting time management",
-      "Performance metrics",
-      "Hospital management",
-      "Operational transparency"
+      "emergency department waiting times",
+      "patient wait time reporting",
+      "healthcare operations",
+      "hospital marketing",
+      "quality management",
+      "performance measurement",
+      "operations management case"
     ],
     "industries": [
-      "Healthcare"
+      "healthcare",
+      "hospitals"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

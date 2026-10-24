@@ -26,39 +26,44 @@
   ],
   "abstract": "Using unique borrower-level data, we study the causal effect of debt relief on the loan performance of distressed and nondistressed borrowers. We employ a regression discontinuity design that exploits exogenous cutoff dates underlying the 2008 Indian debt waiver program to separate defaulters on loans into beneficiaries and nonbeneficiaries of waivers. By identifying distress before the waiver program using exogenous borrower-level shocks, we examine performance on loans originated after the waiver program. Loan performance of nondistressed beneficiaries worsens, while that of distressed borrowers improves. While existing studies aggregate the effects of debt relief across distressed and nondistressed borrowers, we highlight crucial differences between them.",
   "summary": {
-    "oneLiner": "Debt relief improves loan repayment for distressed borrowers but increases default rates among non-distressed borrowers, suggesting the need for better targeting.",
-    "overview": "Governments often use debt waivers to help borrowers in economic distress, but these programs can have unintended consequences. This study uses a massive 2008 Indian debt relief program as a natural experiment to see how different types of borrowers respond to debt forgiveness. The findings suggest that debt relief significantly improves the future loan repayment performance of borrowers who were distressed due to exogenous shocks like bad weather. Conversely, for non-distressed borrowers, the waivers actually lead to higher rates of future default, likely because the relief creates an incentive for strategic behavior.",
-    "question": "What is the causal effect of debt relief on the future loan performance of distressed versus non-distressed borrowers?",
-    "method": "A sharp regression discontinuity design exploiting an exogenous cutoff date (December 31, 2007) for loan eligibility in the 2008 Indian debt waiver program.",
-    "data": "Loan-level data for 14 bank branches across three Indian states (Andhra Pradesh, Karnataka, and Maharashtra) from 2005 to 2012.",
+    "oneLiner": "Debt waivers improved repayment for distressed Indian farmers but worsened it for nondistressed ones, suggesting relief should be targeted at distressed borrowers.",
+    "overview": "The authors study India's 2008 farm debt waiver, which cancelled loans for many farmers who had defaulted. They separate farmers into distressed borrowers (those who filed crop insurance claims, a proxy for an exogenous shock such as drought or pests) and nondistressed borrowers. Using a regression discontinuity design (a method that compares borrowers just either side of an arbitrary cutoff date, so they are otherwise similar), they find that waivers were associated with lower default on new loans for distressed farmers and higher default for nondistressed farmers. The authors conclude that averaging these two groups together can hide the real effect of debt relief, and that relief targeted at distressed borrowers is more likely to help.",
+    "question": "How does debt relief affect the subsequent loan performance of distressed and nondistressed borrowers, and do the effects differ between them?",
+    "method": "A regression discontinuity design exploits the cutoff date of December 31, 2007, which determined who qualified for the waiver. Borrowers who were in default just before the cutoff are compared with those just after it, and their performance on loans issued after the waiver is tracked. Distress is proxied by whether the farmer filed a crop insurance claim before the waiver. The authors also check robustness with a branch-level drought measure, balance tests on baseline characteristics, a density test for manipulation, and selection tests.",
+    "data": "Loan-level, transaction-level data from a bank in India covering October 2005 to May 2012, for crop loans with a one-year maturity. The data were hand collected from 14 bank branches in four districts of Andhra Pradesh, two districts of Karnataka, and three districts of Maharashtra. The regression discontinuity sample has 2,927 observations for the main table and 10,570 loans in the summary statistics table.",
     "findings": [
-      "Distressed waiver beneficiaries default 9 percent less on subsequent loans compared to similar non-beneficiaries.",
-      "Non-distressed waiver beneficiaries default 23 percent more on subsequent loans compared to similar non-beneficiaries.",
-      "The results suggest that while debt relief is beneficial for those facing exogenous liquidity shocks, it may be counterproductive for other borrowers by incentivizing future default."
+      "Distressed waiver beneficiaries defaulted 9 percent less on post-waiver loans than comparable distressed nonbeneficiaries (significant at the 1 percent level in the paper's main table).",
+      "Nondistressed waiver beneficiaries defaulted 23 percent more than comparable nondistressed nonbeneficiaries (significant at the 10 percent level in the paper's main table).",
+      "The authors state that debt relief is helpful when default is caused by exogenous liquidity shocks, but may be counterproductive when default stems from structural balance sheet issues or strategic behaviour.",
+      "Results are robust to a drought-based branch-level distress measure, where distressed beneficiaries show lower default (about 22 percent) and nondistressed beneficiaries show higher default (about 20 percent).",
+      "The authors find no detectable difference in the probability of obtaining a new loan between beneficiaries and nonbeneficiaries, but they note that confidence intervals are wide and the evidence on selection is suggestive."
     ],
-    "whyItMatters": "The study suggests that policymakers should move away from broad-based debt waivers and instead carefully target relief toward genuinely distressed borrowers to avoid wasting fiscal resources and harming credit culture.",
+    "whyItMatters": "The authors suggest governments may not be wasting fiscal resources if debt waivers are targeted at distressed borrowers, and that a waiver granted to all borrowers can waste resources and increase defaults. They draw a parallel with Mian and Sufi (2014) on the Great Recession. Their stated implication is the need to separate distressed from nondistressed beneficiaries when designing and assessing relief programs.",
     "topics": [
       "debt relief",
-      "loan default",
-      "credit risk",
-      "agricultural finance",
+      "debt waiver",
+      "agricultural lending",
+      "regression discontinuity",
       "moral hazard",
-      "policy evaluation",
-      "debt overhang"
+      "loan default",
+      "India",
+      "crop insurance",
+      "distressed borrowers",
+      "natural experiment"
     ],
     "industries": [
-      "agriculture",
+      "agricultural lending",
       "banking"
     ],
     "geographies": [
-      "India"
+      "India (Andhra Pradesh, Karnataka, Maharashtra)"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

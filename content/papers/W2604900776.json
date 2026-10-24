@@ -31,31 +31,37 @@
   ],
   "abstract": null,
   "summary": {
-    "oneLiner": "Exogenous derivative delisting reveals that derivatives enhance stock valuations by improving liquidity and informational price efficiency.",
-    "overview": "Many academic studies struggle to determine if derivatives actually improve stock markets because companies choose whether to list them based on their own performance. This study avoids this problem by examining a 2012 regulatory change in India that forcibly delisted 51 stocks from derivative trading. The researchers find that these stocks suffered a significant loss in value following the delisting. This decline occurred because the loss of derivatives reduced liquidity and led to less accurate stock prices, as fewer analysts followed these companies after their delisting.",
-    "question": "Do derivative instruments (options and futures) improve or worsen fundamental stock characteristics such as valuation, price efficiency, liquidity, and volatility?",
-    "method": "Event study methodology and difference-in-difference regression analysis, utilizing a regulatory shock as an exogenous event.",
-    "data": "A sample of 51 stocks delisted from the Indian derivative segment due to a 2012 SEBI policy change, compared against stocks that remained in the segment.",
+    "oneLiner": "Using a 2012 Indian regulatory exclusion, the authors find that removing stocks from derivatives trading lowered price efficiency and liquidity, suggesting derivatives add value.",
+    "overview": "In July 2012, India's market regulator SEBI tightened the rules for keeping stocks in the derivatives segment, and 51 stocks were dropped. The authors use this rule change as a natural experiment to see what happens to a stock when its derivatives trading ends, avoiding the selection problems of earlier studies. They find excluded stocks underperformed the market by 4.07% over an event window that combines the announcement and exclusion dates. Price efficiency and liquidity fell after exclusion, while overall volatility barely changed, though skewness and kurtosis rose. The authors conclude that derivatives indeed add value to a stock.",
+    "question": "Do derivatives affect a stock's fundamental characteristics, such as valuation, price efficiency, liquidity and volatility, once selection bias is addressed?",
+    "method": "The authors use a policy experiment: SEBI's July 2012 tightening of continued-listing criteria removed 51 stocks from the derivatives segment. They run event studies using a market model to compute abnormal returns, a difference-in-differences framework comparing excluded stocks with continuing stocks for price efficiency (using the D1 and D2 measures from Hou and Moskowitz), liquidity and volatility, and several placebo and robustness tests including false dates and false limits.",
+    "data": "Stock price, volume, market capitalization and turnover data from the CMIE Prowess database; exclusion criteria and derivatives volume from the NSE website; SEBI circulars; and analyst coverage from Bloomberg. Sample covers Indian listed stocks, with price-efficiency tests spanning two years before to two years after exclusion, and analyst data collected quarterly. Exclusion took effect around September 2012.",
     "findings": [
-      "Excluded firms underperformed the broader market by 4.07% over the event window.",
-      "Stock turnover in the spot market declined by 29.1% to 54.8% following derivative exclusion.",
-      "Price efficiency, measured by how quickly prices incorporate market-wide news, significantly decreased post-delisting.",
-      "Analyst coverage of the excluded firms significantly declined after delisting.",
-      "Overall stock volatility remains largely unchanged, though returns show a significant increase in skewness and kurtosis (extreme values).",
-      "The results rule out regulatory targeting and price pressure effects, suggesting that derivatives add value."
+      "Excluded stocks underperformed the market by 2.82% over a -5 to +5 day window around the SEBI announcement, and by 4.07% over the combined announcement and exclusion window.",
+      "The authors report that the negative returns were not recouped even six months after the announcement, and CAR stayed negative for 120 days.",
+      "Price efficiency declined after exclusion: the D1 measure rose by 7.3% to 9.6% and the D2 measure rose by 5.2% to 7.1% in a difference-in-differences sense.",
+      "Analyst coverage of excluded stocks fell, by nearly four analysts in the basic specification and nearly three with controls.",
+      "Stock turnover declined; the authors report a 28.3% drop relative to retained stocks over 120 days, and all twelve liquidity measures show a significant decline in liquidity.",
+      "Volatility largely remained unchanged, with only a marginal increase in standard deviation significant at the 90% level, while skewness and kurtosis increased significantly.",
+      "The authors state that placebo and false-limit tests show no comparable effects, which they use to rule out regulatory targeting."
     ],
-    "whyItMatters": "The findings suggest that derivatives are not passive instruments but actively improve market quality; therefore, restrictive policies that limit access to derivative markets may inadvertently harm stock valuation, liquidity, and informational efficiency.",
+    "whyItMatters": "The authors suggest that derivatives add value to underlying stocks through price efficiency and liquidity, which is relevant to regulators weighing restrictions on derivatives trading. They note their findings extend beyond options to futures as well. The paper also suggests that exclusion-driven changes in analyst coverage may have contributed to reduced information production.",
     "topics": [
-      "Derivative markets",
-      "Market microstructure",
-      "Price efficiency",
-      "Stock liquidity",
-      "Regulatory policy",
-      "Information production",
-      "Event study"
+      "derivatives",
+      "price efficiency",
+      "stock liquidity",
+      "natural experiment",
+      "India stock market",
+      "event study",
+      "derivatives exclusion",
+      "SEBI regulation",
+      "analyst coverage",
+      "difference-in-differences"
     ],
     "industries": [
-      "Financial markets"
+      "Equity markets",
+      "Stock exchanges",
+      "Derivatives trading"
     ],
     "geographies": [
       "India"
@@ -63,9 +69,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

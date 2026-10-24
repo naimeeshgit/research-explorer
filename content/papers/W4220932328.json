@@ -26,36 +26,35 @@
   ],
   "abstract": "Abstract Though the monetary policy transmission and financial intermediation literature have highlighted the role of the “bank credit channel” and relationship banking, respectively, the effect of relationship banking on the transmission of monetary policy has not been investigated. In this paper, we study the impact of relationship banking on the transmission of monetary policy. Theoretically, relationship banking could ameliorate or exacerbate the effects of monetary policy shocks. Using unique and comprehensive data on bank–borrower relationships in India, we find that firms that enjoy an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
   "summary": {
-    "oneLiner": "Exclusive bank-borrower relationships in India help insulate firms from the effects of monetary policy shocks compared to firms with multiple banking partners.",
-    "overview": "This study examines how the nature of a firm's banking relationships influences its vulnerability to shifts in monetary policy. The authors explore whether having a single, exclusive bank versus multiple banking partners changes how a firm is affected when central banks change interest rates or liquidity conditions. The findings indicate that exclusive relationships act as a buffer, providing firms with greater stability during periods of monetary policy shifts.",
-    "question": "Does relationship banking, specifically the exclusivity of the bank-borrower relationship, affect the transmission of monetary policy to firms?",
-    "method": "An empirical analysis comparing firms with exclusive banking relationships to those with multiple banking relationships.",
-    "data": "Unique and comprehensive data on bank-borrower relationships in India.",
+    "oneLiner": "Firms with an exclusive banking relationship are less affected by monetary policy shocks than firms borrowing from multiple banks, based on Indian bank-borrower data.",
+    "overview": "Central banks change interest rates to influence lending, and the bank credit channel is the route by which those changes reach borrowers through their banks. Relationship banking is the long-term, close tie between a firm and its lender. This paper asks whether such ties change how much a rate change affects firms. The authors argue theoretically that relationship banking could either weaken or strengthen the effect of monetary policy shocks. Using detailed data on bank-borrower relationships in India, they find that firms with an exclusive banking relationship are less affected by monetary policy shocks than firms that bank with several lenders.",
+    "question": "How does relationship banking affect the transmission of monetary policy to firms, i.e., does it amplify or dampen the effect of monetary policy shocks?",
+    "method": "The authors develop a theoretical argument that relationship banking could ameliorate or exacerbate the effects of monetary policy shocks. They then test this empirically by comparing firms with an exclusive banking relationship against firms that bank with multiple banks. The abstract does not name the specific empirical technique.",
+    "data": "Unique and comprehensive data on bank-borrower relationships in India. The abstract does not state the sample size or time period.",
     "findings": [
-      "Firms that maintain an exclusive banking relationship are found to be less susceptible to monetary policy shocks than firms that bank with multiple lenders."
+      "Firms that enjoy an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
+      "Theoretically, relationship banking could ameliorate or exacerbate the effects of monetary policy shocks, so the direction is not fixed in advance."
     ],
-    "whyItMatters": "Understanding how bank-firm structures influence the impact of central bank policies is critical for managers assessing financing risks and for policymakers evaluating how monetary policy ripples through the corporate sector.",
+    "whyItMatters": "The abstract implies that the structure of firms' bank ties, not only the policy rate itself, shapes how far monetary policy reaches borrowers. This matters for how policymakers anticipate the real effects of rate changes and for how banks and firms think about exclusive versus multiple lending relationships. The abstract does not state explicit managerial or policy recommendations.",
     "topics": [
-      "Monetary Policy",
-      "Relationship Banking",
-      "Bank Credit Channel",
-      "Financial Intermediation",
-      "Corporate Finance",
-      "Bank-Borrower Relationships"
+      "monetary policy transmission",
+      "bank credit channel",
+      "relationship banking",
+      "bank-borrower relationships",
+      "multiple banking",
+      "firm financing",
+      "India"
     ],
-    "industries": [
-      "Banking",
-      "Corporate Finance"
-    ],
+    "industries": [],
     "geographies": [
       "India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

@@ -38,37 +38,37 @@
   ],
   "abstract": "Mobile C.A.R.E. Foundation is a Chicago-based nonprofit that provides chronic asthma care to inner-city public school students using a community outreach model. The organization faces a lot of uncertainty in future funding, and executive director Steve Samuelson wants to undertake an operational improvement drive. Samuelson now faces the challenge of deciding which operational metrics most closely correlate with the organization's mission metrics and also have the usual desirable properties of process measures: actionable, real-time, and disaggregate. To sensitize students to the challenges in linking mission metrics of a nonprofit organization to its operational performance measures.",
   "summary": {
-    "oneLiner": "Mobile C.A.R.E. examines the challenge of linking a nonprofit organization's mission-driven goals to actionable and measurable operational performance metrics.",
-    "overview": "Mobile C.A.R.E. Foundation provides chronic asthma care to students in Chicago through a community outreach model. Faced with uncertain future funding, the organization's leadership is seeking to improve operations by identifying which metrics best track their mission. The case explores how managers can transition from high-level mission goals to practical, real-time, and granular process measures.",
-    "question": "Which operational metrics most closely correlate with the organization's mission metrics while remaining actionable, real-time, and disaggregate?",
+    "oneLiner": "Teaching case on Chicago nonprofit Mobile C.A.R.E., which must choose operational metrics that track its mission of chronic asthma care for inner-city students.",
+    "overview": "This Kellogg case study describes Mobile C.A.R.E. Foundation, a Chicago nonprofit that provides chronic asthma care to inner-city public school students through community outreach. The organization faces uncertain future funding, and its executive director wants an operational improvement drive. The central dilemma is which operational measures most closely relate to the mission measures while also being actionable, real-time, and disaggregate. The case is designed to show students how hard it is to link a nonprofit's mission metrics to its operational performance.",
+    "question": "Which operational metrics most closely correlate with the organization's mission metrics and also have the usual desirable properties of process measures (actionable, real-time, and disaggregate)?",
     "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "data": "Setting: Mobile C.A.R.E. Foundation, a Chicago-based nonprofit providing chronic asthma care to inner-city public school students through a community outreach model. Sample size and time period are not stated in the available text.",
     "findings": [
-      "The organization identifies a need to link mission metrics to operational performance measures.",
-      "Effective process measures in this context must be actionable, real-time, and disaggregate."
+      "The abstract reports no empirical findings. It frames a management decision faced by the executive director about which operational metrics to prioritise."
     ],
-    "whyItMatters": "It sensitizes managers and students to the complexities of aligning day-to-day operational activities with the broader mission of a nonprofit organization, particularly in settings with resource constraints.",
+    "whyItMatters": "The case is intended to sensitise students to the challenges of linking a nonprofit's mission metrics to its operational performance measures, a problem the organisation faces amid uncertain funding.",
     "topics": [
-      "Nonprofit management",
-      "Operational performance",
-      "Performance measurement",
-      "Healthcare operations",
-      "Mission-driven organizations",
-      "Process improvement"
+      "nonprofit performance measurement",
+      "mission metrics",
+      "operational metrics",
+      "process measures",
+      "chronic asthma care",
+      "community outreach model",
+      "nonprofit funding uncertainty",
+      "operational improvement"
     ],
     "industries": [
-      "Healthcare",
-      "Nonprofit"
+      "Nonprofit healthcare services"
     ],
     "geographies": [
-      "United States"
+      "Chicago"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

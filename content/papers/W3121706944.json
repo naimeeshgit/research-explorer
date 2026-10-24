@@ -26,32 +26,34 @@
   ],
   "abstract": "We examine the effects of chief executive officer (CEO) turnover in banks. Incoming bank CEOs face problems of information asymmetry because banks’ operations are opaque and bank risk can change dramatically in a short time. These CEOs may therefore change bank policies to manage their personal risks. Since CEO turnover is usually endogenous, we utilize a setting in which CEO turnover is based solely on retirement age and is thus exogenous to bank performance. Consistent with our thesis, incoming CEOs increase provisioning for future delinquencies and shrink lending. Bank stock prices decline following these changes. Politically motivated lending or ever-greening cannot explain our results.",
   "summary": {
-    "oneLiner": "Incoming bank CEOs increase loan provisions and reduce lending to manage their personal risks due to information asymmetry, lowering shareholder value.",
-    "overview": "Banks are inherently opaque, making it difficult for new CEOs to evaluate the quality of loans inherited from their predecessors. To protect themselves from future blame or negative career consequences, incoming bank CEOs immediately increase provisions for bad loans and shrink lending volume. This behavior is consistent with the 'personal risk management hypothesis,' where the new leader prioritizes minimizing personal risk over maximizing the bank's value. Consequently, the stock market reacts negatively to the announcements made by these new CEOs.",
-    "question": "What are the causal effects of CEO turnover on bank policies, and what are the underlying motivations for the changes in policy following the appointment of a new bank CEO?",
-    "method": "A generalized difference-in-difference approach comparing banks experiencing CEO turnover with those that are not, leveraging age-based mandatory retirement in Indian government-owned banks as an exogenous, performance-independent source of turnover.",
-    "data": "Quarterly financial data for 21 Indian government-owned banks (GOBs) and bank-borrower relationship data from the Prowess database, covering the period from 2002 to 2013, with 79 total CEO turnover events.",
+    "oneLiner": "Incoming bank CEOs in India's government-owned banks raise loan-loss provisions and shrink lending, and stock prices fall, consistent with personal risk management.",
+    "overview": "The authors ask what happens when a bank gets a new CEO. Because CEOs of Indian government-owned banks must retire at age 60, turnover timing is unrelated to bank performance, which helps isolate cause. They find that in the quarter a new CEO takes over, loan loss provisions (money set aside for expected bad loans) rise and total lending falls over the following year. Bank stock prices drop around the new CEO's first results announcement. The authors argue this pattern fits a personal risk management motive, where the new CEO protects themselves from a predecessor's hidden problems, rather than a truth-telling clean-up or an accounting 'big bath'.",
+    "question": "How does CEO turnover affect bank policies, such as loan loss provisioning, lending, and stock prices, when turnover is not driven by bank performance?",
+    "method": "Difference-in-differences design averaged across 79 CEO turnover events, comparing the transition quarter at a bank with other quarters and with banks that had no turnover that quarter. The authors use age-based retirement as an exogenous source of turnover and run several placebo, robustness and alternative-explanation tests, including checks on politically connected lending, ever-greening and data quality.",
+    "data": "Quarterly financial data from the Prowess database (CMIE) for all 21 government-owned banks in India, covering 2002:Q1 to 2013:Q2, with hand-collected CEO retirement and appointment dates. Loan-borrower relationship data covers 44,316 firm-quarter observations. Sample sizes vary by test due to missing data.",
     "findings": [
-      "Incoming CEOs increase loan loss provisions (LLPs) by 8.5% in their first quarter.",
-      "The increased LLPs in the transition quarter impound information about future nonperforming assets (NPAs), suggesting they are not used for earnings smoothing.",
-      "Loan volume declines by approximately 7.04% during the transition year.",
-      "Bank stock prices decline by 1.7% around the announcement of results by a new CEO.",
-      "Changes in bank policies are not driven by politically motivated lending or the termination of ever-greened loans.",
-      "Evidence suggests that postretirement career concerns, such as obtaining future board memberships, may influence this personal risk management behavior."
+      "Incoming CEOs increase loan loss provisions relative to income by about 8.5% in the first quarter they are in charge, while no change appears in the outgoing CEO's last quarter.",
+      "Current provisions are positively associated with future non-performing assets in the transition quarter, which the authors say is inconsistent with the big-bath hypothesis.",
+      "Total advances (loans) decline by about 7.04% over the transition year, and the decline is not driven by termination of ever-greened loans, according to the authors' tests.",
+      "The cumulative 3-day abnormal return around the new CEO's first results announcement is about -1.7%, statistically significant; the authors say this is inconsistent with truth-telling and consistent with personal risk management.",
+      "Placebo tests find no similar changes for government-owned nonfinancial firms or for the outgoing CEO, which the authors read as evidence that effects stem from information asymmetry facing incoming CEOs.",
+      "Among CEOs who retired during the sample, those with a post-retirement board seat show about 8% higher 'managed' profit growth in the transition period; the authors note self-selection cannot be ruled out."
     ],
-    "whyItMatters": "The findings suggest that CEO turnover in banks can have significant economic costs due to reduced lending. Since this behavior is driven by information asymmetry, the results imply that policies or succession processes that reduce this opacity—such as internal promotions or better disclosure—could help mitigate these negative effects on credit availability and firm value.",
+    "whyItMatters": "The authors say their evidence suggests a new bank CEO's risk-protecting actions can reduce lending, with possible downstream effects on economic growth where CEO turnover is frequent. They also note that bank CEO turnover, which the paper says is driven by information asymmetry and not by ownership alone, could matter for shareholders since stock prices fall. They suggest further research on whether internally promoted CEOs would show smaller effects.",
     "topics": [
       "CEO turnover",
-      "Banking regulation",
-      "Information asymmetry",
-      "Loan loss provisions",
-      "Agency problems",
-      "Corporate governance",
-      "Bank lending"
+      "bank governance",
+      "loan loss provisions",
+      "earnings management",
+      "information asymmetry",
+      "personal risk management",
+      "ever-greening",
+      "government-owned banks",
+      "difference-in-differences",
+      "India banking"
     ],
     "industries": [
-      "Banking",
-      "Government-owned enterprises"
+      "Banking"
     ],
     "geographies": [
       "India"
@@ -59,9 +61,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

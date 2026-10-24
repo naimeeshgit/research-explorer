@@ -23,30 +23,33 @@
   ],
   "abstract": "Early infant diagnosis (EID) programs in many resource-limited settings are aimed at diagnosing infants born to HIV-infected mothers. Because of the complexity of the diagnostic technology, EID programs are often highly centralized with few laboratories testing blood samples from a large network of health facilities. This leads to long diagnostic delays and consequent failure of patients to collect results in a timely manner. Several point-of-care (POC) devices that provide rapid diagnosis within the health facilities are being developed to mitigate these drawbacks of centralized EID networks. We study the decision of which facilities should receive the POC device (the placement plan) using the EID program in Mozambique as a case study. We argue that the choice of an appropriate plan is critical to maximizing the public health impact of POC devices in the presence of tight budget constraints. To formalize this argument, we develop a detailed simulation model to evaluate the impact of a placement plan. It comprises two parts: an operational model that quantifies the impact of a POC placement plan on the diagnostic delay and a behavioral part that quantifies the impact of diagnostic delay on the likelihood of result collection by infants’ caregivers. We also develop an approximate version of these operational and patient behavior dynamics and embed them in an optimization model to generate candidate POC placement plans. We find that the optimization-based plan can result in up to 30% more patients collecting their results compared to rules of thumb that have practical appeal. Finally, we show that the effectiveness of POC devices is much higher than other operational improvements to the EID network such as increased laboratory capacity, reduced transportation delay, and more regularized transport.",
   "summary": {
-    "oneLiner": "A formal modeling approach to optimize the placement of Point-of-Care diagnostic devices in resource-limited HIV programs to maximize patient result collection.",
-    "overview": "In many countries, early infant HIV diagnosis is centralized, causing long delays and making it difficult for caregivers to receive test results. Point-of-Care (POC) devices offer faster, on-site testing but are expensive, meaning they cannot be placed in every clinic. This paper develops an optimization model to decide which clinics should receive these devices. The authors find that using an optimization-based placement plan can lead to 30% more patients receiving their results compared to common rules of thumb, such as placing devices only in the largest clinics.",
-    "question": "How should a limited number of Point-of-Care diagnostic devices be allocated across a network of health facilities to maximize the number of infants who receive their HIV test results?",
-    "method": "The authors developed a two-part approach: a discrete event simulation model to capture the operational dynamics of the diagnostic network, and a mixed-integer nonlinear optimization model to generate optimal device allocation plans. They used a piecewise linear approximation to handle the non-linear relationship between diagnostic delay and patient result collection behavior.",
-    "data": "Operational data from the Early Infant Diagnosis (EID) program in Mozambique for 2011, specifically 6,601 samples from 42 health facilities.",
+    "oneLiner": "Using Mozambique EID data, an optimized placement of point-of-care HIV testing devices yields up to 30% more infants collecting results than common rules of thumb.",
+    "overview": "Early infant HIV testing in many African countries is done in a few central labs, so results take weeks to return and many caregivers never collect them. Point-of-care (POC) devices can give results at the clinic, but budgets allow only a few, so the choice of which clinics get them matters. The authors build a simulation of Mozambique's testing network, linked to a model of how delay reduces result collection, and an optimization model to pick clinics. They report that the optimized plan can lead to up to 30% more patients collecting results than rules of thumb such as giving devices to the highest-volume clinics. They also find POC devices more effective than several other operational fixes they examine.",
+    "question": "Which health facilities should receive a limited number of point-of-care HIV diagnostic devices so as to maximize the number of HIV-positive infants who collect their results?",
+    "method": "The authors combine a discrete event simulation of sample transport and lab processing with a Monte Carlo model of result collection based on an earlier empirical study. They then build an approximate mixed-integer optimization model to generate device placement plans, validate it against the simulation, and compare it with two rules of thumb (largest volume and minimum turnaround time). They also compare POC devices with other operational interventions.",
+    "data": "Operational records of 6601 samples from 42 health facilities linked to one central laboratory in Mozambique, drawn from 7184 patient records across 95 facilities in Tete and Zambezia provinces, with data mainly from 2011. Patient collection behavior is taken from a separate empirical study of 1679 samples from 7 facilities in Mozambique during 2009-2010.",
     "findings": [
-      "The optimization-based allocation plan can result in up to 30% more patients collecting their results compared to commonly used rules of thumb.",
-      "The effectiveness of POC devices is often significantly higher than other operational improvements, such as increasing laboratory capacity or reducing transportation delays.",
-      "The benefit of adding POC devices shows diminishing returns as more devices are added to the network.",
-      "The optimal placement plan depends heavily on both the accuracy of the POC device and the sensitivity of patients to diagnostic delays."
+      "In the base case with 10 devices, the optimized plan yields 656 HIV-positive infants receiving results versus 489 under fully centralized testing, an incremental gain of 167.",
+      "The largest-volume heuristic achieves a 12% average performance gap versus the optimal plan across 20 instances, and the minimum turnaround time heuristic a 20% average gap; the authors state the optimized plan can result in up to 30% more patients collecting results than rules of thumb.",
+      "Optimal placement depends on device accuracy and patient sensitivity to delay; the largest-volume heuristic performs better at high device accuracy, while the minimum turnaround time heuristic performs better when device sensitivity is low and patient sensitivity to delay is high.",
+      "Adding devices yields diminishing marginal benefit; to gain 100 additional results, the authors estimate about 5 devices of 95% accuracy versus 15 devices of 75% accuracy.",
+      "The authors report that POC devices are more effective than several other operational improvements, such as eliminating transport delay, which the authors say is less effective than optimally allocating two devices.",
+      "The authors state the simulation results rely on assumptions and that the patient-collection measure is not an exact measure of population health outcomes."
     ],
-    "whyItMatters": "For public health managers, this research provides a decision-support tool to effectively prioritize the deployment of new medical technologies in resource-constrained environments. It demonstrates that the implementation strategy for a device can be as important as the device's technical specifications in achieving health outcomes.",
+    "whyItMatters": "The authors argue that the placement plan, not the device alone, determines health impact, so program managers can improve outcomes through allocation decisions and can compare device deployment with other operational investments. They suggest the simulation could support a decision tool for prioritizing interventions and that device pricing and accuracy trade-offs can inform negotiations with manufacturers.",
     "topics": [
-      "healthcare operations management",
-      "resource-limited settings",
-      "pediatric HIV diagnosis",
-      "point-of-care testing",
-      "facility location optimization",
-      "diagnostic delay",
-      "patient retention"
+      "operations management",
+      "health care delivery",
+      "point-of-care diagnostics",
+      "facility location",
+      "HIV testing",
+      "simulation",
+      "resource allocation in developing countries",
+      "queuing and batching"
     ],
     "industries": [
-      "Public Health",
-      "Healthcare"
+      "Healthcare",
+      "Public health programs"
     ],
     "geographies": [
       "Mozambique",
@@ -55,9 +58,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

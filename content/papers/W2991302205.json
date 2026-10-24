@@ -74,29 +74,31 @@
   ],
   "abstract": "A majority of patients with tuberculosis (TB) in India are diagnosed and treated in the private sector. Yet, most private providers do not use most recent WHO-endorsed microbiological tests such as liquid cultures, line probe assays and Xpert MTB/RIF due to a combination of factors such as lack of awareness, misaligned incentives and high prices that are unaffordable for patients. We designed a market-based approach to transform a high-price, low-volume market equilibrium into a low-price, high-volume equilibrium to improve the uptake of these tests. Toward this end, a non-profit consortium of private laboratories, called Initiative for Promoting Affordable and Quality Tuberculosis Tests (IPAQT) was formed in India in March 2013. It negotiated lower pricing on equipment and reagents with manufacturers, closer to that offered to the public sector. In return, IPAQT assured that this discount was passed on to patients, who typically paid for these tests out of their pockets, through an informally agreed on retail ceiling price. IPAQT also invested in demand generation activities that complemented the supply-side effort. IPAQT membership grew from 56 laboratories in 2013 to 211 in 2018. During this period, the initiative resulted in a 10-fold increase in the uptake of Xpert and a 30%-50% reduction in price. This initiative is planned to be expanded to other South Asian countries with similar TB epidemic and private market structure and dynamics. However, long-term sustainability of the initiative would require developing more cost-effective marketing activities and integration with broader private sector engagement agenda of the national TB programme.",
   "summary": {
-    "oneLiner": "The IPAQT initiative successfully transformed India's private tuberculosis testing market by negotiating lower prices to shift from a low-volume to a high-volume equilibrium.",
-    "overview": "In India, many tuberculosis (TB) patients rely on private clinics that often fail to use accurate, modern diagnostic tests due to high costs. The Initiative for Promoting Affordable and Quality Tuberculosis Tests (IPAQT) was formed to aggregate private laboratories and negotiate lower equipment costs from manufacturers in exchange for capping the prices patients pay. This market-shaping strategy successfully increased the use of high-quality tests while significantly lowering costs for out-of-pocket payers. The authors suggest that this model could be replicated in other countries with similar private healthcare landscapes.",
-    "question": "How can a market-shaping intervention, such as a negotiated consortium, improve the adoption and affordability of WHO-endorsed tuberculosis diagnostic tests in the private sector?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "A non-profit lab consortium in India negotiated lower prices for advanced TB tests and passed the savings to patients, raising Xpert uptake about 10-fold.",
+    "overview": "Most tuberculosis patients in India are diagnosed in the private sector, where advanced WHO-endorsed tests such as Xpert MTB/RIF, a rapid molecular test, are rarely used because they are expensive and providers lack awareness or incentives. The authors designed a market-based fix: a non-profit consortium of private labs, IPAQT, formed in March 2013, negotiated discounts on equipment and reagents with manufacturers. In return, members agreed to an informal retail price ceiling that passed the discount to patients, and IPAQT also ran demand-generation activities. Over 2013 to 2018 membership grew from 56 to 211 labs, and the abstract reports a 10-fold rise in Xpert uptake and a 30% to 50% price reduction.",
+    "question": "How can a market-based approach shift private-sector tuberculosis testing in India from a high-price, low-volume equilibrium to a low-price, high-volume one, so that recommended microbiological tests are used more?",
+    "method": "The abstract describes the design of a market-based intervention and reports its outcomes, including laboratory membership, Xpert uptake and price changes. It does not name a formal evaluation design.",
+    "data": "Private laboratories participating in IPAQT in India, with membership tracked from 2013 to 2018 (56 labs in 2013 rising to 211 in 2018). The abstract gives no further sample or dataset detail.",
     "findings": [
       "IPAQT membership grew from 56 laboratories in 2013 to 211 in 2018.",
-      "The initiative resulted in a 10-fold increase in the uptake of Xpert MTB/RIF tests.",
-      "The initiative is associated with a 30%-50% reduction in testing prices for patients.",
-      "Long-term sustainability suggests the need for more cost-effective marketing and integration with national TB programmes."
+      "During this period the initiative resulted in a 10-fold increase in the uptake of Xpert.",
+      "The initiative was associated with a 30%-50% reduction in price.",
+      "Long-term sustainability would require developing more cost-effective marketing activities and integration with the national TB programme's broader private sector engagement agenda."
     ],
-    "whyItMatters": "The model demonstrates that market-based interventions can effectively lower prices and expand access to essential health services in fragmented private sectors by aligning incentives between laboratories, manufacturers, and patients.",
+    "whyItMatters": "The abstract suggests that pairing negotiated supplier discounts with a pass-through price ceiling and demand generation can expand use of recommended diagnostics in a fragmented private market. The authors plan to extend the model to other South Asian countries with similar TB epidemics and private market structures, but sustainability depends on cheaper marketing and alignment with national TB programme efforts.",
     "topics": [
-      "market shaping",
-      "healthcare accessibility",
-      "public-private partnerships",
       "tuberculosis diagnosis",
-      "healthcare pricing",
-      "emerging market healthcare"
+      "private healthcare India",
+      "market shaping",
+      "health care pricing",
+      "diagnostic tests",
+      "public-private partnership",
+      "non-profit consortium",
+      "demand generation"
     ],
     "industries": [
       "Healthcare",
-      "Diagnostics"
+      "Diagnostic laboratories"
     ],
     "geographies": [
       "India"
@@ -104,9 +106,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

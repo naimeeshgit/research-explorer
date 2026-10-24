@@ -23,28 +23,32 @@
   ],
   "abstract": "One of the most important operational challenges faced by emergency departments (EDs) in the United States is patient overcrowding. In periods of overcrowding, an ED can request the emergency medical services (EMS) agency to divert incoming ambulances to neighboring hospitals, a phenomenon known as “ambulance diversion.” The EMS agency may accept this request provided that at least one of the neighboring EDs is not on diversion. From an operations perspective, properly executed ambulance diversion should result in resource pooling and reduce the overcrowding and delays in a network of EDs. Recent evidence indicates, however, that this potential benefit is not always realized. In this paper, we provide one potential explanation for this discrepancy and suggest potential remedies. Using a queueing game between two EDs that aim to minimize their own waiting time, we find that decentralized decisions regarding diversion explain the lack of pooling benefits. Specifically, we find the existence of a defensive equilibrium, wherein each ED does not accept diverted ambulances from the other ED. This defensiveness results in a depooling of the network and, subsequently, in delays that are significantly higher than when a social planner coordinates diversion. The social optimum is itself difficult to characterize analytically and has limited practical appeal because it depends on problem parameters such as arrival rates and length of stay. Instead, we identify an alternative solution that does not require the exact knowledge of the parameters and may be used by the EMS agencies to coordinate diversion decisions when defensive diversion is present. We show that this solution is approximately optimal for the social planner's problem. Moreover, it is Pareto improving over the defensive equilibrium whereas the social optimum, in general, might not be. This paper was accepted by Yossi Aviv, operations management.",
   "summary": {
-    "oneLiner": "Decentralized ambulance diversion leads to defensive behavior by hospitals, causing inefficiency that a coordinated policy can overcome without requiring perfect information.",
-    "overview": "Emergency departments often divert ambulances to other hospitals when overcrowded, but this study finds that individual hospitals often reject incoming diverted patients to protect their own waiting times. This creates a 'defensive equilibrium' where the entire network becomes less efficient than it would be under central coordination. The authors propose a practical coordination policy that improves system performance without requiring precise real-time data on patient arrival rates or stay durations.",
-    "question": "Why do ambulance diversion policies often fail to provide the expected benefits of resource pooling, and how can these systems be better coordinated?",
-    "method": "A queueing game theoretical model.",
+    "oneLiner": "Decentralized ambulance diversion decisions make neighboring emergency departments defensive, which depools the network and raises waiting times compared with coordinated diversion.",
+    "overview": "Emergency departments sometimes ask ambulance services to divert arriving patients to nearby hospitals when they are overcrowded. In theory, this shares capacity across the network and cuts delays, but recent evidence suggests the benefit often does not appear. The authors model two EDs, each trying to minimize its own waiting time, and find that they settle into a defensive equilibrium where neither accepts diverted ambulances from the other. This defensiveness depools the network and leads to significantly higher delays than when a social planner coordinates diversion. They propose an alternative coordination rule that does not require exact knowledge of parameters such as arrival rates, which they show is approximately optimal and can be Pareto improving over the defensive equilibrium.",
+    "question": "Why does ambulance diversion often fail to deliver the resource-pooling benefits it should, and how can EMS agencies coordinate diversion decisions to fix this?",
+    "method": "A queueing game between two emergency departments, each minimizing its own waiting time, analyzed to find equilibria and compared with a social planner's coordinated solution. The authors also derive an alternative coordination rule and show it is approximately optimal for the social planner's problem.",
     "data": "Not stated in the available text.",
     "findings": [
-      "Decentralized diversion decisions lead to a 'defensive equilibrium' where emergency departments refuse to accept diverted ambulances, effectively causing a depooling of resources.",
-      "Decentralized systems result in delays that are significantly higher than those found under a social planner's coordinated approach.",
-      "A proposed alternative coordination policy is shown to be approximately optimal for the social planner's goals.",
-      "The proposed policy is Pareto improving, meaning it makes the network better off without necessarily harming individual hospitals, unlike the theoretical social optimum."
+      "Decentralized diversion decisions are a potential explanation for the lack of pooling benefits in ED networks.",
+      "A defensive equilibrium exists in which each ED does not accept diverted ambulances from the other, which depools the network.",
+      "Delays under the defensive equilibrium are significantly higher than when a social planner coordinates diversion.",
+      "The social optimum is difficult to characterize analytically and depends on parameters such as arrival rates and length of stay, which limits its practical appeal.",
+      "The alternative coordination solution is approximately optimal for the social planner's problem and is Pareto improving over the defensive equilibrium, whereas the social optimum in general might not be."
     ],
-    "whyItMatters": "The findings help hospital administrators and EMS agencies understand why local decision-making in emergency networks can lead to systemic inefficiencies and suggests that simple coordination mechanisms can be more practical and effective than perfect central planning.",
+    "whyItMatters": "The paper suggests that EMS agencies can improve outcomes by coordinating diversion decisions across EDs, especially when defensive diversion is present, using a rule that does not need exact knowledge of demand and length-of-stay parameters.",
     "topics": [
-      "operations management",
-      "healthcare management",
-      "queueing theory",
-      "network coordination",
-      "emergency services",
-      "resource pooling"
+      "ambulance diversion",
+      "emergency departments",
+      "patient overcrowding",
+      "queueing games",
+      "resource pooling",
+      "healthcare operations",
+      "coordination",
+      "Pareto improvement"
     ],
     "industries": [
-      "healthcare"
+      "Healthcare",
+      "Emergency medical services"
     ],
     "geographies": [
       "United States"
@@ -52,9 +56,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

@@ -23,37 +23,42 @@
   ],
   "abstract": "Uptake of WHO-recommended rapid molecular diagnostic tests for tuberculosis has been short of global targets despite remarkable progress in the past 10 years. In 2023, half of people with a tuberculosis diagnosis worldwide did not receive a rapid molecular diagnostic test as an initial test, and more than 2 million people undiagnosed with tuberculosis did not undergo necessary testing.1 Insufficient investments in tuberculosis diagnostics are partly responsible for the persistent gap in testing, as are suboptimal test characteristics and programme delivery.",
   "summary": {
-    "oneLiner": "Global uptake of rapid molecular tuberculosis diagnostic tests remains below targets due to investment gaps, suboptimal test characteristics, and program delivery challenges.",
-    "overview": "Despite significant progress in the last decade, many individuals worldwide still do not receive the WHO-recommended rapid molecular diagnostic tests for tuberculosis. A substantial portion of tuberculosis cases remains undiagnosed, hindering global health targets. The authors highlight that this gap is driven by a combination of insufficient funding, limitations in the tests themselves, and issues with how testing programs are delivered to patients.",
-    "question": "Why has the uptake of WHO-recommended rapid molecular diagnostic tests for tuberculosis fallen short of global targets?",
+    "oneLiner": "Half of tuberculosis patients worldwide in 2023 lacked a rapid molecular test first; underinvestment and test or programme shortcomings are partly to blame.",
+    "overview": "The paper says that uptake of WHO-recommended rapid molecular tuberculosis tests (fast lab tests that detect the bacterium's genetic material) remains below global targets, even though progress has been made over the past decade. In 2023, half of people diagnosed with tuberculosis worldwide did not receive such a test as their first test, and more than 2 million people with undiagnosed tuberculosis did not get necessary testing. The authors attribute the gap partly to insufficient investment in diagnostics and partly to suboptimal test characteristics and programme delivery. The title indicates a case for free, rapid and accurate testing based on people's preferences, but the abstract does not describe how that case is developed.",
+    "question": "Why has uptake of WHO-recommended rapid molecular tuberculosis tests fallen short of global targets despite progress, as implied by the abstract.",
     "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "data": "The abstract cites WHO figures for 2023 on tuberculosis diagnosis worldwide: half of people diagnosed did not receive a rapid molecular test as an initial test, and more than 2 million undiagnosed people did not undergo necessary testing.",
     "findings": [
+      "Uptake of WHO-recommended rapid molecular diagnostic tests has been short of global targets despite remarkable progress in the past 10 years.",
+      "In 2023, half of people with a tuberculosis diagnosis worldwide did not receive a rapid molecular diagnostic test as an initial test.",
+      "More than 2 million people undiagnosed with tuberculosis did not undergo necessary testing.",
       "Insufficient investments in tuberculosis diagnostics are partly responsible for the persistent gap in testing.",
-      "Suboptimal test characteristics contribute to the failure to meet global testing targets.",
-      "Issues with programme delivery are associated with the gap in tuberculosis testing."
+      "Suboptimal test characteristics and programme delivery are also partly responsible for the persistent gap in testing."
     ],
-    "whyItMatters": "The paper implies that addressing funding deficits, improving diagnostic technology, and refining the delivery of testing programs are necessary steps to bridge the gap in tuberculosis diagnosis.",
+    "whyItMatters": "The abstract points to investment in tuberculosis diagnostics, test characteristics and programme delivery as areas that contribute to the testing gap. It does not spell out specific implications for managers, policymakers or investors.",
     "topics": [
-      "tuberculosis",
-      "diagnostic testing",
-      "public health",
-      "healthcare delivery",
-      "global health policy",
-      "medical diagnostics"
+      "tuberculosis testing",
+      "rapid molecular diagnostics",
+      "global health",
+      "diagnostic uptake",
+      "WHO recommendations",
+      "healthcare access",
+      "programme delivery",
+      "health investment"
     ],
     "industries": [
-      "Healthcare"
+      "Public health",
+      "Healthcare diagnostics"
     ],
     "geographies": [
-      "Global"
+      "Worldwide"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

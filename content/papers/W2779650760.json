@@ -20,39 +20,39 @@
   ],
   "abstract": "Using an unexpected government regulation that restricted the ability of microfinance institutions to recover loans in one Indian state, I examine whether this intervention affected bank loan performance. The bank loan delinquency rate significantly increased as a result. In response, the ex post bank credit supply declined by more than half. For identification, I compare loans from branches located in regions subject to this intervention with loans from nearby branches of the same bank located in regions not subject to the intervention. I conclude that political interventions in credit markets could have significant spillover effects. Received October 29, 2016; editorial decision November 28, 2017 by Editor Philip Strahan. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
   "summary": {
-    "oneLiner": "Government interventions in microfinance loan recovery can trigger unintended negative spillover effects on bank loan performance and credit availability.",
-    "overview": "This study examines the consequences of a state-level regulation in India that restricted microfinance institutions from collecting loan repayments. The author finds that this intervention led to a significant rise in bank loan delinquency rates, even for non-microfinance loans. Consequently, banks significantly reduced their credit supply in the affected areas. These findings demonstrate that political interference in one segment of the credit market can create contagious negative effects across the broader financial system.",
-    "question": "Does a government-mandated restriction on loan recovery for microfinance institutions cause spillover effects on the performance and availability of general bank loans?",
-    "method": "A differences-in-differences comparison of bank loan performance between branches in regions subject to the intervention and nearby branches of the same bank not subject to the intervention.",
-    "data": "Loan-level data from Indian bank branches.",
+    "oneLiner": "A sudden Indian state rule limiting microfinance loan recovery was followed by higher bank loan delinquency and a drop in credit supply of over half.",
+    "overview": "The paper studies what happened to bank lending after an unexpected government regulation limited how microfinance institutions could recover loans in one Indian state. Loan delinquency (borrowers falling behind on payments) rose significantly at banks. Banks then reduced their ex post credit supply (the amount they lent after the intervention) by more than half. The author concludes that political interventions in credit markets could have significant spillover effects, meaning effects that reach beyond the directly regulated lenders.",
+    "question": "Did a government intervention restricting microfinance loan recovery in one Indian state affect the performance of bank loans and bank credit supply?",
+    "method": "The author compares loans from bank branches in regions subject to the intervention with loans from nearby branches of the same bank in regions not subject to it. The abstract does not give further estimation details.",
+    "data": "Loan-level data on bank loans from Indian bank branches. The abstract does not state the sample size or time period.",
     "findings": [
-      "The unexpected government intervention significantly increased bank loan delinquency rates.",
-      "Banks reduced their ex post credit supply by more than half in response to the intervention.",
-      "Political interventions in credit markets can have significant spillover effects on broader lending activities."
+      "The bank loan delinquency rate significantly increased as a result of the intervention.",
+      "In response, ex post bank credit supply declined by more than half.",
+      "The author concludes that political interventions in credit markets could have significant spillover effects."
     ],
-    "whyItMatters": "The study suggests that policymakers should consider the potential for negative externalities—such as reduced credit availability—when implementing interventions in specific credit markets, as these actions can unintentionally destabilize broader lending environments.",
+    "whyItMatters": "The paper suggests that policymakers who intervene in credit markets should expect spillover effects that reach banks, not only the lenders directly regulated. The abstract does not spell out specific managerial or investor actions.",
     "topics": [
-      "microfinance",
-      "credit markets",
-      "government intervention",
+      "political interventions in credit markets",
       "loan delinquency",
-      "credit supply",
+      "microfinance",
+      "bank credit supply",
       "spillover effects",
-      "banking regulation"
+      "loan recovery regulation",
+      "India banking"
     ],
     "industries": [
-      "microfinance",
-      "banking"
+      "Banking",
+      "Microfinance"
     ],
     "geographies": [
-      "India"
+      "India (one Indian state, not named in the abstract)"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

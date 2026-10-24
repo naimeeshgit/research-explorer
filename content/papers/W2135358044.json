@@ -37,6 +37,46 @@
     "sarang-deo"
   ],
   "abstract": "BACKGROUND: India has announced a goal of universal access to quality tuberculosis (TB) diagnosis and treatment. A number of novel diagnostics could help meet this important goal. The rollout of one such diagnostic, Xpert MTB/RIF (Xpert) is being considered, but if Xpert is used mainly for people with HIV or high risk of multidrug-resistant TB (MDR-TB) in the public sector, population-level impact may be limited. METHODS AND FINDINGS: We developed a model of TB transmission, care-seeking behavior, and diagnostic/treatment practices in India and explored the impact of six different rollout strategies. Providing Xpert to 40% of public-sector patients with HIV or prior TB treatment (similar to current national strategy) reduced TB incidence by 0.2% (95% uncertainty range [UR]: -1.4%, 1.7%) and MDR-TB incidence by 2.4% (95% UR: -5.2%, 9.1%) relative to existing practice but required 2,500 additional MDR-TB treatments and 60 four-module GeneXpert systems at maximum capacity. Further including 20% of unselected symptomatic individuals in the public sector required 700 systems and reduced incidence by 2.1% (95% UR: 0.5%, 3.9%); a similar approach involving qualified private providers (providers who have received at least some training in allopathic or non-allopathic medicine) reduced incidence by 6.0% (95% UR: 3.9%, 7.9%) with similar resource outlay, but only if high treatment success was assured. Engaging 20% of all private-sector providers (qualified and informal [providers with no formal medical training]) had the greatest impact (14.1% reduction, 95% UR: 10.6%, 16.9%), but required >2,200 systems and reliable treatment referral. Improving referrals from informal providers for smear-based diagnosis in the public sector (without Xpert rollout) had substantially greater impact (6.3% reduction) than Xpert scale-up within the public sector. These findings are subject to substantial uncertainty regarding private-sector treatment patterns, patient care-seeking behavior, symptoms, and infectiousness over time; these uncertainties should be addressed by future research. CONCLUSIONS: The impact of new diagnostics for TB control in India depends on implementation within the complex, fragmented health-care system. Transformative strategies will require private/informal-sector engagement, adequate referral systems, improved treatment quality, and substantial resources. Please see later in the article for the Editors' Summary.",
-  "summary": null,
+  "summary": {
+    "oneLiner": "A transmission model of India's TB system finds Xpert impact depends on implementation: private-sector and referral strategies outperform public-sector-only rollout.",
+    "overview": "The authors built a mathematical model of tuberculosis spread and care-seeking in India, where patients often visit informal and private providers before reaching the public sector. They tested six ways of rolling out Xpert MTB/RIF, a rapid molecular test, and compared their effects on TB incidence, MDR-TB and resources needed. Limited public-sector Xpert use, the current national approach, had a small effect on overall TB incidence (0.2%), while engaging qualified private providers or improving referrals from informal providers had much larger effects. The authors stress that these gains depend on reliable treatment quality and substantial resources, and that the results carry considerable uncertainty.",
+    "question": "How do different strategies for scaling up Xpert MTB/RIF across India's public, private and informal health-care sectors affect TB incidence, MDR-TB, mortality and the resources required?",
+    "method": "A compartmental transmission model using differential equations, calibrated to India's TB epidemic and a care-seeking structure in which patients move from informal to qualified private to public providers. Six rollout scenarios were compared with a baseline of no Xpert access, and uncertainty was assessed with sensitivity analyses and a stochastic model run 10,000 times per scenario.",
+    "data": "Model inputs drawn from published sources, including WHO estimates for India, a single cross-sectional study of care-seeking among patients who presented to the public sector, and Indian data on treatment and diagnostics. The stochastic model used a population of 10 million individuals. Simulated outcomes cover a 5-year period of Xpert rollout in India.",
+    "findings": [
+      "Providing Xpert to 40% of public-sector patients with HIV or prior TB treatment reduced TB incidence by 0.2% (95% uncertainty range -1.4% to 21.7%, as reported) and MDR-TB incidence by 2.4%, requiring about 60 four-module GeneXpert systems at maximum capacity.",
+      "Extending Xpert to 20% of unselected symptomatic public-sector patients reduced incidence by 2.1%, requiring about 700 systems.",
+      "Xpert access for 20% of qualified private-sector patients reduced incidence by 6.0%, with similar resource outlay, but only if high treatment success was assured.",
+      "Engaging 20% of all private-sector providers, qualified and informal, produced the largest reduction (14.1%) but required about 2,200 systems and reliable treatment referral.",
+      "Increasing referrals from informal providers to the public sector for smear-based diagnosis, without Xpert, reduced incidence by 6.3%, more than Xpert scale-up within the public sector.",
+      "The authors state that these findings are subject to substantial uncertainty regarding private-sector treatment patterns, care-seeking, symptoms and infectiousness over time."
+    ],
+    "whyItMatters": "The authors conclude that the impact of new TB diagnostics in India depends on implementation within a fragmented health-care system. They suggest that transformative strategies will require private and informal-sector engagement, adequate referral systems, improved treatment quality and substantial resources. They note that the number of systems required for the broader scenarios far exceeds the 135 four-module systems procured through 2013, and that the key findings may generalise to other countries with large private sectors, though they say this should be checked.",
+    "topics": [
+      "tuberculosis diagnosis",
+      "Xpert MTB/RIF",
+      "India health system",
+      "private sector engagement",
+      "informal providers",
+      "transmission model",
+      "MDR-TB",
+      "health-care referrals",
+      "implementation strategy"
+    ],
+    "industries": [
+      "Healthcare",
+      "Public health"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
   "versions": []
 }

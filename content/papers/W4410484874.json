@@ -38,41 +38,44 @@
   ],
   "abstract": "INTRODUCTION: Delayed diagnosis of diabetic retinopathy (DR) remains a significant challenge, often leading to preventable blindness and visual impairment. Given that physicians are frequently the first point of contact for people with diabetes, there is a critical need for integrated screening programs within diabetes clinics to enhance DR management and reduce the risk of severe vision loss. METHODS AND ANALYSIS: We will conduct a prospective cohort study comparing (i) the intervention cohort, screened at diabetes clinics and referred to eye clinics per the proposed pathway, and (ii) the standard-of-care (SOC) eye clinic cohort. The study will be conducted in Hyderabad, India, at LV Prasad Eye Institute and four IDEA (Institute of Diabetes, Endocrinology, and Adiposity) Clinics. The primary objective is to evaluate the effectiveness of a systematic diabetic retinopathy screening program in achieving earlier detection and reducing visual impairment among People With Diabetes (PWD) attending IDEA clinics compared to routine care at eye care settings. The screening program will be operationalized using AI-enabled tools and supported by trained non-medical technicians. We will perform visual acuity tests and non-mydriatic fundus photography using AI-assisted cameras. DR-positive patients will be referred for treatment and follow-up. We aim to achieve high accuracy (>90%) in appropriate referral of DR and high screening coverage (>80%) of eligible PWD. Success metrics include screening uptake, AI diagnostic accuracy, referral rates, cost-effectiveness, patient satisfaction, follow-up adherence, and long-term outcomes. CONCLUSION: This study aims to enhance diabetic retinopathy screening and management through an AI-enabled approach at diabetes clinics, improving early detection and care pathways. The findings will contribute to evidence-based strategies for optimizing DR screening and management, with results disseminated through peer-reviewed publications to inform policy and practice. TRIAL REGISTRATION: Trial registration number: CTRI/2024/03/064518 [Registered on: 20/03/2024] (https://ctri.nic.in/).",
   "summary": {
-    "oneLiner": "A study protocol evaluating an AI-enabled, systematic diabetic retinopathy screening program integrated into diabetes clinics to improve early detection and patient care pathways.",
-    "overview": "Delayed diagnosis of diabetic retinopathy is a major health challenge in India, and physicians are often the first point of contact for patients with diabetes. This study protocol outlines a new, systematic approach that uses artificial intelligence and trained non-medical staff to screen for eye complications directly within diabetes clinics. By comparing this new model to traditional eye clinic care, the researchers aim to assess if this integrated pathway leads to earlier detection, better cost-effectiveness, and improved patient adherence to follow-up treatments. Ultimately, the study intends to provide evidence-based strategies that could be used to optimize national screening policies.",
-    "question": "Does implementing an AI-enabled, systematic diabetic retinopathy screening program at the physician clinic level lead to earlier detection and better management of vision-threatening conditions compared to routine care at eye clinics?",
-    "method": "A prospective cohort study comparing an intervention group (screened at diabetes clinics using AI-enabled cameras and non-medical technicians) with a standard-of-care group (patients visiting eye clinics via routine pathways).",
-    "data": "The study is conducted in Hyderabad, India, involving one tertiary eye care institute (LV Prasad Eye Institute) and four diabetes clinics (IDEA Clinics).",
+    "oneLiner": "A study protocol for an AI-enabled diabetic retinopathy screening program at diabetes clinics in Hyderabad, compared with routine eye-clinic care, to test earlier detection.",
+    "overview": "Diabetic retinopathy (DR) is an eye complication of diabetes that can cause preventable blindness when it is detected late. This paper is a study protocol, meaning it describes a planned study rather than reporting results. The authors will run a prospective cohort study in Hyderabad, India, where people with diabetes screened at IDEA diabetes clinics using AI-enabled retinal cameras and non-medical technicians are compared with patients who reach a standard eye clinic through usual routes. The main aim is to see whether this screening leads to earlier detection and less visual impairment, with secondary aims on cost-effectiveness, patient satisfaction and follow-up adherence. The paper states that recruitment had started, so results were not yet available.",
+    "question": "Does a systematic, AI-enabled DR screening programme at physician-run diabetes clinics lead to earlier detection of DR and reduced visual impairment compared with routine DR care at an eye care setting? Secondary questions concern cost-effectiveness, patient satisfaction and follow-up adherence.",
+    "method": "A prospective cohort study comparing an intervention cohort (screened at diabetes clinics and referred to eye clinics per the proposed pathway) with a standard-of-care cohort attending the eye clinic. Visual acuity is tested and non-mydriatic fundus photographs are taken with AI-integrated cameras; AI results are checked by technicians, a central reading centre and an ophthalmologist. Analyses include accuracy measures (sensitivity, specificity, ROC curves), regression models adjusting for confounders, chi-square, t-tests or ANOVA, and a cost-effectiveness analysis using Markov disease-progression models. The paper states the study is not a randomised controlled trial.",
+    "data": "Patients with diabetes attending four IDEA Clinics (diabetes clinics) and LV Prasad Eye Institute (tertiary eye clinic) in Hyderabad, Telangana, India. Participants are aged 18 to 90 and are people with diabetes who have never had a fundus examination; people already diagnosed with DR are excluded from analysis. The sample size is 375 new diabetic patients per arm, with 1230 patients to be screened for the accuracy analysis, and 316 for the satisfaction survey. Recruitment began on March 29, 2024; an interim analysis is planned one year after recruitment start, and the project runs three years.",
     "findings": [
-      "The intervention is designed to achieve over 90% accuracy in the referral of diabetic retinopathy and over 80% screening coverage of eligible patients.",
-      "Integrating AI-enabled screening at the physician's office is hypothesized to improve the early detection of diabetic retinopathy compared to existing self-reported or routine referral models.",
-      "The study aims to demonstrate that systematic screening and integrated referral pathways are cost-effective methods for reducing vision loss in low- and middle-income settings."
+      "The paper reports no results; it is a study protocol and states that recruitment and data collection are ongoing.",
+      "The authors state a target of over 90% accuracy in appropriate referral of DR and over 80% coverage of eligible people with diabetes.",
+      "The authors assume about 10% sight-threatening DR (STDR) at screening in the intervention arm and about 25% among patients who complete their first ophthalmology visit, against 50% in the standard-of-care arm, based on historic LVPEI data.",
+      "The authors note that the evidence on cost-effectiveness of digital DR screening is mixed, citing Avidor et al.",
+      "The authors list limitations including private-sector setting that may exclude patients who cannot afford screening, use of undilated photography, and the absence of randomisation."
     ],
-    "whyItMatters": "The findings are expected to help policymakers and healthcare providers optimize diabetic retinopathy management, specifically by validating the use of AI tools and non-medical personnel to overcome workforce shortages, improve screening uptake, and potentially influence reimbursement policies under national health programs.",
+    "whyItMatters": "The authors argue the study could inform national programmes such as Ayushman Bharat, provide evidence on accuracy, cost-effectiveness and referral pathways, and guide decisions on reimbursing AI-assisted screening by trained non-medical technicians. They also note that physicians are often the first point of contact for people with diabetes, and that India has a shortage of ophthalmologists relative to the number of people with diabetes.",
     "topics": [
       "diabetic retinopathy",
-      "artificial intelligence in healthcare",
-      "teleophthalmology",
-      "screening programs",
-      "patient care pathways",
-      "cost-effectiveness analysis",
-      "diabetes management",
-      "public health policy"
+      "AI screening",
+      "telemedicine",
+      "health care delivery",
+      "cost-effectiveness",
+      "India healthcare",
+      "study protocol",
+      "preventive care"
     ],
     "industries": [
       "Healthcare",
-      "Ophthalmology",
-      "Telemedicine"
+      "Eye care",
+      "Diabetes care"
     ],
     "geographies": [
+      "Hyderabad, Telangana, India",
       "India"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

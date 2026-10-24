@@ -26,32 +26,35 @@
   ],
   "abstract": "An empirical examination of the impact of category captaincy on assortments and prices",
   "summary": {
-    "oneLiner": "Category captaincy improves efficiency and market coverage, and while it favors the captain's products, it can still lead to increased consumer welfare.",
-    "overview": "Category captaincy occurs when a retailer lets a manufacturer manage the product selection and pricing for a category, including the products of rival manufacturers. The study finds that this arrangement is generally more efficient than retailer management because manufacturers have specialized knowledge that reduces the administrative costs of managing assortments. While captains do strategically favor their own products over rivals, the increased efficiency leads to a wider variety of products on shelves. Ultimately, this can benefit consumers through greater choice, even if prices in the category sometimes increase.",
-    "question": "What is the impact of category captaincy arrangements on product assortments, prices, channel profits, and consumer welfare?",
-    "method": "The authors develop a structural model consisting of four components: demand, pricing, assortment decision, and captaincy selection. They use an inequalities estimator to recover unobservable marginal and fixed costs from observed market data, then perform counterfactual analysis to compare outcomes under retailer management versus category captaincy.",
-    "data": "The dataset contains SKU-store-level sales and price data for a frozen food category across 24 retail chains and 8 local U.S. markets from March 2010 to December 2011, combined with hand-assembled category captaincy status.",
+    "oneLiner": "Category captaincy, where a manufacturer manages a retailer's category, lowers assortment costs and enlarges assortments, with consumer welfare gains in some scenarios but not others.",
+    "overview": "Under category captaincy, a retailer hands decisions on which products to stock and how to price them in a category to one manufacturer, who also manages rivals' products. The authors build a structural model of a frozen food category across 24 US retail chains and 8 local markets, and simulate captaincy versus retailer management. They find lower fixed costs of assortment decisions under captaincy, larger assortments that favour the captain's own products, and retailer profits that rise. Consumer welfare rises when the smaller manufacturer is captain but not when the larger one is, so the authors argue captaincy is not purely harmful and should be judged case by case.",
+    "question": "Does category captaincy change assortment size, assortment composition, retail prices, firm profits and social welfare, and in which direction?",
+    "method": "A structural econometric model with four parts (consumer demand, pricing, assortment choice and captaincy selection), estimated using moment inequalities and a random-coefficients demand model. Descriptive comparisons and reduced-form OLS regressions are used first, with a difference-in-differences check on a few chains that changed captaincy status, followed by counterfactual simulations of retailer management versus captaincy.",
+    "data": "SKU-store-level sales and prices from AC Nielsen's Storeview database for 24 grocery chains (excluding Walmart and Target) and captaincy status hand-assembled with a manufacturer, covering March 2010 to December 2011 (21 months). Captaincy status is limited to eight geographic markets in the US, for a large frozen food category.",
     "findings": [
-      "Captaincy arrangements lead to a strong efficiency effect, evidenced by lower fixed costs per SKU under captaincy compared to retailer management.",
-      "Captaincy always leads to a market-coverage effect, resulting in the introduction of SKUs that the retailer would not have otherwise carried.",
-      "Captaincy exhibits a substitution effect, where the included SKUs favor the captain's products over those of rivals.",
-      "Retailers consistently benefit from captaincy arrangements through increased profits.",
-      "Consumer welfare increases under certain circumstances, suggesting that category captaincy can be a pro-competitive development in retail channels.",
-      "The impact on rival manufacturers is generally negative, particularly for those that are the closest rivals to the appointed captain."
+      "Fixed costs of adding an SKU are lower under category captaincy than under retailer management, which the authors read as evidence of an efficiency effect.",
+      "Captaincy is associated with larger assortments, and the authors report that captaincy always led to SKUs the retailer would not otherwise have carried (market-coverage effect).",
+      "Under captaincy, the assortment favours the captain's own SKUs, which the authors describe as evidence for a substitution effect.",
+      "Retailers always benefit from captaincy; not all manufacturers gain, particularly the closest rivals of the captain.",
+      "Average prices increase slightly under captaincy, though the authors caution that the assortments differ so the comparison is not very meaningful.",
+      "Consumer welfare rises when the smaller manufacturer (Firm B) is captain but not when the larger one (Firm A) is; the authors say captaincy is presumptively pro-competitive but not uniformly so.",
+      "The reduced-form evidence on reverse causality is acknowledged as unresolved; the authors say they cannot reject that higher shares led to captaincy rather than the reverse."
     ],
-    "whyItMatters": "The findings challenge the purely negative, anti-competitive view of category captaincy held by some policy makers. For managers, the study clarifies that while retailers and dominant manufacturers generally benefit from captaincy, it is not always a profit-improving move for smaller manufacturers, who should instead focus on differentiating their assortments if they cannot secure a captaincy role.",
+    "whyItMatters": "The authors argue that policymakers should not view captaincy purely negatively, and that assessing non-price effects such as assortments is needed for a full picture. For manufacturers, captaincy is presented as a way to improve profits, or limit losses, and a manufacturer that cannot become captain may be advised to differentiate its assortment from the captain's. For retailers, the paper notes the role of the retailer in policing captaincy. The authors frame captaincy as subject to a rule-of-reason standard, and note the results depend on assumptions that may not hold elsewhere.",
     "topics": [
-      "category management",
       "category captaincy",
-      "retail assortments",
-      "channel coordination",
-      "structural modeling",
+      "category management",
+      "assortment decisions",
+      "retail pricing",
+      "vertical arrangements",
+      "structural models",
       "consumer welfare",
-      "vertical relationships"
+      "frozen food",
+      "antitrust policy"
     ],
     "industries": [
-      "frozen food",
-      "grocery retail"
+      "grocery retail",
+      "frozen food manufacturing"
     ],
     "geographies": [
       "United States"
@@ -59,9 +62,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

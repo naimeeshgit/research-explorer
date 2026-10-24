@@ -62,29 +62,32 @@
   ],
   "abstract": "BACKGROUND: Private providers dominate health care in India and provide most tuberculosis (TB) care. Yet efforts to engage private providers were viewed as unsustainably expensive. Three private provider engagement pilots were implemented in Patna, Mumbai and Mehsana in 2014 based on the recommendations in the National Strategic Plan for TB Control, 2012-17. These pilots sought to improve diagnosis and treatment of TB and increase case notifications by offering free drugs and diagnostics for patients who sought care among private providers, and monetary incentives for providers in one of the pilots. As these pilots demonstrated much higher levels of effectiveness than previously documented, we sought to understand program implementation costs and predict costs for their national scale-up. METHODS AND FINDINGS: We developed a common cost structure across these three pilots comprising fixed and variable cost components. We conducted a retrospective, activity-based costing analysis using programmatic data and qualitative interviews with the respective program managers. We estimated the average recurring costs per TB case at different levels of program scale for the three pilots. We used these cost estimates to calculate the budget required for a national scale up of such pilots. The average cost per privately-notified TB case for Patna, Mumbai and Mehsana was estimated to be US$95, US$110 and US$50, respectively, in May 2016 when these pilots were estimated to cover 50%, 36% and 100% of the total private TB patients, respectively. For Patna and Mumbai pilots, the average cost per case at full scale, i.e. 100% coverage of private TB patients, was projected to be US$91 and US$101, respectively. In comparison, the national TB program's budget for 2015 averages out to $150 per notified TB case. The total annual additional budget for a national scale up of these pilots was estimated to be US$267 million. CONCLUSIONS: As India seeks to eliminate TB, extensive national engagement of private providers will be required. The cost per privately-notified TB case from these pilots is comparable to that already being spent by the public sector and to the projected cost per privately-notified TB case required to achieve national scale-up of these pilots. With additional funds expected to execute against national TB elimination commitments, the scale-up costs of these operationally viable and effective private provider engagement pilots are likely to be financially viable.",
   "summary": {
-    "oneLiner": "Scaling up private sector engagement for tuberculosis care in India is financially viable and comparable to existing public sector costs per case.",
-    "overview": "In India, most tuberculosis (TB) patients seek care in the private sector, but previous efforts to collaborate with private providers were considered too expensive. This study examined three pilot programs that offered free diagnostics and drugs to private patients to improve treatment outcomes. The researchers found that the cost of these private engagement models is lower than or comparable to the current per-case spending of the national TB program. Ultimately, the study suggests that a national scale-up is a financially feasible strategy for achieving TB elimination goals.",
-    "question": "What are the implementation costs of private provider engagement pilots for tuberculosis care in India, and what are the projected costs for a national scale-up?",
-    "method": "The researchers developed a common cost structure and conducted a retrospective, activity-based costing analysis using programmatic data and qualitative interviews with program managers.",
-    "data": "Programmatic data from three private provider engagement pilots in Patna, Mumbai, and Mehsana, India, implemented in 2014.",
+    "oneLiner": "Three Indian private-sector TB pilots cost about $50–110 per privately notified case; a national scale-up was estimated at $267 million a year.",
+    "overview": "India's private doctors and clinics deliver most tuberculosis care, but efforts to engage them were previously seen as too expensive to sustain. Three pilots in Patna, Mumbai and Mehsana in 2014 offered free drugs and diagnostics to patients who sought care from private providers, and one pilot also paid providers monetary incentives. The authors reconstructed what these pilots cost to run, using programme data and interviews with programme managers, and used those figures to estimate the budget for a national scale-up. They conclude that the cost per privately notified case is comparable to what the public sector already spends, and that the scale-up is likely to be financially viable, though this rests on their own estimates.",
+    "question": "What would it cost to run private-sector engagement programmes for tuberculosis care at scale, and what budget would a national scale-up require?",
+    "method": "A retrospective, activity-based costing analysis that used a common cost structure of fixed and variable cost components across the three pilots, combined with programmatic data and qualitative interviews with the programme managers. The authors estimated average recurring costs per TB case at different programme scales and used these to project the budget for national scale-up.",
+    "data": "Programmatic data from three private provider engagement pilots implemented in Patna, Mumbai and Mehsana, India, in 2014, plus qualitative interviews with their programme managers. Cost estimates refer to May 2016, when the pilots covered 50%, 36% and 100% of total private TB patients, respectively. The abstract also cites the national TB programme's 2015 budget.",
     "findings": [
-      "The average cost per privately-notified TB case was estimated at US$95 in Patna, US$110 in Mumbai, and US$50 in Mehsana as of May 2016.",
-      "At full scale, the average cost per case in Patna and Mumbai is projected to be US$91 and US$101, respectively.",
-      "The costs identified in the pilots are comparable to the US$150 average per-case budget of the national TB program in 2015.",
-      "The total annual additional budget required for a national scale-up of these pilot models is estimated to be US$267 million.",
-      "The authors conclude that the scale-up of these pilots is likely to be financially viable."
+      "The average cost per privately notified TB case was estimated at US$95 for Patna, US$110 for Mumbai and US$50 for Mehsana in May 2016.",
+      "At full scale (100% coverage of private TB patients), the projected average cost per case was US$91 for Patna and US$101 for Mumbai.",
+      "The national TB programme's 2015 budget averages about $150 per notified TB case, which the authors compare with the pilots' costs.",
+      "The total estimated additional annual budget for a national scale-up of these pilots was US$267 million.",
+      "The authors conclude that the cost per privately notified case is comparable to current public-sector spending and to the projected scale-up cost, and that the scale-up costs are likely to be financially viable."
     ],
-    "whyItMatters": "The findings provide policymakers and health program managers with evidence that engaging the private sector—where most patients currently seek care—is a cost-effective path to achieving national tuberculosis elimination targets.",
+    "whyItMatters": "The authors argue that extensive national engagement of private providers will be required for India to eliminate TB. Their cost estimates suggest such engagement could be affordable relative to current public-sector spending per case, which would inform budgeting and programme design for national TB elimination commitments.",
     "topics": [
-      "healthcare operations",
-      "public-private partnerships",
-      "tuberculosis control",
-      "cost-effectiveness analysis",
-      "healthcare policy",
-      "health service delivery"
+      "tuberculosis care",
+      "private sector engagement",
+      "health care costs",
+      "activity-based costing",
+      "public health budgeting",
+      "India health policy",
+      "programme scale-up",
+      "cost per case"
     ],
     "industries": [
-      "Healthcare"
+      "Healthcare",
+      "Public health"
     ],
     "geographies": [
       "India"
@@ -92,9 +95,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

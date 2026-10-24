@@ -29,26 +29,28 @@
   ],
   "abstract": "We examine the impact of a stringent creditor-in-control bankruptcy law on the equity capital of firms in India. Exploiting the within-country differences in court efficiency for identification using a differences-in-difference framework, we find that higher exposure to the bankruptcy law leads to a higher inflow of new equity investments into firms. Additional investments by non-controlling outside shareholders drive the increase. Reduction in agency costs due to the disciplining impact of the law seems to be the mechanism. The incremental equity flows lead to a higher level of investments and innovation.",
   "summary": {
-    "oneLiner": "Stringent bankruptcy law in India increases firm equity investment by reducing agency costs and disciplining firm management.",
-    "overview": "This study analyzes how stricter creditor-control bankruptcy laws affect equity investment in Indian firms. The authors show that when bankruptcy laws are enforced more effectively, firms attract more capital from outside, non-controlling shareholders. This process works by lowering agency costs—the conflict of interest between managers and shareholders—by providing a credible threat of disciplining management. Ultimately, these equity inflows contribute to higher corporate investment and innovation activity.",
-    "question": "Does a stringent creditor-in-control bankruptcy law impact the equity capital and investment behavior of firms in India?",
-    "method": "A differences-in-difference framework exploiting within-country differences in court efficiency.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "Exposure to a stringent creditor-in-control bankruptcy law in India led to more new equity inflows into firms, mainly from outside shareholders.",
+    "overview": "The paper asks whether a tougher bankruptcy law in India, one that gives creditors more control when a firm fails, changes how much new equity firms can attract. The authors compare firms that were more exposed to the law with those less exposed, using differences in how efficient local courts are as the source of variation. They find that higher exposure led to more new equity investment, and that the increase came largely from outside shareholders who do not control the firm. The authors suggest this is because the law reduces agency costs, the conflicts between managers and investors, and the extra equity was associated with higher investment and innovation.",
+    "question": "Does a stringent creditor-in-control bankruptcy law change the equity capital that firms in India receive?",
+    "method": "A difference-in-differences framework, which compares changes over time between firms more exposed to the law and less exposed, to isolate the law's effect. The exposure varies with differences in court efficiency within India. The authors also examine agency costs (conflicts of interest between managers or controlling owners and other investors) as the likely mechanism.",
+    "data": "Firms in India, with exposure defined using within-country variation in court efficiency. The abstract does not give the sample size, data source, or time period. The text available says nothing further about these details.",
     "findings": [
-      "Higher exposure to the bankruptcy law is associated with a higher inflow of new equity investments.",
-      "The increase in equity is driven by additional investments from non-controlling outside shareholders.",
-      "The reduction in agency costs appears to be a key mechanism behind the observed effects.",
-      "Incremental equity flows are associated with higher levels of corporate investment and innovation."
+      "Higher exposure to the bankruptcy law leads to a higher inflow of new equity investments into firms.",
+      "Additional investments by non-controlling outside shareholders drive the increase.",
+      "Reduction in agency costs due to the disciplining impact of the law seems to be the mechanism.",
+      "The incremental equity flows lead to a higher level of investments and innovation."
     ],
-    "whyItMatters": "For policymakers, the findings suggest that the efficiency of bankruptcy systems and the strength of creditor-control laws are critical levers for encouraging private investment and fostering firm-level innovation.",
+    "whyItMatters": "The abstract implies that stronger creditor rights in bankruptcy can make equity investment more attractive, particularly for outside shareholders, by reducing agency costs. For policymakers, this suggests bankruptcy law design can influence firms' access to equity and their investment and innovation. The abstract does not state specific managerial or investor recommendations.",
     "topics": [
-      "Bankruptcy law",
-      "Equity capital",
-      "Agency costs",
-      "Corporate governance",
-      "Court efficiency",
-      "Investment",
-      "Innovation"
+      "bankruptcy law",
+      "creditor-in-control",
+      "equity financing",
+      "agency costs",
+      "minority shareholders",
+      "court efficiency",
+      "difference-in-differences",
+      "India",
+      "innovation"
     ],
     "industries": [],
     "geographies": [
@@ -57,9 +59,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

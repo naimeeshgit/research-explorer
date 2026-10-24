@@ -62,43 +62,49 @@
   ],
   "abstract": "Consumption of fruits and vegetables in rural India is among the lowest in the world. We assessed how a financial incentive scheme influenced purchasing of fruits and vegetables in an unorganised retail setting in rural India and explored any unintended consequences. We used a mixed-methods approach, triangulating between in-depth interviews with community members, vendors, local leaders, and intervention implementors (N = 21) and fruit and vegetable purchasing surveys (N = 1109), vendor sales surveys (N = 36), and routine coupon use data. The intervention led households to use their own budgets to buy fruits and vegetables and receive the cashback. This was used to buy more fruits and vegetables (45 % and 77 % of intervention participants, respectively). Changes in purchasing behaviours unexpectedly increased farmer-to-consumer sales in the village markets. This increased the variety of fruit and vegetables purchased locally (baseline-adjusted mean difference of 2.2 items in intervention versus control villages (95 % CI: −0.7 to 5.1)) but may have negatively impacted the sales of existing vendors (baseline-adjusted mean difference of −150₹ in intervention versus control villages (95 % CI: −296 to −0.1). Financial incentive schemes have the potential to change the food environment in unorganised retail settings, which could have major consequences for diets.",
   "summary": {
-    "oneLiner": "A financial incentive scheme for fruit and vegetable purchases in rural India triggered positive dietary shifts but also created unintended market-level consequences.",
-    "overview": "In rural India, where fruit and vegetable consumption is low, researchers tested a weekly cashback incentive for households purchasing produce at local village markets. The study found the scheme successfully motivated households to increase their local produce spending. However, the intervention also caused unintended side effects, such as increased competition that negatively affected the profits of established local vendors and prompted some users to find ways to misuse the coupon system. Ultimately, while the program changed the local food environment and increased the variety of produce available, its impact on different market players was mixed.",
-    "question": "How did a financial incentive scheme for fruit and vegetable purchasing influence behavior and the broader food environment in an unorganised rural retail setting?",
-    "method": "A sequential mixed-methods process evaluation using semi-structured interviews (N=21), vendor sales surveys (N=36), household purchasing surveys (N=1109), and routine coupon usage data.",
-    "data": "A cluster randomized controlled trial conducted in 29 villages in Ranga Reddy district, Telangana, India, over a three-month period (February–April 2021).",
+    "oneLiner": "A cashback scheme for fruit and vegetable buying in rural Indian village markets shifted purchases locally and may have reduced sales for existing vendors.",
+    "overview": "Researchers studied a cashback coupon scheme in three rural Telangana villages where households received 50 rupees after spending at least 250 rupees on fruits and vegetables in the village evening market over a week. Households spent their own money to reach the target and mostly used the cashback to buy more produce. The scheme also had unplanned effects: more farmers began selling locally, variety increased, and some existing vendors may have lost sales, while shoppers sometimes misused the coupons. The authors describe these as possibilities that need further study, not firm conclusions.",
+    "question": "How did a financial incentive scheme influence fruit and vegetable purchasing in an unorganised retail setting in rural India, and what unintended consequences followed?",
+    "method": "A sequential mixed-methods process evaluation. Qualitative in-depth interviews with community members, vendors, local leaders and implementers were analysed descriptively, with inductive coding for unexpected effects. These were triangulated with quantitative analyses of purchasing surveys, a vendor sales survey, end-line survey tabulations and routine coupon data, using descriptive statistics and linear regression.",
+    "data": "Interviews with 21 participants (12 intervention residents, 11 vendors, plus local leaders and stampers) in the intervention villages; fruit and vegetable purchasing surveys of 1,109 households; vendor sales surveys of 36 vendors; an end-line survey of 555 intervention households; and routine coupon use data. The scheme ran for three months (February to April 2021) in three intervention and three control villages in Ranga Reddy district, Telangana, India, 25 to 50 km from Hyderabad.",
     "findings": [
-      "The intervention incentivized households to use their own budgets to meet a purchase target, with many using the resulting cashback to buy additional fruits and vegetables.",
-      "The scheme unexpectedly increased the number of farmers selling locally, which resulted in a greater variety of produce available in the village market.",
-      "There is evidence suggesting the intervention may have negatively impacted the sales of existing, non-farmer vendors by introducing new market competition.",
-      "The paper notes that the manual, paper-based design of the scheme was vulnerable to misuse, leading to conflicts between shoppers and vendors.",
-      "While 90% of households supported the continuation of the scheme, a minority of participants reported using the cashback for non-produce grocery items."
+      "77% of end-line respondents said they used the cashback to buy more vegetables and 45% to buy more fruit.",
+      "Households spent their own money in addition to the 50 rupee cashback to reach the 250 rupee weekly target; the purchasing survey showed a baseline-adjusted mean difference of 130 rupees (95% CI: −76 to 337), which the authors note is not statistically significant.",
+      "Farmer-to-consumer sales in the village market increased. Purchases in the village market rose by 5.9 kg (95% CI: 2.6 to 9.1) compared with control villages, while total purchases from any retailer rose by 4 kg (95% CI: −6.4 to 14.4).",
+      "Variety of fruit and vegetables bought locally was 2.2 items higher in intervention villages (95% CI: −0.7 to 5.1), a difference the authors report as not statistically clear.",
+      "Vendor sales may have fallen: the baseline-adjusted mean amount sold was 150 rupees lower in intervention villages (95% CI: −296 to −0.1), though sales varied widely across villages and time.",
+      "Intervention misuse occurred, such as buying from ineligible vendors, returning items, and pressuring stampers; in one week of a bag-based test, the share of completed coupons fell from 49% to 44%.",
+      "About 90% of households wanted the scheme to continue; no interviewee reported feeling coerced or suspicious of the scheme's aim.",
+      "Some participants spent cashback on groceries other than fruit and vegetables (19%), such as sugar and oil; the data do not show the types of groceries bought.",
+      "The study did not measure consumption, purchasing after the scheme ended, or diet, so effects on diets are not established."
     ],
-    "whyItMatters": "The study demonstrates that financial incentives can reshape local food environments in unorganised retail settings, but managers and policymakers must account for potential unintended consequences like market displacement and system misuse when designing such interventions.",
+    "whyItMatters": "The authors suggest financial incentive schemes can change the food environment in unorganised retail settings, which could have major consequences for diets. For programme designers, the findings point to practical design issues: cashback size, target levels by household size, vendor eligibility, and the vulnerability of paper coupons to misuse. For vendors and local markets, the study suggests incentives can draw in new sellers while squeezing existing ones, so stakeholder impacts should be considered. The authors recommend future work on long-term effects, pricing, consumption, cost-effectiveness and non-cash incentive models.",
     "topics": [
-      "food consumption",
       "financial incentives",
+      "fruit and vegetable purchasing",
       "unorganised retail",
-      "rural development",
-      "behavioral economics",
-      "supply chain",
-      "dietary health",
-      "market competition"
+      "rural India",
+      "food environment",
+      "unintended consequences",
+      "cashback schemes",
+      "mixed methods",
+      "vendor sales",
+      "public health nutrition"
     ],
     "industries": [
-      "retail",
-      "agriculture",
-      "food and beverage"
+      "Food retail",
+      "Agriculture and produce sales",
+      "Public health nutrition"
     ],
     "geographies": [
-      "India"
+      "Rural Telangana, India"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

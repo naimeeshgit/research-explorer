@@ -23,38 +23,45 @@
   ],
   "abstract": "By September 1994, the Ndlovu clinic opened for business with one doctor (Hugo), three employees, and Liesje handling procurement and finance. The first months were rough, with the bank asking for its money back, but by 1995, Ndlovu added a second doctor and a third in 1997. Most patients could not afford anything beyond primary care, so they had to be referred to the (free) government hospital for anything more. Despite this, Ndlovu expanded, first opening a nutritional unit, which was later moved to four off-site locations. Many patients, particularly those with HIV/AIDS, suffered from malnutrition. Hugo decided to help patients plant a variety of crops in their gardens to provide a balanced and nutritious diet. Elandsdoorn is typical of many rural communities in South Africa: very limited drinking water, no high quality health care facilities prior to Ndlovu, no decent educational facilities, and marginal infrastructure.",
   "summary": {
-    "oneLiner": "This case study details the growth and operational challenges of the Ndlovu clinic in rural South Africa as it navigated financial and healthcare resource constraints.",
-    "overview": "The Ndlovu clinic was established in rural South Africa to address significant gaps in local healthcare and infrastructure. Despite early financial instability, the clinic expanded its medical staff and services to better manage the needs of patients, particularly those living with HIV/AIDS. Recognizing that malnutrition complicated health outcomes, the clinic integrated community-based nutrition programs, such as home gardening, to support patient health beyond traditional primary care.",
+    "oneLiner": "Case study of Ndlovu, a rural South African clinic that grew from one doctor in 1994 and added a nutrition program for malnourished patients.",
+    "overview": "This case follows Ndlovu, a clinic in Elandsdoorn, a rural South African community with little water, few health facilities, and weak infrastructure. It opened in September 1994 with one doctor and three staff, and its first months were difficult, including a bank asking for its money back. The clinic added doctors in 1995 and 1997 and opened a nutrition unit, since most patients could not afford care beyond basic primary care and many, especially those with HIV/AIDS, were malnourished. To address this, the clinic helped patients grow varied crops in home gardens for a balanced diet.",
     "question": "Not stated in the available text.",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "method": "The paper is a case study according to its venue, but the abstract does not describe a specific research method or data collection approach.",
+    "data": "Setting is Elandsdoorn, South Africa, covering the clinic's history from its opening in September 1994, with later developments noted for 1995 and 1997. The abstract does not describe a sample or data sources beyond the clinic's own history.",
     "findings": [
-      "The clinic successfully expanded from a single-doctor practice to a multi-physician facility despite initial financial pressure from lenders.",
-      "Integrated services, such as nutritional support for patients with HIV/AIDS, were implemented to address challenges that primary care alone could not resolve.",
-      "Resource-constrained environments like Elandsdoorn face systemic barriers, including lack of infrastructure and limited access to healthcare, which necessitate creative operational approaches."
+      "The clinic opened in September 1994 with one doctor, three employees, and staff handling procurement and finance; the first months were rough, with the bank asking for its money back.",
+      "Ndlovu added a second doctor in 1995 and a third in 1997.",
+      "Most patients could not afford care beyond primary care and were referred to the free government hospital for anything more.",
+      "Despite this, Ndlovu expanded by opening a nutritional unit, which was later moved to four off-site locations.",
+      "Many patients, particularly those with HIV/AIDS, suffered from malnutrition.",
+      "Hugo decided to help patients plant a variety of crops in their gardens to provide a balanced and nutritious diet.",
+      "Elandsdoorn is described as typical of many rural communities in South Africa, with very limited drinking water, no high quality health care before Ndlovu, no decent educational facilities, and marginal infrastructure."
     ],
-    "whyItMatters": "The case highlights the importance of social entrepreneurship and holistic service models in addressing the healthcare needs of underserved, resource-poor rural communities.",
+    "whyItMatters": "Not stated in the available text.",
     "topics": [
+      "rural healthcare",
       "social entrepreneurship",
-      "healthcare access",
-      "rural development",
-      "non-profit operations",
-      "service expansion",
-      "resource management",
-      "HIV/AIDS care"
+      "community clinics",
+      "malnutrition",
+      "HIV/AIDS",
+      "South Africa",
+      "nonprofit operations",
+      "home gardens and nutrition"
     ],
     "industries": [
-      "healthcare"
+      "healthcare",
+      "social enterprise"
     ],
     "geographies": [
-      "South Africa"
+      "South Africa",
+      "Elandsdoorn (rural community)"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

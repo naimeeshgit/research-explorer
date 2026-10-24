@@ -41,40 +41,44 @@
   ],
   "abstract": "BACKGROUND: Impact of novel high-quality tuberculosis (TB) tests such as Xpert MTB/RIF has been limited due to low uptake among private providers in high-burden countries including India. Our objective was to assess the impact of a demand generation intervention comprising field sales force on the uptake of high-quality TB tests by providers and its financial sustainability for private labs in the long run. METHODS: We implemented a demand generation intervention across five Indian cities between October 2014 and June 2016 and compared the change in the quantity of Xpert cartridges ordered by labs in these cities from before (February 2013-September 2014) to after intervention (October 2014-December 2015) to corresponding change in labs in comparable non-intervention cities. We embedded this difference-in-differences estimate within a financial model to calculate the internal rate of return (IRR) if the labs were to invest in an Xpert machine with or without the demand generation intervention. RESULTS: The intervention resulted in an estimated 60 additional Xpert cartridges ordered per lab-month in the intervention group, which yielded an estimated increase of 11 500 tests over the post-intervention period, at an additional cost of US$13.3-US$17.63 per test. Further, we found that investing in this intervention would increase the IRR from 4.8% to 5.5% for hospital labs but yield a negative IRR for standalone labs. CONCLUSIONS: Field sales force model can generate additional demand for Xpert at private labs, but additional strategies may be needed to ensure its financial sustainability.",
   "summary": {
-    "oneLiner": "Deploying a field sales force increases the adoption of new tuberculosis diagnostic tests, though financial sustainability varies by facility type.",
-    "overview": "In India, the uptake of high-quality tuberculosis (TB) diagnostic tests by private healthcare providers has remained low. This study tested a field sales force model to increase demand for these tests. While the intervention successfully increased the number of tests ordered by private labs, its financial success depends on the type of facility. The findings suggest that while such models can drive adoption, they may not be financially sustainable for all types of laboratories on their own.",
-    "question": "What is the impact of a demand generation intervention using a field sales force on the adoption of high-quality tuberculosis tests by private providers, and is it financially sustainable for private labs?",
-    "method": "Not stated in the available text.",
-    "data": "Not stated in the available text.",
+    "oneLiner": "A field sales force raised private labs' orders of a novel TB test in Indian cities, but standalone labs saw negative returns.",
+    "overview": "Novel high-quality tuberculosis tests such as Xpert MTB/RIF have been underused by private providers in India. The authors ran a field sales force campaign to generate demand for the test in five Indian cities and compared lab orders with those in comparable cities without the campaign. They estimate the campaign added about 60 cartridges per lab per month in the intervention group. They also built a financial model, which suggests the campaign improved returns for hospital labs but produced negative returns for standalone labs, so the authors say additional strategies may be needed for financial sustainability.",
+    "question": "Does a field sales force demand-generation intervention increase private providers' uptake of a high-quality TB test (Xpert cartridges) in India, and is it financially sustainable for private labs in the long run?",
+    "method": "A difference-in-differences comparison of Xpert cartridge orders before and after the intervention, in intervention cities versus comparable non-intervention cities (difference-in-differences compares the change over time in one group with the change in a comparison group). The authors embedded this estimate in a financial model to calculate the internal rate of return (IRR, the annual return on an investment) for labs investing in an Xpert machine with and without the intervention.",
+    "data": "Private labs in five Indian cities, with the intervention running from October 2014 to June 2016. Orders were compared from February 2013 to September 2014 (before) and October 2014 to December 2015 (after), against labs in comparable non-intervention cities. The abstract does not state the number of labs.",
     "findings": [
       "The intervention resulted in an estimated 60 additional Xpert cartridges ordered per lab-month in the intervention group.",
-      "The intervention yielded an estimated increase of 11,500 tests over the post-intervention period at an additional cost of US$13.3–US$17.63 per test.",
-      "Investing in the intervention is associated with an increase in the internal rate of return (IRR) from 4.8% to 5.5% for hospital labs.",
-      "The intervention is associated with a negative internal rate of return for standalone labs."
+      "This was estimated to yield about 11,500 additional tests over the post-intervention period, at an additional cost of US$13.3 to US$17.63 per test.",
+      "Investing in the intervention was found to raise the IRR from 4.8% to 5.5% for hospital labs.",
+      "For standalone labs, investing in the intervention would yield a negative IRR.",
+      "The authors conclude that a field sales force model can generate additional demand for Xpert at private labs, but that additional strategies may be needed to ensure its financial sustainability."
     ],
-    "whyItMatters": "The study suggests that while a sales force model can effectively increase the usage of new diagnostic technology, managers and policymakers need additional strategies to ensure financial sustainability, particularly for standalone private laboratories.",
+    "whyItMatters": "The authors suggest that a field sales force can increase private labs' demand for high-quality TB tests, which bears on how novel diagnostics might reach private providers in high-burden countries. Their financial results indicate that the model may not be sustainable for standalone labs without additional strategies.",
     "topics": [
-      "tuberculosis",
-      "diagnostic testing",
       "field sales force",
-      "healthcare innovation",
-      "private provider adoption",
-      "financial sustainability",
-      "public health"
+      "demand generation",
+      "tuberculosis diagnostics",
+      "Xpert MTB/RIF",
+      "private healthcare providers",
+      "India healthcare",
+      "difference-in-differences",
+      "internal rate of return",
+      "diagnostic test adoption",
+      "global health"
     ],
     "industries": [
       "Healthcare",
-      "Diagnostics"
+      "Private diagnostic labs"
     ],
     "geographies": [
-      "India"
+      "India (five cities)"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

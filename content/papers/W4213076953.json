@@ -29,27 +29,31 @@
   ],
   "abstract": null,
   "summary": {
-    "oneLiner": "Bank boards under-invest in risk management and over-invest in regulation and compliance, with risk-related deliberations positively associated with bank performance.",
-    "overview": "This study analyzes the board meeting minutes of 29 Indian banks to understand what issues boards actually discuss. The researchers find that board meetings are heavily dominated by regulatory and compliance issues, while risk management receives significantly less attention. Despite the critical importance of risk oversight, the boards generally only engage in shallow 'box-ticking' rather than detailed deliberations. The study suggests that higher board engagement in risk-related issues is positively associated with better financial performance, hinting that the current focus on compliance may be coming at the expense of necessary strategic and risk-focused oversight.",
-    "question": "What issues do bank boards spend time on, how deep is their deliberation on these issues, and does this conduct correlate with bank performance?",
-    "method": "Content analysis of confidential board meeting minutes converted into a quantitative database, supplemented by a multi-tasking theoretical model to interpret effort allocation.",
-    "data": "Confidential minutes from one board meeting each for 29 listed Indian banks (17 public, 12 private) during the second quarter of 2013-14.",
+    "oneLiner": "Minutes of 29 Indian bank boards show risk takes 10% of agenda items, compliance 41%, and most items get little detailed deliberation.",
+    "overview": "The authors obtained confidential board meeting minutes from 29 Indian banks, a rare look at what bank boards actually discuss. Risk issues made up only about 10% of the items tabled, while regulation and compliance made up about 41% and business strategy about 31%. Most items were tabled without detailed deliberation, which the authors read as a sign of box-ticking. They interpret this as suggestive of under-investment in risk and over-investment in compliance, though they caution that one meeting per bank limits generalizability.",
+    "question": "What share of board agenda items concerns strategy, risk, financial reporting, compliance, and human resources; do these shares relate to bank performance and board characteristics; and do boards deliberate issues in depth or merely tick boxes?",
+    "method": "Content analysis of board minutes: the authors coded each tabled issue into one of five categories and recorded whether it was deliberated in detail. They then ran regressions of bank outcomes (ROA, ROE, NPA ratios) and board-structure measures on these shares, and built a simple theoretical model of how a board divides effort across strategy, risk and compliance.",
+    "data": "Minutes of one board meeting per bank (the quarter ending September 2013) from 17 government-owned and 12 private Indian banks, which the authors say account for 70% of market capitalization and 65% of revenues of all Indian banks. Bank financial data come from the CMIE Prowess database and RBI website, and board attributes were collected as of 30 September 2013.",
     "findings": [
-      "Regulatory and compliance issues account for 41% of tabled issues, followed by business strategy (31%) and risk issues (10%).",
-      "Bank boards generally do not deliberate issues in detail, suggesting a 'box-ticking' culture.",
-      "The percentage of risk issues tabled is positively associated with return on assets and return on equity, and negatively associated with non-performing assets.",
-      "The model suggests that bank boards under-invest in risk mitigation compared to the optimal level, regardless of regulatory pressure.",
-      "Prior board experience, international experience, and private-sector experience are positively associated with a higher percentage of risk issues tabled."
+      "Boards table about 50 issues on average, compared with 8.5 in the industrial-firm boards studied by Schwartz-Ziv and Weisbach (2013); the authors suggest this reflects the full-day length of bank meetings.",
+      "Regulation and compliance accounts for about 41% of issues tabled, business strategy about 31%, and risk about 10%.",
+      "Most issues tabled are not deliberated in detail; business strategy receives the most deliberation, with risk the least.",
+      "The share of risk issues tabled is positively associated with ROA and ROE and negatively associated with the NPA-to-advances ratio; the authors note most other categories show no significant link to performance.",
+      "Prior board experience, international experience and private sector experience are associated with a higher share of risk issues tabled; the authors describe these as associations.",
+      "The model predicts risk mitigation receives the least effort, and the authors state the observed ranking is consistent with under-investment in risk and over-investment in compliance, though they cannot determine whether strategy is over- or under-invested.",
+      "Statistical tests with 29 banks lost power, so the deliberation-performance associations were not statistically significant."
     ],
-    "whyItMatters": "The findings suggest that current board practices in banks may be sub-optimal, as boards disproportionately favor compliance over substantive risk management. This indicates a need for policymakers and bank leadership to re-evaluate how board time is allocated to ensure that risk oversight is treated as a central, rather than peripheral, responsibility.",
+    "whyItMatters": "The authors suggest bank boards may need to give risk issues more attention and deliberation, and that banks could benefit from directors with relevant risk expertise. They point to policy reports (Walker 2009, G-30) that call for greater board engagement in risk oversight. The authors caution that their evidence is descriptive and limited to one meeting per bank.",
     "topics": [
-      "Bank governance",
-      "Board of directors",
-      "Corporate governance",
-      "Risk management",
-      "Board conduct",
-      "Financial regulation",
-      "Board oversight"
+      "bank governance",
+      "board minutes",
+      "board conduct",
+      "risk oversight",
+      "box-ticking",
+      "regulatory compliance",
+      "Indian banks",
+      "board effectiveness",
+      "bank performance"
     ],
     "industries": [
       "Banking"
@@ -60,9 +64,9 @@
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

@@ -62,42 +62,45 @@
   ],
   "abstract": "Objective: To evaluate a randomised controlled trial of a financial incentive scheme (coupon providing ∼20% cashback on purchase of fruits and vegetables from village vendors) aimed at increasing the purchase of fruits and vegetables from unorganised retailers in rural India.Design: The process evaluation used a mixed-methods approach, incorporating semi-structured interviews, routine coupon use data, repeat fruit and vegetable purchase and sales surveys, an end-line survey, and examination of study documentation.Setting: Six rural villages, Telangana, India.Participants: Intervention village residents (maximum N=1,719), fruit and vegetable vendors (N=36), local stakeholders (N=5), intervention implementors (N=3).Results: Share of households reaching the fruit and vegetable purchase target (and receiving the cashback) increased steadily from 13% to 42% across the 12-week trial period. Fruit and vegetable purchasing data suggest that households increased fruit and vegetable purchasing to receive the cashback, and households reported using the cash to purchase additional fruits and vegetables (42% and 73%, respectively). Unexpected consequences included community members’ efforts to receive the cashback without purchasing the target amount of fruits and vegetables, changes in shopping patterns, entry of new vendors into the local market, and potential reductions in vendor sales. Lower socioeconomic position (SEP) households reported using the intervention more and participants felt the intervention was most useful for lower SEP households. Conclusion: Our findings demonstrate the potential of even small financial incentives for changing healthy dietary-related behaviours. However, in unorganised retail settings, care should be taken to ensure that such interventions benefit both consumers and sellers.",
   "summary": {
-    "oneLiner": "A 20% cashback incentive scheme successfully increased fruit and vegetable purchases in rural India, though it introduced complex challenges for local informal markets.",
-    "overview": "This study evaluated a program that provided rural residents with a 20% cashback incentive for buying produce from local, unorganized village vendors. Over 12 weeks, the share of households reaching the purchase target increased significantly, with participants using the cashback to acquire more fruits and vegetables. While effective at changing dietary habits, the intervention caused unintended side effects, such as attempts to bypass program rules and potential disruption to vendor sales. The study highlights the need for balanced designs that support both consumer health and the stability of small-scale informal retailers.",
-    "question": "How did a financial incentive scheme (a 20% cashback coupon) influence the purchase of fruits and vegetables from unorganized retailers in rural India?",
-    "method": "Mixed-methods approach, including semi-structured interviews, routine coupon use data, repeat purchase and sales surveys, an end-line survey, and documentation review.",
-    "data": "Six rural villages in Telangana, India; included 1,719 intervention residents, 36 fruit and vegetable vendors, 5 stakeholders, and 3 implementers.",
+    "oneLiner": "A small cashback coupon raised fruit and vegetable purchases from village vendors in rural Telangana, but also caused unintended effects on vendors' sales.",
+    "overview": "Researchers tested a scheme in six rural Telangana villages where residents got a coupon giving about 20% cashback on fruit and vegetables bought from local vendors. The study was a process evaluation, meaning it looked at how the scheme was delivered and experienced, using interviews, coupon-use data, purchase and sales surveys, and study documents. The share of households reaching the purchase target rose from 13% to 42% over the 12-week trial. The authors also found unexpected effects, including people trying to claim cashback without buying the target amount, new vendors entering the market, and possible drops in existing vendors' sales. The scheme appeared most useful to lower socioeconomic households.",
+    "question": "How was a financial incentive scheme for fruit and vegetable purchasing from unorganised retailers in rural India implemented, received, and experienced, and what consequences followed?",
+    "method": "A mixed-methods process evaluation of a randomised controlled trial, combining semi-structured interviews, routine coupon use data, repeat purchase and sales surveys, an end-line survey, and review of study documentation.",
+    "data": "Six rural villages in Telangana, India. Participants included intervention village residents (maximum N=1,719), fruit and vegetable vendors (N=36), local stakeholders (N=5), and intervention implementors (N=3). The time period is not stated beyond a 12-week trial period.",
     "findings": [
-      "The share of households reaching the fruit and vegetable purchase target increased steadily from 13% to 42% over the 12-week period.",
-      "Purchasing data suggests households increased their fruit and vegetable buying to secure the cashback.",
-      "Households reported using the saved cash to buy additional fruits and vegetables (42% to 73% reporting).",
-      "Lower socioeconomic position households used the intervention more, and participants perceived it as most beneficial for this group.",
-      "Unexpected consequences included attempts to exploit the coupon system without meeting targets, shifted shopping patterns, and new vendor entry alongside potential drops in existing vendor sales."
+      "The share of households reaching the fruit and vegetable purchase target (and receiving the cashback) increased steadily from 13% to 42% across the 12-week trial.",
+      "Purchasing data suggest households increased fruit and vegetable purchasing to receive the cashback.",
+      "Households reported using the cash to buy additional fruits and vegetables (42% and 73%, respectively, per the two reported measures).",
+      "Unexpected consequences included community members trying to receive cashback without buying the target amount, changes in shopping patterns, entry of new vendors, and potential reductions in vendor sales.",
+      "Lower socioeconomic position (SEP) households reported using the intervention more, and participants felt it was most useful for them.",
+      "The authors conclude that even small financial incentives show potential for changing healthy dietary behaviours, but that care is needed so that such interventions benefit both consumers and sellers in unorganised retail settings."
     ],
-    "whyItMatters": "The findings suggest that small financial incentives can effectively drive healthy dietary behaviors, but managers and policymakers must carefully consider the ripple effects on unorganized retail ecosystems to ensure the intervention benefits all stakeholders, including small-scale sellers.",
+    "whyItMatters": "The authors suggest small financial incentives may shift healthy eating behaviour, but that programmes in unorganised retail should be designed so both consumers and sellers benefit, since vendor sales may fall and new vendors may enter.",
     "topics": [
       "financial incentives",
-      "healthy food access",
-      "rural retail",
-      "unorganized markets",
-      "behavioral economics",
-      "public health intervention",
-      "cashback programs"
+      "cashback coupons",
+      "healthy diet",
+      "fruit and vegetable purchasing",
+      "unorganised retail",
+      "rural India",
+      "process evaluation",
+      "randomised controlled trial",
+      "vendor sales",
+      "socioeconomic position"
     ],
     "industries": [
-      "retail",
-      "agriculture",
-      "public health"
+      "Retail (unorganised, village vendors)",
+      "Public health nutrition"
     ],
     "geographies": [
-      "India"
+      "Rural Telangana, India"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

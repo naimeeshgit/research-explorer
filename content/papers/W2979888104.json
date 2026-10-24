@@ -29,37 +29,39 @@
   ],
   "abstract": "Prior academic research on bank risk-taking has mostly concentrated on the role of board structure. However, board conduct and its relationship to risk-taking by banks has not received much attention. In this paper, we fill this gap by analyzing the minutes of board and risk management committee (RMC) meetings of 29 banks. We manually classify the issues into different categories, and code whether each issue has been deliberated at length. Among the issues tabled, risk accounts for only 11% while regulation and compliance account for the most (37%) followed by business strategy (35%). Only 20% of the issues are deliberated at length. The RMC meets infrequently and deliberates only 28% of the issues. Only 25% of the issues tabled in the RMC are forward-looking in nature. We interpret this evidence to imply that bank boards focus inadequately on risk and adopt a “box ticking” approach instead of focusing in spirit on risk oversight.",
   "summary": {
-    "oneLiner": "Bank boards demonstrate inadequate focus on risk, often prioritizing compliance and business strategy over substantive risk oversight.",
-    "overview": "This study examines how bank boards manage risk by analyzing the meeting minutes of 29 banks. The authors find that boards spend significantly more time on regulation, compliance, and business strategy than on risk management. Furthermore, the majority of board discussions are not deliberated at length, and many risk-related discussions lack a forward-looking perspective. The authors conclude that boards tend to adopt a \"box-ticking\" approach rather than engaging in deep, meaningful oversight of bank risks.",
-    "question": "Do bank boards focus adequately on risk management?",
-    "method": "Manual coding and analysis of board and risk management committee meeting minutes.",
-    "data": "Meeting minutes from 29 banks.",
+    "oneLiner": "Analysis of 29 banks' board minutes finds risk gets little board attention, with boards largely box-ticking rather than overseeing risk in spirit.",
+    "overview": "Most research on bank risk-taking looks at board structure, such as who sits on the board, but not at what boards actually discuss. The authors read the minutes of board and risk management committee meetings at 29 banks and classified each issue by topic and by whether it was discussed at length. They report that risk made up only 11% of issues tabled, while regulation and compliance (37%) and business strategy (35%) dominated. Only 20% of issues were deliberated in depth, and the risk committee met infrequently and deliberated just 28% of its issues. The authors read this as evidence that boards focus inadequately on risk and take a 'box ticking' approach, meaning they meet formal requirements without engaging with the substance of risk oversight.",
+    "question": "Do bank boards focus adequately on risk, and how does board conduct, as opposed to board structure, relate to bank risk-taking?",
+    "method": "The authors manually classified the issues tabled at board and risk management committee (RMC) meetings into categories and coded whether each issue was deliberated at length. They also looked at how often the RMC met and whether its issues were forward-looking.",
+    "data": "Minutes of board and risk management committee meetings of 29 banks. The abstract does not state the time period or country.",
     "findings": [
-      "Risk-related issues account for only 11% of the topics discussed by bank boards.",
-      "Regulation and compliance (37%) and business strategy (35%) dominate board agendas.",
-      "Only 20% of tabled board issues receive lengthier deliberation.",
-      "Risk management committees meet infrequently and deliberate only 28% of the issues presented to them.",
-      "Only 25% of issues tabled in risk management committees are forward-looking."
+      "Risk accounted for only 11% of issues tabled at board meetings, while regulation and compliance accounted for the most (37%), followed by business strategy (35%).",
+      "Only 20% of issues were deliberated at length.",
+      "The RMC met infrequently and deliberated only 28% of the issues tabled.",
+      "Only 25% of issues tabled in the RMC were forward-looking in nature.",
+      "The authors interpret this evidence to imply that bank boards focus inadequately on risk and adopt a 'box ticking' approach rather than focusing in spirit on risk oversight."
     ],
-    "whyItMatters": "The findings suggest that current governance practices in banks may be insufficient, as boards appear to prioritize procedural compliance over genuine risk oversight, which could impact institutional stability.",
+    "whyItMatters": "The authors suggest that bank boards and regulators should look beyond board structure to how boards actually spend their time and deliberate. Their evidence points to a gap between formal risk oversight and substantive engagement with risk.",
     "topics": [
-      "Corporate Governance",
-      "Bank Risk Management",
-      "Board Effectiveness",
-      "Financial Regulation",
-      "Banking Oversight",
-      "Compliance"
+      "bank boards",
+      "risk oversight",
+      "board conduct",
+      "board minutes",
+      "risk management committee",
+      "box ticking",
+      "bank risk-taking",
+      "corporate governance"
     ],
     "industries": [
-      "Banking"
+      "banking"
     ],
     "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

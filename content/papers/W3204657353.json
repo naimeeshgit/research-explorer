@@ -38,35 +38,35 @@
   ],
   "abstract": "For several decades, the Journal of Public Policy & Marketing ( JPP&M) has stimulated and led debates with far-reaching implications for consumer well-being, global relationships, and, ultimately, human survival. The challenges we face have not disappeared but intensified. Today, we must respond to climate change, manage a global pandemic, and address disparities and inequities that threaten our planet in ways we are yet to comprehend fully. However, the JPP&M community remains well placed to inform responses to these crises. This article draws together perspectives on new and long-standing questions and challenges, as it highlights the increasing urgency of addressing inequities and embedding sustainability at the heart of policy making. Although progress addressing these complex questions often has been slow, the authors also identify compelling opportunities in the form of sound policies and good marketing and consumption practices in response to health crises, environmental degradation, injustice, automation, violence, and war. The transformational benefits following constructive engagement offer hope that, even when faced with unprecedented challenges, human resilience and ingenuity can create meaningful responses. As the authors address chronic and novel problems, they are confident that JPP&M's community of researchers, policy makers, and advocates will continue to bring innovation, insight, and rigor and play a leading role in discovering solutions, locally and globally.",
   "summary": {
-    "oneLiner": "The Journal of Public Policy & Marketing serves as a critical platform for addressing global crises through rigorous research on marketing, policy, and consumer well-being.",
-    "overview": "This article discusses the role of marketing research in tackling urgent global issues such as climate change, pandemics, and social inequality. The authors argue that while progress has been slow, there are significant opportunities to use sound policy and better consumption practices to create positive change. By combining academic rigor with advocacy, the community can help foster innovation and resilience in the face of complex societal threats. The piece ultimately advocates for embedding sustainability and equity at the center of future policy-making efforts.",
-    "question": "How can the marketing and public policy research community effectively address pressing global challenges like inequality, health crises, and environmental degradation?",
-    "method": "Not stated in the available text.",
+    "oneLiner": "A JPP&M community agenda arguing that marketing and public policy research should address climate change, pandemics, inequity and sustainability.",
+    "overview": "This article looks back on several decades of the Journal of Public Policy & Marketing (JPP&M), a scholarly journal on how marketing affects public policy and consumer well-being. The authors argue that major challenges such as climate change, a global pandemic, and inequities have intensified, and that the journal's research community is well placed to respond. They say progress on these complex problems has often been slow, but they identify opportunities in sound policy and good marketing and consumption practices. The article is a forward-looking agenda rather than a study that tests a specific hypothesis.",
+    "question": "Not stated in the available text. The abstract says the article draws together perspectives on new and long-standing questions and challenges for marketing and public policy research.",
+    "method": "Not stated in the available text. The abstract describes the article as drawing together perspectives, without naming a specific research method.",
     "data": "Not stated in the available text.",
     "findings": [
-      "The challenges of climate change, pandemics, and systemic inequities require urgent and renewed attention from the marketing and policy research community.",
-      "There are compelling opportunities for constructive engagement through better policy, marketing, and consumption practices to address these crises.",
-      "Transformational benefits are possible through human resilience and ingenuity when applied to chronic and novel global problems."
+      "Challenges such as climate change, a global pandemic, and disparities and inequities have not disappeared and have intensified, according to the authors.",
+      "Progress on these complex questions often has been slow, but the authors identify compelling opportunities through sound policies and good marketing and consumption practices.",
+      "The authors are confident that the JPP&M community of researchers, policy makers, and advocates can play a leading role in discovering solutions."
     ],
-    "whyItMatters": "For managers and policymakers, this highlights that marketing is not just a commercial tool but a vital lever for addressing global survival and equity, suggesting that sustainable and equitable strategies are increasingly critical for long-term impact.",
+    "whyItMatters": "The abstract suggests the article is meant to guide researchers, policy makers and advocates on which problems to prioritise, including addressing inequities, embedding sustainability in policy making, and responding to health crises, environmental degradation, automation, violence and war.",
     "topics": [
-      "consumer well-being",
-      "public policy",
+      "marketing and public policy",
       "sustainability",
-      "social equity",
-      "marketing ethics",
-      "global crisis management"
+      "climate change",
+      "inequity",
+      "public health crises",
+      "consumer well-being",
+      "research agenda",
+      "policy making"
     ],
     "industries": [],
-    "geographies": [
-      "Global"
-    ],
+    "geographies": [],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

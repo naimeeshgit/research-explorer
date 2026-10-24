@@ -20,28 +20,30 @@
   ],
   "abstract": "I study the impact of the world’s largest publicly funded health insurance plan for the poor on credit markets. India launched a health insurance plan that covered 500 million beneficiaries. The fact that opposition-ruled states did not implement the program for political reasons allows me to compare border districts of implemented and nonimplemented states within a difference-in-differences framework. I find that loan delinquency reduced significantly in implemented districts. Increased liquidity for loan repayment seems to be the mechanism at work. I rule out the federal-level ruling party’s influence as an explanation. This paper was accepted by Kay Giesecke, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01039 .",
   "summary": {
-    "oneLiner": "A large-scale public health insurance program in India reduced loan delinquency by providing households with increased liquidity for repayment.",
-    "overview": "This study examines how India's massive government-funded health insurance program for the poor affects the credit market. By using a natural experiment where some states did not adopt the program for political reasons, the author compares delinquency rates in neighboring districts. The results suggest that access to health insurance leads to fewer loan defaults because households have more available cash to meet their debt obligations. The study highlights a clear link between social safety nets and financial stability in the credit market.",
-    "question": "Does a large-scale publicly funded health insurance program for the poor lead to changes in credit market outcomes such as loan delinquency?",
-    "method": "A difference-in-differences framework comparing border districts between states that implemented the insurance program and those that did not.",
-    "data": "Districts across states in India following the launch of a national health insurance plan covering 500 million beneficiaries.",
+    "oneLiner": "India's health insurance program for the poor reduced loan delinquency in districts where it was implemented, suggesting improved liquidity for repayment.",
+    "overview": "The paper studies India's publicly funded health insurance plan for the poor, which covered about 500 million beneficiaries, and its effect on credit markets. Opposition-ruled states did not implement the program for political reasons, so the author compares border districts on either side of the implementation line. Using a difference-in-differences design (a method that compares changes over time between treated and untreated groups), the author finds that loan delinquency, meaning borrowers falling behind on payments, fell significantly in implemented districts. The author suggests this happened because the insurance raised households' liquidity, or available cash, for repaying loans, and rules out the federal ruling party's influence as an explanation.",
+    "question": "How does India's large publicly funded health insurance plan for the poor affect credit market outcomes, particularly loan delinquency?",
+    "method": "A difference-in-differences comparison (contrasting changes over time between treated and untreated groups) of border districts in states that implemented the program and neighbouring states that did not. The non-implementation is attributed to political reasons, which the author uses to isolate the program's effect. The author also reports evidence on the mechanism, namely increased liquidity for loan repayment, and tests whether federal-level ruling party influence explains the results.",
+    "data": "Border districts of implemented and nonimplemented Indian states. The abstract does not name the specific data source or the time period.",
     "findings": [
-      "Loan delinquency reduced significantly in districts where the health insurance program was implemented.",
-      "Increased liquidity for loan repayment is identified as the likely mechanism driving the reduction in delinquency.",
-      "The federal-level ruling party’s influence is ruled out as an explanation for the observed changes."
+      "Loan delinquency reduced significantly in implemented districts.",
+      "Increased liquidity for loan repayment seems to be the mechanism at work.",
+      "The federal-level ruling party's influence is ruled out as an explanation."
     ],
-    "whyItMatters": "The findings suggest that public health interventions can have positive spillover effects on credit markets and financial health by reducing the liquidity constraints faced by poor households during emergencies.",
+    "whyItMatters": "The abstract does not spell out practical implications. It does link the program to lower loan delinquency and better repayment liquidity, which suggests relevance for lenders and for policymakers designing social programs.",
     "topics": [
-      "Health Insurance",
-      "Credit Markets",
-      "Loan Delinquency",
-      "Financial Inclusion",
-      "Social Safety Nets",
-      "India"
+      "health insurance for the poor",
+      "India",
+      "loan delinquency",
+      "credit markets",
+      "difference-in-differences",
+      "liquidity",
+      "public health insurance",
+      "political economy"
     ],
     "industries": [
-      "Banking",
-      "Insurance"
+      "Banking and credit",
+      "Health insurance"
     ],
     "geographies": [
       "India"
@@ -49,9 +51,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

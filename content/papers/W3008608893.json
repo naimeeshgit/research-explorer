@@ -29,42 +29,45 @@
   ],
   "abstract": "The pervasive use of merchandise (i.e., noncash) incentives in sales compensation plans is an empirical and theoretical puzzle given the supposed superiority of cash incentives in the standard theory (i.e., principal–agent models) as well as the scant, and contradictory empirical evidence. The authors conducted a large-scale field intervention that switched 580 salespeople at a large frozen food manufacturer away from their cash plus “merchandise points” bonus to a commensurate all-cash bonus. After controlling for salesperson, seasonality, year, and target effects, the authors estimate that sales, on average, dropped by 4.36%. Furthermore, they estimated individual-level sales changes and effort changes to validate the incentive–effort–sales causal chain. The results show that the top salespeople experienced the largest drops in sales. A post-intervention survey of social and individual difference variables reveals that salespeople from households with more discretionary financial resources and those who think more abstractly about the uses of cash income exhibited smaller reductions in effort and sales. Although the absence of a control group prevents the authors from making strong causal inferences, this set of results nevertheless provides descriptive and suggestive evidence for separate mental accounts as the most promising explanation for the greater utility provided by merchandise incentives.",
   "summary": {
-    "oneLiner": "Replacing merchandise incentives with equivalent cash bonuses led to lower sales and effort, suggesting salespeople value merchandise more due to mental accounting.",
-    "overview": "Many companies use merchandise, like points for products, to motivate salespeople even though standard economic theory suggests cash is more efficient. This study conducted a field intervention at a frozen food company where sales teams were switched from a hybrid cash-and-points plan to a pure-cash plan of equal cost. Researchers found that sales and salesperson effort declined after the switch, contradicting the assumption that cash is always preferred. The results suggest that salespeople treat non-cash rewards as separate mental accounts, which can be more motivating than equivalent amounts of cash.",
-    "question": "Why do firms use merchandise incentive programs if standard principal-agent theory and stated preferences suggest cash should be more effective and preferred by employees?",
-    "method": "A large-scale field intervention (interrupted time series design) that switched sales compensation from a mixed cash-merchandise bonus to an equivalent all-cash bonus, combined with a post-intervention survey and a conjoint study to assess preferences.",
-    "data": "580 route salespeople at a large Midwestern frozen food manufacturer over a 9-month period (July 2011 to March 2012).",
+    "oneLiner": "Switching 580 salespeople from cash-plus-merchandise bonuses to all-cash bonuses was followed by a 4.36% average sales drop, with effort falling in parallel.",
+    "overview": "The authors ran a large field intervention at a Midwestern frozen foods manufacturer, moving 580 route salespeople from a bonus that mixed cash with redeemable merchandise points to an all-cash bonus of equal cost to the firm. Average monthly sales fell by an estimated 4.36% after the switch, and the largest drops came from top performers. Survey results suggest that salespeople with more discretionary household income and more abstract thinking about cash showed smaller effort and sales drops, which the authors read as suggestive evidence for separate mental accounts. Because the study had no control group, the authors say they cannot make strong causal claims.",
+    "question": "Are merchandise incentives (points redeemable for goods) as effective as cash incentives at motivating salesperson effort and sales, and what explains any difference?",
+    "method": "A before-after field intervention without a control group, analysed with regressions on monthly territory sales that control for salesperson, year, prior-year sales and target effects. The authors also estimated individual-level effort using a method from Bandiera, Rasul and Barankay (2005), ran random coefficients models, and surveyed salespeople about background factors. A follow-up choice-based conjoint study measured stated preferences.",
+    "data": "Route-level monthly sales, compensation and target data for 580 routes from June or July 2011 to March 2012, with the switch in October 2011. Routes that experienced turnover (96 of 676) were excluded. The survey had 216 usable responses out of 263 returned, and the conjoint study had 148 salespeople. The setting is a Midwestern frozen foods manufacturer's direct store delivery sales force in the United States.",
     "findings": [
-      "Average sales dropped by 4.36% following the switch from merchandise incentives to pure cash.",
-      "The reduction in sales was associated with a decrease in salesperson effort.",
-      "Top-performing salespeople exhibited the largest drops in both sales and effort.",
-      "Salespeople from households with more discretionary financial resources exhibited smaller reductions in effort and sales.",
-      "Salespeople who think more abstractly about the uses of cash income exhibited smaller reductions in effort and sales.",
-      "Salespeople self-reported a preference for cash over merchandise in a conjoint study, which conflicted with their actual behavioral response to the incentive change."
+      "Sales dropped by an average of 4.36% after the switch to all-cash bonuses, after controlling for salesperson, seasonality, year and target effects; the authors say this is a mean drop arising from the intervention.",
+      "Individual-level estimates show a negative intervention effect for all salespeople, with the size of the drop increasing from the lowest to the top performers.",
+      "Effort estimates fell after the switch (mean from .58 to .54), and the authors say individual effort drops parallel individual sales drops, which they read as supporting effort as the intervening variable.",
+      "More productive salespeople showed larger effort reductions (rank correlation -.10), which the authors say leads to disproportionately larger sales reductions among the highest-productivity salespeople.",
+      "Survey results suggest that household non-discretionary expense fraction and abstraction level are associated with smaller preference gaps between merchandise and cash; the authors caution these results are only suggestive and not stable when all variables are entered together.",
+      "In a stated-preference conjoint study, salespeople reported greater utility from cash than from equally costly merchandise points, a result the authors say diverges from their behavioural findings.",
+      "The authors say the absence of a control group prevents strong causal inferences, though they report several robustness checks against alternative explanations."
     ],
-    "whyItMatters": "The study suggests that managers should be cautious when relying on self-reported preference surveys for designing compensation, as these may not reflect actual behavior. It also provides a behavioral economic justification for the widespread use of non-cash incentives, as they may act as commitment devices that help employees manage discretionary resources better than cash.",
+    "whyItMatters": "The authors argue the results provide a business case for merchandise incentive plans, since salespeople behaved as if they preferred merchandise to equally costly cash, and this may explain their wide use in practice. They also suggest that stated preferences (surveys or conjoint studies) may be a hazardous basis for choosing compensation plans. For managers, the paper implies that cash-only plans may reduce effort among top performers, though the authors note the lack of a control group limits such conclusions.",
     "topics": [
       "sales compensation",
-      "incentives",
-      "non-monetary compensation",
+      "merchandise incentives",
+      "cash vs non-cash rewards",
       "mental accounting",
-      "field experiments",
-      "salesforce management",
-      "behavioral economics"
+      "field experiment",
+      "salesforce incentives",
+      "incentive plan design",
+      "effort and sales"
     ],
     "industries": [
-      "frozen food manufacturing",
-      "consumer packaged goods"
+      "frozen foods manufacturing",
+      "consumer packaged goods",
+      "sales force management"
     ],
     "geographies": [
-      "United States"
+      "United States (Midwest)"
     ],
     "basis": "full_text",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

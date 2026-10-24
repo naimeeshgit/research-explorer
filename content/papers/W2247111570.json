@@ -38,28 +38,30 @@
   ],
   "abstract": "The objective of this study was to quantify the impact of a new technology to communicate the results of an infant HIV diagnostic test on test turnaround time and to quantify the association between late delivery of test results and patient loss to follow-up. We used data collected during a pilot implementation of Global Package Radio Service (GPRS) printers for communicating results in the early infant diagnosis program in Mozambique from 2008 through 2010. Our dataset comprised 1757 patient records, of which 767 were from before implementation and 990 from after implementation of expedited results delivery system. We used multivariate logistic regression model to determine the association between late result delivery (more than 30 days between sample collection and result delivery to the health facility) and the probability of result collection by the infant's caregiver. We used a sample selection model to determine the association between late result delivery to the facility and further delay in collection of results by the caregiver. The mean test turnaround time reduced from 68.13 to 41.05 days post-expedited results delivery system. Caregivers collected only 665 (37.8%) of the 1757 results. After controlling for confounders, the late delivery of results was associated with a reduction of approximately 18% (0.44 vs. 0.36; P < 0.01) in the probability of results collected by the caregivers (odds ratio = 0.67, P < 0.05). Late delivery of results was also associated with a further average increase in 20.91 days of delay in collection of results (P < 0.01). Early infant diagnosis program managers should further evaluate the cost-effectiveness of operational interventions (eg, GPRS printers) that reduce delays.",
   "summary": {
-    "oneLiner": "Expediting HIV test results using GPRS printers reduces turnaround time and significantly increases the probability of caregivers collecting those critical test results.",
-    "overview": "This study examines the effectiveness of using GPRS printers to speed up the communication of infant HIV test results in Mozambique. The researchers found that implementing this technology cut wait times for test results by over 25 days. They observed that faster delivery significantly improves the chances that caregivers will actually collect the results, whereas delayed delivery leads to higher patient loss. Ultimately, the study highlights how operational improvements in diagnostic processes can directly influence clinical engagement.",
-    "question": "What is the impact of using GPRS printers on HIV test turnaround time, and how does the delay in result delivery affect the likelihood of caregivers collecting those results?",
-    "method": "The researchers employed a multivariate logistic regression model and a sample selection model to analyze the relationship between result delivery times and caregiver collection behavior.",
-    "data": "1,757 patient records from an early infant diagnosis program in Mozambique between 2008 and 2010 (767 pre-implementation and 990 post-implementation).",
+    "oneLiner": "GPRS printers cut infant HIV result turnaround in Mozambique from 68 to 41 days; late delivery was linked to fewer caregiver collections.",
+    "overview": "This study looks at a pilot in Mozambique's early infant HIV diagnosis program that used GPRS printers (mobile-network printers) to send test results to clinics faster. Mean turnaround time, meaning the days from sample collection to result delivery, fell from 68.13 to 41.05 days after the pilot. The authors used regression models, which estimate associations while adjusting for other factors, to test whether late delivery was linked to whether caregivers collected results. Late delivery was associated with a lower probability of collection and with a further average delay of about 21 days in collection. The authors recommend that program managers evaluate the cost-effectiveness of operational fixes like these.",
+    "question": "What is the impact of a new results-communication technology on infant HIV test turnaround time, and how is late delivery of results associated with patient loss to follow-up?",
+    "method": "The authors used a multivariate logistic regression (a model that estimates the association between a yes/no outcome and several factors at once) to examine late result delivery and the probability that caregivers collected results. They used a sample selection model (a model that corrects for the fact that only some patients end up in the data) to examine whether late delivery to the facility was associated with further delays in caregiver collection.",
+    "data": "Patient records from a pilot implementation of GPRS printers for communicating results in the early infant diagnosis program in Mozambique, 2008 through 2010. The dataset included 1,757 patient records: 767 from before implementation and 990 from after implementation of the expedited results delivery system.",
     "findings": [
-      "Implementation of an expedited results delivery system reduced mean test turnaround time from 68.13 to 41.05 days.",
-      "Late delivery of results (more than 30 days) is associated with an 18% reduction in the probability of caregivers collecting the results.",
-      "Late delivery of results is associated with an additional average delay of 20.91 days in result collection by caregivers."
+      "Mean test turnaround time fell from 68.13 days to 41.05 days after the expedited results delivery system was introduced.",
+      "Caregivers collected only 665 (37.8%) of the 1,757 results.",
+      "After controlling for confounders, late delivery (more than 30 days from sample collection to delivery at the facility) was associated with an approximately 18% reduction in the probability of results being collected by caregivers (0.44 vs. 0.36; P < 0.01); odds ratio = 0.67, P < 0.05.",
+      "Late delivery of results was also associated with a further average increase of 20.91 days in the delay of result collection (P < 0.01)."
     ],
-    "whyItMatters": "The findings suggest that operational interventions, such as GPRS-enabled reporting, can play a critical role in public health by mitigating administrative bottlenecks that cause patients to drop out of care systems.",
+    "whyItMatters": "The authors state that early infant diagnosis program managers should further evaluate the cost-effectiveness of operational interventions, such as GPRS printers, that reduce delays. The findings suggest that faster result delivery is associated with better caregiver collection, which bears on loss to follow-up.",
     "topics": [
-      "operations management",
-      "healthcare delivery",
-      "HIV diagnosis",
-      "process improvement",
-      "patient follow-up",
-      "logistics in healthcare"
+      "HIV early infant diagnosis",
+      "turnaround time",
+      "loss to follow-up",
+      "GPRS printers",
+      "health operations",
+      "results delivery",
+      "Mozambique",
+      "program evaluation"
     ],
     "industries": [
-      "Healthcare",
-      "Public Health"
+      "Public health (HIV diagnostic program)"
     ],
     "geographies": [
       "Mozambique"
@@ -67,9 +69,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

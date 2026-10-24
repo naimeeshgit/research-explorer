@@ -29,28 +29,30 @@
   ],
   "abstract": "Abstract Although the literature has studied the impact of social ties on credit markets, the possibility of social relations causing contagion remains unexplored. We study the Indian caste system and the group loan structure, where members screen and monitor each other. Using loan‐month level data provided by a nonbanking lender, we find that shocks take the form of a loan default contagion within local caste networks, plausibly due to preexisting economic linkages. Several robustness tests rule out delayed propagation of shocks being mischaracterized as a contagion. Thus, we highlight a dark side of social ties in credit markets.",
   "summary": {
-    "oneLiner": "Social ties within caste networks in group-based lending can facilitate the rapid spread of loan defaults, revealing a dark side to local connectivity.",
-    "overview": "In group lending structures where members monitor one another, social ties are often seen as a tool for credit stability. However, this study suggests that these same social bonds can act as channels for financial distress to spread. When one borrower defaults, the shock can cascade through their local caste network, potentially due to the economic relationships that already bind these members together.",
-    "question": "Does the Indian caste system, as a form of social relation in group lending, facilitate the contagion of loan defaults?",
-    "method": "Empirical analysis using loan-month level data to observe default patterns within caste networks.",
-    "data": "Loan-month level data provided by a nonbanking lender in India.",
+    "oneLiner": "Loan defaults spread through local caste networks in India's group lending, suggesting social ties can transmit credit shocks, not just support borrowers.",
+    "overview": "This paper asks whether social ties can spread financial trouble, not just financial support, through credit markets. The authors study group loans in India, where borrowers from the same caste screen and monitor each other. Using loan-month data from a nonbanking lender, they find that defaults spread within local caste networks, a pattern they call contagion (one borrower's default leading to others' defaults). They suggest this is plausibly due to existing economic links between group members, and robustness tests indicate the result is not just delayed effects of a shock being mislabeled as contagion.",
+    "question": "Can social relationships cause loan default contagion in credit markets, and not only help screen and monitor borrowers?",
+    "method": "Analysis of loan-month level data, supported by several robustness tests to rule out delayed propagation of shocks being mistaken for contagion. The abstract does not describe the estimation technique in more detail.",
+    "data": "Loan-month level data provided by a nonbanking lender, in the context of group loans and the Indian caste system. Sample size and time period are not stated in the available text.",
     "findings": [
-      "Shocks in credit markets take the form of a loan default contagion within local caste networks.",
-      "This contagion is plausibly driven by preexisting economic linkages between members.",
-      "Robustness tests rule out the possibility that delayed propagation of shocks is being mischaracterized as contagion."
+      "Shocks take the form of a loan default contagion within local caste networks.",
+      "The contagion is plausibly due to preexisting economic linkages between network members.",
+      "Several robustness tests rule out delayed propagation of shocks being mischaracterized as contagion."
     ],
-    "whyItMatters": "The study highlights that social ties, which are often encouraged in microfinance and group lending to mitigate risk, can also introduce systemic vulnerabilities that managers and lenders must account for when designing credit products.",
+    "whyItMatters": "The authors highlight a dark side of social ties in credit markets: the same networks that help group lenders screen and monitor borrowers can also transmit defaults across members.",
     "topics": [
-      "credit markets",
+      "loan default contagion",
       "social networks",
+      "caste",
       "group lending",
-      "default contagion",
-      "microfinance",
-      "caste systems"
+      "credit markets",
+      "social ties",
+      "nonbank lending",
+      "India"
     ],
     "industries": [
-      "banking",
-      "financial services"
+      "Nonbanking lending",
+      "Group loans"
     ],
     "geographies": [
       "India"
@@ -58,9 +60,9 @@
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v2",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

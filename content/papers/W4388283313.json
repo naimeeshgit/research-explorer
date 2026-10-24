@@ -35,40 +35,46 @@
   ],
   "abstract": "BACKGROUND Tuberculosis (TB) is a major global health concern, causing 1.5 million deaths in 2020. Diagnostic tests for TB are often inaccurate, expensive, and inaccessible, making chest X-rays (CXRs) augmented with Artificial Intelligence (AI) a promising solution. However, whether providers are willing to adopt AI is not apparent. OBJECTIVE The study seeks to understand the attitude of AYUSH (Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homoeopathy) and informal healthcare providers, who we jointly call AIPs, towards adopting AI for TB diagnosis. We chose to study these providers as they are the first point of contact for a majority of TB patients. METHODS We conducted a cross-sectional survey of 406 AIPs across the states of Jharkhand (162 participants) and Gujarat (244 participants) in India. We designed the survey questionnaire to assess the AIPs’ confidence in treating presumptive tuberculosis (TB) patients; their trust in local radiologists’ reading of the CXR images; their beliefs regarding the diagnostic capabilities of AI; and their willingness to adopt AI for TB diagnosis. RESULTS After removing incomplete responses, we found that 93.7% (270/288) of AIPs believed that AI improved the accuracy of TB diagnosis, and 69.4% (200/288) were willing to try AI. AIPs who were more confident in diagnosing TB and had greater trust in the local radiologists were more likely to believe in AI-based TB diagnosis. However, we found significant differences in AIPs’ willingness for AI adoption across the two states. Specifically, in Gujarat, a state with better and more accessible healthcare infrastructure, 73.4% (155/211) were willing to try AI; and in Jharkhand, 58.4.% (45/77) were willing to try AI. Moreover, AIPs in Gujarat who showed higher trust in the local radiologists were less likely to try AI. In contrast, in Jharkhand, those who showed higher trust in the local radiologists were more likely to try AI. CONCLUSIONS While most AIPs believed in the potential benefits of AI-based TB diagnosis, many did not intend to try AI, indicating that the expected benefits of AI measured in terms of technological superiority may not directly translate to impact on the ground. Improving beliefs among AIPs with poor access to radiology services or those who are less confident of diagnosing TB is likely to result in greater impact of AI on the ground.",
   "summary": {
-    "oneLiner": "While most informal healthcare providers in India believe AI improves TB diagnosis, a significant gap remains between this belief and actual adoption intent.",
-    "overview": "This study examined how informal and traditional healthcare providers (AIPs) in India view using AI for tuberculosis (TB) diagnosis. Although nearly 94% of providers surveyed believe AI improves diagnostic accuracy, only about 69% expressed a willingness to use the technology. The findings reveal that geographic location and existing levels of trust in traditional local radiologists significantly influence whether a provider is open to adopting AI. Ultimately, the authors suggest that simply offering superior technology is not enough to ensure its use in frontline healthcare settings.",
-    "question": "What are the attitudes of AYUSH and informal healthcare providers towards adopting AI for TB diagnosis in India?",
-    "method": "A cross-sectional survey of 406 participants was conducted to assess confidence in TB treatment, trust in local radiologists, beliefs about AI capabilities, and willingness to adopt AI.",
-    "data": "The sample consists of 288 valid responses from AYUSH and informal healthcare providers across the states of Jharkhand and Gujarat, India.",
+    "oneLiner": "Most informal and AYUSH providers in two Indian states believe AI improves TB diagnosis, but fewer than three-quarters say they would try it.",
+    "overview": "Tuberculosis (TB) is a major global killer, and chest X-rays read with artificial intelligence (AI) are proposed as a cheaper, more accessible way to diagnose it. This study asks whether AYUSH providers (practitioners of Ayurveda, Yoga, Unani, Siddha and Homoeopathy) and other informal healthcare providers, who are often the first point of contact for TB patients, are willing to adopt AI. A survey of 406 such providers in Jharkhand and Gujarat found that most believe AI improves diagnostic accuracy, and about 69% (of the analysed responses) were willing to try it. Willingness differed across the two states and depended on how the providers felt about local radiologists, so the authors argue that belief in the technology alone may not translate into real-world impact.",
+    "question": "Are AYUSH and informal healthcare providers willing to adopt AI for TB diagnosis from chest X-rays, and what shapes their attitudes towards it?",
+    "method": "A cross-sectional survey, meaning a one-time snapshot of respondents' views at a single point in time. The questionnaire assessed providers' confidence in treating presumptive TB patients, their trust in local radiologists' reading of chest X-rays, their beliefs about AI's diagnostic capabilities, and their willingness to adopt AI. The authors report associations between these attitudes and willingness to try AI, which are not causal claims.",
+    "data": "Survey responses from 406 AYUSH and informal healthcare providers (referred to as AIPs) in the Indian states of Jharkhand (162 participants) and Gujarat (244 participants). After removing incomplete responses, the analysed sample was 288 providers, including 211 in Gujarat and 77 in Jharkhand. The abstract does not state the survey period.",
     "findings": [
-      "93.7% of providers believed that AI improves the accuracy of TB diagnosis.",
-      "69.4% of providers expressed a willingness to try AI for TB diagnosis.",
-      "Providers who were more confident in diagnosing TB and had greater trust in local radiologists were more likely to believe in AI-based diagnosis.",
-      "Willingness to adopt AI varied by region, with 73.4% in Gujarat willing to try compared to 58.4% in Jharkhand.",
-      "In Gujarat, higher trust in local radiologists was associated with a lower likelihood of trying AI, whereas in Jharkhand, higher trust was associated with a greater likelihood of trying it."
+      "93.7% (270 of 288) of AIPs believed that AI improved the accuracy of TB diagnosis.",
+      "69.4% (200 of 288) were willing to try AI.",
+      "AIPs who were more confident in diagnosing TB and had greater trust in local radiologists were more likely to believe in AI-based TB diagnosis.",
+      "Willingness to adopt AI differed significantly across the two states: 73.4% (155 of 211) in Gujarat, a state the authors describe as having better and more accessible healthcare infrastructure, versus 58.4% (45 of 77) in Jharkhand.",
+      "In Gujarat, AIPs with higher trust in local radiologists were less likely to try AI. In Jharkhand, those with higher trust in local radiologists were more likely to try AI.",
+      "The authors conclude that many AIPs did not intend to try AI despite believing in its benefits, suggesting that expected benefits measured by technological superiority may not directly translate to impact on the ground.",
+      "The authors suggest that improving beliefs among AIPs with poor access to radiology services or lower confidence in diagnosing TB is likely to result in greater impact of AI on the ground."
     ],
-    "whyItMatters": "The study suggests that technology developers and policymakers cannot assume that perceived technological superiority will lead to adoption. Efforts to promote AI should be tailored to specific local contexts, focusing particularly on providers who lack access to traditional radiology services or lack confidence in their own diagnostic capabilities.",
+    "whyItMatters": "The authors suggest that technical accuracy alone does not guarantee that AI will be used in practice, so programme designers need to consider provider attitudes. They point to providers with poor access to radiology services and those less confident in diagnosing TB as groups where improving beliefs about AI could have the greatest impact.",
     "topics": [
-      "AI adoption",
-      "healthcare technology",
+      "AI in healthcare",
       "tuberculosis diagnosis",
+      "chest X-ray",
       "informal healthcare",
-      "technology acceptance",
+      "AYUSH providers",
+      "technology adoption",
+      "provider attitudes",
       "India healthcare",
-      "provider behavior"
+      "radiologist trust"
     ],
     "industries": [
       "Healthcare"
     ],
     "geographies": [
-      "India"
+      "India",
+      "Jharkhand",
+      "Gujarat"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []

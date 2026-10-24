@@ -29,40 +29,44 @@
   ],
   "abstract": "Problem definition: Beneficiaries of social assistance programs with transfers of undifferentiated commodities often have a designated agent to collect their entitlements from. This gives monopoly power to agents over beneficiaries. When coupled with weak government monitoring, agents do not have incentives to adhere to stipulated operating guidelines, leading to reduced uptake by beneficiaries. Some governments are attempting to break the monopoly by allowing beneficiaries to choose agents. However, the impact of choice on uptake may be limited by lack of alternate agents in beneficiaries’ vicinities, restricted ability of agents to compete with undifferentiated commodities, and collusion among agents. Methodology/results: Using a reverse difference-in-differences framework on data from a food security program in two neighboring states in India, Andhra Pradesh and Telangana, we find that providing agent choice results in a 6.6% increase in the quantity of entitlements collected by the beneficiary households. We also find that increase in uptake is about four times higher in regions with high agent density compared with those with low agent density. This emphasizes the importance of having an alternate agent in the vicinity for choice to be effective. Nearly all of the increase in uptake is attributable to new beneficiaries collecting entitlements from their preassigned agent. This is suggestive of agents improving adherence to operating guidelines in response to choice. We find associative evidence for this response in the number of days agents keep their shops open. Managerial implications: Governments executing in-kind transfers of undifferentiated commodities are piloting interventions to provide choice to their beneficiaries. Replacement of in-kind transfers with cash, an increasingly popular intervention, may be challenging in volatile markets, as the magnitude of the transfer needs to be periodically adjusted. Our results indicate that alternate designs of providing choice even in a limited form, that is, the place where the beneficiaries can collect their entitlements with products and prices fixed, can present a viable alternative. Funding: This research was partially supported by a grant from the Omidyar Network to the Digital Identity Research Initiative at the Indian School of Business. Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2022.0528 .",
   "summary": {
-    "oneLiner": "Allowing beneficiaries to choose their agent for receiving social assistance food entitlements increases uptake, particularly in areas with higher agent density.",
-    "overview": "Social assistance programs often force beneficiaries to collect supplies from a single, preassigned agent, which can lead to poor service and reduced access. By introducing 'agent choice,' governments can break this monopoly and incentivize agents to follow operating rules. This study shows that enabling such choice leads to a measurable increase in how much aid beneficiaries actually collect. The effectiveness of this choice is strongly linked to having other options physically nearby.",
-    "question": "Does providing beneficiaries the choice of agent for collecting social assistance entitlements improve uptake of those services?",
-    "method": "The authors used a reverse difference-in-differences framework to analyze policy implementation.",
-    "data": "Data from a food security program in the Indian states of Andhra Pradesh and Telangana.",
+    "oneLiner": "Letting food-aid beneficiaries choose their ration agent raised collections by 6.6%, with larger gains where agents were densely located.",
+    "overview": "In India's subsidised food programme, beneficiaries are assigned one shop (agent) to collect grain, and that monopoly lets agents collect less of their entitlements. The authors study what happens when governments let beneficiaries choose their agent, using a reverse difference-in-differences comparison (a method that tracks changes over time across groups that were and were not affected) in two neighbouring states, Andhra Pradesh and Telangana. They find that choice raised the quantity of entitlements collected by 6.6%. The increase was about four times larger in areas with many agents nearby, and the authors suggest it mostly came from agents improving how they follow operating rules, such as keeping shops open more days. They also argue that limited choice, with fixed products and prices, may be a practical alternative to cash transfers.",
+    "question": "Does giving beneficiaries of an in-kind social assistance programme the choice of agent increase how much of their entitlement they collect, and what mechanisms drive any change?",
+    "method": "A reverse difference-in-differences framework, comparing changes in uptake over time for beneficiaries affected by agent choice against those not affected. The authors also examine how the effect varies with agent density and whether the increase comes from new or existing beneficiaries, and look at shop opening days as associative evidence of agent behaviour.",
+    "data": "Administrative data from a food security programme in two neighbouring Indian states, Andhra Pradesh and Telangana. The abstract does not state the time period.",
     "findings": [
-      "Providing agent choice resulted in a 6.6% increase in the quantity of entitlements collected by beneficiary households.",
-      "The increase in uptake is approximately four times higher in regions with high agent density compared to regions with low density.",
-      "The increase in uptake is primarily driven by beneficiaries collecting from their original preassigned agent, suggesting that agents improved their adherence to operating guidelines due to the threat of competition.",
-      "There is associative evidence that agents responded to the introduction of choice by keeping their shops open for more days."
+      "Providing agent choice is associated with a 6.6% increase in the quantity of entitlements collected by beneficiary households.",
+      "The increase in uptake is about four times higher in regions with high agent density than in regions with low agent density, which the authors say emphasises the importance of an alternate agent being nearby.",
+      "Nearly all of the increase is attributable to new beneficiaries collecting from their preassigned agent, which the authors describe as suggestive of agents improving adherence to operating guidelines.",
+      "The authors find associative evidence for this response in the number of days agents keep their shops open."
     ],
-    "whyItMatters": "For governments managing in-kind social transfers, providing beneficiaries with the flexibility to choose their service point is a viable, actionable alternative to replacing physical distribution with cash transfers, especially in volatile markets.",
+    "whyItMatters": "For governments running in-kind transfers, the paper suggests that choice of agent can improve uptake, provided alternative agents are accessible nearby. The authors argue that limited choice, where the place of collection is selectable but products and prices are fixed, may be a viable alternative to replacing in-kind transfers with cash, which may be hard to manage in volatile markets.",
     "topics": [
-      "Social assistance programs",
-      "Public distribution system",
-      "Agent choice",
-      "Service operations management",
-      "Operational transparency",
-      "Government policy",
-      "Food security"
+      "social assistance programs",
+      "agent choice",
+      "food security",
+      "in-kind transfers",
+      "public distribution system",
+      "monopoly power",
+      "difference-in-differences",
+      "India",
+      "beneficiary uptake",
+      "government monitoring"
     ],
     "industries": [
-      "Public sector",
-      "Social services"
+      "Public distribution of food grains"
     ],
     "geographies": [
-      "India"
+      "India",
+      "Andhra Pradesh",
+      "Telangana"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": [

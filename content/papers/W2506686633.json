@@ -29,39 +29,44 @@
   ],
   "abstract": "The total market size for edible oils was estimated to be 13 million tons out of which imports amounted to about 4 million tons. This made India the largest importer of edible oils in the world. Various edible oils are consumed in India depending on the regional tastes and preferences. A differential in the duties on oil seed and oils made it favorable to import edible oils instead of oilseeds. Similarly, a differential duty between the refined oil and the raw oil encouraged the import of raw oil in order to boost the domestic refineries. Adani Wilmar was a part of the Adani group, which started as a trading mainly into exports of commodities. The group had recently entered into the infrastructure sector with the building of the Mundra port. The group had formed a joint venture with Wilmar Trading of Singapore to enter into the edible oil business. The company was setting up a refinery with capacity of 600 metric tonnes per day. It planned to sell half of the production as bulk oil and the rest as packed oil. The company viewed supply chain management as one of the important means to get competitive edge. Approximately 70% of the total logistics cost was accounted for by transportation cost. Some of the key decisions that the company faced with was the location of the warehouse, more choice and routing.",
   "summary": {
-    "oneLiner": "Adani Wilmar leveraged strategic logistics and refinery operations as part of its joint venture to capture market share in India's edible oil industry.",
-    "overview": "Adani Wilmar, a joint venture between the Adani Group and Wilmar Trading, aimed to enter the Indian edible oil market by setting up a major refinery. The company identified supply chain management, specifically optimizing transportation and warehousing, as a critical source of competitive advantage. Because transportation accounts for 70% of logistics costs, the firm faced significant operational decisions regarding facility location and routing. The broader context includes India's status as a top global edible oil importer, influenced by domestic duty structures on raw versus refined oils.",
-    "question": "How did Adani Wilmar plan to establish a competitive presence in the Indian edible oil industry through supply chain and operational strategy?",
+    "oneLiner": "A business case on Adani Wilmar, a new edible oil joint venture, examining import-driven supply and logistics decisions in India's large edible oil market.",
+    "overview": "India was estimated to consume about 13 million tons of edible oils, with roughly 4 million tons imported, making it the largest importer in the world. Duty differences between oilseeds and oils, and between refined and raw oil, made importing oil more attractive than importing seeds or refining domestically. Adani Wilmar, a joint venture between the Adani group and Wilmar Trading of Singapore, was setting up a 600-tonne-per-day refinery and planned to sell half its output as bulk oil and half as packed oil. The company saw supply chain management as a source of competitive advantage, with transportation making up about 70% of logistics cost, and faced decisions on warehouse location, product choice and routing.",
+    "question": "Not stated in the available text.",
     "method": "Not stated in the available text.",
     "data": "Not stated in the available text.",
     "findings": [
-      "The company viewed supply chain management as a primary means to achieve a competitive edge.",
-      "Transportation costs represented approximately 70% of the firm's total logistics expenditure.",
-      "Duty differentials in India made it more favorable to import raw oils rather than oilseeds or refined oils, influencing refinery investment."
+      "India was estimated to have a total edible oil market of about 13 million tons, of which about 4 million tons were imports, making it the largest importer of edible oils in the world.",
+      "Import duty differentials between oilseeds and oils, and between refined and raw oil, encouraged importing edible oils rather than oilseeds and raw oil rather than refined oil.",
+      "Approximately 70% of total logistics cost was accounted for by transportation cost.",
+      "The company viewed supply chain management as one of the important means to get a competitive edge."
     ],
-    "whyItMatters": "The study highlights how firms entering commodity markets in import-dependent environments must balance trade policy incentives with rigorous supply chain and logistics optimization to remain competitive.",
+    "whyItMatters": "The paper frames the case as a decision problem for a company entering edible oils, where supply chain choices such as warehouse location, product mix and routing affect competitiveness, given that transportation is the dominant logistics cost. The abstract does not state explicit policy recommendations.",
     "topics": [
       "supply chain management",
       "edible oil industry",
-      "logistics strategy",
-      "joint ventures",
-      "operational strategy",
-      "import duty policy"
+      "India imports",
+      "logistics cost",
+      "warehouse location",
+      "transportation routing",
+      "joint venture",
+      "import duty",
+      "Adani Wilmar"
     ],
     "industries": [
-      "Edible oil",
-      "Logistics",
-      "Infrastructure"
+      "edible oils",
+      "agribusiness",
+      "logistics"
     ],
     "geographies": [
-      "India"
+      "India",
+      "Singapore"
     ],
     "basis": "abstract_only",
     "source": {
       "kind": "ai-pipeline",
-      "model": "gemini-3.1-flash-lite",
-      "prompt": "card_v1",
-      "createdAt": "2026-09-29"
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
     }
   },
   "versions": []
