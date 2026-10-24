@@ -1,0 +1,50 @@
+{
+  "slug": "anand-nandkumar",
+  "name": "Anand Nandkumar",
+  "title": "Professor of Strategy (currently on leave)",
+  "area": "Strategy",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/anand-nandkumar",
+  "openalex": ["A5063359306"],
+  "photo": null,
+  "profile": {
+    "summary": "Anand Nandkumar studies how firms come up with new ideas and turn them into businesses, mainly in pharmaceuticals, biotechnology and software. His work looks at how patent and IP regimes, including India's patent reforms, shape where multinationals do R&D, whom they staff on it and how drug markets respond; how markets for technology change which startup capabilities pay off; and how investors, analysts and even courts steer firms' innovation choices. ISB lists him as Professor of Strategy, currently on leave; his CV shows him at the University at Buffalo since fall 2025.",
+    "themes": [
+      {
+        "name": "Patents, IP regimes and global R&D",
+        "description": "How the strength of intellectual property protection, in India and elsewhere, shapes multinationals' offshore R&D staffing, how they guard know-how, how drug prices and product mix respond, and whether courts treat foreign patent holders fairly.",
+        "papers": ["W2159344864", "W3027371229", "X-anand-nandkumar-2024-patent-drugs", "W4401475163", "W1493413488", "W2262637899", "W2443595414", "W2521424917", "W2021912977"]
+      },
+      {
+        "name": "Markets for technology and entrepreneurial strategy",
+        "description": "How the ability to buy technology changes the value of startups' technical and marketing capabilities, why founders with better outside options cash out or fail faster, and how startups fare in the information-security market.",
+        "papers": ["W1995007392", "W2891227922", "W1830785613", "W1601299193", "W7134353773", "X-anand-nandkumar-2025-training-errors", "W2121713513", "W2123258673", "W141628768", "W2121838224", "W1590087668"]
+      },
+      {
+        "name": "Investors, analysts and incumbent innovation",
+        "description": "How shareholder expectations and analyst (mis)valuation push established firms toward or away from digital and exploratory innovation.",
+        "papers": ["W4385221332", "W2837282948", "W7169623890", "W3082148977"]
+      },
+      {
+        "name": "Organizing R&D, funding and learning",
+        "description": "How firms and funders allocate resources across competing projects and people, from redundant R&D in pharma to research grants, and how individuals learn on the job.",
+        "papers": ["W4402135884", "W4392975105", "W220227735", "W2328128863", "W1965215176", "W2765097591", "X-anand-nandkumar-2025-call-centers", "W265739692"]
+      }
+    ],
+    "talkTo": [
+      "Patent strength, generics and drug pricing in India",
+      "Protecting know-how in offshore R&D and captive centres in India",
+      "Startup exits: cash-out versus survival and founder opportunity costs",
+      "How investor and analyst expectations shape digital transformation",
+      "Running competing R&D teams inside one firm",
+      "Litigation risk for foreign firms in home-country courts"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/anand-nandkumar",
+      "https://management.buffalo.edu/faculty/academic-departments/operations-management-strategy/faculty/anand-nandkumar.html",
+      "https://management.buffalo.edu/content/dam/mgt/Faculty-and-Research/OMS/Documents/anand-nandkumar.pdf",
+      "https://api.openalex.org/authors/A5063359306",
+      "https://eprints.exchange.isb.edu/view/isb_creators/Nandkumar=3AA=3A=3A.html"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

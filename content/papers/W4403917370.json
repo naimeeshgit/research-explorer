@@ -1,0 +1,49 @@
+{
+  "id": "W4403917370",
+  "title": "Optimal asset allocation and nonlinear return predictability from the dividend-price ratio",
+  "year": 2024,
+  "date": "2024-10-30",
+  "type": "article",
+  "venue": "Annals of Operations Research",
+  "doi": "https://doi.org/10.1007/s10479-024-06332-7",
+  "url": "https://link.springer.com/article/10.1007/s10479-024-06332-7",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    { "name": "Fabrizio Ghezzi" },
+    { "name": "Anindo Sarkar", "isb": "anindo-sarkar" },
+    { "name": "Thomas Quistgaard Pedersen" },
+    { "name": "Allan Timmermann" }
+  ],
+  "isb": ["anindo-sarkar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Nonlinear models using the dividend-price ratio sharply improve stock-allocation results in-sample across five countries, but real-time out-of-sample gains are weak and mixed.",
+    "overview": "Can investors time the stock market using the dividend-price ratio (dividends relative to price), and does allowing for nonlinear relationships help? The authors extend the standard present-value approximation to show why expected returns might depend on how far the ratio strays from its average, then test linear, quadratic, regime-switching and machine-learning models (regression trees, random forests, neural networks) on stock markets in the US, UK, France, Germany and Japan. Nonlinear, time-varying models fit the equity risk premium much better in-sample and deliver large portfolio gains on paper. Out-of-sample, using only data available in real time, the gains are much weaker and vary by country and model. (ISB lists the paper under an earlier title, \"Optimal Allocation to Stocks in a Model with Nonlinear Dynamics from the Dividend-Price Ratio\".)",
+    "question": "Is the link between the dividend-price ratio and future stock returns nonlinear and time-varying, and can investors exploit it to decide how much to hold in stocks?",
+    "method": "A second-order Campbell-Shiller expansion motivates a squared dividend-price term. Specification tests (RESET, Andrews sup-F, likelihood-ratio) check for nonlinearity and instability. The authors compare linear, quadratic, two-state Markov regime-switching, boosted regression tree, random forest and neural network models, form mean-variance portfolios under three weight constraints, and evaluate them with certainty-equivalent returns, Sharpe and Sortino ratios and Clark-West tests, using expanding-window out-of-sample forecasts and transaction-cost checks.",
+    "data": "Monthly data: US CRSP value-weighted index, 1927-2019; UK FTSE All-Share, 1920-2022; France CAC All-Tradable, Germany DAX and Japan TOPIX, 1960-2022 (Global Financial Data), with short-term government rates as the risk-free rate.",
+    "findings": [
+      "Tests reject stable coefficients in all five markets and reject linearity for the US, UK and Germany, but not France or Japan.",
+      "In high-volatility regimes, both the dividend-price ratio and its square predict returns in the US, UK, France and Germany; Japan shows no comparable pattern.",
+      "In-sample, the US regime-switching model raises the R-squared from about 0.1% to 8.56% and certainty-equivalent returns from about 4% to roughly 12-17% a year.",
+      "Out-of-sample, gains are modest and mixed: regime switching adds about 1 percentage point a year in the US and about 2 in the UK, results for France, Germany and Japan are often negative, and US forecast-accuracy tests are not significant.",
+      "Transaction costs shrink the gains, hitting high-turnover neural networks hardest; the authors conclude that exploiting nonlinear predictability in real time remains difficult."
+    ],
+    "whyItMatters": "For investors and asset managers, the paper is a caution that models which look powerful in backtests may not deliver in real time, even when the nonlinear pattern appears genuine in-sample. It also shows that more complex machine-learning tools do not automatically beat simpler regime-switching models.",
+    "topics": ["return predictability", "dividend-price ratio", "asset allocation", "regime switching", "machine learning", "equity risk premium", "market timing", "portfolio choice"],
+    "industries": ["Asset management"],
+    "geographies": ["United States", "United Kingdom", "France", "Germany", "Japan"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://link.springer.com/article/10.1007/s10479-024-06332-7",
+        "https://api.openalex.org/works/doi:10.1007/s10479-024-06332-7",
+        "https://www.isb.edu/faculty-and-research/research-directory/optimal-allocation-to-stocks-in-a-model-with-nonlinear-dynamics-from-the-dividend-price-ratio"
+      ]
+    }
+  },
+  "versions": []
+}

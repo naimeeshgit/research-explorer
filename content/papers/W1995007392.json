@@ -1,0 +1,54 @@
+{
+  "id": "W1995007392",
+  "title": "Insecure Advantage? Markets for Technology and the Value of Resources for Entrepreneurial Ventures",
+  "year": 2011,
+  "date": "2011-08-16",
+  "type": "article",
+  "venue": "Strategic Management Journal",
+  "doi": "https://doi.org/10.1002/smj.953",
+  "url": "https://doi.org/10.1002/smj.953",
+  "pdf": "https://eprints.exchange.isb.edu/265/1/2.2.pdf",
+  "citations": 87,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "As outside technology becomes easier to buy, startups' in-house technical ability matters less for survival, while marketing ability matters more.",
+    "overview": "Which capabilities give a startup an edge depends on its environment. Studying information-security startups, the authors argue that when external technology is plentiful, firms can buy what they would otherwise build, so in-house technical ability becomes a weaker source of advantage, while marketing ability, which complements technology inputs, becomes more valuable. Tracking 270 security startups that entered between 1989 and 2004, they find this pattern: technical capability is linked to a much lower risk of exit when outside technology supply is low, while marketing capability helps more when supply is high. This summary draws on the 2010 ISB working-paper version of the article (published in the journal's 2012 volume 33, issue 3).",
+    "question": "How does the growth of a market for technology change the relative value of a startup's technical and marketing capabilities for its performance?",
+    "method": "Discrete-time logit hazard models of failure (and cash-out through a favourable acquisition or IPO as a robustness check), with samples split at the mean level of technology supply. Technology supply is proxied by university and government security patents mapped to submarkets, technical capability by the founding team's citation-weighted patents, and marketing capability by the number of sales executives at entry.",
+    "data": "270 information-security startups that entered between 1989 and 2004 (2,219 firm-years), assembled from CorpTech, archive.org, ZoomInfo, LinkedIn, EDGAR, Bureau van Dijk, Zephyr and USPTO patent data.",
+    "findings": [
+      "A one-standard-deviation increase in technical ability is associated with about a 76% lower exit hazard when technology supply is low, versus about 21% when supply is high.",
+      "A one-standard-deviation increase in marketing ability is associated with about a 36% lower exit hazard when supply is low, versus about 77% when supply is high.",
+      "Across the sample, an additional sales executive at entry is associated with roughly a 37% lower exit hazard.",
+      "For cash-outs, technical ability's positive association is weaker and marketing's stronger when technology supply is high.",
+      "The authors note limits: capabilities are measured only at entry, university patents are an imperfect proxy for technology supply, and unobserved founder quality cannot be fully ruled out."
+    ],
+    "whyItMatters": "Founders and managers should judge capability investments against the external environment: where technology can be bought, it may pay to license in technology and invest more in marketing and related capabilities. More broadly, the authors argue that a resource's value is contingent, and a market for an input can erode the advantage of producing it in-house.",
+    "topics": ["markets for technology", "startups", "technical capability", "marketing capability", "resource-based view", "information security", "firm survival", "technology licensing"],
+    "industries": ["Information security software"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/265/1/2.2.pdf",
+        "https://api.openalex.org/works/W1995007392"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W3124260273",
+      "type": "preprint",
+      "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+      "year": 2010,
+      "url": "https://eprints.exchange.isb.edu/id/eprint/265/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "W141628768",
+  "title": "Impact of Vulnerability Disclosure and Patch Availability - An Empirical Analysis",
+  "year": 2004,
+  "date": null,
+  "type": "preprint",
+  "venue": "Workshop on the Economics of Information Security (WEIS)",
+  "doi": null,
+  "url": "https://eprints.exchange.isb.edu/id/eprint/1603/",
+  "pdf": null,
+  "citations": 85,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Ramayya Krishnan" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Rahul Telang" },
+    { "name": "Yubao Yang" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

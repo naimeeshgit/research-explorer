@@ -1,0 +1,50 @@
+{
+  "id": "W4402135884",
+  "title": "Balancing allocative and dynamic efficiency with redundant R&D allocation: The role of organizational proximity and centralization",
+  "year": 2024,
+  "date": "2024-09-02",
+  "type": "article",
+  "venue": "Strategic Management Journal",
+  "doi": "https://doi.org/10.1002/smj.3662",
+  "url": "https://doi.org/10.1002/smj.3662",
+  "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smj.3662",
+  "citations": 12,
+  "authors": [
+    { "name": "Vivek Tandon" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Ronak Mogra" },
+    { "name": "Kannan Srikanth" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Running parallel R&D teams on the same goal looks wasteful but is associated with more high-value pharma innovations, especially when competing units are organizationally close.",
+    "overview": "Most strategy research says multi-unit firms should share or redeploy resources so they are used efficiently today. This paper argues that in technology-intensive industries, deliberately funding more than one unit to chase the same R&D goal (\"redundant allocation\") can pay off later, because the units compete with each other. Studying large pharmaceutical firms, the authors find that redundant R&D is linked to more innovations of high value to the firm, but also to more terminated projects, which they treat as the waste side of the bargain. How close the competing units are inside the organization, and whether R&D is centralized, shape that trade-off.",
+    "question": "When does allocating overlapping R&D resources to several units in parallel pay off, and how do organizational proximity between units and R&D centralization change the balance between innovation gains and waste?",
+    "method": "Empirical analysis of R&D in large pharmaceutical firms. The publication's keywords include natural language processing, which suggests text-based measures, but the estimation approach is not stated in the available sources.",
+    "data": "R&D data on large pharmaceutical firms. The specific data sources, years and sample size are not stated in the available sources.",
+    "findings": [
+      "Redundant R&D allocation is associated with more innovations that have high firm-specific value, which the authors attribute to competition between units.",
+      "Redundant allocation is also associated with more project terminations, which the authors read as the wastage cost of redundancy.",
+      "Organizational proximity between the competing units strengthens the innovation benefit and weakens the termination (wastage) effect.",
+      "Centralizing the firm's R&D amplifies the effect of unit proximity."
+    ],
+    "whyItMatters": "For R&D leaders, the paper suggests duplication is not automatically waste: parallel teams can trade short-run efficiency for long-run innovation. ISB's practitioner summary frames the takeaway as \"strategic efficiency\", balancing today's resource use against future innovation potential, with more benefit for units closer to corporate leadership and in centralized R&D set-ups.",
+    "topics": ["redundant R&D", "R&D resource allocation", "internal competition", "multiunit firms", "pharmaceutical innovation", "organizational design", "centralization", "resource-based view"],
+    "industries": ["Pharmaceuticals"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4402135884",
+        "https://eprints.exchange.isb.edu/id/eprint/2330/",
+        "https://www.isb.edu/faculty-and-research/research-directory/balancing-allocative-and-dynamic-efficiency-with-redundant-rd-allocation-the-role-of-organizational-proximity-and-centralization",
+        "https://www.insead.edu/faculty-research/publications/journal-articles/balancing-allocative-and-dynamic-efficiency",
+        "https://discover.isb.edu/all-topics/strategy-and-innovation/redundant-rd-can-spark-breakthrough-innovation-new-evidence"
+      ]
+    }
+  },
+  "versions": []
+}

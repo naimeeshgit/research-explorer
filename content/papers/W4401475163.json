@@ -1,0 +1,56 @@
+{
+  "id": "W4401475163",
+  "title": "Economic nationalism and the home court advantage",
+  "year": 2024,
+  "date": "2024-08-08",
+  "type": "article",
+  "venue": "Strategic Management Journal",
+  "doi": "https://doi.org/10.1002/smj.3658",
+  "url": "https://doi.org/10.1002/smj.3658",
+  "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smj.3658",
+  "citations": 27,
+  "authors": [
+    { "name": "Arnab Choudhury" },
+    { "name": "Srividya Jandhyala" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "In US patent lawsuits, domestic firms win more often than foreign ones, suggesting courts can be a hidden channel of economic nationalism.",
+    "overview": "Governments often shield local firms from foreign rivals through policy. This paper asks whether courts, which are supposed to be impartial, do the same. Studying 58,754 patent disputes decided by US federal district courts between 1983 and 2016, the authors find that domestic patent holders and challengers win more often than foreign ones, and that rulings involving foreign firms more often contain nationalistic rhetoric. The judge's ideology changes the size of the domestic-foreign gap, and the authors conclude that the legal system is another source of economic nationalism.",
+    "question": "Do courts systematically disadvantage foreign firms relative to domestic ones, and if so, why?",
+    "method": "Comparison of the odds of winning for domestic versus foreign patent holders and challengers in decided disputes, analysis of rulings for nationalistic rhetoric, and tests of whether judicial ideology moderates the gap. The theory is that judges treat in-group (domestic) and out-group (foreign) parties differently. The 2021 conference version reports controlling for firm and patent characteristics and checking that the gap does not stem from differences in legal capabilities.",
+    "data": "58,754 patent disputes decided by US federal district courts, 1983 to 2016 (published version). The 2021 conference version used 73,756 US intellectual property lawsuits from 1963 to 2016.",
+    "findings": [
+      "Domestic patent holders and domestic challengers win more often than their foreign counterparts.",
+      "Rulings in cases involving foreign firms are more likely to contain nationalistic rhetoric.",
+      "Judicial ideology moderates the gap in winning odds; ISB's summary says conservative judges are more likely to favour domestic firms, while liberal judges tend to be more neutral.",
+      "In the earlier conference sample, foreign patent holders were 18% less likely to successfully defend their patents against domestic firms, and domestic patent holders were 19% more likely to win against foreign challengers than against domestic ones; the published paper's estimates may differ."
+    ],
+    "whyItMatters": "For multinationals, the paper suggests that enforcing or defending patents abroad carries a home-court disadvantage even in a mature legal system like the US, which bears on IP strategy and how to price litigation risk. For policy, it shows economic nationalism can work through how neutral rules are applied, not only through openly discriminatory laws.",
+    "topics": ["economic nationalism", "patent litigation", "home court advantage", "multinational firms", "judicial bias", "intellectual property", "liability of foreignness", "United States"],
+    "industries": ["Cross-industry (patent-holding firms)"],
+    "geographies": ["United States"],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works?filter=author.id:A5063359306",
+        "https://eprints.exchange.isb.edu/id/eprint/2329",
+        "https://eprints.exchange.isb.edu/id/eprint/1602/",
+        "https://discover.isb.edu/all-topics/strategy-and-innovation/why-domestic-companies-win-more-lawsuits-in-local-courts"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W3187041948",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2021,
+      "url": "https://doi.org/10.5465/ambpp.2021.22"
+    }
+  ]
+}

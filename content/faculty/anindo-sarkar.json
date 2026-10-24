@@ -1,0 +1,38 @@
+{
+  "slug": "anindo-sarkar",
+  "name": "Anindo Sarkar",
+  "title": "Assistant Professor, Finance",
+  "area": "Finance",
+  "homepage": "https://www.isb.edu/faculty-and-research/faculty-directory/anindo-sarkar",
+  "openalex": [],
+  "photo": null,
+  "profile": {
+    "summary": "Anindo Sarkar is a finance researcher who completed his PhD in finance at the University of California in 2025 (his published paper lists UC San Diego). His published work tests whether stock returns can be predicted from the dividend-price ratio using nonlinear and machine-learning models, and whether that actually helps investors decide how much to hold in stocks. According to an ISB research-assistant posting, his main research areas are monetary theory, growth theory and financial frictions, including how monetary and fiscal policy interact.",
+    "themes": [
+      {
+        "name": "Return predictability and asset allocation",
+        "description": "Whether valuation ratios such as the dividend-price ratio predict stock returns in nonlinear, regime-dependent ways, and whether those patterns survive real-time, out-of-sample portfolio tests.",
+        "papers": ["W4403917370"]
+      },
+      {
+        "name": "Monetary-fiscal interactions and financial frictions",
+        "description": "Per ISB, his current work studies endogenous monetary-fiscal interactions and the role of financial frictions in monetary policy and long-run growth. No papers on this were public in the sources reviewed.",
+        "papers": []
+      }
+    ],
+    "talkTo": [
+      "Market timing with valuation ratios like the dividend-price ratio",
+      "Machine learning versus regime-switching models for return forecasting",
+      "Why backtests look better than real-time investment performance",
+      "Monetary and fiscal policy interactions",
+      "Financial frictions and economic growth"
+    ],
+    "sources": [
+      "https://www.isb.edu/faculty-and-research/faculty-directory/anindo-sarkar",
+      "https://www.isb.edu/work-at-isb/academic-openings/research-associate-position-under-professor-anindo-sarkar",
+      "https://www.isb.edu/faculty-and-research/research-directory/optimal-allocation-to-stocks-in-a-model-with-nonlinear-dynamics-from-the-dividend-price-ratio",
+      "https://api.openalex.org/works/doi:10.1007/s10479-024-06332-7"
+    ],
+    "createdAt": "2026-10-24"
+  }
+}

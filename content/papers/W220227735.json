@@ -1,0 +1,29 @@
+{
+  "id": "W220227735",
+  "title": "Designing Resource Competitions for Research Projects",
+  "year": 2014,
+  "date": null,
+  "type": "preprint",
+  "venue": "Singapore Management University Institutional Knowledge (InK)",
+  "doi": null,
+  "url": "https://ink.library.smu.edu.sg/lkcsb_research/4492",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Pascale Crama" },
+    { "name": "Reddi Rayalu Kotha" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W1566532450",
+      "type": "preprint",
+      "venue": "Singapore Management University Institutional Knowledge (InK)",
+      "year": 2014,
+      "url": "https://ink.library.smu.edu.sg/lkcsb_research/4263"
+    }
+  ]
+}

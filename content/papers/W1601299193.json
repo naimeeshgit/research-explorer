@@ -1,0 +1,42 @@
+{
+  "id": "W1601299193",
+  "title": "Securing Their Future? Entry and Survival in the Information Security Industry",
+  "year": 2007,
+  "date": "2007-11-01",
+  "type": "preprint",
+  "venue": "National Bureau of Economic Research",
+  "doi": "https://doi.org/10.3386/w13634",
+  "url": "https://doi.org/10.3386/w13634",
+  "pdf": null,
+  "citations": 4,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W3123105718",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2008,
+      "url": "https://doi.org/10.2139/ssrn.1140684"
+    },
+    {
+      "id": "W3144470669",
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "year": 2007,
+      "url": null
+    },
+    {
+      "id": "W2104022247",
+      "type": "preprint",
+      "venue": null,
+      "year": 2008,
+      "url": "http://personal.anderson.ucla.edu/policy.area/seminars/fall2008/arora/ashisharorapaper.pdf"
+    }
+  ]
+}

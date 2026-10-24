@@ -1,0 +1,44 @@
+{
+  "id": "W7169623890",
+  "title": "Misvaluation and Misallocation: How Analyst Errors Shape Firm Strategy and Long-Term Value",
+  "year": 2026,
+  "date": "2026-07-01",
+  "type": "preprint",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/amproc.2026.20395abstract",
+  "url": "https://doi.org/10.5465/amproc.2026.20395abstract",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Arnab Choudhury" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "When earnings-call remarks and analyst questions diverge, analysts tend to misvalue firms' intangibles, tilting innovation strategy and lowering long-term investor value.",
+    "overview": "This conference paper looks at how everyday features of corporate communication shape what analysts think a firm's intangible assets will earn. The authors argue that when management's prepared remarks on an earnings call stress different priorities from the concerns analysts raise in the Q&A, analysts misread the firm's future potential. Using a large panel of US public firms and a new market-based measure of analyst misvaluation, they find this divergence raises the chance of both under- and overvaluation, with disclosure style deciding which. Overvaluation is linked to broader exploration and undervaluation to a retreat into exploitation (refining what the firm already does), and both are linked to lower long-term investor value.",
+    "question": "Does divergence between earnings-call prepared remarks and analyst Q&A lead analysts to misvalue firms, and how does that misvaluation affect firms' innovation portfolios and long-term value?",
+    "method": "Panel analysis relating conversational divergence on earnings calls to a new market-anchored measure of analyst misvaluation, built by decomposing returns into tangible and intangible components, and then relating misvaluation to exploration, exploitation and long-term value. Further details are not stated in the available sources.",
+    "data": "A large panel of US public firms and their earnings calls. Years and sample size are not stated in the available sources.",
+    "findings": [
+      "Divergence between prepared remarks and analyst Q&A is associated with a higher likelihood of both undervaluation and overvaluation.",
+      "Disclosure style sets the direction: under high divergence, clear communication amplifies undervaluation and opaque communication amplifies overvaluation.",
+      "Overvaluation is associated with broader exploratory search, while undervaluation is associated with a shift toward exploitation.",
+      "Both forms of misvaluation are associated with lower long-term investor value (measured by LIVA), with overvaluation more damaging."
+    ],
+    "whyItMatters": "The authors suggest that market misvaluation can come from unintended features of communication, not only deliberate obfuscation, and that it can upset a firm's balance between exploration and exploitation. For managers and investor-relations teams, alignment between what they emphasise and what analysts ask about may matter for strategy, not just for the share price.",
+    "topics": ["sell-side analysts", "earnings calls", "misvaluation", "intangible assets", "exploration vs exploitation", "corporate disclosure", "investor relations", "long-term value"],
+    "industries": ["Cross-industry (US public firms)"],
+    "geographies": ["United States"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W7169623890"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -11,7 +11,8 @@
   "citations": 0,
   "authors": [
     {
-      "name": "Anand Nandkumar"
+      "name": "Anand Nandkumar",
+      "isb": "anand-nandkumar"
     },
     {
       "name": "Deepa Mani",
@@ -19,7 +20,8 @@
     }
   ],
   "isb": [
-    "deepa-mani"
+    "deepa-mani",
+    "anand-nandkumar"
   ],
   "abstract": null,
   "summary": null,

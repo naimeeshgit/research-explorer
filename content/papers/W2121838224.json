@@ -1,0 +1,22 @@
+{
+  "id": "W2121838224",
+  "title": "Competitive and strategic effects in the timing of patch release",
+  "year": 2006,
+  "date": null,
+  "type": "preprint",
+  "venue": "Workshop on the Economics of Information Security (WEIS)",
+  "doi": null,
+  "url": "https://eprints.exchange.isb.edu/id/eprint/1904/",
+  "pdf": null,
+  "citations": 11,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Christopher Forman" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Rahul Telang" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

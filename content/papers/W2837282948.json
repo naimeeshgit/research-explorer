@@ -15,16 +15,63 @@
       "isb": "deepa-mani"
     },
     {
-      "name": "Anand Nandkumar"
+      "name": "Anand Nandkumar",
+      "isb": "anand-nandkumar"
     },
     {
       "name": "Anandhi S. Bharadwaj"
     }
   ],
   "isb": [
-    "deepa-mani"
+    "deepa-mani",
+    "anand-nandkumar"
   ],
   "abstract": null,
-  "summary": null,
-  "versions": []
+  "summary": {
+    "oneLiner": "Firms whose market value rests more on expected growth than current profits are more likely to adopt digital innovation and later earn higher valuations.",
+    "overview": "As innovation across industries tilts toward digital technologies, which established firms adopt them, and do they gain? This working paper links stock-market valuation to digital adoption. The authors use group-based trajectory models, a technique that lets the data reveal groups of firms with similar market-performance paths, and then compare firms that became digital innovators with similar firms that lagged, within each group, using propensity score matching. Drawing on COMPUSTAT, CRSP and Google patent assignment data for 1981 to 2010, they find that firms whose valuation leans more on expected future growth than on current profits are more likely to adopt digital innovation and reach higher market valuations afterwards.",
+    "question": "How do stock market valuations and expectations of future growth, relative to current profitability, shape which incumbents adopt digital innovations and whether they gain from them?",
+    "method": "Group-based trajectory models identify latent patterns of market performance and the strategic positions behind them; propensity score matching within each pattern compares digital innovators with similar laggards and tracks later performance. The design aims to deal with the two-way link between innovation and performance.",
+    "data": "Firms matched across COMPUSTAT, CRSP and the Google patent assignment database, 1981 to 2010.",
+    "findings": [
+      "Firms with greater market expectations of future growth relative to current profitability are more likely to adopt digital innovation.",
+      "These firms also reach higher market valuations after adopting.",
+      "The authors read this as evidence that external stakeholders such as investors matter strategically during technological change."
+    ],
+    "whyItMatters": "For managers of established firms, the paper suggests investor expectations can enable or hold back digital bets. It also shows how trajectory models and matching can be combined to handle the worry that better-performing firms simply innovate more. A related practitioner piece appeared in Harvard Business Review in 2018.",
+    "topics": [
+      "digital innovation",
+      "incumbent firms",
+      "stock market valuation",
+      "investor expectations",
+      "group-based trajectory models",
+      "propensity score matching",
+      "patents"
+    ],
+    "industries": [
+      "Cross-industry (publicly listed firms)"
+    ],
+    "geographies": [
+      "Not stated in the available sources."
+    ],
+    "basis": "published_sources",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://eprints.exchange.isb.edu/id/eprint/1132/",
+        "https://www.isb.edu/faculty-and-research/research-directory/market-returns-to-digital-innovations-a-group-based-trajectory-approach/",
+        "https://api.openalex.org/works?filter=author.id:A5063359306"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W3122189890",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2018,
+      "url": "https://doi.org/10.5465/ambpp.2018.15241abstract"
+    }
+  ]
 }

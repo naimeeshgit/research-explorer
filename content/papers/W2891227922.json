@@ -1,0 +1,61 @@
+{
+  "id": "W2891227922",
+  "title": "Cash-Out or Flameout! Opportunity Cost and Entrepreneurial Strategy: Theory, and Evidence from the Information Security Industry",
+  "year": 2011,
+  "date": "2011-08-05",
+  "type": "article",
+  "venue": "Management Science",
+  "doi": "https://doi.org/10.1287/mnsc.1110.1381",
+  "url": "https://doi.org/10.1287/mnsc.1110.1381",
+  "pdf": "https://nber.org/system/files/working_papers/w15532/w15532.pdf",
+  "citations": 136,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Founders with better outside options pursue faster, riskier strategies, so their startups both cash out and fail sooner, making survival a misleading success measure.",
+    "overview": "Startup research often treats survival as success, but many tech founders aim to \"cash out\" through an acquisition or IPO. This paper treats failure and cash-out as outcomes of one process: founders with high opportunity costs (good alternatives such as well-paid jobs) are impatient, so they invest more aggressively, which raises the chance of both a quick payoff and a quick failure. Testing this on information-security startups that entered between 1989 and 2004, the authors find that founders' work experience, their proxy for opportunity cost, is associated with faster cash-outs and faster failures. They conclude that survival is a weak indicator of entrepreneurial performance.",
+    "question": "How does an entrepreneur's opportunity cost affect startup strategy and outcomes, when outcomes are measured as cash-out versus failure rather than survival?",
+    "method": "A simple formal model in which founders choose how aggressively to invest (a \"burn rate\") that raises both cash-out and failure probabilities. Empirically, discrete-time competing-hazards models estimate cash-out and failure jointly, allowing for unobserved firm differences, with Cox, nested-logit and split-sample robustness checks. This summary draws on the 2009 NBER working-paper version.",
+    "data": "286 information-security startups that entered between 1989 and 2004 (baseline: 247 firms, 1,998 firm-years), drawn from the CorpTech directory, with founder histories hand-collected from ZoomInfo, LinkedIn, the Internet Archive, EDGAR and Zephyr. Opportunity cost is proxied by the most experienced founder's years of work experience, or alternatively by the number of prior employers.",
+    "findings": [
+      "A one-standard-deviation increase in founder work experience is associated with about a 21% higher failure hazard and about a 19% higher cash-out hazard.",
+      "Larger initial size, the authors' proxy for venture quality, is associated with lower failure and higher cash-out.",
+      "In higher-quality ventures the opportunity-cost effect shows up mostly as faster cash-outs, and in lower-quality ventures mostly as faster failure, though some of these interaction estimates are only marginally significant.",
+      "Startups founded after the 2000 internet bust show lower hazards of both outcomes, which the authors read as consistent with weaker outside options lowering founders' opportunity costs."
+    ],
+    "whyItMatters": "Investors and researchers who judge startups by survival may misread them: a quick shutdown can reflect an aggressive, high-upside strategy rather than a bad idea, and a long-lived startup may simply have a founder with few alternatives. The authors suggest founder characteristics shape strategy in ways that obscure simple links between founders and outcomes.",
+    "topics": ["entrepreneurship", "opportunity cost", "startup exits", "acquisitions", "IPO", "firm survival", "founder experience", "information security"],
+    "industries": ["Information security software"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://nber.org/system/files/working_papers/w15532/w15532.pdf",
+        "https://isbinsight.isb.edu/?p=3972",
+        "https://api.openalex.org/works/W2891227922"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W1964343098",
+      "type": "preprint",
+      "venue": "National Bureau of Economic Research",
+      "year": 2009,
+      "url": "https://doi.org/10.3386/w15532"
+    },
+    {
+      "id": "W2571035728",
+      "type": "article",
+      "venue": "Strategic Direction",
+      "year": 2012,
+      "url": "https://doi.org/10.1108/sd.2012.05628daa.009"
+    }
+  ]
+}

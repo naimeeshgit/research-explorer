@@ -1,0 +1,47 @@
+{
+  "id": "X-anand-nandkumar-2024-patent-drugs",
+  "title": "Change in Patent Regime and the Role of Branded and Generic Drugs on Price and Quantity: Evidence from the Indian Pharmaceutical Industry 1995-2009",
+  "year": 2024,
+  "date": null,
+  "type": "preprint",
+  "venue": "Working paper (reject and resubmit, Marketing Science, per author CV)",
+  "doi": null,
+  "url": "https://www.isb.edu/faculty-and-research/research-directory/change-in-patent-regime-and-the-role-of-branded-and-generic-drugs-on-price-and-quantity-evidence-from-the-indian-pharmaceutical-industry-1995-2009",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Shantanu Dutta" },
+    { "name": "Madhu Viswanathan", "isb": "madhu-viswanathan" },
+    { "name": "Arnab Choudhury" }
+  ],
+  "isb": ["anand-nandkumar", "madhu-viswanathan"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "After India reintroduced drug product patents, innovative drugs gained share and, because consumers preferred them, both prices and quantities consumed rose.",
+    "overview": "India reintroduced product patents for pharmaceuticals in 18 disease categories at different times between 1995 and 2009, and the authors use this staggered change as a natural experiment. They ask how stronger patents changed which drugs were sold and at what price. Stronger patents increased launches of innovative (branded) products but also spurred imitation, growing the market for generic copies. On net, innovative products gained market share, and because consumers preferred them, average prices and quantities consumed both rose after patents returned, even though innovative drugs cost more.",
+    "question": "How does strengthening patent protection affect drug prices and quantities, through changes in the mix of innovative (branded) and imitated (generic) products?",
+    "method": "A natural-experiment design exploiting the staggered reintroduction of product patents across 18 disease categories. The specific econometric approach is not stated in the available sources.",
+    "data": "The Indian pharmaceutical market, 1995 to 2009, across 18 disease categories. The data source is not stated in the available sources.",
+    "findings": [
+      "Stronger patents are associated with more introductions of innovative products, which the authors link to isolating mechanisms (barriers that keep rivals from copying).",
+      "Stronger patents also stimulate imitation and expand the market for imitated (generic) products.",
+      "On net, the market share of innovative products rises.",
+      "Because consumers prefer innovative products, market prices and quantities consumed both rise after patents are reintroduced, despite innovative products' higher prices."
+    ],
+    "whyItMatters": "The results suggest the effect of patents on drug prices and access is not one-directional: the authors conclude it depends on how the product mix changes and on consumers' preferences between innovative and imitated drugs. That matters for pharma pricing and launch strategy in India and for health and IP policy.",
+    "topics": ["patents", "pharmaceutical pricing", "generic drugs", "branded drugs", "intellectual property rights", "India", "natural experiment", "imitation"],
+    "industries": ["Pharmaceuticals"],
+    "geographies": ["India"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://www.isb.edu/faculty-and-research/research-directory/change-in-patent-regime-and-the-role-of-branded-and-generic-drugs-on-price-and-quantity-evidence-from-the-indian-pharmaceutical-industry-1995-2009",
+        "https://management.buffalo.edu/content/dam/mgt/Faculty-and-Research/OMS/Documents/anand-nandkumar.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

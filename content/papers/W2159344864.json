@@ -1,0 +1,62 @@
+{
+  "id": "W2159344864",
+  "title": "Right person in the right place: How the host country IPR influences the distribution of inventors in offshore R&D projects of multinational enterprises",
+  "year": 2015,
+  "date": "2015-07-15",
+  "type": "article",
+  "venue": "Strategic Management Journal",
+  "doi": "https://doi.org/10.1002/smj.2418",
+  "url": "https://doi.org/10.1002/smj.2418",
+  "pdf": "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5751&context=lkcsb_research",
+  "citations": 48,
+  "authors": [
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Kannan Srikanth" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Where host-country IP protection is weak, multinationals put fewer local inventors on R&D projects aimed at that host market, limiting knowledge-leakage risk.",
+    "overview": "Multinationals are drawn to emerging economies by plentiful, cheaper scientific talent but worry about weak intellectual property (IP) protection. This paper looks inside offshore R&D projects and asks how many host-country inventors a firm puts on them. Using millions of US-assigned patents co-invented across 43 host countries, the authors find fewer host inventors on patents from weak-IP countries, and the gap is largest for projects aimed at the host market itself. Because patents are territorial, the home country's strong IP still protects home-market projects, so the leakage worry bites hardest where host-market knowledge is at stake. (Published in the journal's 2016 volume 37, issue 8.)",
+    "question": "How does the strength of a host country's IP regime affect the share of host-country inventors on a multinational's offshore R&D projects, and does this depend on whether a project serves the host or the home market?",
+    "method": "Patent-level analysis. Offshore and non-offshore patents are paired with coarsened exact matching, then fixed-effects regressions use a difference-in-differences logic comparing host-market and home-market projects across weak- and strong-IP hosts. Where a patent is filed proxies for the market it targets. Robustness checks use the Ginarte-Park IP index, inventor counts, Tobit models and a before-and-after comparison around India's patent reform with UK-invented patents as a control.",
+    "data": "PATSTAT patent data and COMPUSTAT firm data for patents filed 1974 to 2009 by US assignees. The final matched sample has 2,915,144 patents (838,160 offshore) across 43 host countries, classed as weak-IP (27) or strong-IP (16) following Zhao (2006).",
+    "findings": [
+      "Offshore patents from weak-IP hosts have a host-inventor share about 0.11 lower than those from strong-IP hosts, which the authors put at roughly 13-15% fewer host inventors.",
+      "For host-market projects, weak host IP is associated with about 44% fewer host inventors than strong host IP.",
+      "In weak-IP hosts, host-market projects have a host-inventor share of about 0.34, versus about 0.69 for home-market projects.",
+      "The drop in host-inventor share for host-market versus home-market projects is about 31% in weak-IP hosts, versus about 5% in strong-IP hosts.",
+      "Results hold across the alternative IP index, inventor counts and the India reform sample, though the authors say they cannot rule out unobserved time-varying country differences and note that filing location is an imperfect proxy for a project's target market."
+    ],
+    "whyItMatters": "For managers, weak host IP may matter most for R&D aimed at the local market, so firms may weigh cheap local talent against leakage risk when deciding which projects to staff offshore. For policymakers, weak IP may discourage multinationals from involving local inventors in host-relevant technologies, which could limit the host country's gains from advanced R&D.",
+    "topics": ["R&D offshoring", "intellectual property rights", "multinational firms", "knowledge spillovers", "patents", "emerging markets", "India", "inventor teams"],
+    "industries": ["Cross-industry (US patent-holding multinationals)"],
+    "geographies": ["United States", "43 host countries (27 weak-IP, 16 strong-IP)", "India"],
+    "basis": "full_text",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5751&context=lkcsb_research",
+        "https://ink.library.smu.edu.sg/lkcsb_research/4752",
+        "https://api.openalex.org/works/W2159344864"
+      ]
+    }
+  },
+  "versions": [
+    {
+      "id": "W139789016",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2014,
+      "url": "https://doi.org/10.2139/ssrn.2499158"
+    },
+    {
+      "id": "W2323056560",
+      "type": "preprint",
+      "venue": "Academy of Management Proceedings",
+      "year": 2014,
+      "url": "https://doi.org/10.5465/ambpp.2014.15403abstract"
+    }
+  ]
+}

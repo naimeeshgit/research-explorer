@@ -1,0 +1,49 @@
+{
+  "id": "W4392975105",
+  "title": "New-to-The-World and New-to-Self: Academic Research Funding and Impact",
+  "year": 2024,
+  "date": "2024-03-20",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "https://doi.org/10.2139/ssrn.4766921",
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4766921",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Dutt Dev Harsha Tadikonda" },
+    { "name": "Daniel Z. Mack" },
+    { "name": "Ge Xu" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Reddi Rayalu Kotha" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Research funders appear to over-reward track records of scientists pursuing new-to-the-world work and undervalue those exploring fields new to themselves, misaligning grants with impact.",
+    "overview": "Because research outcomes are hard to predict, funders lean on scientists' past records when deciding who gets money. This working paper argues that how much a track record counts depends on the kind of exploration a scientist is doing. Evaluators who are not close to the research frontier may give too much weight to the records of scientists doing \"new-to-the-world\" work (novel to science) and too little to those doing \"new-to-self\" work (novel only to the researcher). The authors predict, and report that their data support, a mismatch between the funding scientists receive and their later publications and impact.",
+    "question": "How do a scientist's track record and the type of exploration they pursue jointly shape the funding they receive, and does that funding line up with their subsequent research performance?",
+    "method": "Comparison of funding and subsequent publication output and impact across a matched sample of scientists pursuing different kinds of exploration. Estimation details are not stated in the available sources.",
+    "data": "A matched sample of 26,253 academic scientists at a large Midwestern US university, 1970 to 2005.",
+    "findings": [
+      "Funding amounts reflect both a scientist's track record and the type of exploration they pursue.",
+      "Evaluators appear to overweight the track records of scientists doing new-to-the-world research.",
+      "Evaluators appear to undervalue the track records of scientists doing new-to-self research.",
+      "The result is a mismatch between the grants scientists receive and their later research output and impact, as the authors predicted."
+    ],
+    "whyItMatters": "The paper speaks to how organizations hand out money for uncertain projects: if evaluators read track records differently depending on the type of exploration, funding may drift away from researchers whose work later has more impact. It is a working paper (listed as to be resubmitted on Nandkumar's CV).",
+    "topics": ["research funding", "exploration", "science of science", "resource allocation", "evaluation bias", "academic scientists", "innovation"],
+    "industries": ["Higher education and academic research"],
+    "geographies": ["United States"],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4766921",
+        "https://api.openalex.org/works/W4392975105",
+        "https://management.buffalo.edu/content/dam/mgt/Faculty-and-Research/OMS/Documents/anand-nandkumar.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

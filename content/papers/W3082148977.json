@@ -18,11 +18,13 @@
       "isb": "deepa-mani"
     },
     {
-      "name": "Anand Nandkumar"
+      "name": "Anand Nandkumar",
+      "isb": "anand-nandkumar"
     }
   ],
   "isb": [
-    "deepa-mani"
+    "deepa-mani",
+    "anand-nandkumar"
   ],
   "abstract": "Businesses understand the power of digital innovations to reshape industries and markets. Yet, time and again, they have struggled to innovate with new and disruptive technologies. Research by Clayton Christensen and others demonstrate that an incumbent’s failure has little to do with the newness or complexity of the technology. Rather, it is often their acute focus on the needs of the most important customers that place stringent limits on changes that they can and cannot pursue. Our research implicates another important stakeholder, the firm’s investors, who may keep businesses tethered to existing technologies. In theory, investor incentives align with what is good for the firm. In practice, we find important differences.",
   "summary": {

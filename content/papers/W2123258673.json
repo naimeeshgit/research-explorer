@@ -1,0 +1,21 @@
+{
+  "id": "W2123258673",
+  "title": "Does information security attack frequency increase with vulnerability disclosure? An empirical analysis",
+  "year": 2006,
+  "date": "2006-11-21",
+  "type": "article",
+  "venue": "Information Systems Frontiers",
+  "doi": "https://doi.org/10.1007/s10796-006-9012-5",
+  "url": "https://doi.org/10.1007/s10796-006-9012-5",
+  "pdf": null,
+  "citations": 101,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Rahul Telang" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

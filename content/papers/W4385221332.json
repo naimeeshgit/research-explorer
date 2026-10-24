@@ -1,0 +1,46 @@
+{
+  "id": "W4385221332",
+  "title": "How do Stock Market Expectations Condition Incumbents' Response to Radical Technological Change?",
+  "year": 2023,
+  "date": "2023-07-24",
+  "type": "preprint",
+  "venue": "Academy of Management Proceedings",
+  "doi": "https://doi.org/10.5465/amproc.2023.17528abstract",
+  "url": "https://doi.org/10.5465/amproc.2023.17528abstract",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Deepa Mani", "isb": "deepa-mani" },
+    { "name": "Anandhi S. Bharadwaj" },
+    { "name": "Arnab Choudhury" }
+  ],
+  "isb": ["anand-nandkumar", "deepa-mani"],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Incumbent firms whose shareholders prize current profits adopt less ICT each year, while those whose investors value future growth adopt more.",
+    "overview": "Research disagrees on whether established firms are well placed to profit from radical technological change or are held back by it. This conference paper argues that what shareholders want is part of the answer. Using 34,673 incumbent-year observations from firms outside the ICT-producing sector between 1984 and 2010, the authors relate shareholders' preference for current profitability versus future growth to how much information and communication technology (ICT) firms adopt. A one-standard-deviation rise in preference for current profits is associated with roughly a 10% annual decline in ICT adoption, while a similar rise in preference for future profits is associated with about a 5% annual increase. Corporate governance features moderate these links.",
+    "question": "How does shareholders' preference for current profitability versus future growth shape incumbents' response to radical technological change, and how does corporate governance moderate that influence?",
+    "method": "Panel analysis relating measures of shareholder preference for current versus future profits to ICT adoption, with corporate governance features as moderators. Further details are not stated in the available sources.",
+    "data": "34,673 incumbent-year observations from non-ICT-producing firms, 1984 to 2010. Data sources are not stated in the abstract.",
+    "findings": [
+      "A one-standard-deviation increase in shareholder preference for current profits is associated with roughly a 10% annual decline in ICT adoption.",
+      "A one-standard-deviation increase in preference for future profits is associated with about a 5% annual increase in ICT adoption.",
+      "Aspects of corporate governance moderate these relationships; the specific moderators are not stated in the available sources."
+    ],
+    "whyItMatters": "The authors argue that external stakeholders, especially shareholders, help decide whether incumbents keep their competitive advantage through radical technological change. For managers leading digital transformation, investor expectations may be a constraint to manage, not just a scorecard. Nandkumar's CV lists a related working paper on stock market expectations and digital innovation adoption.",
+    "topics": ["digital transformation", "incumbent firms", "radical technological change", "shareholder expectations", "ICT adoption", "corporate governance", "investor preferences"],
+    "industries": ["Non-ICT-producing industries"],
+    "geographies": ["Not stated in the available sources."],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "claude-research",
+      "createdAt": "2026-10-24",
+      "sources": [
+        "https://api.openalex.org/works/W4385221332",
+        "https://management.buffalo.edu/content/dam/mgt/Faculty-and-Research/OMS/Documents/anand-nandkumar.pdf"
+      ]
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "W2121713513",
+  "title": "Competition and patching of security vulnerabilities: An empirical analysis",
+  "year": 2009,
+  "date": "2009-11-24",
+  "type": "article",
+  "venue": "Information Economics and Policy",
+  "doi": "https://doi.org/10.1016/j.infoecopol.2009.10.002",
+  "url": "https://doi.org/10.1016/j.infoecopol.2009.10.002",
+  "pdf": null,
+  "citations": 40,
+  "authors": [
+    { "name": "Ashish Arora" },
+    { "name": "Chris Forman" },
+    { "name": "Anand Nandkumar", "isb": "anand-nandkumar" },
+    { "name": "Rahul Telang" }
+  ],
+  "isb": ["anand-nandkumar"],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}
