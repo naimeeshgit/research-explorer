@@ -1,0 +1,71 @@
+{
+  "id": "W2057091301",
+  "title": "Why real interest rates, cost of capital and price/earnings ratios vary across countries",
+  "year": 2001,
+  "date": "2001-04-01",
+  "type": "article",
+  "venue": "Journal of International Money and Finance",
+  "doi": "10.1016/s0261-5606(00)00044-9",
+  "url": "https://doi.org/10.1016/s0261-5606(00)00044-9",
+  "pdf": "https://escholarship.org/content/qt93k425dd/qt93k425dd.pdf?t=krn8e2",
+  "citations": 7,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Sheridan D. Titman"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "This paper examines how productivity changes affect real rates of return and price/earnings ratios in a small open economy. The model provides conditions under which increased productivity in a country's traded goods sector causes prices of non-traded goods to increase relative to the price of traded goods. Under these conditions, real rates of interest decline and the production of certain non-traded durable goods (such as capital equipment and housing) immediately increase. This 'overconstruction' has two effects. First, the increase in capital relative to labor in these sectors increases the marginal product of labor and hence immediately causes an increase in wages and the prices of non-traded goods. Second, an 'oversupply' of capital goods and housing depresses their rental rates in the current period, thereby increasing their price to rental ratios or equivalently, their price/earnings ratios.",
+  "summary": {
+    "oneLiner": "Under certain conditions, higher traded-goods productivity in a small open economy lowers real interest rates and raises price/earnings ratios.",
+    "overview": "The paper builds a theoretical model of a small open economy to study what happens when productivity rises in the traded-goods sector (goods that can be sold across borders). The model finds conditions under which non-traded goods become relatively more expensive, real interest rates (returns after adjusting for price changes) fall, and production of durable non-traded goods such as capital equipment and housing rises immediately. This construction boom leads to an oversupply of capital goods and housing, which lowers their rental rates and pushes up their price-to-rental ratios, equivalent to price/earnings ratios. The authors also argue that the extra capital raises wages and non-traded goods prices.",
+    "question": "How do productivity changes in a small open economy's traded-goods sector affect real rates of return, the prices of non-traded goods, and price/earnings ratios?",
+    "method": "A theoretical model. The abstract describes conditions derived from the model under which productivity gains lead to the reported effects.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Under the model's conditions, increased productivity in the traded-goods sector causes prices of non-traded goods to rise relative to traded-goods prices.",
+      "Under these conditions, real interest rates decline and production of certain non-traded durable goods (such as capital equipment and housing) immediately increases ('overconstruction').",
+      "The increase in capital relative to labor in these sectors raises the marginal product of labor, which immediately increases wages and non-traded goods prices.",
+      "An 'oversupply' of capital goods and housing depresses their current rental rates, which raises their price-to-rental (price/earnings) ratios."
+    ],
+    "whyItMatters": "The abstract suggests the model helps explain why real interest rates, cost of capital and price/earnings ratios differ across countries, since productivity shocks in traded sectors can move these variables through construction and capital oversupply. The abstract does not state specific managerial or policy recommendations.",
+    "topics": [
+      "real interest rates",
+      "cost of capital",
+      "price/earnings ratios",
+      "productivity shocks",
+      "traded and non-traded goods",
+      "small open economy",
+      "housing construction",
+      "international finance"
+    ],
+    "industries": [
+      "traded goods sector",
+      "non-traded durable goods (capital equipment)",
+      "housing"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3124787396",
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "year": 1993,
+      "url": "https://www.escholarship.org/uc/item/93k425dd.pdf;origin=repeccitec"
+    }
+  ]
+}

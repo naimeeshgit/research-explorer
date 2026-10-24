@@ -1,0 +1,78 @@
+{
+  "id": "W4321791169",
+  "title": "Redesigning Sample Transportation in Malawi Through Improved Data Sharing and Daily Route Optimization",
+  "year": 2023,
+  "date": "2023-02-24",
+  "type": "article",
+  "venue": "Manufacturing & Service Operations Management",
+  "doi": "10.1287/msom.2022.1182",
+  "url": "https://doi.org/10.1287/msom.2022.1182",
+  "pdf": null,
+  "citations": 13,
+  "authors": [
+    {
+      "name": "Emma Gibson"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Jónas Oddur Jónasson"
+    },
+    {
+      "name": "Mphatso Kachule"
+    },
+    {
+      "name": "Kara M. Palamountain"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Problem definition: Healthcare systems in resource-limited settings rely on diagnostic networks in which medical samples (e.g., blood, sputum) and results need to be transported between geographically dispersed healthcare facilities and centralized laboratories. Academic/practical relevance: Existing sample transportation (ST) systems typically operate fixed schedules, which do not account for demand variability and lead to unnecessary transportation visits as well as delays. Methodology: We design an optimized sample transportation (OST) system that comprises two components: (i) a new approach for timely collection of information on transportation demand (samples and results) using low-cost technology based on feature phones, and (ii) an optimization-based solution approach to the problem of routing and scheduling courier trips in a multistage transportation system. Results: Our solution approach performs well in a range of numerical experiments. Furthermore, we implement OST in collaboration with Riders For Health, who operate the national ST system in Malawi. Based on analysis of field data describing over 20,000 samples and results transported during July–October 2019, we show that the implementation of OST routes reduced average ST delays in three districts of Malawi by approximately 25%. In addition, the proportion of unnecessary trips by ST couriers decreased by 55%. Managerial implications: Our approach for improving ST operations is feasible and effective in Malawi and can be applied to other resource-limited settings, particularly in sub-Saharan Africa. History: This paper has been accepted as part of the 2021 Manufacturing & Service Operations Management Practice-Based Research Competition. Funding: This work was supported by Bill and Melinda Gates Foundation [Grant OPP1182217] and by the National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health [Grant U54EB027049]. The content is solely the responsibility of the authors and does not necessarily represent the official views of the funding organizations. Supplemental Material: The e-companion is available at https://doi.org/10.1287/msom.2022.1182 .",
+  "summary": {
+    "oneLiner": "An optimized sample transportation system using low-cost technology and dynamic routing significantly reduced diagnostic delays and courier trips in Malawi.",
+    "overview": "Healthcare systems in resource-limited areas often struggle with rigid sample transportation schedules that ignore actual daily demand. By implementing a system that uses basic feature phones to collect real-time data and applying mathematical models to optimize courier routes, this study provides a more responsive framework. The approach was successfully tested in Malawi, leading to faster diagnostic turnarounds and more efficient use of transportation resources.",
+    "question": "How can data-driven, optimized routing and scheduling of couriers improve the efficiency of diagnostic sample transportation in resource-limited healthcare settings?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The implementation of optimized routes reduced average diagnostic sample transportation delays in three Malawian districts by approximately 25%.",
+      "The proportion of unnecessary courier trips decreased by 55% following the implementation of the new system."
+    ],
+    "whyItMatters": "The authors suggest that this approach is feasible and effective in resource-limited settings, offering a scalable model for improving public health diagnostic infrastructure, particularly in sub-Saharan Africa.",
+    "topics": [
+      "Healthcare operations management",
+      "Logistics optimization",
+      "Resource-constrained supply chains",
+      "Public health diagnostics",
+      "Service operations",
+      "Transportation routing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Logistics"
+    ],
+    "geographies": [
+      "Malawi",
+      "Sub-Saharan Africa"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3127431954",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2020,
+      "url": "https://doi.org/10.2139/ssrn.3712556"
+    }
+  ]
+}

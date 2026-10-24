@@ -1,0 +1,63 @@
+Model claude-haiku-5-5, prompt card_v3
+Cards to generate: 170  (full text 42, abstract only 128)  |  unchanged: 7  |  skipped: 156 (see reports/cards_skipped.csv)
+Estimated cost at paid-tier prices: $0.21  (~1,031,171 input tokens by chars ÷ 3.5, ~204,000 output tokens; thinking tokens come on top).
+  [1/170] ok     abstract_only Corporate Risk Management for Multinational Corporations: Fi
+  [2/170] ok     abstract_only Pre-Tender Offer Share Acquisition Strategy in Takeovers
+  [3/170] ok     abstract_only What is Different about International Lending?
+  [4/170] ok     abstract_only The Strategic Role of Debt in Takeover Contests
+  [5/170] ok     abstract_only Assessing Project Risk
+  [6/170] ok     abstract_only Corporate Hedging of Exchange Risk When Foreign Currency Cas
+  [7/170] ok     abstract_only Franchising Microfinance
+  [8/170] ok     abstract_only Extracting Inflation from Stock Returns to Test Purchasing P
+  [9/170] ok     abstract_only POSSIBILITY OF DYING AS A UNIFIED EXPLANATION OF WHY WE DISC
+  [10/170] ok     abstract_only Real Options and the Diversication Discount
+  [11/170] ok     full_text     Information Aggregation, Security Design, and Currency Swaps
+  [12/170] ok     abstract_only How Should Firms Hedge Market Risk?
+  [13/170] ok     abstract_only Stabilization, Syndication, and Pricing of IPOs
+  [14/170] ok     abstract_only International Differences in Oversubscription and Underprici
+  [15/170] ok     abstract_only Organization Capital and Intrafirm Communication
+  [16/170] ok     abstract_only The Winner's Curse and international Methods of Allocating I
+  [17/170] ok     abstract_only Internal Financing of Multinational Subsidiaries: Debt vs. E
+  [18/170] ok     abstract_only Transactions Costs in the Foreign Exchange Market
+  [19/170] ok     full_text     Information Aggregation, Security Design, and Currency Swaps
+  [20/170] ok     abstract_only Extracting Inflation from Stock Returns to test Purchasing P
+  [21/170] ok     full_text     Information Aggregation, Currency Swaps, and the Design of D
+  [22/170] ok     abstract_only International Debt Crisis and the Prices of Options of Bank 
+  [23/170] ok     abstract_only Pricing Microfinance Loans and Loan Guarantees using Biased 
+  [24/170] ok     abstract_only Exchange Risk Management and Corporate Capital Structure
+  [25/170] ok     abstract_only Why is CEO compensation excessive and unrelated to their per
+  [26/170] ok     abstract_only Financial versus operational hedging
+  [27/170] ok     abstract_only Resources, real options, and corporate strategy
+  [28/170] ok     abstract_only Defaults and Interest Rates in International Lending
+  [29/170] ok     abstract_only Why Real Interest Rates, Cost of Capital and Price/Earnings 
+  [30/170] ok     full_text     An Empirical Analysis of the Impact of Information Capabilit
+  [31/170] ok     abstract_only Research Commentary—Cooperation, Coordination, and Governanc
+  [32/170] ok     abstract_only The Impact of Ride-Hailing Services on Congestion: Evidence 
+  [33/170] ok     abstract_only An Empirical Analysis of the Contractual and Information Str
+  [34/170] ok     abstract_only Successfully Governing Business Process Outsourcing Relation
+  [35/170] ok     abstract_only Social Capital and Contract Duration in Buyer-Supplier Netwo
+  [36/170] FAILED abstract_only Efficacy of R&D Work in Offshore Captive Centers: An Empiric  -> invalid card: 1 validation error for Card
+one_liner
+  Value error, one_liner has 26 words; the limit is 25 [type=value_e
+  [37/170] ok     abstract_only Outsourcing Contracts and Equity Prices
+  [38/170] ok     abstract_only Impact of Formal Controls on Client Satisfaction and Profita
+  [39/170] ok     abstract_only The differential impacts of markets for technology on the va
+  [40/170] ok     abstract_only Augmenting Conflict Resolution with Informational Response: 
+  [41/170] ok     abstract_only Growing Technological Relatedness to the ICT Industry and It
+  [42/170] ok     abstract_only The Impact of Firm Learning on Value Creation in Strategic O
+  [43/170] ok     abstract_only Reexamining the Market Value of Information Technology Event
+  [44/170] ok     abstract_only AI and Immunity to the COVID-19 Pandemic
+  [45/170] ok     abstract_only Uncertainty and Compensation Design in Strategic Interfirm C
+  [46/170] ok     abstract_only Information Privacy Concerns of Real Estate Customers and In
+  [47/170] ok     abstract_only Information Systems Sourcing
+  [48/170] ok     abstract_only How Firms Build Isolating Mechanisms for Knowledge: A Study 
+  [49/170] ok     abstract_only Understanding the Information Security Awareness Process in 
+  [50/170] ok     full_text     A Tree-Based Approach for Addressing Self-Selection in Impac
+  [51/170] ok     abstract_only Collaboration, Automation, and Cognitive Aids Technologies t
+  [52/170] ok     abstract_only Essays on the organization and value of outsourcing relation
+  [53/170] ok     abstract_only How Investors Constrain Digital Innovation
+  [54/170] ok     abstract_only Friends with Benefits: The Role of Social Learning In Techno
+  [55/170] ok     abstract_only Uncertainty and Compensation Design in Strategic Inter-Firm 
+  [56/170] ok     abstract_only Pricing your outsourcing contract in uncertainty
+  [57/170] ok     full_text     Transportation Technology and Gentrification: Evidence from 
+  [58/170] ok     abstract_only Fintech for the Poor: Financial Intermediation Without Discr

@@ -1,0 +1,60 @@
+{
+  "id": "W4414007676",
+  "title": "A case for free, rapid, and accurate tuberculosis testing based on people preference",
+  "year": 2025,
+  "date": "2025-09-01",
+  "type": "article",
+  "venue": "The Lancet Primary Care",
+  "doi": "10.1016/j.lanprc.2025.100036",
+  "url": "https://doi.org/10.1016/j.lanprc.2025.100036",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Tushar Garg"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Uptake of WHO-recommended rapid molecular diagnostic tests for tuberculosis has been short of global targets despite remarkable progress in the past 10 years. In 2023, half of people with a tuberculosis diagnosis worldwide did not receive a rapid molecular diagnostic test as an initial test, and more than 2 million people undiagnosed with tuberculosis did not undergo necessary testing.1 Insufficient investments in tuberculosis diagnostics are partly responsible for the persistent gap in testing, as are suboptimal test characteristics and programme delivery.",
+  "summary": {
+    "oneLiner": "Global uptake of rapid molecular tuberculosis diagnostic tests remains below targets due to investment gaps, suboptimal test characteristics, and program delivery challenges.",
+    "overview": "Despite significant progress in the last decade, many individuals worldwide still do not receive the WHO-recommended rapid molecular diagnostic tests for tuberculosis. A substantial portion of tuberculosis cases remains undiagnosed, hindering global health targets. The authors highlight that this gap is driven by a combination of insufficient funding, limitations in the tests themselves, and issues with how testing programs are delivered to patients.",
+    "question": "Why has the uptake of WHO-recommended rapid molecular diagnostic tests for tuberculosis fallen short of global targets?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Insufficient investments in tuberculosis diagnostics are partly responsible for the persistent gap in testing.",
+      "Suboptimal test characteristics contribute to the failure to meet global testing targets.",
+      "Issues with programme delivery are associated with the gap in tuberculosis testing."
+    ],
+    "whyItMatters": "The paper implies that addressing funding deficits, improving diagnostic technology, and refining the delivery of testing programs are necessary steps to bridge the gap in tuberculosis diagnosis.",
+    "topics": [
+      "tuberculosis",
+      "diagnostic testing",
+      "public health",
+      "healthcare delivery",
+      "global health policy",
+      "medical diagnostics"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "Global"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

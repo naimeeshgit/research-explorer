@@ -1,0 +1,65 @@
+{
+  "id": "W2060617251",
+  "title": "Information revelation in the futures market: Evidence from single stock futures",
+  "year": 2008,
+  "date": "2008-02-05",
+  "type": "article",
+  "venue": "Journal of Futures Markets",
+  "doi": "10.1002/fut.20313",
+  "url": "https://doi.org/10.1002/fut.20313",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/117/1/22.2.pdf",
+  "citations": 38,
+  "authors": [
+    {
+      "name": "Kuldeep Shastri"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    },
+    {
+      "name": "Chad J. Zutter"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": "Abstract This paper analyzes 31 months of data on 137 single‐stock futures (SSFs) traded on OneChicago. The results indicate that on the days they trade, SSFs contribute approximately 24% of the price discovery for underlying stocks. Information revelation in the SSFs market decreases with the ratio of spreads in the futures and the stock markets and the volatility in the stock market. Moreover, the quality of the market for the underlying stocks improves substantially after the introduction of the SSFs market, with the largest improvement occurring on days with SSFs trading. © 2008 Wiley Periodicals, Inc. Jrl Fut Mark 28:335– 353, 2008",
+  "summary": {
+    "oneLiner": "Single stock futures (SSFs) contribute 24% of price discovery for underlying stocks, suggesting they serve as a significant venue for informed trading.",
+    "overview": "Single stock futures (SSFs) in the US provide a venue for investors to trade with leverage and lower transaction costs, which attracts informed traders. The study finds that SSFs contribute roughly 24% of the price discovery for their underlying stocks, indicating that new information is frequently reflected in futures prices before the stock price. Furthermore, the introduction of SSFs leads to improvements in the underlying stock market quality, such as narrower bid-ask spreads and lower adverse selection risk. The authors also find evidence of both market-level and security-level learning, as the market becomes more efficient and trading spreads narrow over time.",
+    "question": "Do single stock futures (SSFs) contribute to the price discovery of their underlying stocks, and how does their introduction impact the market quality of those underlying assets?",
+    "method": "The authors apply the Hasbrouck (1995) methodology to estimate the information share of single stock futures. They also employ cross-sectional regressions to examine determinants of this information share and measure changes in stock market liquidity using pre- and post-listing data.",
+    "data": "The study uses 31 months of intraday transaction and quote data for 137 single-stock futures traded on the OneChicago exchange and their underlying stocks listed on the NYSE and NASDAQ, covering the period from January 2003 to July 2005.",
+    "findings": [
+      "SSFs contribute approximately 24 percent of the price discovery for underlying stocks.",
+      "Information revelation in the SSFs market increases with the ratio of futures to stock market volume and decreases with the ratio of spreads and stock market volatility.",
+      "The quality of the underlying stock market improves significantly following the introduction of the SSFs market, characterized by lower bid-ask spreads and reduced adverse selection.",
+      "Evidence suggests both market-level and security-level learning occurs, which is associated with greater efficiency and tighter spreads over time."
+    ],
+    "whyItMatters": "For investors and regulators, the results suggest that SSFs are an important component of the price discovery process. The findings imply that derivative markets, by attracting informed traders, can enhance the overall efficiency and liquidity of the primary stock market.",
+    "topics": [
+      "Single stock futures",
+      "Price discovery",
+      "Market microstructure",
+      "Informed trading",
+      "Market liquidity",
+      "Bid-ask spreads",
+      "Information asymmetry"
+    ],
+    "industries": [
+      "Financial markets"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

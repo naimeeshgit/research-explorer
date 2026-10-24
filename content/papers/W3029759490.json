@@ -1,0 +1,70 @@
+{
+  "id": "W3029759490",
+  "title": "When to relax a lockdown? A modelling-based study of testing-led strategies coupled with sero-surveillance against SARS-CoV-2 infection in India",
+  "year": 2020,
+  "date": "2020-05-30",
+  "type": "preprint",
+  "venue": "medRxiv",
+  "doi": "10.1101/2020.05.29.20117010",
+  "url": "https://doi.org/10.1101/2020.05.29.20117010",
+  "pdf": "https://www.medrxiv.org/content/medrxiv/early/2020/05/30/2020.05.29.20117010.full.pdf",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Sandip Mandal"
+    },
+    {
+      "name": "Hemanshu Das"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Nimalan Arinaminpathy"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "India's lockdown against SARS-CoV-2, if lifted without any other mitigations in place, could risk a second wave of infection. A test-and-isolate strategy, using PCR diagnostic tests, could help to minimise the impact of this second wave. Meanwhile, population-level serological surveillance can provide valuable insights into the level of immunity in the population. Using a mathematical model, consistent with an Indian megacity, we examined how seroprevalence data could guide a test-and-isolate strategy, for lifting a lockdown. For example, if seroprevalence is 20% of the population, we show that a testing strategy needs to identify symptomatic cases within 5 - 8 days of symptom onset, in order to prevent a resurgent wave from overwhelming hospital capacity in the city. This estimate is robust to uncertainty in the effectiveness of the lockdown, as well as in immune protection against reinfection. To set these results in their economic context, we estimate that the weekly cost of such a PCR-based testing programme would be less than 2.1% of the weekly economic loss due to the lockdown. Our results illustrate how PCR-based testing and serological surveillance can be combined to design evidence-based policies, for lifting lockdowns in Indian cities and elsewhere.",
+  "summary": {
+    "oneLiner": "Integrating serological surveillance with aggressive testing strategies allows policymakers to safely relax COVID-19 lockdowns in Indian megacities.",
+    "overview": "Lifting a pandemic lockdown too quickly risks a second wave of infections that could overwhelm city hospitals. The authors developed a mathematical model to show that combining serological surveillance (testing populations for past exposure to the virus) with rapid testing and isolation of symptomatic individuals can help manage this risk. If policymakers know the level of population immunity, they can calibrate how fast and intensive their testing and isolation response needs to be to prevent a resurgence. The findings suggest that the costs of such a robust testing program would be minimal compared to the economic losses caused by the lockdown itself.",
+    "question": "How can serological surveillance inform a test-and-isolate strategy to safely lift COVID-19 lockdowns in Indian megacities?",
+    "method": "The authors used a compartmental, deterministic mathematical model to simulate SARS-CoV-2 transmission dynamics. They tested various scenarios for lockdown effectiveness, timing, and population immunity to determine the required speed of symptomatic patient identification and isolation to prevent hospital system collapse.",
+    "data": "The study utilized demographic data and age-specific infection severity metrics for a representative Indian megacity. The simulations incorporated wide ranges of uncertainty for key parameters like the basic reproduction number (R0), lockdown efficacy, and the role of asymptomatic transmission.",
+    "findings": [
+      "The authors suggest that if population seroprevalence is 20%, identifying and isolating symptomatic cases within 5-8 days is essential to prevent a resurgent wave from overwhelming hospital capacity.",
+      "The model indicates that more intensive testing is required to prevent a resurgence when the virus is more transmissible (higher R0).",
+      "The study finds that including asymptomatic individuals in a testing strategy reduces the required speed and intensity of symptomatic testing.",
+      "The authors estimate that the weekly cost of a comprehensive PCR-based testing program would be less than 2.1% of the weekly economic loss resulting from a lockdown.",
+      "The results suggest that a lockdown serves a critical role in providing time to build necessary testing infrastructure for safe reopening."
+    ],
+    "whyItMatters": "For managers and policymakers, the paper highlights that testing and surveillance are not merely medical tools but essential economic enablers. By quantifying the testing requirements needed to exit lockdowns safely, the study provides a framework for evidence-based policy, suggesting that the investment in public health infrastructure is highly cost-effective compared to the sustained economic damage of blanket lockdowns.",
+    "topics": [
+      "lockdown exit strategy",
+      "epidemiological modeling",
+      "COVID-19 policy",
+      "sero-surveillance",
+      "public health economics",
+      "testing and tracing",
+      "pandemic management"
+    ],
+    "industries": [
+      "Public Health",
+      "Government"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

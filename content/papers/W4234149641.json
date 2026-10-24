@@ -1,0 +1,27 @@
+{
+  "id": "W4234149641",
+  "title": "Momentum in Microstructure",
+  "year": 2012,
+  "date": "2012-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.1991513",
+  "url": "https://doi.org/10.2139/ssrn.1991513",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Dermot Murphy"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "W3082148977",
+  "title": "How Investors Constrain Digital Innovation",
+  "year": 2018,
+  "date": "2018-01-01",
+  "type": "book",
+  "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+  "doi": null,
+  "url": "https://eprints.exchange.isb.edu/id/eprint/1133/",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Anandhi S. Bharadwaj"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anand Nandkumar"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Businesses understand the power of digital innovations to reshape industries and markets. Yet, time and again, they have struggled to innovate with new and disruptive technologies. Research by Clayton Christensen and others demonstrate that an incumbent’s failure has little to do with the newness or complexity of the technology. Rather, it is often their acute focus on the needs of the most important customers that place stringent limits on changes that they can and cannot pursue. Our research implicates another important stakeholder, the firm’s investors, who may keep businesses tethered to existing technologies. In theory, investor incentives align with what is good for the firm. In practice, we find important differences.",
+  "summary": {
+    "oneLiner": "Investors may keep firms tied to existing technologies, and in practice their incentives differ from what theory predicts.",
+    "overview": "Earlier research by Clayton Christensen and others found that incumbent firms often fail with new technologies because they focus too closely on their most important customers, not because the technology is hard. This paper argues that investors are another stakeholder that may hold firms back from digital innovation. In theory, investor incentives line up with the firm's long-term good. The authors report that in practice there are important differences. The abstract does not describe the method or data behind these claims.",
+    "question": "Whether investors, as well as customers, may keep firms tethered to existing technologies and so constrain digital innovation. The abstract frames this as whether investor incentives match what is good for the firm.",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Investors may keep businesses tethered to existing technologies.",
+      "In theory, investor incentives align with what is good for the firm; in practice, the authors find important differences."
+    ],
+    "whyItMatters": "The paper suggests that managers facing pressure to innovate with digital technologies should consider investors as well as customers as a possible source of constraint. The abstract does not spell out specific implications for managers, policymakers or investors.",
+    "topics": [
+      "digital innovation",
+      "incumbent firms",
+      "investor incentives",
+      "disruptive technology",
+      "stakeholder pressure",
+      "technology change"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

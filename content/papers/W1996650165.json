@@ -1,0 +1,84 @@
+{
+  "id": "W1996650165",
+  "title": "Optimizing Tuberculosis Case Detection through a Novel Diagnostic Device Placement Model: The Case of Uganda",
+  "year": 2015,
+  "date": "2015-04-01",
+  "type": "article",
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0122574",
+  "url": "https://doi.org/10.1371/journal.pone.0122574",
+  "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122574&type=printable",
+  "citations": 9,
+  "authors": [
+    {
+      "name": "Mai Tuyet Pho"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Kara M. Palamountain"
+    },
+    {
+      "name": "Moses Lutaakome Joloba"
+    },
+    {
+      "name": "Francis Bajunirwe"
+    },
+    {
+      "name": "Achilles Katamba"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Xpert MTB/RIF (Xpert) is being widely adopted in high TB burden countries. Analysis is needed to guide the placement of devices within health systems to optimize the tuberculosis (TB) case detection rate (CDR). METHODS: We used epidemiological and operational data from Uganda (139 sites serving 87,600 individuals tested for TB) to perform a model-based comparison of the following placement strategies for Xpert devices: 1) Health center level (sites ranked by size from national referral hospitals to health care level III centers), 2) Smear volume (sites ranked from highest to lowest volume of smear microscopy testing), 3) Antiretroviral therapy (ART) volume (sites ranked from greatest to least patients on ART), 4) External equality assessment (EQA) performance (sites ranked from worst to best smear microscopy performance) and 5) TB prevalence (sites ranked from highest to lowest). We compared two clinical algorithms, one where Xpert was used only for smear microscopy negative samples versus another replacing smear microscopy. The primary outcome was TB CDR; secondary outcomes were detection of multi-drug resistant TB, number of sites requiring device placement to achieve specified rollout coverage, and cost. RESULTS: Placement strategies that prioritized sites with higher TB prevalence maximized CDR, with an incremental rate of 6.2-12.6% compared to status quo (microscopy alone). Diagnosis of MDR-TB was greatest in the TB Prevalence strategy when Xpert was used in place of smear microscopy. While initial implementation costs were lowest in the Smear Volume strategy, cost per additional TB case detected was lowest in the TB prevalence strategy. CONCLUSION: In Uganda, placement of Xpert devices in sites with high TB prevalence yielded the highest TB CDR at the lowest cost per additional case diagnosed. These results represent novel use of program level data to inform the optimal placement of new technology in resource-constrained settings.",
+  "summary": {
+    "oneLiner": "Placing diagnostic Xpert devices in sites with the highest tuberculosis prevalence maximizes case detection while minimizing cost per additional case diagnosed in Uganda.",
+    "overview": "When introducing new diagnostic technology like the Xpert MTB/RIF into resource-constrained health systems, deciding where to place these devices is critical for efficiency. This study used operational data from Uganda to compare different strategies for allocating these devices across 139 health facilities. The findings suggest that prioritizing sites based on their local tuberculosis prevalence is superior to other methods, such as prioritizing by patient volume or antiretroviral therapy capacity. This approach achieves the highest rate of disease detection and the lowest cost per additional case diagnosed.",
+    "question": "Which placement strategy for Xpert MTB/RIF diagnostic devices best optimizes tuberculosis case detection rates and costs in the Ugandan healthcare system?",
+    "method": "The authors developed a decision-analytic model using operational and epidemiological data from 139 health sites. They simulated outcomes for five distinct device placement strategies—based on health center hierarchy, smear microscopy volume, antiretroviral therapy (ART) volume, external quality assessment (EQA) performance, and tuberculosis (TB) prevalence—under two different clinical diagnostic algorithms.",
+    "data": "National-level data from 139 health facilities in Uganda performing tuberculosis smear microscopy in 2011, covering 87,600 individuals tested for TB.",
+    "findings": [
+      "Prioritizing sites by TB prevalence yielded the highest TB case detection rates compared to other strategies.",
+      "The TB prevalence strategy resulted in the lowest cost per additional TB case detected.",
+      "The strategy prioritizing ART volume was the most costly and required the highest number of device placements to achieve equivalent rollout coverage.",
+      "Diagnosis of multi-drug resistant tuberculosis (MDR-TB) was greatest when using the TB prevalence strategy, particularly when Xpert replaced smear microscopy.",
+      "While initial implementation costs were lowest in the Smear Volume strategy, this did not equate to the lowest cost per detected case."
+    ],
+    "whyItMatters": "The study suggests that policymakers in resource-limited settings can significantly improve public health outcomes by using program-level data to inform the strategic, data-driven placement of new technologies rather than relying on standard institutional hierarchies.",
+    "topics": [
+      "tuberculosis",
+      "diagnostic placement",
+      "resource allocation",
+      "public health logistics",
+      "healthcare operations",
+      "case detection rate",
+      "cost-effectiveness"
+    ],
+    "industries": [
+      "Healthcare",
+      "Public Health"
+    ],
+    "geographies": [
+      "Uganda"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3122100911",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2014,
+      "url": "https://doi.org/10.2139/ssrn.2518133"
+    }
+  ]
+}

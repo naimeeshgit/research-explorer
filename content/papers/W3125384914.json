@@ -1,0 +1,66 @@
+{
+  "id": "W3125384914",
+  "title": "Social Capital and Contract Duration in Buyer-Supplier Networks for Information Technology Outsourcing",
+  "year": 2015,
+  "date": "2015-06-01",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.2015.0572",
+  "url": "https://doi.org/10.1287/isre.2015.0572",
+  "pdf": null,
+  "citations": 70,
+  "authors": [
+    {
+      "name": "Kiron Ravindran"
+    },
+    {
+      "name": "Anjana Susarla"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Vijay Gurbaxani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "This paper presents new evidence on the role of embeddedness in predicting contract duration in the context of information technology outsourcing. Contract duration is a strategic decision that aligns interests of clients and vendors, providing the benefits of business continuity to clients and incentives to undertake relationship specific investments for vendors. Considering the salience of this phenomenon, there has been limited empirical scrutiny of how contract duration is awarded. We posit that clients and vendors obtain two benefits from being embedded in an interorganizational network. First, the learning and experience accumulated from being embedded in a client-vendor network could mitigate the challenges in managing longer term contracts. Second, the network serves as a reputation system that can stratify vendors according to their trustworthiness and reliability, which is important in longer term arrangements. In particular, we attempt to make a substantive contribution to the literature by theorizing about embeddedness at four distinct levels: structural embeddedness at the node level, relational embeddedness at the dyad level, contractual embeddedness at the level of a neighborhood of contracts, and finally, positional embeddedness at the level of the entire network. We analyze a data set of 22,039 outsourcing contracts implemented between 1989 and 2008. We find that contract duration is indeed associated with structural and positional embeddedness of participant firms, with the relational embeddedness of the buyer-seller dyad, and with the duration of other contracts to which it is connected through common firms. Given the nature of our data, identification using traditional ordinary least squares based approaches is difficult given the unobserved errors clustered along two nonnested dimensions and the autocorrelation in a firm’s decision (here the contract) with those of contracts in its reference group. We use a multiway cluster robust estimation and a network auto-regressive estimation to address these issues. Implications for literature and practice are discussed.",
+  "summary": {
+    "oneLiner": "Ties between clients and vendors, and their wider network position, are associated with longer IT outsourcing contract durations across 22,039 contracts from 1989 to 2008.",
+    "overview": "This paper asks whether a firm's position in a network of client-vendor relationships helps explain how long IT outsourcing contracts last. Long contracts give clients business continuity and give vendors reason to invest in relationship-specific work, but the authors note that few studies have examined how contract length is awarded. They argue that embeddedness in a network helps through accumulated learning and through a reputation system that sorts vendors by trustworthiness and reliability. Using 22,039 contracts implemented between 1989 and 2008, they report that contract duration is associated with several levels of embeddedness, including the buyer-seller pair and the durations of other connected contracts.",
+    "question": "How does a firm's embeddedness in an interorganizational network of client-vendor relationships predict the duration of IT outsourcing contracts?",
+    "method": "The authors theorize embeddedness at four levels: structural (node), relational (dyad), contractual (neighborhood of contracts) and positional (whole network). Because the data have unobserved errors clustered along two nonnested dimensions and autocorrelated decisions, they use a multiway cluster robust estimation and a network auto-regressive estimation rather than ordinary least squares.",
+    "data": "A data set of 22,039 IT outsourcing contracts implemented between 1989 and 2008.",
+    "findings": [
+      "Contract duration is associated with the structural and positional embeddedness of participating firms.",
+      "Contract duration is associated with the relational embeddedness of the buyer-seller dyad.",
+      "Contract duration is associated with the duration of other contracts to which a contract is connected through common firms."
+    ],
+    "whyItMatters": "The abstract states that the implications for literature and practice are discussed, pointing to how clients and vendors might think about contract length in relation to their network ties. The abstract does not give specific managerial recommendations.",
+    "topics": [
+      "IT outsourcing",
+      "contract duration",
+      "social capital",
+      "embeddedness",
+      "buyer-supplier networks",
+      "reputation",
+      "interorganizational networks",
+      "network econometrics"
+    ],
+    "industries": [
+      "Information technology outsourcing"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

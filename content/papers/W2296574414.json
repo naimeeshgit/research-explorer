@@ -1,0 +1,68 @@
+{
+  "id": "W2296574414",
+  "title": "Information Privacy Concerns of Real Estate Customers and Information Security in the Real Estate Industry: an Empirical Analysis",
+  "year": 2015,
+  "date": "2015-01-01",
+  "type": "article",
+  "venue": "Artificial Intelligence and Symbolic Computation",
+  "doi": null,
+  "url": "http://crpit.com/abstracts/CRPITV161Mani.html",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Alireza Heravi"
+    },
+    {
+      "name": "Kim‐Kwang Raymond Choo"
+    },
+    {
+      "name": "Sameera Mubarak"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "An organisation in the real estate industry that uses information systems for its daily business operations for storing and transferring customers’ data is a potential target of cyber-attacks. However, real estate is an understudied industry in terms of information security and customers’ information security privacy concerns. In this paper, we surveyed 82 Australian real estate customers to explore their privacy concerns when providing personal information to real estate agencies and the conditions that they are willing to provide such information. We also interviewed 20 real estate businesses to understand their current information security practices. Our findings suggested that customers are naturally concerned when providing personal information to real estate agencies and that trust plays a key role. Our findings also highlight the need for real estate organisations to enhance their information security practices.",
+  "summary": {
+    "oneLiner": "A study of Australian real estate customers suggests they are naturally concerned about sharing personal data, that trust matters, and agencies need stronger security.",
+    "overview": "Real estate agencies store and transfer customers' personal information on computer systems, which makes them possible targets for cyber-attacks. The authors note that this industry has received little research on information security and on customer privacy concerns. They surveyed 82 Australian real estate customers about their worries over giving personal information to agencies and the conditions under which they would share it. They also interviewed 20 real estate businesses about their current security practices, and found that customers are naturally concerned, that trust plays a key role, and that agencies need to improve their security.",
+    "question": "What privacy concerns do real estate customers have when giving personal information to agencies, and under what conditions are they willing to provide it? What information security practices do real estate businesses currently use?",
+    "method": "A survey of real estate customers and interviews with real estate businesses.",
+    "data": "82 Australian real estate customers (survey) and 20 real estate businesses (interviews). The time period is not stated in the available text.",
+    "findings": [
+      "Customers are naturally concerned when providing personal information to real estate agencies (findings suggest this).",
+      "Trust plays a key role in customers' willingness to share personal information.",
+      "The findings highlight the need for real estate organisations to enhance their information security practices."
+    ],
+    "whyItMatters": "The authors state that their findings highlight the need for real estate organisations to enhance their information security practices. Because customers are concerned and trust plays a key role, agencies may need to pay attention to how they handle customers' personal data.",
+    "topics": [
+      "information privacy",
+      "customer trust",
+      "information security",
+      "real estate",
+      "personal data",
+      "cyber-attacks",
+      "survey research",
+      "Australia"
+    ],
+    "industries": [
+      "Real estate"
+    ],
+    "geographies": [
+      "Australia"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "W1573447228",
+  "title": "Exchange Risk Management and Corporate Capital Structure",
+  "year": 1992,
+  "date": "1992-03-01",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/9d60s1g0.pdf;origin=repeccitec",
+  "pdf": "https://www.escholarship.org/uc/item/9d60s1g0.pdf;origin=repeccitec",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We analyze hedging policies for a corporation that generates a foreign currency cash flow that is not known with certainty. We first show that if investors care about real rather than nominal cash flows, there are no \"free lunches\" due to the Siegal Paradox. THe profile of cash flows that accrue to the equity holders of the firm in various states is completely dtermined by the contractual value of the firm's foregin currency liability could always be chosen to be a foward contract to deliver the foreign currency. We obtain an intriguing result that the probability of bankruptcy for a film that attempts to minimize this probability is lower when htere is some uncertainty in the exchange rates than when there is no uncertainty in the exchange rates: the firm reduces the probability of bankruptcy by borrowing more than its financing needs through foregin currency borrowing alone and by investing the excess funds in domestic risk free securities. Our result provides a reationale for why firms amy choose not to invoice their products in a currency that has no inflation variability; this may also explalin why forms choose to write contracts in nominal rather than real terms.",
+  "summary": {
+    "oneLiner": "Hedging foreign currency debt can lower bankruptcy risk when exchange rates are uncertain, by borrowing beyond needs and holding excess in domestic risk-free assets.",
+    "overview": "This theoretical paper studies how a company that expects a foreign-currency cash flow should manage exchange risk and structure its debt. The author argues that, if investors care about real rather than nominal cash flows, no risk-free profit is available from currency effects of the kind described by the Siegal Paradox (a result about how returns look different depending on the currency they are measured in). The firm's foreign-currency liability can be set so that it behaves like a forward contract, which is an agreement to deliver currency at a fixed future price. The paper's surprising result is that, under some conditions, a firm facing exchange rate uncertainty can lower its bankruptcy probability by borrowing more foreign currency than it needs and investing the surplus in domestic risk-free securities.",
+    "question": "How should a corporation with an uncertain foreign-currency cash flow set its hedging policy and capital structure, and how does exchange rate uncertainty affect its bankruptcy probability and choice of invoicing and contract currency?",
+    "method": "Analytical, theoretical modelling of hedging policies for a firm with an uncertain foreign-currency cash flow. The abstract does not mention simulations or empirical testing.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "If investors care about real rather than nominal cash flows, there are no 'free lunches' arising from the Siegal Paradox.",
+      "The profile of cash flows to equity holders across states is completely determined by the contractual value of the firm's foreign-currency liability.",
+      "The firm's foreign-currency liability could always be chosen to be a forward contract to deliver the foreign currency.",
+      "The probability of bankruptcy for a firm minimizing this probability is lower when there is some uncertainty in exchange rates than when there is none.",
+      "The firm reduces bankruptcy probability by borrowing more than its financing needs in foreign currency and investing the excess in domestic risk-free securities.",
+      "The result may provide a rationale for why firms might choose not to invoice products in a currency with no inflation variability, and may also explain why firms write contracts in nominal rather than real terms."
+    ],
+    "whyItMatters": "The paper suggests that hedging and borrowing choices in foreign currency can reduce bankruptcy risk, and that invoicing and contract-denomination choices may be driven by risk considerations rather than only by inflation stability. The abstract frames these as implications for corporate hedging and contracting decisions; it does not spell out specific policy recommendations.",
+    "topics": [
+      "exchange risk management",
+      "hedging",
+      "corporate capital structure",
+      "bankruptcy risk",
+      "foreign currency debt",
+      "forward contracts",
+      "invoicing currency",
+      "Siegal Paradox"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

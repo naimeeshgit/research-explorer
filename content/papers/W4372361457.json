@@ -1,0 +1,56 @@
+{
+  "id": "W4372361457",
+  "title": "Ownership, privacy, and value of health-care data: Perspectives and future direction",
+  "year": 2023,
+  "date": "2023-05-06",
+  "type": "article",
+  "venue": "IHOPE Journal of Ophthalmology",
+  "doi": "10.25259/ihopejo_33_2022",
+  "url": "https://doi.org/10.25259/ihopejo_33_2022",
+  "pdf": null,
+  "citations": 2,
+  "authors": [
+    {
+      "name": "Anthony Vipin Das"
+    },
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "In this ever expanding explosion of data in the world, we are at a crucial juncture to balance quality and quantity. In healthcare, there is a need to analyze voluminous datasets for the benefit of the patients while respecting their privacy and ownership. There is a need to understand the fundamental framework of co-creation of the data between the health-care provider and the patient. There is no more opportune time such as this to harness the potential of large datasets in healthcare to catalyze value-based care for the population.",
+  "summary": {
+    "oneLiner": "Healthcare providers and patients must establish a framework of data co-creation to balance privacy and ownership with the potential of large-scale data analysis.",
+    "overview": "As healthcare data expands rapidly, there is a critical need to find the right balance between collecting large volumes of information and maintaining patient privacy. The authors argue for a new framework based on the co-creation of data, where patients and providers collaborate. This approach aims to leverage large datasets to improve the quality of patient care while ensuring ethical data management.",
+    "question": "How can the healthcare sector effectively balance the use of large datasets for value-based care while respecting patient privacy and data ownership?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "There is an identified need to establish a fundamental framework of data co-creation between patients and healthcare providers.",
+      "Harnessing large datasets has the potential to catalyze value-based care for the broader population."
+    ],
+    "whyItMatters": "The paper implies that healthcare organizations must shift toward collaborative data ownership models to ethically innovate and improve patient outcomes through data-driven insights.",
+    "topics": [
+      "Healthcare data",
+      "Data privacy",
+      "Value-based care",
+      "Data ownership",
+      "Health informatics"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

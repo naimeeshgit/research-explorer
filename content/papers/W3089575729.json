@@ -1,0 +1,65 @@
+{
+  "id": "W3089575729",
+  "title": "Role of community health workers in improving cost efficiency in an active case finding tuberculosis programme: an operational research study from rural Bihar, India",
+  "year": 2020,
+  "date": "2020-10-01",
+  "type": "article",
+  "venue": "BMJ Open",
+  "doi": "10.1136/bmjopen-2019-036625",
+  "url": "https://doi.org/10.1136/bmjopen-2019-036625",
+  "pdf": "https://bmjopen.bmj.com/content/bmjopen/10/10/e036625.full.pdf",
+  "citations": 23,
+  "authors": [
+    {
+      "name": "Tushar Garg"
+    },
+    {
+      "name": "Manish Kumar Bhardwaj"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "OBJECTIVES: Cost-efficient active case finding (ACF) approaches are needed for their large-scale adoption in national tuberculosis (TB) programmes. Our aim was to assess if community health workers' (CHW) knowledge about families' health status can improve the cost efficiency of the ACF programme without adversely affecting the delivery of other health services for which they are responsible. DESIGN: Quasi-experimental design. INTERVENTIONS: We evaluated an ACF programme in the Samastipur district in Bihar, India, between July 2017 and June 2018. CHWs called Accredited Social Health Activists generated referrals of individuals at risk of TB and conducted symptom-based screening to identify patients with presumptive TB. They also helped them undergo testing and provided treatment support for confirmed TB cases. PRIMARY AND SECONDARY OUTCOME MEASURES: We compared the notification rate from the intervention region with that from a control region in the same district with similar characteristics. We analysed operational data to calculate the cost per TB case diagnosed. We used routine programmatic data from the public health system to estimate the impact on other services provided by CHWs. FINDINGS: CHWs identified 9895 patients with presumptive TB. Of these, 5864 patients were tested for TB, and 1236 were confirmed as TB cases. Annual public case notification rate increased sharply in the intervention region from 45.8 to 105.8 per 100 000 population, whereas it decreased from 50.7 to 45.3 in the control region. There was no practically or statistically significant impact on other output indicators of the CHWs, such as institutional deliveries (-0.04%). The overall cost of the intervention was about US$134 per diagnosed case. Main cost drivers were human resources, and commodities (drugs and diagnostics), which contributed 37.4% and 32.5% of the cost, respectively. CONCLUSIONS: ACF programmes that use existing CHWs in the health system are feasible, cost efficient and do not adversely affect other healthcare services delivered by CHWs.",
+  "summary": {
+    "oneLiner": "Leveraging existing community health workers to screen for tuberculosis in Bihar significantly increases case notifications without disrupting other essential health services.",
+    "overview": "This study examined whether community health workers, known as Accredited Social Health Activists (ASHAs), could improve the detection of tuberculosis in rural India. By using their local knowledge to identify at-risk patients, these workers significantly increased tuberculosis diagnosis rates in their communities. Importantly, the researchers found that this additional responsibility did not negatively impact the delivery of other health services, such as institutional deliveries. The intervention proved to be a cost-efficient strategy for scaling up active disease screening.",
+    "question": "Can community health workers improve the cost efficiency of active tuberculosis case finding without disrupting their other existing healthcare responsibilities?",
+    "method": "Quasi-experimental study comparing a region with community health worker-led screening against a control region with similar characteristics.",
+    "data": "Operational and public health system data from the Samastipur district in Bihar, India, covering the period between July 2017 and June 2018.",
+    "findings": [
+      "The annual public case notification rate in the intervention region increased from 45.8 to 105.8 per 100,000 population.",
+      "The overall cost of the intervention was approximately US$134 per diagnosed tuberculosis case.",
+      "The intervention had no practically or statistically significant impact on other output indicators of the health workers, such as institutional deliveries.",
+      "Human resources and commodities, including drugs and diagnostics, were identified as the main cost drivers."
+    ],
+    "whyItMatters": "The findings suggest that existing community health networks can be effectively utilized to improve disease screening and detection, offering a scalable and cost-efficient model for national public health programmes.",
+    "topics": [
+      "Tuberculosis control",
+      "Community health workers",
+      "Public health efficiency",
+      "Healthcare operations",
+      "Active case finding",
+      "Global health"
+    ],
+    "industries": [
+      "Healthcare",
+      "Public health"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

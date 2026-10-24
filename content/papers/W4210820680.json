@@ -1,0 +1,68 @@
+{
+  "id": "W4210820680",
+  "title": "Risk Stratification for Early Detection of Diabetes and Hypertension in Resource-Limited Settings: Machine Learning Analysis (Preprint)",
+  "year": 2020,
+  "date": "2020-05-11",
+  "type": "preprint",
+  "venue": null,
+  "doi": "10.2196/preprints.20123",
+  "url": "https://doi.org/10.2196/preprints.20123",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Justin J. Boutilier"
+    },
+    {
+      "name": "Timothy C. Y. Chan"
+    },
+    {
+      "name": "Manish Ranjan"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND The impending scale up of noncommunicable disease screening programs in low- and middle-income countries coupled with limited health resources require that such programs be as accurate as possible at identifying patients at high risk. OBJECTIVE The aim of this study was to develop machine learning–based risk stratification algorithms for diabetes and hypertension that are tailored for the at-risk population served by community-based screening programs in low-resource settings. METHODS We trained and tested our models by using data from 2278 patients collected by community health workers through door-to-door and camp-based screenings in the urban slums of Hyderabad, India between July 14, 2015 and April 21, 2018. We determined the best models for predicting short-term (2-month) risk of diabetes and hypertension (a model for diabetes and a model for hypertension) and compared these models to previously developed risk scores from the United States and the United Kingdom by using prediction accuracy as characterized by the area under the receiver operating characteristic curve (AUC) and the number of false negatives. RESULTS We found that models based on random forest had the highest prediction accuracy for both diseases and were able to outperform the US and UK risk scores in terms of AUC by 35.5% for diabetes (improvement of 0.239 from 0.671 to 0.910) and 13.5% for hypertension (improvement of 0.094 from 0.698 to 0.792). For a fixed screening specificity of 0.9, the random forest model was able to reduce the expected number of false negatives by 620 patients per 1000 screenings for diabetes and 220 patients per 1000 screenings for hypertension. This improvement reduces the cost of incorrect risk stratification by US $1.99 (or 35%) per screening for diabetes and US $1.60 (or 21%) per screening for hypertension. CONCLUSIONS In the next decade, health systems in many countries are planning to spend significant resources on noncommunicable disease screening programs and our study demonstrates that machine learning models can be leveraged by these programs to effectively utilize limited resources by improving risk stratification.",
+  "summary": {
+    "oneLiner": "Machine learning models significantly improve diabetes and hypertension risk screening in resource-limited settings compared to standard Western risk scores.",
+    "overview": "In low-resource settings, efficiently identifying patients at risk for chronic diseases like diabetes and hypertension is critical for effective healthcare delivery. This study developed machine learning-based algorithms specifically for populations in urban slums, which proved more accurate than existing risk scores developed in the U.S. and U.K. By better identifying high-risk individuals, these models can help healthcare programs manage limited resources and reduce the number of people who go undiagnosed. Overall, the findings demonstrate that specialized algorithmic tools can provide more precise risk stratification in underserved areas.",
+    "question": "Can machine learning-based risk stratification algorithms tailored for at-risk populations in low-resource settings improve the detection of diabetes and hypertension compared to established risk scores?",
+    "method": "The researchers trained and tested random forest models (a machine learning technique using multiple decision trees to improve prediction) using screening data. They compared the performance of these models against U.S. and U.K. risk scores using area under the receiver operating characteristic curve (AUC, a measure of classification accuracy) and false negative rates.",
+    "data": "Data from 2,278 patients collected via door-to-door and camp-based screenings in urban slums of Hyderabad, India, between July 2015 and April 2018.",
+    "findings": [
+      "Random forest models demonstrated the highest prediction accuracy for both diabetes and hypertension.",
+      "The models outperformed U.S. and U.K. risk scores by 35.5% in AUC for diabetes and 13.5% in AUC for hypertension.",
+      "At a fixed specificity of 0.9, the random forest model reduced false negatives by 620 per 1000 screenings for diabetes and 220 per 1000 for hypertension.",
+      "The use of these models is associated with a reduction in the cost of incorrect risk stratification by 35% for diabetes and 21% for hypertension."
+    ],
+    "whyItMatters": "The study suggests that implementing locally tailored machine learning models in noncommunicable disease screening programs can lead to a more effective allocation of limited health resources in low- and middle-income countries.",
+    "topics": [
+      "machine learning",
+      "healthcare management",
+      "public health",
+      "resource allocation",
+      "diabetes screening",
+      "hypertension screening",
+      "predictive analytics"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

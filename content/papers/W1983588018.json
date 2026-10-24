@@ -1,0 +1,63 @@
+{
+  "id": "W1983588018",
+  "title": "Corporate Risk Management for Multinational Corporations: Financial and Operational Hedging Policies",
+  "year": 1999,
+  "date": "1999-08-01",
+  "type": "article",
+  "venue": "European Finance Review",
+  "doi": "10.1023/a:1009778703889",
+  "url": "https://doi.org/10.1023/a:1009778703889",
+  "pdf": null,
+  "citations": 153,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Jonathan T. B. Howe"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Abstract Under what conditions will a multinational corporation alter its operations to manage its risk exposure? We show that multinational firms will engage in operational hedging only when both exchange rate uncertainty and demand uncertainty are present. Operational hedging is less important for managing short-term exposures, since demand uncertainty is lower in the short term. Operational hedging is also less important for commodity-based firms, which face price but not quantity uncertainty. When the fixed costs of establishing a plant are low or the variability of the exchange rate is high, a firm may benefit from establishing plants in both the domestic and foreign location. Capacity allocated to the foreign location relative to the domestic location will increase when the variability of foreign demand increases relative to the variability of domestic demand or when the expected profit margin is larger. For firms with plants in both a domestic and foreign location, the foreign currency cash flow generally will not be independent of the exchange rate and consequently the optimal financial hedging policy cannot be implemented with forward contracts alone. We show that the optimal financial hedging policy can be implemented using foreign currency call and put options and forward contracts.",
+  "summary": {
+    "oneLiner": "Multinationals shift production across countries to hedge currency risk only when both exchange rate and demand are uncertain, and forwards alone may not suffice.",
+    "overview": "This paper asks when a multinational company will change where it produces in order to manage exchange rate risk. The authors argue that operational hedging, meaning building plants in more than one country, pays off only when both currency movements and demand are uncertain. It is less useful for short-term exposures, where demand is more predictable, and for commodity firms that face price but not quantity uncertainty. The authors also show that when a firm has plants in both countries, forward contracts alone cannot implement the optimal financial hedge, and options are needed as well.",
+    "question": "Under what conditions will a multinational corporation alter its operations to manage its exchange rate risk exposure?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Multinational firms will engage in operational hedging only when both exchange rate uncertainty and demand uncertainty are present.",
+      "Operational hedging is less important for managing short-term exposures, since demand uncertainty is lower in the short term.",
+      "Operational hedging is also less important for commodity-based firms, which face price but not quantity uncertainty.",
+      "When fixed costs of establishing a plant are low or exchange rate variability is high, a firm may benefit from plants in both the domestic and foreign location.",
+      "Capacity allocated to the foreign location relative to the domestic location will increase when foreign demand variability rises relative to domestic demand variability, or when the expected profit margin is larger.",
+      "For firms with plants in both locations, foreign currency cash flow generally will not be independent of the exchange rate, so the optimal financial hedge cannot be implemented with forward contracts alone.",
+      "The optimal financial hedging policy can be implemented using foreign currency call and put options and forward contracts."
+    ],
+    "whyItMatters": "The paper suggests that firms should consider operational hedging, such as plant location and capacity allocation, alongside financial hedging, and that options may be needed where forward contracts alone are insufficient. The abstract does not spell out specific managerial or policy implications beyond these points.",
+    "topics": [
+      "operational hedging",
+      "exchange rate risk",
+      "multinational corporations",
+      "plant location",
+      "capacity allocation",
+      "foreign currency options",
+      "forward contracts",
+      "demand uncertainty",
+      "corporate risk management"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

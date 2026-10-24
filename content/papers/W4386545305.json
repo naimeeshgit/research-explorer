@@ -1,0 +1,104 @@
+{
+  "id": "W4386545305",
+  "title": "Process evaluation of a financial incentive scheme to increase fruit and vegetable purchasing from unorganised retailers in rural Telangana, India",
+  "year": 2023,
+  "date": "2023-09-07",
+  "type": "preprint",
+  "venue": "OSF Preprints (OSF Preprints)",
+  "doi": "10.31219/osf.io/tv6q3",
+  "url": "https://doi.org/10.31219/osf.io/tv6q3",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Judith Lieber"
+    },
+    {
+      "name": "Sanjay Kinra"
+    },
+    {
+      "name": "Srivalli Addanki"
+    },
+    {
+      "name": "Swarnaa Prabhakar"
+    },
+    {
+      "name": "Santhi Bhogadi"
+    },
+    {
+      "name": "Poppy Alice Carson Mallinson"
+    },
+    {
+      "name": "Anura V. Kurpad"
+    },
+    {
+      "name": "Helen Walls"
+    },
+    {
+      "name": "Bharati K. Kulkarni"
+    },
+    {
+      "name": "Shilpa Aggarwal"
+    },
+    {
+      "name": "Richa Pande"
+    },
+    {
+      "name": "K. N. Selvaraj"
+    },
+    {
+      "name": "Arindam Debbarma"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Nanda Kishore Kannuri"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Objective: To evaluate a randomised controlled trial of a financial incentive scheme (coupon providing ∼20% cashback on purchase of fruits and vegetables from village vendors) aimed at increasing the purchase of fruits and vegetables from unorganised retailers in rural India.Design: The process evaluation used a mixed-methods approach, incorporating semi-structured interviews, routine coupon use data, repeat fruit and vegetable purchase and sales surveys, an end-line survey, and examination of study documentation.Setting: Six rural villages, Telangana, India.Participants: Intervention village residents (maximum N=1,719), fruit and vegetable vendors (N=36), local stakeholders (N=5), intervention implementors (N=3).Results: Share of households reaching the fruit and vegetable purchase target (and receiving the cashback) increased steadily from 13% to 42% across the 12-week trial period. Fruit and vegetable purchasing data suggest that households increased fruit and vegetable purchasing to receive the cashback, and households reported using the cash to purchase additional fruits and vegetables (42% and 73%, respectively). Unexpected consequences included community members’ efforts to receive the cashback without purchasing the target amount of fruits and vegetables, changes in shopping patterns, entry of new vendors into the local market, and potential reductions in vendor sales. Lower socioeconomic position (SEP) households reported using the intervention more and participants felt the intervention was most useful for lower SEP households. Conclusion: Our findings demonstrate the potential of even small financial incentives for changing healthy dietary-related behaviours. However, in unorganised retail settings, care should be taken to ensure that such interventions benefit both consumers and sellers.",
+  "summary": {
+    "oneLiner": "A 20% cashback incentive scheme successfully increased fruit and vegetable purchases in rural India, though it introduced complex challenges for local informal markets.",
+    "overview": "This study evaluated a program that provided rural residents with a 20% cashback incentive for buying produce from local, unorganized village vendors. Over 12 weeks, the share of households reaching the purchase target increased significantly, with participants using the cashback to acquire more fruits and vegetables. While effective at changing dietary habits, the intervention caused unintended side effects, such as attempts to bypass program rules and potential disruption to vendor sales. The study highlights the need for balanced designs that support both consumer health and the stability of small-scale informal retailers.",
+    "question": "How did a financial incentive scheme (a 20% cashback coupon) influence the purchase of fruits and vegetables from unorganized retailers in rural India?",
+    "method": "Mixed-methods approach, including semi-structured interviews, routine coupon use data, repeat purchase and sales surveys, an end-line survey, and documentation review.",
+    "data": "Six rural villages in Telangana, India; included 1,719 intervention residents, 36 fruit and vegetable vendors, 5 stakeholders, and 3 implementers.",
+    "findings": [
+      "The share of households reaching the fruit and vegetable purchase target increased steadily from 13% to 42% over the 12-week period.",
+      "Purchasing data suggests households increased their fruit and vegetable buying to secure the cashback.",
+      "Households reported using the saved cash to buy additional fruits and vegetables (42% to 73% reporting).",
+      "Lower socioeconomic position households used the intervention more, and participants perceived it as most beneficial for this group.",
+      "Unexpected consequences included attempts to exploit the coupon system without meeting targets, shifted shopping patterns, and new vendor entry alongside potential drops in existing vendor sales."
+    ],
+    "whyItMatters": "The findings suggest that small financial incentives can effectively drive healthy dietary behaviors, but managers and policymakers must carefully consider the ripple effects on unorganized retail ecosystems to ensure the intervention benefits all stakeholders, including small-scale sellers.",
+    "topics": [
+      "financial incentives",
+      "healthy food access",
+      "rural retail",
+      "unorganized markets",
+      "behavioral economics",
+      "public health intervention",
+      "cashback programs"
+    ],
+    "industries": [
+      "retail",
+      "agriculture",
+      "public health"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

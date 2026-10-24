@@ -1,0 +1,72 @@
+{
+  "id": "W2945285332",
+  "title": "Managing virtual appointments in chronic care",
+  "year": 2019,
+  "date": "2019-07-08",
+  "type": "article",
+  "venue": "IISE Transactions on Healthcare Systems Engineering",
+  "doi": "10.1080/24725579.2019.1638849",
+  "url": "https://doi.org/10.1080/24725579.2019.1638849",
+  "pdf": null,
+  "citations": 17,
+  "authors": [
+    {
+      "name": "Armağan Bayram"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Seyed M. R. Iravani"
+    },
+    {
+      "name": "Karen R. Smilowitz"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Virtual appointments between patients and healthcare providers can offer a cost-effective alternative to traditional office appointments for managing chronic conditions. Virtual appointments increase contact with the physician by either substituting or complementing office appointments, leading to improved health outcomes. The true value of virtual appointments cannot be realized until they are truly integrated with the office appointment systems. In this study, we introduce a capacity allocation model to study the use of virtual appointments in a chronic care setting. Specifically, we develop a finite horizon stochastic dynamic program to determine which patients to schedule for office and virtual appointments that maximizes aggregate health benefits across a cohort of patients. Optimal policy characterization for this problem is challenging. We find that, under certain conditions, a myopic heuristic, where the sickest patients are scheduled for office appointments and the next sickest patients are scheduled for virtual appointments, is optimal. We show that the myopic heuristic performs well even in more general settings. Our findings further show that virtual appointments serve a dual purpose: they may reduce the number of office appointments and may trigger follow-up office appointments.",
+  "summary": {
+    "oneLiner": "Integrating virtual appointments into chronic care improves health outcomes by using a structured capacity allocation policy to prioritize patient needs.",
+    "overview": "Virtual appointments offer a flexible way to manage chronic conditions, either by replacing or adding to traditional in-person office visits. This study explores how healthcare providers can best allocate their capacity between virtual and physical appointments to maximize patient health benefits. The authors show that a simple rule—prioritizing the sickest patients for in-person care and the next-sickest for virtual care—is often the best way to manage patient schedules. This approach helps balance the dual role of virtual care in both reducing the need for office visits and identifying when follow-up in-person care is necessary.",
+    "question": "How can healthcare providers optimally allocate capacity between office and virtual appointments to maximize aggregate health benefits for chronic care patients?",
+    "method": "The authors developed a finite horizon stochastic dynamic program, a mathematical framework used to make a sequence of optimal decisions under uncertainty.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "A myopic heuristic, where the sickest patients receive office visits and the next sickest receive virtual appointments, is optimal under certain conditions.",
+      "The myopic heuristic performs well even in more general, complex settings.",
+      "Virtual appointments serve a dual purpose by potentially reducing the volume of office visits while also acting as a trigger for necessary follow-up in-person appointments."
+    ],
+    "whyItMatters": "The findings provide a clear decision-making framework for healthcare managers to integrate virtual care into existing systems, potentially increasing the efficiency and reach of chronic disease management.",
+    "topics": [
+      "telemedicine",
+      "healthcare operations",
+      "chronic disease management",
+      "capacity allocation",
+      "service operations",
+      "healthcare management"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3124884383",
+      "type": "book",
+      "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+      "year": 2019,
+      "url": "http://eprints.exchange.isb.edu/710/"
+    }
+  ]
+}

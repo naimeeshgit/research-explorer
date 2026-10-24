@@ -1,0 +1,66 @@
+{
+  "id": "W3027371229",
+  "title": "How Firms Build Isolating Mechanisms for Knowledge: A Study in Offshore Research and Development Captives",
+  "year": 2020,
+  "date": "2020-05-18",
+  "type": "article",
+  "venue": "Strategy Science",
+  "doi": "10.1287/stsc.2020.0101",
+  "url": "https://doi.org/10.1287/stsc.2020.0101",
+  "pdf": null,
+  "citations": 9,
+  "authors": [
+    {
+      "name": "Kannan Srikanth"
+    },
+    {
+      "name": "Anand Nandkumar"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Prashant Kale"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Understanding how firms protect their knowledge from leakage is becoming increasingly important, especially when knowledge is not well protected by legal mechanisms such as patents. The rapid rise in research and development (R&D) activities taking place in offshore locations that only offer weak legal protection for intellectual property provides the ideal context to study this question. Using interview and survey data from captive R&D centers of multinational firms in India, we (1) identify five organizational practices that firms use to protect their knowledge from leaking to competitors in offshore locations, (2) consider whether these practices limit knowledge leakage or limit damage from leaked knowledge, and (3) explore whether they are complements or substitutes.",
+  "summary": {
+    "oneLiner": "Multinationals' Indian R&D centers use five organizational practices to protect knowledge from leaking to competitors where legal IP protection is weak.",
+    "overview": "Firms often cannot rely on patents to protect know-how, and this is a growing problem as more R&D moves to offshore locations with weak intellectual property law. The paper studies captive R&D centers of multinational firms in India, which are overseas units owned by the parent company. The authors identify five organizational practices firms use to guard their knowledge against leakage to competitors. They also examine whether these practices mainly stop knowledge from leaking or limit the damage once it has leaked, and whether the practices work together or as alternatives to one another.",
+    "question": "How do firms protect their knowledge from leakage in offshore locations that offer only weak legal protection for intellectual property, and do those protective practices limit leakage or limit damage from leaked knowledge, and do they complement or substitute for each other?",
+    "method": "Not stated in the available text.",
+    "data": "Interview and survey data from captive R&D centers of multinational firms in India. Time period not stated in the available text.",
+    "findings": [
+      "The authors identify five organizational practices that firms use to protect their knowledge from leaking to competitors in offshore locations.",
+      "The authors consider whether these practices limit knowledge leakage or limit damage from leaked knowledge.",
+      "The authors explore whether the practices are complements or substitutes."
+    ],
+    "whyItMatters": "The abstract frames the study as relevant to firms that are moving R&D to offshore locations with weak legal IP protection. Specific managerial or policy recommendations are not stated in the available text.",
+    "topics": [
+      "knowledge protection",
+      "knowledge leakage",
+      "captive R&D centers",
+      "offshore R&D",
+      "intellectual property",
+      "weak IP protection",
+      "organizational practices",
+      "India"
+    ],
+    "industries": [],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

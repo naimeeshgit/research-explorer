@@ -1,0 +1,66 @@
+{
+  "id": "W2114216816",
+  "title": "The Strategic Role of Debt in Takeover Contests",
+  "year": 1993,
+  "date": "1993-06-01",
+  "type": "article",
+  "venue": "The Journal of Finance",
+  "doi": "10.1111/j.1540-6261.1993.tb04736.x",
+  "url": "https://doi.org/10.1111/j.1540-6261.1993.tb04736.x",
+  "pdf": null,
+  "citations": 47,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Vikram K. Nanda"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "ABSTRACT In a takeover contest, the presence of bidders' existing debtholders, if they can be expropriated by issuing new debt with equal or senior priority, allows bidders to commit to bid more than their valuation of the target. Such commitment can be beneficial because it deters potential entry by subsequent bidders and may allow a first bidder to acquire the target at a bargain price. The cost is that if entry by subsequent bidders does nevertheless take place, because the first bidder has committed himself to bid high premia, a bidding war ensues resulting in offers that may involve excessive premia, i.e., bids that are larger than the bidders' valuation of the target.",
+  "summary": {
+    "oneLiner": "Bidders can use existing debt to credibly commit to high bids, which may deter rivals but can trigger costly bidding wars with excessive premia.",
+    "overview": "In a takeover contest, a bidder's existing debtholders can be expropriated, meaning their claims are diluted, if the bidder issues new debt with equal or senior priority. This lets the bidder credibly commit to bid more than the target is worth to it. The commitment can help by discouraging later bidders from entering and possibly letting the first bidder buy the target cheaply. If later bidders do enter, however, the committed first bidder can start a bidding war that pushes offers above the bidders' valuation of the target.",
+    "question": "How does a bidder's existing debt affect its ability to commit to high bids in a takeover contest, and what are the consequences for entry and final premia?",
+    "method": "The abstract does not name a specific method. It reasons through how bidders' debt choices affect bidding behaviour and entry by rival bidders.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The presence of bidders' existing debtholders, if they can be expropriated by issuing new debt with equal or senior priority, allows bidders to commit to bid more than their valuation of the target.",
+      "Such commitment can be beneficial because it may deter potential entry by subsequent bidders.",
+      "Such commitment may allow a first bidder to acquire the target at a bargain price.",
+      "The cost is that if entry by subsequent bidders does nevertheless take place, a bidding war may ensue, resulting in offers that may involve excessive premia."
+    ],
+    "whyItMatters": "The abstract suggests that a bidder's financing choices can shape takeover competition, both by deterring rivals and by possibly leading to overpayment. It does not state explicit recommendations for managers, policymakers or investors.",
+    "topics": [
+      "takeover contests",
+      "bidding wars",
+      "corporate debt",
+      "debtholder expropriation",
+      "takeover premia",
+      "entry deterrence",
+      "M&A strategy"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4249187026",
+      "type": "article",
+      "venue": "The Journal of Finance",
+      "year": 1993,
+      "url": "https://doi.org/10.2307/2328921"
+    }
+  ]
+}

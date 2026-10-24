@@ -1,0 +1,58 @@
+{
+  "id": "W3002624118",
+  "title": "Announcing Waiting Time in Emergency Departments",
+  "year": 2019,
+  "date": "2019-01-24",
+  "type": "article",
+  "venue": "Kellogg School of Management Cases",
+  "doi": "10.1108/case.kellogg.2021.000078",
+  "url": "https://doi.org/10.1108/case.kellogg.2021.000078",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Martin A. Lariviere"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "First National Healthcare (FNH) runs a large network of hospitals and has worked to systematically reduce waiting times in its emergency departments. One of FNH's regional networks has run a successful marketing campaign promoting its low ED waiting times that other regions want to emulate. The corporate quality manager must now determine whether to allow these campaigns to be rolled out and, if so, which waiting time estimates to use. Are the numbers currently being reported accurate? Is there a more accurate way of estimating patient waiting time that can be easily understood by consumers?",
+  "summary": {
+    "oneLiner": "This case explores the strategic and operational implications of marketing emergency department waiting times to attract patients to a hospital network.",
+    "overview": "First National Healthcare is evaluating the efficacy and accuracy of marketing low emergency department (ED) wait times to consumers. The firm must decide if promoting these metrics across its regional networks is advisable and what methodology should be used to calculate waiting times. The challenge lies in balancing operational transparency with the potential for misinterpretation or inaccuracy in patient-facing data.",
+    "question": "Should a hospital network market emergency department waiting times, and what is the most accurate and consumer-friendly way to calculate these estimates?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The regional network's previous marketing campaign promoting low ED waiting times was considered successful by the organization.",
+      "There is uncertainty regarding whether the currently reported waiting time numbers are accurate.",
+      "The organization is seeking a more accurate estimation method that remains easily understood by consumers."
+    ],
+    "whyItMatters": "Managers must weigh the marketing benefits of publicizing operational metrics against the risks of data inaccuracy and the potential for misleading patients in high-stakes healthcare settings.",
+    "topics": [
+      "Healthcare operations",
+      "Service marketing",
+      "Waiting time management",
+      "Performance metrics",
+      "Hospital management",
+      "Operational transparency"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "W4394813020",
+  "title": "Technology-Enabled Agent Choice and Uptake of Social Assistance Programs: Evidence from India’s Food Security Program",
+  "year": 2024,
+  "date": "2024-04-15",
+  "type": "article",
+  "venue": "Manufacturing & Service Operations Management",
+  "doi": "10.1287/msom.2022.0528",
+  "url": "https://doi.org/10.1287/msom.2022.0528",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    {
+      "name": "Rakesh Allu"
+    },
+    {
+      "name": "Maya Ganesh"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Sripad K. Devalkar"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Problem definition: Beneficiaries of social assistance programs with transfers of undifferentiated commodities often have a designated agent to collect their entitlements from. This gives monopoly power to agents over beneficiaries. When coupled with weak government monitoring, agents do not have incentives to adhere to stipulated operating guidelines, leading to reduced uptake by beneficiaries. Some governments are attempting to break the monopoly by allowing beneficiaries to choose agents. However, the impact of choice on uptake may be limited by lack of alternate agents in beneficiaries’ vicinities, restricted ability of agents to compete with undifferentiated commodities, and collusion among agents. Methodology/results: Using a reverse difference-in-differences framework on data from a food security program in two neighboring states in India, Andhra Pradesh and Telangana, we find that providing agent choice results in a 6.6% increase in the quantity of entitlements collected by the beneficiary households. We also find that increase in uptake is about four times higher in regions with high agent density compared with those with low agent density. This emphasizes the importance of having an alternate agent in the vicinity for choice to be effective. Nearly all of the increase in uptake is attributable to new beneficiaries collecting entitlements from their preassigned agent. This is suggestive of agents improving adherence to operating guidelines in response to choice. We find associative evidence for this response in the number of days agents keep their shops open. Managerial implications: Governments executing in-kind transfers of undifferentiated commodities are piloting interventions to provide choice to their beneficiaries. Replacement of in-kind transfers with cash, an increasingly popular intervention, may be challenging in volatile markets, as the magnitude of the transfer needs to be periodically adjusted. Our results indicate that alternate designs of providing choice even in a limited form, that is, the place where the beneficiaries can collect their entitlements with products and prices fixed, can present a viable alternative. Funding: This research was partially supported by a grant from the Omidyar Network to the Digital Identity Research Initiative at the Indian School of Business. Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2022.0528 .",
+  "summary": {
+    "oneLiner": "Allowing beneficiaries to choose their agent for receiving social assistance food entitlements increases uptake, particularly in areas with higher agent density.",
+    "overview": "Social assistance programs often force beneficiaries to collect supplies from a single, preassigned agent, which can lead to poor service and reduced access. By introducing 'agent choice,' governments can break this monopoly and incentivize agents to follow operating rules. This study shows that enabling such choice leads to a measurable increase in how much aid beneficiaries actually collect. The effectiveness of this choice is strongly linked to having other options physically nearby.",
+    "question": "Does providing beneficiaries the choice of agent for collecting social assistance entitlements improve uptake of those services?",
+    "method": "The authors used a reverse difference-in-differences framework to analyze policy implementation.",
+    "data": "Data from a food security program in the Indian states of Andhra Pradesh and Telangana.",
+    "findings": [
+      "Providing agent choice resulted in a 6.6% increase in the quantity of entitlements collected by beneficiary households.",
+      "The increase in uptake is approximately four times higher in regions with high agent density compared to regions with low density.",
+      "The increase in uptake is primarily driven by beneficiaries collecting from their original preassigned agent, suggesting that agents improved their adherence to operating guidelines due to the threat of competition.",
+      "There is associative evidence that agents responded to the introduction of choice by keeping their shops open for more days."
+    ],
+    "whyItMatters": "For governments managing in-kind social transfers, providing beneficiaries with the flexibility to choose their service point is a viable, actionable alternative to replacing physical distribution with cash transfers, especially in volatile markets.",
+    "topics": [
+      "Social assistance programs",
+      "Public distribution system",
+      "Agent choice",
+      "Service operations management",
+      "Operational transparency",
+      "Government policy",
+      "Food security"
+    ],
+    "industries": [
+      "Public sector",
+      "Social services"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4312358008",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.2139/ssrn.4244694"
+    }
+  ]
+}

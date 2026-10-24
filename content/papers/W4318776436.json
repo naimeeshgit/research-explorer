@@ -1,0 +1,98 @@
+{
+  "id": "W4318776436",
+  "title": "Impact of a financial incentive scheme on purchase of fruits and vegetables from unorganised retailers in rural India: a cluster-randomised controlled trial",
+  "year": 2023,
+  "date": "2023-02-01",
+  "type": "article",
+  "venue": "The Lancet Regional Health - Southeast Asia",
+  "doi": "10.1016/j.lansea.2022.100140",
+  "url": "https://doi.org/10.1016/j.lansea.2022.100140",
+  "pdf": "https://researchonline.lshtm.ac.uk/id/eprint/4669021/1/Kinra_etal_2023_Impact-of-a-financial-incentive.pdf",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Sanjay Kinra"
+    },
+    {
+      "name": "Poppy Alice Carson Mallinson"
+    },
+    {
+      "name": "Arindam Debbarma"
+    },
+    {
+      "name": "Helen Walls"
+    },
+    {
+      "name": "Judith Lieber"
+    },
+    {
+      "name": "Santhi Bhogadi"
+    },
+    {
+      "name": "Srivalli Addanki"
+    },
+    {
+      "name": "Richa Pande"
+    },
+    {
+      "name": "Anura V. Kurpad"
+    },
+    {
+      "name": "Nanda Kishore Kannuri"
+    },
+    {
+      "name": "Shilpa Aggarwal"
+    },
+    {
+      "name": "Bharati K. Kulkarni"
+    },
+    {
+      "name": "Eric Andrew Finkelstein"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Background: Inadequate intake of fruits and vegetables is prevalent in rural areas of India, where around 65% of the population reside. Financial incentives have been shown to increase the purchase of fruits and vegetables in urban supermarkets, but their feasibility and effectiveness with unorganised retailers in rural India is unclear. Methods: A cluster-randomised controlled trial of a financial incentive scheme involving ∼20% cashback on purchase of fruits and vegetables from local retailers was conducted in six villages (3535 households). All households in three intervention villages were invited to participate in the scheme which ran for three months (February-April 2021), while no intervention was offered in control villages. Self-reported (pre-intervention and post-intervention) data on purchase of fruits and vegetables were collected from a random sub-sample of households in control and intervention villages. Findings: A total of 1109 households (88% of those invited) provided data. After the intervention, the weekly quantity of self-reported fruits and vegetables purchased were (i) 18.6 kg (intervention) and 14.2 kg (control), baseline-adjusted mean difference 4 kg (95% CI: -6.4 to 14.4) from any retailer (primary outcome); and (ii) 13.1 kg (intervention) and 7.1 kg (control), baseline-adjusted mean difference 7.4 kg (95% CI: 3.8-10.9) from local retailers participating in the scheme (secondary outcome). There was no evidence of differential effects of the intervention by household food security or by socioeconomic position, and no unintended adverse consequences were noted. Interpretation: Financial incentive schemes are feasible in unorganised food retail environments. Effectiveness in improving diet quality of the household likely hinges on the percentage of retailers willing to participate in such a scheme. Funding: This research has been funded by the Drivers of Food Choice (DFC) Competitive Grants Program, which is funded by the UK Government's Department for International Development and the Bill & Melinda Gates Foundation, and managed by the University of South Carolina, Arnold School of Public Health, USA; however, the views expressed do not necessarily reflect the UK Government's official policies.",
+  "summary": {
+    "oneLiner": "A financial incentive scheme for fruit and vegetable purchases proved feasible in rural India and may increase buying from local participating retailers.",
+    "overview": "Researchers tested whether providing cashback incentives to households in rural India would increase the amount of fruits and vegetables they purchased from local, unorganized retailers. Over a three-month period, participants received coupons that provided a 20% cashback reward for qualifying purchases. The study found that while the effect on total fruit and vegetable purchases from all sources was not statistically conclusive, there was a significant increase in purchases specifically from the local retailers participating in the incentive scheme. Importantly, the intervention did not show negative side effects and appeared to be equally effective across different socioeconomic and food security groups.",
+    "question": "Does a financial incentive scheme (cashback) increase the purchase of fruits and vegetables from unorganized local retailers in rural India?",
+    "method": "A cluster-randomised controlled trial involving six villages. Three villages received the intervention (a 20% cashback incentive system) and three served as controls. Researchers used multilevel linear regression to analyze self-reported purchase data, adjusting for baseline purchases and seasonal variations.",
+    "data": "The study included 1,109 households across six villages in the Ranga Reddy district of Telangana, India, surveyed between February and April 2021.",
+    "findings": [
+      "The intervention resulted in a baseline-adjusted mean difference of 7.4 kg (95% CI: 3.8–10.9) in weekly fruit and vegetable purchases from local retailers participating in the scheme.",
+      "The effect of the intervention on total weekly fruit and vegetable purchases from any retailer was 4 kg (95% CI: −6.4 to 14.4), which was not statistically robust.",
+      "There was no evidence of differential effects based on household food security or socioeconomic position.",
+      "No unintended adverse consequences were noted by the researchers."
+    ],
+    "whyItMatters": "The findings suggest that financial incentives can be a feasible tool for influencing food purchasing habits even in rural settings dominated by informal, unorganized retailers. Policymakers should consider these results when designing programs to improve diet quality, though further research is needed to confirm effectiveness and long-term sustainability.",
+    "topics": [
+      "financial incentives",
+      "food purchasing behaviors",
+      "fruit and vegetable intake",
+      "public health nutrition",
+      "rural economy",
+      "behavioral economics",
+      "unorganized retail"
+    ],
+    "industries": [
+      "food retail"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

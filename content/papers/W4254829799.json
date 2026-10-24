@@ -1,0 +1,61 @@
+{
+  "id": "W4254829799",
+  "title": "Ndlovu",
+  "year": 2017,
+  "date": "2017-09-08",
+  "type": "book-chapter",
+  "venue": "Case Studies in Social Entrepreneurship",
+  "doi": "10.4324/9781351287685-2",
+  "url": "https://doi.org/10.4324/9781351287685-2",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Charles Corbett"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "By September 1994, the Ndlovu clinic opened for business with one doctor (Hugo), three employees, and Liesje handling procurement and finance. The first months were rough, with the bank asking for its money back, but by 1995, Ndlovu added a second doctor and a third in 1997. Most patients could not afford anything beyond primary care, so they had to be referred to the (free) government hospital for anything more. Despite this, Ndlovu expanded, first opening a nutritional unit, which was later moved to four off-site locations. Many patients, particularly those with HIV/AIDS, suffered from malnutrition. Hugo decided to help patients plant a variety of crops in their gardens to provide a balanced and nutritious diet. Elandsdoorn is typical of many rural communities in South Africa: very limited drinking water, no high quality health care facilities prior to Ndlovu, no decent educational facilities, and marginal infrastructure.",
+  "summary": {
+    "oneLiner": "This case study details the growth and operational challenges of the Ndlovu clinic in rural South Africa as it navigated financial and healthcare resource constraints.",
+    "overview": "The Ndlovu clinic was established in rural South Africa to address significant gaps in local healthcare and infrastructure. Despite early financial instability, the clinic expanded its medical staff and services to better manage the needs of patients, particularly those living with HIV/AIDS. Recognizing that malnutrition complicated health outcomes, the clinic integrated community-based nutrition programs, such as home gardening, to support patient health beyond traditional primary care.",
+    "question": "Not stated in the available text.",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The clinic successfully expanded from a single-doctor practice to a multi-physician facility despite initial financial pressure from lenders.",
+      "Integrated services, such as nutritional support for patients with HIV/AIDS, were implemented to address challenges that primary care alone could not resolve.",
+      "Resource-constrained environments like Elandsdoorn face systemic barriers, including lack of infrastructure and limited access to healthcare, which necessitate creative operational approaches."
+    ],
+    "whyItMatters": "The case highlights the importance of social entrepreneurship and holistic service models in addressing the healthcare needs of underserved, resource-poor rural communities.",
+    "topics": [
+      "social entrepreneurship",
+      "healthcare access",
+      "rural development",
+      "non-profit operations",
+      "service expansion",
+      "resource management",
+      "HIV/AIDS care"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "geographies": [
+      "South Africa"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

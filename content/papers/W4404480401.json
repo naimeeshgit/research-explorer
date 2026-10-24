@@ -1,0 +1,66 @@
+{
+  "id": "W4404480401",
+  "title": "Understanding Providers’ Attitude Toward AI in India’s Informal Health Care Sector: Survey Study",
+  "year": 2024,
+  "date": "2024-11-18",
+  "type": "article",
+  "venue": "JMIR Formative Research",
+  "doi": "10.2196/54156",
+  "url": "https://doi.org/10.2196/54156",
+  "pdf": "https://jmir.org/api/download?alt_name=formative_v9i1e54156_app1.pdf&filename=4a801b70-e7f8-11ef-9005-db4fbb1462d0.pdf",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Sumeet Kumar"
+    },
+    {
+      "name": "Snehil Rayal"
+    },
+    {
+      "name": "Raghuram Bommaraju"
+    },
+    {
+      "name": "Navya Pratyusha Varasala"
+    },
+    {
+      "name": "Sirisha Papineni"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Background: Tuberculosis (TB) is a major global health concern, causing 1.5 million deaths in 2020. Diagnostic tests for TB are often inaccurate, expensive, and inaccessible, making chest x-rays augmented with artificial intelligence (AI) a promising solution. However, whether providers are willing to adopt AI is not apparent. Objective: The study seeks to understand the attitude of Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homoeopathy (AYUSH) and informal health care providers, who we jointly call AIPs, toward adopting AI for TB diagnosis. We chose to study these providers as they are the first point of contact for a majority of TB patients in India. Methods: We conducted a cross-sectional survey of 406 AIPs across the states of Jharkhand (162 participants) and Gujarat (244 participants) in India. We designed the survey questionnaire to assess the AIPs' confidence in treating presumptive TB patients, their trust in local radiologists' reading of the chest x-ray images, their beliefs regarding the diagnostic capabilities of AI, and their willingness to adopt AI for TB diagnosis. Results: We found that 93.7% (270/288) of AIPs believed that AI could improve the accuracy of TB diagnosis, and for those who believed in AI, 71.9% (194/270) were willing to try AI. Among all AIPs, 69.4% (200/288) were willing to try AI. However, we found significant differences in AIPs' willingness to try AI across the 2 states. Specifically, in Gujarat, a state with better and more accessible health care infrastructure, 73.4% (155/211) were willing to try AI, and in Jharkhand, 58.4% (45/77) were willing to try AI. Moreover, AIPs in Gujarat who showed higher trust in the local radiologists were less likely to try AI (odds ratio [OR] 0.15, 95% CI 0.03-0.69; P=.02). In contrast, in Jharkhand, those who showed higher trust in the local radiologists were more likely to try AI (OR 2.11, 95% CI 0.9-4.93; P=.09). Conclusions: While most AIPs believed in the potential benefits of AI-based TB diagnoses, many did not intend to try AI, indicating that the expected benefits of AI measured in terms of technological superiority may not directly translate to impact on the ground. Improving beliefs among AIPs with poor access to radiology services or those who are less confident of diagnosing TB is likely to result in a greater impact of AI on the ground. Additionally, tailored interventions addressing regional and infrastructural differences may facilitate AI adoption in India's informal health care sector.",
+  "summary": {
+    "oneLiner": "The provided text contains only a facility mapping survey tool rather than a study on provider attitudes toward AI.",
+    "overview": "The document provided serves as a data collection template for mapping healthcare providers in a specific sector. It outlines fields for collecting operational details, patient volume, and engagement status. The text does not contain a research study or findings regarding artificial intelligence.",
+    "question": "Not stated in the available text.",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Not stated in the available text."
+    ],
+    "whyItMatters": "Not stated in the available text.",
+    "topics": [
+      "Health care operations",
+      "Facility mapping",
+      "Tuberculosis management",
+      "Health care provider engagement"
+    ],
+    "industries": [
+      "Health care"
+    ],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

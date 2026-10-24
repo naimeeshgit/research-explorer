@@ -1,0 +1,58 @@
+{
+  "id": "W2460744736",
+  "title": "How Should Firms Hedge Market Risk?",
+  "year": 2016,
+  "date": "2016-12-21",
+  "type": "article",
+  "venue": "Critical Finance Review",
+  "doi": "10.1561/104.00000023",
+  "url": "https://doi.org/10.1561/104.00000023",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Eduardo S. Schwartz"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Consider a firm whose stock returns are affected by market returns and an idiosyncratic market-orthogonal factor. The level of the firm’s cash flows depends on the level of the market and the level of the idiosyncratic factor multiplicatively because of compounding. Although a large hedge against the market index minimizes the variance of cash flows, such a hedge does not minimize the costs of financial distress associated with low cash flow realizations below a debt threshold. A hedge ratio based on asset-rate-of-return regression estimates is then incorrect. This holds even in continuous time and with dynamic hedging policies. Our paper provides a simple heuristic for corporations wishing to hedge out the adverse consequences of market risk. ∗UCLA Anderson School.",
+  "summary": {
+    "oneLiner": "Minimizing cash-flow variance with a large market hedge can raise distress costs; firms should instead target low cash-flow outcomes below a debt threshold.",
+    "overview": "The paper studies how a firm should hedge against market risk when its cash flows depend on the market level and a firm-specific factor in a multiplicative way, because of compounding. The authors argue that a large hedge against the market index minimizes the variance of cash flows but does not minimize the costs of financial distress, which arise when cash flows fall below a debt threshold. As a result, a hedge ratio based on regression estimates of the firm's asset returns on the market is incorrect. The authors say the result holds even in continuous time and with dynamic hedging policies, and they offer a simple heuristic for corporations that want to hedge out the adverse consequences of market risk.",
+    "question": "How should a firm hedge market risk when its cash flows depend on the market and an idiosyncratic factor multiplicatively, and when financial distress costs matter?",
+    "method": "Theoretical analysis of a firm whose stock returns are driven by market returns and a market-orthogonal idiosyncratic factor. The abstract describes a theoretical argument, including results in continuous time and with dynamic hedging policies, and a simple heuristic for corporate hedging.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "A large hedge against the market index minimizes the variance of cash flows.",
+      "Such a large hedge does not minimize the costs of financial distress associated with low cash-flow realizations below a debt threshold.",
+      "A hedge ratio based on asset-rate-of-return regression estimates is incorrect.",
+      "This result holds even in continuous time and with dynamic hedging policies."
+    ],
+    "whyItMatters": "The paper provides a simple heuristic for corporations wishing to hedge out the adverse consequences of market risk, suggesting that hedging to minimize cash-flow variance is not the same as hedging to reduce distress costs.",
+    "topics": [
+      "corporate hedging",
+      "market risk",
+      "financial distress",
+      "hedge ratio",
+      "cash flow variance",
+      "debt threshold",
+      "dynamic hedging"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

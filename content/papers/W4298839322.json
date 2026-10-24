@@ -1,0 +1,94 @@
+{
+  "id": "W4298839322",
+  "title": "Impact of organizational factors on adherence to laboratory testing protocols in adult HIV care in Lusaka, Zambia",
+  "year": 2021,
+  "date": "2021-07-01",
+  "type": "article",
+  "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+  "doi": "10.17615/tkfe-aw29",
+  "url": "https://doi.org/10.17615/tkfe-aw29",
+  "pdf": "https://cdr.lib.unc.edu/downloads/9w032b95g",
+  "citations": 3,
+  "authors": [
+    {
+      "name": "Chibesa S. Wamulume"
+    },
+    {
+      "name": "Andrew O. Westfall"
+    },
+    {
+      "name": "Matimbo M. Chiko"
+    },
+    {
+      "name": "Stewart E. Reid"
+    },
+    {
+      "name": "Stephanie M. Topp"
+    },
+    {
+      "name": "Mary Ann Morris"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Previous operational research studies have demonstrated the feasibility of large-scale public sector ART programs in resource-limited settings. However, organizational and structural determinants of quality of care have not been studied. METHODS: We estimate multivariate regression models using data from 13 urban HIV treatment facilities in Zambia to assess the impact of structural determinants on health workers' adherence to national guidelines for conducting laboratory tests such as CD4, hemoglobin and liver function and WHO staging during initial and follow-up visits as part of Zambian HIV care and treatment program. RESULTS: CD4 tests were more routinely ordered during initial history and physical (IHP) than follow-up (FUP) visits (93.0 % vs. 85.5 %; p < 0.01). More physical space, higher staff turnover and greater facility experience with ART was associated with greater odds of conducting tests. Higher staff experience decreased the odds of conducting CD4 tests in FUP (OR 0.93; p < 0.05) and WHO staging in IHP visit (OR 0.90; p < 0.05) but increased the odds of conducting hemoglobin test in IHP visit (OR 1.05; p < 0.05). Higher staff burnout increased the odds of conducting CD4 test during FUP (OR 1.14; p < 0.05) but decreased the odds of conducting hemoglobin test in IHP visit (0.77; p < 0.05) and CD4 test in IHP visit (OR 0.78; p < 0.05). CONCLUSION: Physical space plays an important role in ensuring high quality care in resource-limited setting. In the context of protocolized care, new staff members are likely to be more diligent in following the protocol verbatim rather than relying on memory and experience thereby improving adherence. Future studies should use prospective data to confirm the findings reported here.",
+  "summary": {
+    "oneLiner": "This study identifies how physical space, staff experience, and burnout influence healthcare workers' adherence to laboratory testing protocols for HIV care in Zambia.",
+    "overview": "This study investigates how organizational factors—such as physical space, staff burnout, and experience—impact whether clinicians follow official protocols for laboratory tests in HIV clinics. Interestingly, the researchers found that newer staff members often follow protocols more strictly than experienced colleagues, likely because they rely less on personal judgment. They also found that having more physical space is associated with better compliance, highlighting the importance of clinic layout. Ultimately, the paper suggests that managers in resource-limited settings must consider these structural factors to ensure consistent quality of care.",
+    "question": "How do organizational and structural factors (such as physical space, staff experience, and burnout) affect healthcare worker adherence to laboratory testing protocols in urban HIV clinics in Zambia?",
+    "method": "The authors used multivariate hierarchical logistic regression models to analyze the relationship between facility-level structural predictors and visit-level adherence to laboratory testing guidelines.",
+    "data": "The study uses data from 13 urban HIV treatment facilities in Lusaka, Zambia, covering adult patient visits recorded in the SmartCare electronic medical record system and a healthcare worker survey from 2007.",
+    "findings": [
+      "Physical space is associated with higher odds of clinicians conducting laboratory tests, suggesting that crowding may compromise care quality.",
+      "Higher staff experience is associated with lower odds of conducting CD4 tests during follow-up visits, suggesting that less experienced staff may adhere more strictly to protocols.",
+      "Staff burnout has mixed associations, where it is associated with increased odds of conducting CD4 tests during follow-up visits but decreased odds for certain initial visit tests.",
+      "Higher staff turnover is associated with greater odds of conducting tests, which the authors suggest might be due to newer staff being more compliant with protocols.",
+      "Health workers generally demonstrate higher adherence to protocols during initial patient visits compared to follow-up visits."
+    ],
+    "whyItMatters": "For managers and policymakers, this study highlights that organizational design and staff demographics directly affect the quality of care. It implies that in high-volume, protocol-driven settings, investments in physical infrastructure and understanding staff behavior are as crucial as medical resources for improving health outcomes.",
+    "topics": [
+      "healthcare operations",
+      "protocol adherence",
+      "HIV care",
+      "resource-limited settings",
+      "staff burnout",
+      "quality of care",
+      "organizational factors",
+      "Zambia"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "Zambia"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2126667799",
+      "type": "article",
+      "venue": "BMC Health Services Research",
+      "year": 2012,
+      "url": "https://doi.org/10.1186/1472-6963-12-106"
+    },
+    {
+      "id": "W3122521458",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2010,
+      "url": "https://doi.org/10.2139/ssrn.1685275"
+    }
+  ]
+}

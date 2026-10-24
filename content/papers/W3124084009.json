@@ -1,0 +1,76 @@
+{
+  "id": "W3124084009",
+  "title": "Improving Health Outcomes Through Better Capacity Allocation in a Community-Based Chronic Care Model",
+  "year": 2013,
+  "date": "2013-12-01",
+  "type": "article",
+  "venue": "Operations Research",
+  "doi": "10.1287/opre.2013.1214",
+  "url": "https://doi.org/10.1287/opre.2013.1214",
+  "pdf": null,
+  "citations": 100,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Seyed M. R. Iravani"
+    },
+    {
+      "name": "Tingting Jiang"
+    },
+    {
+      "name": "Karen R. Smilowitz"
+    },
+    {
+      "name": "Stephen Samuelson"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "This paper studies a model of community-based healthcare delivery for a chronic disease. In this setting, patients periodically visit the healthcare delivery system, which influences their disease progression and consequently their health outcomes. We investigate how the provider can maximize community-level health outcomes through better operational decisions pertaining to capacity allocation across different patients. To do so, we develop an integrated capacity allocation model that incorporates clinical (disease progression) and operational (capacity constraint) aspects. Specifically, we model the provider's problem as a finite horizon stochastic dynamic program, where the provider decides which patients to schedule at the beginning of each period. Therapy is provided to scheduled patients, which may improve their health states. Patients that are not seen follow their natural disease progression. We derive a quantitative measure for comparison of patients' health states and use it to design an easy-to-implement myopic heuristic that is provably optimal in special cases of the problem. We employ the myopic heuristic in a more general setting and test its performance using operational and clinical data obtained from Mobile C.A.R.E. Foundation, a community-based provider of pediatric asthma care in Chicago. Our extensive computational experiments suggest that the myopic heuristic can improve the health gains at the community level by up to 15% over the current policy. The benefit is driven by the ability of our myopic heuristic to alter the duration between visits for patients with different health states depending on the tightness of the capacity and the health states of the entire patient population.",
+  "summary": {
+    "oneLiner": "A new capacity allocation model for chronic care improves community health outcomes by optimizing patient scheduling based on individual health states and resource availability.",
+    "overview": "In managing chronic diseases, healthcare providers often struggle to balance limited capacity with the varying needs of their patients. This paper introduces an integrated model that helps providers decide which patients to schedule for care to maximize overall community health. By accounting for both how a disease progresses and the current capacity constraints, the authors developed a simple decision rule (a myopic heuristic) to improve patient scheduling. Testing this approach with data from pediatric asthma care providers, they found significant potential improvements in community health outcomes.",
+    "question": "How can a healthcare provider optimize capacity allocation across different patients to maximize community-level health outcomes for chronic diseases?",
+    "method": "A finite horizon stochastic dynamic program (a mathematical method used to make sequential decisions under uncertainty) and a myopic heuristic (a rule that focuses on immediate results).",
+    "data": "Operational and clinical data from Mobile C.A.R.E. Foundation, a provider of pediatric asthma care in Chicago.",
+    "findings": [
+      "The proposed myopic heuristic suggests that health gains at the community level can be improved by up to 15% over the current policy.",
+      "The improvement is driven by the model's ability to adjust the time between patient visits based on both individual health status and overall capacity constraints."
+    ],
+    "whyItMatters": "For healthcare managers, this research provides a practical, easy-to-implement framework for improving patient health outcomes without needing additional resources, simply by making better decisions on how to allocate existing capacity.",
+    "topics": [
+      "Healthcare operations",
+      "Capacity allocation",
+      "Chronic disease management",
+      "Stochastic dynamic programming",
+      "Patient scheduling",
+      "Public health management"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "USA"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2162650004",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2010,
+      "url": "https://doi.org/10.2139/ssrn.1700909"
+    }
+  ]
+}

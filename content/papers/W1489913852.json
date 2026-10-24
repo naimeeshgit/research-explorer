@@ -1,0 +1,62 @@
+{
+  "id": "W1489913852",
+  "title": "The Impact of Firm Learning on Value Creation in Strategic Outsourcing Relationships",
+  "year": 2015,
+  "date": "2015-01-02",
+  "type": "article",
+  "venue": "Journal of Management Information Systems",
+  "doi": "10.1080/07421222.2015.1029379",
+  "url": "https://doi.org/10.1080/07421222.2015.1029379",
+  "pdf": null,
+  "citations": 29,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anitesh Barua"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Information technology (IT) is central to the process execution and management of an ongoing relationship in outsourcing, both of which are fraught with challenges, and often lead to poor business outcomes. Thus, it is important for IT groups in organizations to understand how to deal with such difficulties for improved outsourcing performance. We study whether firms learn over time to deal with these two related but distinct issues in IT and business process outsourcing. Does such learning affect financial value appropriation through outsourcing? We build on the literature in information systems and strategy to investigate whether value creation in outsourcing depends on relational learning that results from prior association with the vendor, and procedural learning that results from prior experience in managing interfirm relationships. We estimate value in terms of long-term abnormal stock returns to the client relative to an industry, size, and book-to-market matched sample of control firms following the implementation of the outsourcing contract. We also analyze announcement period returns and allied wealth effects. Using data from the hundred largest outsourcing deals between 1996 and 2005, we find that whereas relational learning influences value creation in both simple and complex outsourcing engagements, procedural learning impacts value only in complex initiatives. Financial markets are slow to price the value of learning. The results suggest that caution should be exercised when firms without the experience of managing interfirm relationships externalize complex tasks to vendors they have not worked with in the past. Furthermore, IT groups can help improve learning-based outcomes by developing processes and systems that enable a firm to improve outsourcing procedures in a cumulative manner and also to coordinate and collaborate with the vendor.",
+  "summary": {
+    "oneLiner": "Client firms gain value from outsourcing when they have prior experience with the vendor or with managing interfirm relationships, though markets price this learning slowly.",
+    "overview": "This paper asks whether firms get better at outsourcing IT and business processes over time. The authors look at how a client's past work with a vendor (relational learning) and its past experience managing outside partners (procedural learning) relate to the financial value the client captures. They measure value as long-term abnormal stock returns, meaning returns above those of similar non-outsourcing firms. They find that relational learning matters for both simple and complex deals, while procedural learning matters only for complex ones. The authors suggest caution when firms without such experience outsource complex tasks to new vendors.",
+    "question": "Do firms learn over time to manage outsourcing relationships, and does that learning affect the financial value they capture from outsourcing?",
+    "method": "The authors estimate long-term abnormal stock returns to the client firm, relative to a matched sample of control firms with similar industry, size and book-to-market ratio (a common measure of how a firm is valued relative to its accounting book value), after the outsourcing contract is implemented. They also analyze stock returns around the announcement of the deal and allied wealth effects (value changes for related firms).",
+    "data": "The hundred largest outsourcing deals between 1996 and 2005. Sample country and industry of the client firms are not stated in the available text.",
+    "findings": [
+      "Relational learning (gained from prior association with the vendor) influences value creation in both simple and complex outsourcing engagements.",
+      "Procedural learning (gained from prior experience managing interfirm relationships) impacts value only in complex initiatives.",
+      "Financial markets are slow to price the value of learning.",
+      "The results suggest that caution should be exercised when firms without experience managing interfirm relationships externalize complex tasks to vendors they have not worked with before.",
+      "The authors suggest IT groups can improve learning-based outcomes by developing processes and systems that let firms improve outsourcing procedures cumulatively and coordinate and collaborate with the vendor."
+    ],
+    "whyItMatters": "For managers, the paper suggests that prior vendor relationships and general experience with partner management can affect outsourcing outcomes, especially for complex tasks, so firms without such experience should be cautious. For IT groups, the authors suggest building processes and systems that support cumulative improvement and vendor coordination. For investors, the finding that markets are slow to price learning implies that the value of this learning may not be fully reflected in stock prices quickly.",
+    "topics": [
+      "IT outsourcing",
+      "business process outsourcing",
+      "organizational learning",
+      "relational learning",
+      "vendor relationships",
+      "abnormal stock returns",
+      "value creation",
+      "complex outsourcing"
+    ],
+    "industries": [
+      "IT and business process outsourcing"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

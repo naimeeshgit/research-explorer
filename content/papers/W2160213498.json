@@ -1,0 +1,58 @@
+{
+  "id": "W2160213498",
+  "title": "Transactions Costs in the Foreign Exchange Market",
+  "year": 2000,
+  "date": "2000-11-01",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/4qw3p6rp.pdf;origin=repeccitec",
+  "pdf": "https://escholarship.org/uc/item/4qw3p6rp",
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Robert Z. Aliber"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Shu Yan"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Introduction One issue in the argument about the merits of pegged and oating exchange rates involves the magnitude of transactions costs in the foreign exchange market under alternative exchange rate regimes. The higher the transactions costs, the greater the deterrence to international trade. Moreover, the higher these costs, the greater the scope for national monetary independence, and more fully the monetary authority in one country could follow policies that might cause the rates of return on assets denominated in its currency to dier from rates of return on comparable assets denominated in other currencies, for any given impact in inducing ows of short-term capital. In contrast, the lower the transactions costs in the foreign exchange market, the more the case for national monetary independence must rest on other deterrents to the shifts of funds among national #nancial centers, such as uncertainty about changes in exchange rates. Transactions costs in the foreign exchan",
+  "summary": {
+    "oneLiner": "Asks how large transaction costs in the foreign exchange market are under pegged versus floating exchange rates, since those costs affect trade and monetary independence.",
+    "overview": "The paper addresses one part of the debate over pegged (fixed) versus floating exchange rates: how large the transaction costs of trading currencies are under each regime. The abstract argues that higher costs deter international trade and give a central bank more room to set interest rates independently, while lower costs shift the case for monetary independence toward other barriers, such as uncertainty about exchange rate changes. The available text is cut off before it reports the authors' method, data or results, so the findings cannot be summarised.",
+    "question": "How large are transaction costs in the foreign exchange market under alternative exchange rate regimes, such as pegged and floating rates, and what do those costs imply for trade and monetary independence?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Not stated in the available text."
+    ],
+    "whyItMatters": "The abstract argues that higher transaction costs in currency markets deter international trade and widen the scope for a country's monetary authority to set policy independently of other financial centres. Lower costs would make monetary independence depend more on other deterrents, such as exchange rate uncertainty.",
+    "topics": [
+      "transaction costs",
+      "foreign exchange market",
+      "exchange rate regimes",
+      "pegged vs floating exchange rates",
+      "monetary independence",
+      "international capital flows",
+      "exchange rate uncertainty"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

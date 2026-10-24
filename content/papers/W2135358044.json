@@ -1,0 +1,42 @@
+{
+  "id": "W2135358044",
+  "title": "The Importance of Implementation Strategy in Scaling Up Xpert MTB/RIF for Diagnosis of Tuberculosis in the Indian Health-Care System: A Transmission Model",
+  "year": 2014,
+  "date": "2014-07-15",
+  "type": "article",
+  "venue": "PLoS Medicine",
+  "doi": "10.1371/journal.pmed.1001674",
+  "url": "https://doi.org/10.1371/journal.pmed.1001674",
+  "pdf": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1001674&type=printable",
+  "citations": 53,
+  "authors": [
+    {
+      "name": "Henrik Salje"
+    },
+    {
+      "name": "Jason Randolph Andrews"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Srinath Satyanarayana"
+    },
+    {
+      "name": "Amanda Yuan Sun"
+    },
+    {
+      "name": "Madhukar Pai"
+    },
+    {
+      "name": "David W. Dowdy"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: India has announced a goal of universal access to quality tuberculosis (TB) diagnosis and treatment. A number of novel diagnostics could help meet this important goal. The rollout of one such diagnostic, Xpert MTB/RIF (Xpert) is being considered, but if Xpert is used mainly for people with HIV or high risk of multidrug-resistant TB (MDR-TB) in the public sector, population-level impact may be limited. METHODS AND FINDINGS: We developed a model of TB transmission, care-seeking behavior, and diagnostic/treatment practices in India and explored the impact of six different rollout strategies. Providing Xpert to 40% of public-sector patients with HIV or prior TB treatment (similar to current national strategy) reduced TB incidence by 0.2% (95% uncertainty range [UR]: -1.4%, 1.7%) and MDR-TB incidence by 2.4% (95% UR: -5.2%, 9.1%) relative to existing practice but required 2,500 additional MDR-TB treatments and 60 four-module GeneXpert systems at maximum capacity. Further including 20% of unselected symptomatic individuals in the public sector required 700 systems and reduced incidence by 2.1% (95% UR: 0.5%, 3.9%); a similar approach involving qualified private providers (providers who have received at least some training in allopathic or non-allopathic medicine) reduced incidence by 6.0% (95% UR: 3.9%, 7.9%) with similar resource outlay, but only if high treatment success was assured. Engaging 20% of all private-sector providers (qualified and informal [providers with no formal medical training]) had the greatest impact (14.1% reduction, 95% UR: 10.6%, 16.9%), but required >2,200 systems and reliable treatment referral. Improving referrals from informal providers for smear-based diagnosis in the public sector (without Xpert rollout) had substantially greater impact (6.3% reduction) than Xpert scale-up within the public sector. These findings are subject to substantial uncertainty regarding private-sector treatment patterns, patient care-seeking behavior, symptoms, and infectiousness over time; these uncertainties should be addressed by future research. CONCLUSIONS: The impact of new diagnostics for TB control in India depends on implementation within the complex, fragmented health-care system. Transformative strategies will require private/informal-sector engagement, adequate referral systems, improved treatment quality, and substantial resources. Please see later in the article for the Editors' Summary.",
+  "summary": null,
+  "versions": []
+}

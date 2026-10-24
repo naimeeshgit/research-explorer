@@ -1,0 +1,58 @@
+{
+  "id": "W1525732379",
+  "title": "International Debt Crisis and the Prices of Options of Bank Stocks",
+  "year": 1991,
+  "date": "1991-10-10",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/9gd108rq.pdf;origin=repeccitec",
+  "pdf": "https://escholarship.org/content/qt9gd108rq/qt9gd108rq.pdf",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Modelling the stock price processes of banks with large exposures to Latin American debt as a combination of diffusion and jump processes leads to a no-arbitrage pricing restriction which can be used to infer the implied market prices of Latin American debt.",
+  "summary": {
+    "oneLiner": "Modelling bank stock prices as diffusion plus jump processes yields a no-arbitrage restriction that can infer market prices of Latin American debt.",
+    "overview": "The paper looks at banks that had large exposures to Latin American debt during the international debt crisis. The author models how these banks' stock prices move, combining smooth continuous changes with sudden jumps. Under the assumption that no risk-free profit is available in the market (no-arbitrage), this model implies a restriction on option prices. The restriction can then be used to infer the market prices implied for Latin American debt. The abstract does not report empirical results beyond this approach.",
+    "question": "Can the prices of options on bank stocks be used to infer the market value of Latin American debt held by those banks?",
+    "method": "A theoretical model in which bank stock prices follow a combination of diffusion processes (continuous random movements) and jump processes (sudden discrete shifts). The model yields a no-arbitrage pricing restriction, which is then used to infer implied market prices of Latin American debt.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "A no-arbitrage pricing restriction arises from modelling the stock prices of banks with large Latin American debt exposures as diffusion plus jump processes.",
+      "This restriction can be used to infer the implied market prices of Latin American debt."
+    ],
+    "whyItMatters": "The abstract suggests that option prices on bank stocks can serve as a source of information about the market value of distressed sovereign debt held by banks, which is otherwise hard to observe directly. The abstract does not state explicit implications for managers, policymakers or investors.",
+    "topics": [
+      "international debt crisis",
+      "bank stocks",
+      "option pricing",
+      "no-arbitrage",
+      "jump diffusion",
+      "Latin American debt",
+      "sovereign debt",
+      "implied prices"
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "geographies": [
+      "Latin America"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

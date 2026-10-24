@@ -1,0 +1,73 @@
+{
+  "id": "W2953363672",
+  "title": "Managing EMS systems with user abandonment in emerging economies",
+  "year": 2020,
+  "date": "2020-07-28",
+  "type": "article",
+  "venue": "IISE Transactions",
+  "doi": "10.1080/24725854.2020.1802086",
+  "url": "https://doi.org/10.1080/24725854.2020.1802086",
+  "pdf": null,
+  "citations": 11,
+  "authors": [
+    {
+      "name": "Lavanya Marla"
+    },
+    {
+      "name": "Kaushik Krishnan"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "In many emerging economies, callers may abandon ambulance requests due to a combination of operational (small fleet size), infrastructural (long travel times) and behavioral factors (low trust in the ambulance system). As a result, ambulance capacity, which is already scarce, is wasted in serving calls that are likely to be abandoned later. In this article, we investigate the design of an ambulance system in the presence of abandonment behavior, using a two-step approach. First, because the callers’ actual willingness to wait for ambulances is censored, we adopt a Maximum Likelihood Estimator estimation approach suitable for interval censored data. Second, we employ a simulation-based optimization approach to explicitly incorporate customers’ willingness to wait in: (i) tactical short-term decisions such as modification of dispatch policies and ambulance allocations at existing base locations; and (ii) strategic long-term network design decisions of increasing fleet size and re-designing base locations. We calibrate our models using data from a major metropolitan city in India where historically 81.3% of calls were successfully served without being abandoned. We find that modifying dispatch policies or reallocating ambulances provide relatively small gains in successfully served calls (around 1%). By contrast, increasing fleet size and network re-design can more significantly increase the fraction of successfully served calls with the latter being particularly more effective. Redesigning bases with the current fleet size is equivalent to increasing the fleet size by 8.6% at current base locations. Similarly, adding 29% more ambulances and redesigning the base locations is equivalent to doubling the fleet size at the current base locations and adding 34% more ambulances and redesigning base locations is equivalent to a three-fold increase. Our results indicate that in the absence of changes in behavioral factors, significant investment is required to modify operational factors by increasing fleet size, and to modify infrastructural factors by redesigning base locations.",
+  "summary": {
+    "oneLiner": "In emerging economies, systemic improvements in ambulance fleet size and base locations are necessary to address high call abandonment rates.",
+    "overview": "In many emerging economies, ambulance systems face high abandonment rates because callers grow impatient due to long wait times or low trust. This study examines how to improve service by accounting for how long people are actually willing to wait. The authors show that simply changing dispatch rules offers minimal benefit. Instead, structural changes like expanding the fleet and strategically relocating ambulance bases are much more effective at ensuring more calls are successfully served.",
+    "question": "How can ambulance systems in emerging economies be designed to improve service rates when callers abandon requests due to long wait times?",
+    "method": "The authors used a two-step approach: a Maximum Likelihood Estimator to handle censored data regarding wait-time tolerance, followed by a simulation-based optimization to test various fleet and base location configurations.",
+    "data": "Data from a major metropolitan city in India, where 81.3% of calls were historically served successfully.",
+    "findings": [
+      "Modifying dispatch policies or reallocating existing ambulances provides only small gains (around 1%) in successfully served calls.",
+      "Increasing fleet size and redesigning base locations significantly increases the fraction of successfully served calls.",
+      "Redesigning base locations is particularly effective, with the authors noting that redesigning bases with the current fleet is equivalent to increasing the fleet size by 8.6%.",
+      "Combining fleet expansion with network redesign leads to substantial operational gains compared to status quo base configurations."
+    ],
+    "whyItMatters": "For managers and policymakers in emerging markets, this research suggests that minor operational tweaks are insufficient to solve capacity crises. Significant capital investment in infrastructure (base locations) and fleet expansion is necessary to reduce abandonment and improve emergency medical service performance.",
+    "topics": [
+      "Emergency medical services",
+      "Operations management",
+      "Emerging markets",
+      "Network design",
+      "Queueing behavior",
+      "Public health logistics"
+    ],
+    "industries": [
+      "Healthcare",
+      "Emergency services"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3125335771",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2019,
+      "url": "https://doi.org/10.2139/ssrn.3213968"
+    }
+  ]
+}

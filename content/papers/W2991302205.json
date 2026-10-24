@@ -1,0 +1,113 @@
+{
+  "id": "W2991302205",
+  "title": "Initiative for Promoting Affordable and Quality Tuberculosis Tests (IPAQT): a market-shaping intervention in India",
+  "year": 2019,
+  "date": "2019-11-01",
+  "type": "article",
+  "venue": "BMJ Global Health",
+  "doi": "10.1136/bmjgh-2019-001539",
+  "url": "https://doi.org/10.1136/bmjgh-2019-001539",
+  "pdf": "https://gh.bmj.com/content/bmjgh/4/6/e001539.full.pdf",
+  "citations": 19,
+  "authors": [
+    {
+      "name": "Harkesh Dabas"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Manisha Sabharwal"
+    },
+    {
+      "name": "Arnab Pal"
+    },
+    {
+      "name": "Sachin Salim"
+    },
+    {
+      "name": "Lakshmi Balachandran Nair"
+    },
+    {
+      "name": "Kaartikeya Chauhan"
+    },
+    {
+      "name": "Prateek Maheshwari"
+    },
+    {
+      "name": "Aparna Parulkar"
+    },
+    {
+      "name": "Ritu Singh"
+    },
+    {
+      "name": "Manasi Chitalia"
+    },
+    {
+      "name": "Rigveda Kadam"
+    },
+    {
+      "name": "Manjot Kaur"
+    },
+    {
+      "name": "Collins Oghor"
+    },
+    {
+      "name": "Nirros Ponnudurai"
+    },
+    {
+      "name": "Sameer Kumta"
+    },
+    {
+      "name": "Peter M. Small"
+    },
+    {
+      "name": "Puneet Kumar Dewan"
+    },
+    {
+      "name": "Madhukar Pai"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "A majority of patients with tuberculosis (TB) in India are diagnosed and treated in the private sector. Yet, most private providers do not use most recent WHO-endorsed microbiological tests such as liquid cultures, line probe assays and Xpert MTB/RIF due to a combination of factors such as lack of awareness, misaligned incentives and high prices that are unaffordable for patients. We designed a market-based approach to transform a high-price, low-volume market equilibrium into a low-price, high-volume equilibrium to improve the uptake of these tests. Toward this end, a non-profit consortium of private laboratories, called Initiative for Promoting Affordable and Quality Tuberculosis Tests (IPAQT) was formed in India in March 2013. It negotiated lower pricing on equipment and reagents with manufacturers, closer to that offered to the public sector. In return, IPAQT assured that this discount was passed on to patients, who typically paid for these tests out of their pockets, through an informally agreed on retail ceiling price. IPAQT also invested in demand generation activities that complemented the supply-side effort. IPAQT membership grew from 56 laboratories in 2013 to 211 in 2018. During this period, the initiative resulted in a 10-fold increase in the uptake of Xpert and a 30%-50% reduction in price. This initiative is planned to be expanded to other South Asian countries with similar TB epidemic and private market structure and dynamics. However, long-term sustainability of the initiative would require developing more cost-effective marketing activities and integration with broader private sector engagement agenda of the national TB programme.",
+  "summary": {
+    "oneLiner": "The IPAQT initiative successfully transformed India's private tuberculosis testing market by negotiating lower prices to shift from a low-volume to a high-volume equilibrium.",
+    "overview": "In India, many tuberculosis (TB) patients rely on private clinics that often fail to use accurate, modern diagnostic tests due to high costs. The Initiative for Promoting Affordable and Quality Tuberculosis Tests (IPAQT) was formed to aggregate private laboratories and negotiate lower equipment costs from manufacturers in exchange for capping the prices patients pay. This market-shaping strategy successfully increased the use of high-quality tests while significantly lowering costs for out-of-pocket payers. The authors suggest that this model could be replicated in other countries with similar private healthcare landscapes.",
+    "question": "How can a market-shaping intervention, such as a negotiated consortium, improve the adoption and affordability of WHO-endorsed tuberculosis diagnostic tests in the private sector?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "IPAQT membership grew from 56 laboratories in 2013 to 211 in 2018.",
+      "The initiative resulted in a 10-fold increase in the uptake of Xpert MTB/RIF tests.",
+      "The initiative is associated with a 30%-50% reduction in testing prices for patients.",
+      "Long-term sustainability suggests the need for more cost-effective marketing and integration with national TB programmes."
+    ],
+    "whyItMatters": "The model demonstrates that market-based interventions can effectively lower prices and expand access to essential health services in fragmented private sectors by aligning incentives between laboratories, manufacturers, and patients.",
+    "topics": [
+      "market shaping",
+      "healthcare accessibility",
+      "public-private partnerships",
+      "tuberculosis diagnosis",
+      "healthcare pricing",
+      "emerging market healthcare"
+    ],
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

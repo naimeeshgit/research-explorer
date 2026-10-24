@@ -1,0 +1,59 @@
+{
+  "id": "W1964026481",
+  "title": "Augmenting Conflict Resolution with Informational Response: A Holistic View of Governance Choice in Business Process Outsourcing",
+  "year": 2014,
+  "date": "2014-07-03",
+  "type": "article",
+  "venue": "Journal of Management Information Systems",
+  "doi": "10.1080/07421222.2014.995530",
+  "url": "https://doi.org/10.1080/07421222.2014.995530",
+  "pdf": null,
+  "citations": 21,
+  "authors": [
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "We develop a holistic model of governance choice in business process outsourcing (BPO) that represents a highly information-intensive form of outsourcing. We integrate perspectives from neoinstitutional economics and the information-processing view (IPV) of the firm. We argue that the governance structure in BPO is chosen not only to address opportunism concerns arising from relational uncertainty to and encourage cooperation, as suggested by institutional economics, but also as an informational response to task and relational uncertainty to encourage coordination between exchange partners. Using the lens of IPV, we posit that uncertainty in the outsourced task increases the information requirements (IR) of the BPO relationship, which, in turn, leads to more hierarchical governance structures. We also suggest that in addition to directly influencing governance choice, relational uncertainty, a key construct in transaction cost economics (TCE), increases IR, and hence has an indirect impact on governance choice. Furthermore, we hypothesize that technological capabilities enable more hierarchical governance in response to increasing IR needs. Data on 130 BPO initiatives provide empirical support for our hypotheses regarding the drivers of IR, its impact on governance choice, and the moderating role of technological capabilities. Our study contributes to theory by integrating the premises of TCE and IPV in the context of BPO, and to practice by underscoring the need to consider information requirements in designing appropriate coordination and collaboration processes.",
+  "summary": {
+    "oneLiner": "In BPO, information requirements from task uncertainty push governance toward hierarchy, with technological capabilities enabling this shift.",
+    "overview": "The paper studies how firms choose how tightly to control a business process outsourcing (BPO) deal, such as shared work with an outside provider. It combines two views: transaction cost economics, which focuses on guarding against opportunism, and the information-processing view, which focuses on the information needed to coordinate work. The authors argue that uncertainty in the outsourced task raises information requirements, which pushes firms toward more hierarchical governance. They also hypothesize that a firm's technological capabilities make this shift toward hierarchy easier.",
+    "question": "What drives the choice of governance structure in business process outsourcing, beyond concerns about opportunism?",
+    "method": "The authors develop a holistic model and test their hypotheses empirically. The abstract does not name the specific statistical technique used.",
+    "data": "Data on 130 BPO initiatives. The setting and time period are not stated in the available text.",
+    "findings": [
+      "Uncertainty in the outsourced task is posited to increase information requirements of the BPO relationship, which in turn leads to more hierarchical governance structures.",
+      "Relational uncertainty is argued to affect governance directly and also to increase information requirements, giving it an indirect effect on governance choice.",
+      "Technological capabilities are hypothesized to enable more hierarchical governance in response to rising information requirements.",
+      "Data on 130 BPO initiatives provide empirical support for the hypotheses on the drivers of information requirements, their impact on governance choice, and the moderating role of technological capabilities."
+    ],
+    "whyItMatters": "The authors state that managers should consider information requirements when designing coordination and collaboration processes for BPO relationships.",
+    "topics": [
+      "business process outsourcing",
+      "governance choice",
+      "transaction cost economics",
+      "information-processing view",
+      "relational uncertainty",
+      "information requirements",
+      "coordination in outsourcing",
+      "technological capabilities"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

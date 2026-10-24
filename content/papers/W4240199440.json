@@ -1,0 +1,38 @@
+{
+  "id": "W4240199440",
+  "title": "Hiding Behind the Veil: Pre-Trade Transparency, Informed Traders and Market Quality",
+  "year": 2009,
+  "date": "2009-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.1365028",
+  "url": "https://doi.org/10.2139/ssrn.1365028",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Kiran Kumar Kotha"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    },
+    {
+      "name": "Pradeep Kumar Yadav"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W4241812702",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2009,
+      "url": "https://doi.org/10.2139/ssrn.1342320"
+    }
+  ]
+}

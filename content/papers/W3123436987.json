@@ -1,0 +1,75 @@
+{
+  "id": "W3123436987",
+  "title": "Improving HIV Early Infant Diagnosis Supply Chains in Sub-Saharan Africa: Models and Application to Mozambique",
+  "year": 2017,
+  "date": "2017-09-20",
+  "type": "article",
+  "venue": "Operations Research",
+  "doi": "10.1287/opre.2017.1646",
+  "url": "https://doi.org/10.1287/opre.2017.1646",
+  "pdf": "https://lbsresearch.london.edu/id/eprint/893/1/Jonasson_et_al_Improving_HIV_early_infant_diagnoses.pdf",
+  "citations": 51,
+  "authors": [
+    {
+      "name": "Jónas Oddur Jónasson"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Jérémie Gallien"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Early diagnosis of the human immunodeficiency virus (HIV) among infants born to HIV-infected mothers is critical because roughly 50% of untreated infected infants die before the age of two years. Yet most countries in sub-Saharan Africa experience significant delays in diagnosis because of operational inefficiencies in early infant diagnosis (EID) networks. We develop a two-part modeling framework relying on optimization and simulation to generate operational improvements in the assignment of clinics to laboratories and the allocation of capacity across laboratories, and to evaluate the associated impact on the number of infants initiating treatment. Applying our methodology to EID program data from Mozambique, we validate our simulation model and estimate that optimally reassigning clinics to labs would decrease the average sample turnaround time (TAT) by 11% and increase the number of infected infants starting treatment by about 4% relative to the current system. Furthermore, consolidating all diagnostic capacity in one centralized lab would decrease average TATs by an estimated 22% and increase the number of infected infants initiating treatment by 7%. Our sensitivity analysis suggests that the consolidation of capacity in a single location would remain near optimal across a wide range of laboratory utilization levels in Mozambique. However, this full consolidation solution is dominated by configurations with two or more labs for EID networks with average transportation times larger than those currently observed in Mozambique by at least 15%. The online appendix is available at https://doi.org/10.1287/opre.2017.1646 .",
+  "summary": {
+    "oneLiner": "This paper uses optimization and simulation models to improve HIV early infant diagnosis in Mozambique, highlighting the benefits of centralizing laboratory capacity.",
+    "overview": "The authors propose a modeling framework to optimize the supply chain for early infant HIV diagnosis, which is often delayed by operational inefficiencies in sub-Saharan Africa. By analyzing data from Mozambique, they show that shifting clinic assignments and consolidating diagnostic capacity into a single laboratory can significantly reduce sample turnaround times. Their findings suggest that centralized laboratories can improve health outcomes by increasing the number of infants who successfully initiate treatment. This approach accounts for both operational bottlenecks and patient behavior, such as the likelihood of returning for test results.",
+    "question": "How can operational improvements, specifically in clinic assignment and capacity allocation, enhance early infant HIV diagnosis (EID) network performance and subsequent health outcomes in sub-Saharan Africa?",
+    "method": "The study employs a two-part modeling framework combining discrete event simulation (to evaluate health impacts) and optimization models (to design network configurations, including optimal lab assignment and optimal capacity allocation).",
+    "data": "The study uses field data from the Mozambique EID program, covering 34,791 infant records across 410 clinics for the year 2011.",
+    "findings": [
+      "Optimally re-assigning clinics to laboratories is estimated to decrease average sample turnaround time by 11% and increase the number of infected infants starting treatment by approximately 4%.",
+      "Consolidating all diagnostic capacity in a single centralized laboratory is estimated to decrease average turnaround time by 22% and increase treatment initiation by 7%.",
+      "Capacity consolidation is near-optimal across a wide range of laboratory utilization levels, provided transportation times are not excessively long.",
+      "Centralized diagnostic networks are predicted to be superior to decentralized configurations unless transportation times between clinics and laboratories are approximately 15% longer than those currently observed in Mozambique."
+    ],
+    "whyItMatters": "For policymakers and health managers in resource-limited settings, the findings suggest that centralizing diagnostic capacity can yield significant health benefits by reducing turnaround times and congestion, contrary to the intuition that decentralization always improves access.",
+    "topics": [
+      "supply chain optimization",
+      "healthcare operations management",
+      "facility location problem",
+      "HIV diagnosis",
+      "global health",
+      "queueing networks",
+      "resource-limited settings"
+    ],
+    "industries": [
+      "Public Health",
+      "Healthcare"
+    ],
+    "geographies": [
+      "Mozambique",
+      "Sub-Saharan Africa"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W1121437253",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2014,
+      "url": "https://doi.org/10.2139/ssrn.2511549"
+    }
+  ]
+}

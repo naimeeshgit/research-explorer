@@ -1,0 +1,40 @@
+{
+  "id": "W2922213540",
+  "title": "Demand curves for stocks do not slope down: Evidence using an exogenous supply shock",
+  "year": 2019,
+  "date": "2019-03-15",
+  "type": "article",
+  "venue": "Journal of Banking & Finance",
+  "doi": "10.1016/j.jbankfin.2019.03.012",
+  "url": "https://doi.org/10.1016/j.jbankfin.2019.03.012",
+  "pdf": null,
+  "citations": 11,
+  "authors": [
+    {
+      "name": "Ankit Jain"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri",
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W2410632599",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2016,
+      "url": "https://doi.org/10.2139/ssrn.2729104"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "W1490863424",
+  "title": "Organization Capital and Intrafirm Communication",
+  "year": 2003,
+  "date": "2003-03-01",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/8j01z46g.pdf;origin=repeccitec",
+  "pdf": "https://escholarship.org/uc/item/8j01z46g",
+  "citations": 6,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Mark J. Garmaise"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We present a dynamic model of production in which a firm's output increases when its managers share their information. Communication of ideas depends on the quality of the firm's internal language. We prove that firms with richer languages (i.e., more organizational capital) will have higher market values. Organizational capital generates static complementarities among incumbents which implies that firms with richer languages will experience greater employee retention and higher wages. Dynamic complementarities between intertemporal investments in language generate long-run persistence in firm market-to-book and turnover ratios. We demonstrate that the optimal compensation of incumbents includes an earnings-insensitive component that is larger in firms with richer languages. In a simple model of mergers, we show that the most value-creating mergers are those between firms with highly disparate languages.",
+  "summary": {
+    "oneLiner": "Firms whose managers share information through richer internal languages (more organizational capital) have higher market values, better employee retention and wages.",
+    "overview": "The paper builds a theoretical model in which a firm's output rises when its managers share information, and how well they can share depends on the firm's internal language, which the authors call organizational capital (the accumulated shared know-how that lets people communicate efficiently). The authors prove that firms with richer languages have higher market values and, because of complementarities (employees become more productive when their colleagues are also strong), greater employee retention and higher wages. They also show that optimal pay for incumbent employees should include a component that does not move with earnings, and that this component is larger in firms with richer languages. In a simple merger model, the most value-creating deals are between firms whose languages are very different.",
+    "question": "How does a firm's internal language, or organizational capital, affect the sharing of information among managers and, in turn, the firm's market value, employee retention, wages, compensation design and merger outcomes?",
+    "method": "A dynamic theoretical model of production in which output depends on managers sharing information, with a simple model of mergers added. The abstract describes the work as a model and proofs, not an empirical test.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Firms with richer languages (more organizational capital) will have higher market values, as the authors prove.",
+      "Organizational capital creates static complementarities among incumbent employees, which implies greater employee retention and higher wages in firms with richer languages.",
+      "Dynamic complementarities between investments in language over time generate long-run persistence in firms' market-to-book and turnover ratios.",
+      "Optimal compensation of incumbents includes an earnings-insensitive component that is larger in firms with richer languages.",
+      "In the simple merger model, the most value-creating mergers are those between firms with highly disparate languages."
+    ],
+    "whyItMatters": "The model's results point to implications for managers and boards: compensation design (a larger fixed, earnings-insensitive pay component for firms with richer languages) and merger partner choice (pairing firms with highly disparate languages creates the most value in the model). The abstract frames these as model implications rather than tested recommendations.",
+    "topics": [
+      "organizational capital",
+      "internal communication",
+      "firm market value",
+      "employee retention",
+      "executive compensation",
+      "mergers and acquisitions",
+      "complementarities",
+      "firm language",
+      "market-to-book ratio",
+      "theoretical model"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

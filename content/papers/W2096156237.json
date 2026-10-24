@@ -1,0 +1,65 @@
+{
+  "id": "W2096156237",
+  "title": "Stabilization, Syndication, and Pricing of IPOs",
+  "year": 1996,
+  "date": "1996-03-01",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "10.2307/2331385",
+  "url": "https://doi.org/10.2307/2331385",
+  "pdf": null,
+  "citations": 172,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Vikram K. Nanda"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We argue that in the after-market trading of an IPO, the underwriting syndicate, by standing ready to buy back shares at the offer price (\"price stabilization\"), compensates uninformed investors ex post for the adverse selection cost they face in bidding for IPOs. This domi? nates ex ante compensation by underpricing. The reason is that stabilization exploits ex post information about investor demand whereas underpricing must be based on ex ante infor? mation. However, liquidity and syndication costs constrain the use of stabilization which, in equilibrium, generates some underpricing as well. We develop a model that formalizes this intuition and generates several empirical implicatio",
+  "summary": {
+    "oneLiner": "Underwriters' after-market price stabilization can compensate uninformed IPO investors better than upfront underpricing, though costs limit its use, so some underpricing remains.",
+    "overview": "When a company goes public, uninformed investors risk buying shares from better-informed investors, which is a cost known as adverse selection. The authors argue that the underwriting syndicate can offset this cost after trading begins by standing ready to buy back shares at the offer price, a practice called price stabilization. They claim this works better than underpricing the IPO at the start, because stabilization can use information about investor demand that only becomes available later. Liquidity and syndication costs limit how much stabilization is used, so the equilibrium still includes some underpricing. The paper builds a formal model and draws several empirical implications from it.",
+    "question": "Does after-market price stabilization by the underwriting syndicate compensate uninformed IPO investors for adverse selection, and how does it relate to underpricing?",
+    "method": "A theoretical model that formalizes the authors' argument about how stabilization and underpricing compensate uninformed investors; the abstract describes it as generating several empirical implications.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "In after-market trading, the underwriting syndicate's standing ready to buy back shares at the offer price compensates uninformed investors ex post for adverse selection cost.",
+      "This ex post compensation dominates ex ante compensation through underpricing, because stabilization uses ex post information about investor demand while underpricing must rely on ex ante information.",
+      "Liquidity and syndication costs constrain the use of stabilization, so in equilibrium some underpricing still occurs."
+    ],
+    "whyItMatters": "The abstract suggests that underwriters' stabilization decisions and syndicate costs shape IPO pricing, and that the model yields empirical predictions that could be tested. The abstract does not state specific managerial or policy recommendations.",
+    "topics": [
+      "IPO underpricing",
+      "price stabilization",
+      "underwriting syndicate",
+      "adverse selection",
+      "IPO pricing",
+      "after-market trading",
+      "liquidity costs"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3121359717",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 1994,
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5457"
+    }
+  ]
+}

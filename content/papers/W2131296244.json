@@ -1,0 +1,73 @@
+{
+  "id": "W2131296244",
+  "title": "Modeling the Impact of Alternative Strategies for Rapid Molecular Diagnosis of Tuberculosis in Southeast Asia",
+  "year": 2013,
+  "date": "2013-10-07",
+  "type": "article",
+  "venue": "American Journal of Epidemiology",
+  "doi": "10.1093/aje/kwt210",
+  "url": "https://doi.org/10.1093/aje/kwt210",
+  "pdf": "https://academic.oup.com/aje/article-pdf/178/12/1740/17340760/kwt210.pdf",
+  "citations": 33,
+  "authors": [
+    {
+      "name": "Amanda Yuan Sun"
+    },
+    {
+      "name": "Madhukar Pai"
+    },
+    {
+      "name": "Henrik Salje"
+    },
+    {
+      "name": "Srinath Satyanarayana"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "David W. Dowdy"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Novel diagnostic tests hold promise for improving tuberculosis (TB) control, but their epidemiologic impact remains uncertain. Using data from the World Health Organization (2011-2012), we developed a transmission model to evaluate the deployment of 3 hypothetical TB diagnostic tests in Southeast Asia under idealized scenarios of implementation. We defined diagnostics by their sensitivity for smear-negative TB and proportion of patients testing positive who initiate therapy (\"point-of-care amenability\"), with tests of increasing point-of-care amenability having lower sensitivity. Implemented in the public sector (35% of care-seeking attempts), each novel test reduced TB incidence by 7%-9% (95% uncertainty range: 4%-13%) and mortality by 20%-22% (95% uncertainty range: 14%-27%) after 10 years. If also deployed in the private sector (65% of attempts), these tests reduced incidence by 13%-16%, whereas a perfect test (100% sensitivity and treatment initiation) reduced incidence by 20%. Annually detecting 20% of prevalent TB cases through targeted screening (70% smear-negative sensitivity, 85% treatment initiation) also reduced incidence by 19%. Sensitivity and point-of-care amenability are equally important considerations when developing novel diagnostic tests for TB. Novel diagnostics can substantially reduce TB incidence and mortality in Southeast Asia but are unlikely to transform TB control unless they are deployed actively and in the private sector.",
+  "summary": {
+    "oneLiner": "Novel tuberculosis diagnostic tests can reduce disease burden in Southeast Asia, but only if they are actively implemented, especially within the private healthcare sector.",
+    "overview": "This study uses a mathematical model to estimate how new tuberculosis (TB) diagnostic tools might affect disease outcomes in Southeast Asia over a ten-year period. It evaluates how different levels of diagnostic sensitivity and the ability to get patients into treatment immediately (point-of-care amenability) influence public health. The results highlight that achieving significant reductions in TB incidence and mortality requires moving beyond public sector implementation to include the private sector and active screening strategies.",
+    "question": "What is the potential epidemiological impact of deploying various hypothetical tuberculosis diagnostic tests, characterized by different levels of sensitivity and point-of-care amenability, in Southeast Asia?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Deploying novel TB tests in the public sector is associated with a 7%-9% reduction in TB incidence and a 20%-22% reduction in mortality over 10 years.",
+      "Expanding test deployment to include the private sector increases the projected reduction in TB incidence to 13%-16%.",
+      "Targeted screening programs detecting 20% of prevalent cases annually are associated with a 19% reduction in TB incidence.",
+      "Diagnostic sensitivity and point-of-care amenability (the ability to initiate treatment based on a positive test) are described as equally important considerations for developing new TB diagnostics."
+    ],
+    "whyItMatters": "The findings suggest that technology alone is insufficient for disease control; the strategic deployment of diagnostic tools into the private sector and the use of active screening are critical for achieving substantial reductions in TB burden.",
+    "topics": [
+      "tuberculosis control",
+      "public health policy",
+      "diagnostic testing",
+      "disease modeling",
+      "private sector healthcare",
+      "healthcare access"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "Southeast Asia"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

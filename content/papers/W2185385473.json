@@ -1,0 +1,56 @@
+{
+  "id": "W2185385473",
+  "title": "Active vs. Passive ETFs",
+  "year": 2003,
+  "date": "2003-01-01",
+  "type": "article",
+  "venue": "http://bschool.nus.edu/Departments/FinanceNAccounting/Seminars/Papers/Ramabhadran.pdf",
+  "doi": null,
+  "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.474.7843",
+  "pdf": null,
+  "citations": 2,
+  "authors": [
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": "This study compares the pricing efficiency and liquidity of a basket security with an arbitrage mechanism (the passive ETF) to one without an arbitrage mechanism (the active ETF). Theory suggests that deviations in market price from net asset value (NAV) should be lower when arbitrage is permitted. Consistent with theory, I find that the standard deviation of price deviations from NAV is larger for active ETFs than for passive ETFs. However, the mean price deviations are positive for passive ETFs and not different from zero for active ETFs. Theory also predicts that liquidity improves as the number of market makers increases and as the information advantage of a single informed trader decreases. This suggests that active ETFs, which have one market maker, who is the only market participant to know the NAV at all times, should have wider bid-ask spreads than passive ETFs, which have multiple makers and whose NAV is public knowledge at all times. Contrary to this view, I find that the bid-ask spreads for active ETFs are significantly narrower than those for passive ETFs. This result persists even after controlling for other determinants of the bid-ask spread.",
+  "summary": {
+    "oneLiner": "This study compares pricing efficiency and liquidity between active ETFs, which lack arbitrage mechanisms, and passive ETFs, which include them.",
+    "overview": "The study explores how the presence of an arbitrage mechanism—a process that keeps market prices aligned with the underlying asset value—affects the performance of Exchange Traded Funds (ETFs). It finds that passive ETFs are more effective at minimizing price volatility compared to active ETFs, yet passive ETFs tend to show a consistent bias in price. Surprisingly, active ETFs exhibit narrower bid-ask spreads, which indicates better liquidity, despite theoretical expectations that the opposite should be true due to their limited number of market makers.",
+    "question": "How do active ETFs (lacking arbitrage mechanisms) compare to passive ETFs (featuring arbitrage mechanisms) in terms of pricing efficiency and liquidity?",
+    "method": "Theoretical comparison and empirical analysis",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The standard deviation of price deviations from net asset value (NAV) is larger for active ETFs than for passive ETFs, which is consistent with theory.",
+      "Mean price deviations are positive for passive ETFs, while they are not different from zero for active ETFs.",
+      "Bid-ask spreads for active ETFs are significantly narrower than those for passive ETFs, contrary to the theoretical prediction that the number of market makers would dictate spread width."
+    ],
+    "whyItMatters": "The findings challenge existing theories regarding the impact of arbitrage mechanisms and the number of market makers on ETF liquidity and pricing performance, suggesting that the dynamics of active ETFs differ from traditional expectations.",
+    "topics": [
+      "ETFs",
+      "Active management",
+      "Passive management",
+      "Market liquidity",
+      "Arbitrage",
+      "Bid-ask spread",
+      "Net Asset Value"
+    ],
+    "industries": [
+      "Financial services"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

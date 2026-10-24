@@ -1,0 +1,67 @@
+{
+  "id": "W2499459470",
+  "title": "Infant HIV Diagnostics: Supply Chain in Sub-Saharan Africa",
+  "year": 2017,
+  "date": "2017-01-20",
+  "type": "article",
+  "venue": "Kellogg School of Management Cases",
+  "doi": "10.1108/case.kellogg.2016.000157",
+  "url": "https://doi.org/10.1108/case.kellogg.2016.000157",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Avidan Har"
+    },
+    {
+      "name": "Bill Shields"
+    },
+    {
+      "name": "Mihir Naware"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Roger Osayende, a former management consultant, must advise the Ministry of Health of Ektu, a fictional country in Central Africa, on how to implement a new point-of-care diagnostic test for infants with HIV. In Ektu, mothers often transmitted HIV infection to infants during pregnancy, delivery, or breastfeeding due to inadequate resources to invest in prevention efforts. The existing procedure to diagnose infants with HIV required collecting dried blood samples at more than two hundred healthcare facilities around the country and transporting them to a central laboratory in the capital for testing. This process was characterized by significant delays due to long transportation times, batching of samples in transportation and processing in the lab, and concomitant congestion in the lab. This delay resulted in loss to follow-up, that is, lost patients due to mothers not collecting their infants' results. A new point-of-care device was about to be introduced, which would obviate the need for this centralized processing and the resulting diagnostic delay. The key decision under consideration is where to place the devices to maximize their effectiveness. Understand the importance of making public health decisions based on a data-driven, logical framework Uncover the link between operational performance of the healthcare system and health outcomes at the population level Appreciate the relevance of operational decisions in enhancing or diminishing the effectiveness of a medical technology Use process analysis concepts to characterize various components of delays",
+  "summary": {
+    "oneLiner": "This case study examines optimizing the placement of point-of-care HIV diagnostic devices to improve patient follow-up and health outcomes in resource-constrained environments.",
+    "overview": "In Ektu, a centralized lab system for testing infant HIV causes significant diagnostic delays, leading to patients being lost to follow-up because results are not retrieved. The introduction of point-of-care (POC) devices—medical testing performed near the patient rather than in a lab—offers a way to bypass these bottlenecks. Managers must determine the optimal locations for these devices to maximize the system's overall effectiveness. The case highlights how operational decisions directly influence public health outcomes.",
+    "question": "How should a healthcare system strategically deploy point-of-care diagnostic devices to minimize delays and prevent loss to follow-up in infant HIV testing?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Centralized laboratory processing leads to significant delays due to sample transportation, batching, and lab congestion.",
+      "Diagnostic delays are associated with loss to follow-up, where mothers fail to retrieve infant test results.",
+      "The implementation of point-of-care diagnostic devices may eliminate the need for centralized processing and reduce diagnostic delays."
+    ],
+    "whyItMatters": "The case emphasizes that public health outcomes are deeply tied to operational performance. For policymakers and managers, it highlights the importance of using data-driven, logical frameworks when deploying new medical technologies to ensure they actually reach patients.",
+    "topics": [
+      "Public health operations",
+      "Healthcare supply chain",
+      "Point-of-care diagnostics",
+      "Process analysis",
+      "Resource allocation",
+      "HIV diagnostics",
+      "Operations management"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "Central Africa"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

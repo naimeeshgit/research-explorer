@@ -1,0 +1,63 @@
+{
+  "id": "W2074616142",
+  "title": "Multimarket Trading and Market Liquidity",
+  "year": 1991,
+  "date": "1991-07-01",
+  "type": "article",
+  "venue": "Review of Financial Studies",
+  "doi": "10.1093/rfs/4.3.483",
+  "url": "https://doi.org/10.1093/rfs/4.3.483",
+  "pdf": null,
+  "citations": 633,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Vikram K. Nanda"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "When a security trades at multiple locations simultaneously, an informed trader has several avenues in which to exploit his private information. The greater the proportion of liquidity trading by “large” traders who can split their trades across markets, the larger is the correlation between volume in different markets and the smaller is the informativeness of prices. We show that one of the markets emerges as the dominant location for trading in that security. When informed traders can use their information for more than one trading period, the timely release of price information by market makers at one location adversely affects the profits informed traders expect to make subsequently at other locations. Market makers, competing to offer the lowest cost of trading at their location, consequently deter informed trading by voluntarily making the price information public and by “cracking down” on insider trading.",
+  "summary": {
+    "oneLiner": "Trading one security in several markets lets informed traders exploit information more widely, and market makers respond by revealing prices and curbing insider trading.",
+    "overview": "The paper studies a security that trades in several markets at once, where a trader with private information can choose where to act. Liquidity traders who can split orders across markets make volumes in different markets move together and make prices less informative. One market tends to become the main place where that security trades. Market makers compete on trading costs, so they may release price information promptly and crack down on insider trading to deter informed trading.",
+    "question": "How does trading the same security in multiple markets at once affect market liquidity, price informativeness, and the behaviour of informed traders and market makers?",
+    "method": "Not stated in the available text. The abstract reports results ('We show') about informed traders, liquidity traders and market makers, but does not name the analytical approach.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The greater the proportion of liquidity trading by 'large' traders who can split trades across markets, the larger the correlation between volume in different markets.",
+      "The greater that proportion, the smaller the informativeness of prices.",
+      "One of the markets emerges as the dominant location for trading in that security.",
+      "When informed traders can use their information over more than one trading period, timely release of price information by market makers at one location adversely affects the profits informed traders expect at other locations.",
+      "Market makers competing to offer the lowest cost of trading at their location consequently deter informed trading by voluntarily making price information public and by 'cracking down' on insider trading."
+    ],
+    "whyItMatters": "The abstract suggests that market design and competition among market makers shape how much private information gets into prices, and that market makers may have incentives to disclose prices and police insider trading to keep their trading costs low. The abstract does not state explicit implications for managers, policymakers or investors.",
+    "topics": [
+      "market microstructure",
+      "multimarket trading",
+      "market liquidity",
+      "informed trading",
+      "insider trading",
+      "market makers",
+      "price informativeness",
+      "liquidity traders"
+    ],
+    "industries": [
+      "Securities trading",
+      "Financial markets"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

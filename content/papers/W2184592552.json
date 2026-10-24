@@ -1,0 +1,61 @@
+{
+  "id": "W2184592552",
+  "title": "Why is CEO compensation excessive and unrelated to their performance",
+  "year": 2012,
+  "date": "2012-01-01",
+  "type": "article",
+  "venue": "http://www.anderson.ucla.edu/faculty/bhagwan.chowdhry/CEO.pdf",
+  "doi": null,
+  "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.278.5040",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Franklin Allen"
+    },
+    {
+      "name": "Archishman Chakraborty"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We provide a simple model of optimal compensation in a setting where risk-neutral shareholders (the “principal”) cannot fully observe and understand the set of business opportunities available to the firm (hidden information problem), nor can they fully monitor the decisions risk-neutral managers (the “agent”) make in selecting the appropriate business opportunity (hidden action problem). The shareholders do observe the final cash-flow outcomes that arise from managerial choices and can set compensation that directly depends on these cash-flow outcomes (firm performance). We show that even when CEO has no bargaining power, value maximizing shareholders will set optimal compensation contracts in which CEOs will often earn rents over their outside options, the compensation will reward CEOs for “luck ” and the CEO compensation will seem high even when firm’s stock price falls. 1 Motivation CEO compensation is contentious, particularly in times of recessions or economic crises such as the one the U.S. is experiencing today. More generally, the phenomenal rise in CEO compensation in the last couple of decades (Frydman,",
+  "summary": {
+    "oneLiner": "Even with no CEO bargaining power, value-maximizing shareholders may optimally pay CEOs rents, reward luck, and pay high even when stock prices fall.",
+    "overview": "The paper builds a simple model of how shareholders should pay a CEO when they cannot fully see the business opportunities the firm faces or fully monitor the CEO's choices. Shareholders can only observe final cash flows, so they tie pay to firm performance. The authors argue that even when the CEO has no bargaining power, shareholders acting in their own interest will often set contracts that give the CEO earnings above their outside options. Such contracts can reward the CEO for luck and can look high even when the stock price falls. The available text is only the abstract, so the full model and its assumptions are not described here.",
+    "question": "Why is CEO compensation excessive and unrelated to performance, and can this result from optimal contracts set by value-maximizing shareholders?",
+    "method": "A simple theoretical model of optimal compensation in which risk-neutral shareholders (the principal) face hidden information about business opportunities and hidden action by the risk-neutral manager (the agent), who chooses among opportunities.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Even when the CEO has no bargaining power, value-maximizing shareholders will set optimal compensation contracts in which CEOs often earn rents over their outside options.",
+      "Optimal compensation rewards CEOs for luck.",
+      "CEO compensation will seem high even when the firm's stock price falls."
+    ],
+    "whyItMatters": "The authors suggest that high CEO pay need not signal weak bargaining power or poor governance, since it can be an optimal outcome of contracts designed by shareholders facing information and monitoring limits. The abstract does not state specific managerial or policy recommendations.",
+    "topics": [
+      "CEO compensation",
+      "executive pay",
+      "optimal contracting",
+      "principal-agent problem",
+      "hidden information",
+      "hidden action",
+      "pay for luck",
+      "rent extraction"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

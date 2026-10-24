@@ -1,0 +1,62 @@
+{
+  "id": "W3124719675",
+  "title": "Uncertainty and Compensation Design in Strategic Inter-Firm Contracts",
+  "year": 2019,
+  "date": "2019-02-05",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": null,
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406044",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Ranjani Krishnan"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "In strategic outsourcing contracts, a substantial portion of implementation occurs at the client’s premises and requires integration of effort between the vendor and the client. Compensation design in such contracts involves trade-offs between the higher (lower) incentive properties of fixed-price (cost-plus) contracts and their higher (lower) ex ante contracting and ex post adaptation costs. Uncertainty influences these trade-offs and affects compensation design. We explore the compensation implications of two types of uncertainty—volatility and ambiguity—which are reflected in the client’s accounting measures. Volatility reflects the unpredictability of changes in the future environment, which makes it difficult to contractually specify future contingencies. Ambiguity reflects lack of consensus about the nature, drivers, and value effects of uncertainty, which makes it difficult to contractually specify responses to contingencies if and when they occur. Volatility increases the likelihood of ex post adaptation costs while ambiguity increases ex ante contracting costs; therefore, volatility and ambiguity decrease the attractiveness of FP contracts. We use accounting and market measures to calibrate volatility and ambiguity and examine their implications for compensation design and ex post renegotiation. Analysis of archival data for 455 strategic outsourcing contracts valued over $15 million indicates that volatility and ambiguity influence contract compensation design and renegotiation likelihood. These results hold even after controlling for asset specificity, task complexity, and relational factors. We conclude that accounting measures can provide signals of volatility and ambiguity and thereby influence compensation design in strategic inter-firm contracts.",
+  "summary": {
+    "oneLiner": "Client-side uncertainty, measured through accounting and market signals, shapes whether outsourcing contracts use fixed-price or cost-plus pay and whether they get renegotiated.",
+    "overview": "Strategic outsourcing contracts, where a vendor works on a client's own premises and must closely coordinate effort, involve a choice between fixed-price pay and cost-plus pay. Fixed-price contracts give the vendor stronger incentives but are costly to write and to adjust later, while cost-plus contracts are the reverse. The authors argue that two kinds of uncertainty tilt this choice: volatility, which makes future conditions hard to anticipate, and ambiguity, which means there is no consensus on what drives uncertainty or how it affects value. Both make fixed-price contracts less attractive. Using 455 strategic outsourcing contracts worth over $15 million, they find that these uncertainty measures are linked to compensation design and to the likelihood of renegotiation, and that the links hold after controlling for asset specificity, task complexity and relational factors.",
+    "question": "How do volatility and ambiguity, reflected in a client's accounting measures, influence the compensation design and ex post renegotiation of strategic inter-firm outsourcing contracts?",
+    "method": "Archival analysis that uses accounting and market measures to calibrate volatility and ambiguity, then examines their relationship with contract compensation design and renegotiation likelihood. The abstract does not name the specific statistical technique.",
+    "data": "Archival data for 455 strategic outsourcing contracts valued over $15 million. Time period and specific setting are not stated in the available text.",
+    "findings": [
+      "Volatility and ambiguity influence contract compensation design and renegotiation likelihood.",
+      "Volatility increases the likelihood of ex post adaptation costs, and ambiguity increases ex ante contracting costs, so both are said to decrease the attractiveness of fixed-price contracts.",
+      "These results hold after controlling for asset specificity, task complexity, and relational factors.",
+      "The authors conclude that accounting measures can provide signals of volatility and ambiguity and thereby influence compensation design in strategic inter-firm contracts."
+    ],
+    "whyItMatters": "For managers designing or negotiating outsourcing contracts, the paper suggests that the level of uncertainty in the client's environment, visible through accounting and market signals, should inform whether to use fixed-price or cost-plus pay. Because volatility and ambiguity make fixed-price contracts less attractive, firms facing these conditions may favour cost-plus structures or expect more renegotiation.",
+    "topics": [
+      "outsourcing contracts",
+      "compensation design",
+      "fixed-price vs cost-plus",
+      "environmental uncertainty",
+      "volatility",
+      "ambiguity",
+      "contract renegotiation",
+      "inter-firm contracts",
+      "accounting measures"
+    ],
+    "industries": [
+      "Strategic outsourcing"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

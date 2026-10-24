@@ -1,0 +1,68 @@
+{
+  "id": "W4396859202",
+  "title": "Growing Technological Relatedness to the ICT Industry and Its Impacts",
+  "year": 2024,
+  "date": "2024-05-13",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.2020.0627",
+  "url": "https://doi.org/10.1287/isre.2020.0627",
+  "pdf": null,
+  "citations": 8,
+  "authors": [
+    {
+      "name": "Subrahmanyam Aditya Karanam"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Rajib Lochan Saha"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "In today’s rapidly evolving technological landscape, industries across various sectors are increasingly leveraging information and communication technologies (ICT) to drive innovation and gain a competitive edge. Our study reveals that, as industries become more closely connected to the ICT sector, they experience a significant shift in their innovation processes and outcomes. By analyzing 1.3 million U.S. patents granted between 1981 and 2010, we demonstrate that industries with stronger ties to the ICT sector (i.e., higher “ICT-closeness”) exhibit a greater proportion of ICT technologies in their patent portfolios and enhanced complementarity between ICT and non-ICT patents. Furthermore, ICT-Closeness results in greater innovation efficiency (the number of patents per R&D capital), recombinant creation (the creation of new technological combinations), recombinant reuse (the refinement and reuse of known technological combinations), and the creation of new business models. These findings have important implications for practitioners. Specifically, our research highlights the importance of strategically integrating ICT into their technological innovations. Managers should actively seek opportunities to collaborate with and learn from the ICT sector to enhance their innovative capabilities, create new products, services, and business methods, and ultimately gain a competitive advantage. However, they must also be prepared for the heightened competition that comes with increased ICT-closeness, as it can lead to winner-take-all dynamics and market turbulence.",
+  "summary": {
+    "oneLiner": "Industries more closely tied to the ICT sector show more ICT patents, better innovation efficiency and new business models, but may face tougher competition.",
+    "overview": "The authors study how closely an industry is connected to the information and communication technology (ICT) sector, which they call 'ICT-closeness'. Using 1.3 million U.S. patents granted between 1981 and 2010, they find that industries with stronger ICT ties tend to hold more ICT patents and combine ICT with non-ICT technologies more effectively. These industries also show higher innovation efficiency (patents per unit of R&D capital), more new technology combinations, and more new business models. The authors warn that the same ICT links can bring heightened competition, winner-take-all outcomes and market turbulence.",
+    "question": "How does an industry's closeness to the ICT sector affect its innovation processes and outcomes?",
+    "method": "Analysis of patent records, comparing industries by their 'ICT-closeness' and tracking their patent portfolios, the complementarity between ICT and non-ICT patents, innovation efficiency, recombinant creation (new combinations of existing technologies), recombinant reuse (refining and reusing known combinations), and the creation of new business models. The abstract does not name the specific statistical technique.",
+    "data": "1.3 million U.S. patents granted between 1981 and 2010. Industry-level measures are implied, with R&D capital used to measure efficiency. Specific industries and sample details beyond the abstract are not stated in the available text.",
+    "findings": [
+      "Industries with higher ICT-closeness exhibit a greater proportion of ICT technologies in their patent portfolios.",
+      "Higher ICT-closeness is associated with enhanced complementarity between ICT and non-ICT patents.",
+      "The authors state that ICT-closeness results in greater innovation efficiency, measured as the number of patents per R&D capital.",
+      "The authors state that ICT-closeness results in greater recombinant creation and recombinant reuse.",
+      "The authors state that ICT-closeness results in the creation of new business models.",
+      "The authors suggest that increased ICT-closeness can lead to winner-take-all dynamics and market turbulence, which means firms face heightened competition."
+    ],
+    "whyItMatters": "The authors say managers should strategically integrate ICT into their technological innovations and actively seek to collaborate with and learn from the ICT sector. This can help them strengthen innovative capabilities, create new products, services and business methods, and gain a competitive advantage. They also advise managers to prepare for heightened competition, since greater ICT-closeness can lead to winner-take-all dynamics and market turbulence.",
+    "topics": [
+      "ICT adoption",
+      "patent analysis",
+      "technological relatedness",
+      "innovation efficiency",
+      "recombinant innovation",
+      "business model innovation",
+      "winner-take-all markets",
+      "digital transformation"
+    ],
+    "industries": [
+      "Industries across various sectors, measured by their closeness to the ICT sector (specific industries not named in the abstract)"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

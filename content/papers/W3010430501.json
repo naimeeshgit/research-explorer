@@ -1,0 +1,72 @@
+{
+  "id": "W3010430501",
+  "title": "Leveraging Providers’ Preferences to Customize Instructional Content in Information and Communications Technology–Based Training Interventions: Retrospective Analysis of a Mobile Phone–Based Intervention in India",
+  "year": 2020,
+  "date": "2020-03-03",
+  "type": "article",
+  "venue": "JMIR mhealth and uhealth",
+  "doi": "10.2196/15998",
+  "url": "https://doi.org/10.2196/15998",
+  "pdf": "https://mhealth.jmir.org/2020/3/e15998/PDF",
+  "citations": 12,
+  "authors": [
+    {
+      "name": "Hanu Tyagi"
+    },
+    {
+      "name": "Manisha Sabharwal"
+    },
+    {
+      "name": "Nishi Dixit"
+    },
+    {
+      "name": "Arnab Pal"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Many public health programs and interventions across the world increasingly rely on using information and communications technology (ICT) tools to train and sensitize health professionals. However, the effects of such programs on provider knowledge, practice, and patient health outcomes have been inconsistent. One of the reasons for the varied effectiveness of these programs is the low and varying levels of provider engagement, which, in turn, could be because of the form and mode of content used. Tailoring instructional content could improve engagement, but it is expensive and logistically demanding to do so with traditional training. OBJECTIVE: This study aimed to discover preferences among providers on the form (articles or videos), mode (featuring peers or experts), and length (short or long) of the instructional content; to quantify the extent to which differences in these preferences can explain variation in provider engagement with ICT-based training interventions; and to compare the power of content preferences to explain provider engagement against that of demographic variables. METHODS: We used data from a mobile phone-based intervention focused on improving tuberculosis diagnostic practices among 24,949 private providers from 5 specialties and 1734 cities over 1 year. Engagement time was used as the primary outcome to assess provider engagement. K-means clustering was used to segment providers based on the proportion of engagement time spent on content formats, modes, and lengths to discover their content preferences. The identified clusters were used to predict engagement time using a linear regression model. Subsequently, we compared the accuracy of the cluster-based prediction model with one based on demographic variables of providers (eg, specialty and geographic location). RESULTS: The average engagement time across all providers was 7.5 min (median 0, IQR 0-1.58). A total of 69.75% (17,401/24,949) of providers did not consume any content. The average engagement time for providers with nonzero engagement time was 24.8 min (median 4.9, IQR 2.2-10.1). We identified 4 clusters of providers with distinct preferences for form, mode, and length of content. These clusters explained a substantially higher proportion of the variation in engagement time compared with demographic variables (32.9% vs 1.0%) and yielded a more accurate prediction for the engagement time (root mean square error: 4.29 vs 5.21 and mean absolute error: 3.30 vs 4.26). CONCLUSIONS: Providers participating in a mobile phone-based digital campaign have inherent preferences for instructional content. Targeting providers based on individual content preferences could result in higher provider engagement as compared to targeting providers based on demographic variables.",
+  "summary": {
+    "oneLiner": "Targeting instructional content based on individual preferences significantly improves provider engagement in digital training compared to using demographic segmentation.",
+    "overview": "Digital training interventions often struggle with low user engagement. This study found that medical providers have distinct individual preferences for how they receive information, such as the format, length, and whether the content features peers or experts. By grouping users based on these preferences, the authors were able to predict their engagement levels much more accurately than by using traditional demographic markers like location or specialty. This suggests that customizing content delivery is a superior strategy for driving active participation in professional training programs.",
+    "question": "To what extent can providers' preferences for content form, mode, and length explain variation in their engagement with mobile-based training, and how does this compare to demographic-based targeting?",
+    "method": "The study employed K-means clustering to segment providers based on their engagement patterns, followed by linear regression modeling to predict engagement time and compare it against demographic-based predictive models.",
+    "data": "The study utilized data from a mobile phone-based training intervention for 24,949 private health providers across 5 specialties and 1734 cities in India over a one-year period.",
+    "findings": [
+      "Providers demonstrate distinct, inherent preferences for the form, mode, and length of instructional content.",
+      "Content preference clusters explained 32.9% of the variation in engagement time, whereas demographic variables explained only 1.0%.",
+      "Targeting providers based on identified content preferences suggests a more effective way to increase engagement than relying on demographic profiles.",
+      "A significant majority (69.75%) of providers did not engage with any of the mobile content provided."
+    ],
+    "whyItMatters": "For managers and policymakers, this research highlights that personalizing delivery mechanisms in digital training is more effective than generic segmentation. Investing in preference-based content targeting can lead to higher engagement and potentially better training outcomes in large-scale mobile health interventions.",
+    "topics": [
+      "digital training",
+      "provider engagement",
+      "content personalization",
+      "behavioral segmentation",
+      "mobile health interventions",
+      "instructional design",
+      "predictive modeling"
+    ],
+    "industries": [
+      "Public Health",
+      "Healthcare Education"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

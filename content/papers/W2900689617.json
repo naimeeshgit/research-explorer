@@ -1,0 +1,59 @@
+{
+  "id": "W2900689617",
+  "title": "Slow First, Fast Later: Temporal Speed‐Up in Service Episodes of Finite Duration",
+  "year": 2018,
+  "date": "2018-11-16",
+  "type": "article",
+  "venue": "Production and Operations Management",
+  "doi": "10.1111/poms.12972",
+  "url": "https://doi.org/10.1111/poms.12972",
+  "pdf": null,
+  "citations": 43,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Aditya Jain"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Many service environments such as outpatient departments comprise repeated episodes of finite duration wherein customers arriving during an episode must be served before the end of that episode. Scheduling resources and customer arrivals in such settings involves trading off customer wait against resources’ time and effort. We hypothesize that this trade‐off leads to a “slow first, fast later” pattern of system speed, which allows build‐up of inventory earlier for more efficient utilization of faster system speed later. As a natural corollary, we also hypothesize that greater anticipated workload, which causes faster inventory build‐up, leads to a larger increase in system speed earlier in the service episode than later. We empirically validate these hypotheses using operational data from a high volume tertiary care outpatient department. Our estimation results suggest that due to hypothesized system speed pattern, patients arriving around the middle (later) part of the episode experience 20% (63%) shorter length of stay compared to those arriving at the beginning. Further, additional anticipated workload of 1 patient per hour leads to 14%, 4%, and negligible reduction in the average length of stay during the earlier, middle, and later part of the service episode, respectively. Counterfactual simulations based on our model estimates show that “slow first, fast later” system speed pattern yields faster completion of work as compared to an equivalent constant system speed pattern.",
+  "summary": {
+    "oneLiner": "Service systems with finite time windows exhibit a 'slow first, fast later' speed pattern, improving overall efficiency and reducing wait times for later arrivals.",
+    "overview": "In many service environments like outpatient clinics, service must be completed by a specific end time. This study finds that providers typically operate slowly at the beginning of a shift and speed up toward the end. This pattern allows the facility to manage the accumulation of customers (inventory) more effectively. By accelerating operations as the deadline approaches, the system achieves faster overall work completion compared to maintaining a constant speed throughout the day.",
+    "question": "How do resource scheduling and arrival patterns influence service speed in finite-duration episodes, and what are the effects on customer wait times?",
+    "method": "Empirical validation using operational data and counterfactual simulations based on model estimates.",
+    "data": "A high-volume tertiary care outpatient department.",
+    "findings": [
+      "Service systems exhibit a 'slow first, fast later' pattern of speed to optimize resource utilization.",
+      "Patients arriving in the middle or later parts of a service episode experience 20% to 63% shorter stays than those arriving at the beginning.",
+      "Higher anticipated workloads lead to significant increases in system speed during the earlier parts of an episode.",
+      "A 'slow first, fast later' speed pattern results in faster overall completion of work compared to a constant speed strategy."
+    ],
+    "whyItMatters": "For operations managers, this suggests that adapting service speed based on time remaining and anticipated workload can improve operational efficiency and patient throughput without necessarily increasing resources.",
+    "topics": [
+      "Operations Management",
+      "Service Efficiency",
+      "Queueing Theory",
+      "Resource Scheduling",
+      "Healthcare Operations",
+      "Process Improvement"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

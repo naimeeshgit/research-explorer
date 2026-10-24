@@ -1,0 +1,70 @@
+{
+  "id": "W1528827429",
+  "title": "Pricing Microfinance Loans and Loan Guarantees using Biased Loan Write-off Data",
+  "year": 2005,
+  "date": "2005-04-12",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/78q118st.pdf;origin=repeccitec",
+  "pdf": "http://www.escholarship.org/uc/item/78q118st",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "David Cassell"
+    },
+    {
+      "name": "James B Gamett"
+    },
+    {
+      "name": "Gary J Milkwick"
+    },
+    {
+      "name": "Chad D Nielsen"
+    },
+    {
+      "name": "Jon D Sederstrom"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We present a simple, easy to implement methodology for pricing microfinance loans and loan guarantees using publicly available data on loan write-offs by Micro Finance Institutions (MFIs). Our methodology takes into account the selection bias inherent in available data in that MFIs that do not report loan write-off data are less likely to be better performers. Our quantitative analysis is consistent with pricing seen in a recent securitization deal. Our analysis suggests how securitization and loan guarantees can greatly expand the supply of funds for microfinance loans.",
+  "summary": {
+    "oneLiner": "A method for pricing microfinance loans and guarantees from public write-off data, correcting for non-reporting MFIs, suggests securitization could expand funding.",
+    "overview": "The authors propose a simple way to price microfinance loans and loan guarantees using publicly available data on loans that microfinance institutions (MFIs) have written off as unrecoverable. Their method accounts for selection bias: MFIs that do not publish write-off data are less likely to be strong performers, so the public data paints a rosier picture than reality. They report that their pricing results are consistent with the pricing in a recent securitization deal. They suggest that securitization and loan guarantees could greatly expand the supply of funds available for microfinance lending.",
+    "question": "How can microfinance loans and loan guarantees be priced using publicly available loan write-off data, given that the data is biased toward better-performing MFIs?",
+    "method": "The abstract describes a simple, easy-to-implement pricing methodology that adjusts for selection bias, applied through a quantitative analysis. The abstract does not name a more specific statistical technique.",
+    "data": "Publicly available loan write-off data reported by Micro Finance Institutions (MFIs). The sample size, geographic coverage and time period are not stated in the available text.",
+    "findings": [
+      "The quantitative analysis is consistent with pricing seen in a recent securitization deal.",
+      "The analysis suggests how securitization and loan guarantees can greatly expand the supply of funds for microfinance loans."
+    ],
+    "whyItMatters": "The paper suggests that investors and lenders can price microfinance loans and guarantees using public data, provided selection bias is taken into account. It also suggests that securitization and loan guarantees could expand the pool of funding for microfinance lending.",
+    "topics": [
+      "microfinance",
+      "loan pricing",
+      "loan guarantees",
+      "securitization",
+      "selection bias",
+      "loan write-offs",
+      "MFI funding"
+    ],
+    "industries": [
+      "Microfinance"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

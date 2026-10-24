@@ -1,0 +1,58 @@
+{
+  "id": "W1830785613",
+  "title": "The differential impacts of markets for technology on the value of technological resources: An application of group‐based trajectory models",
+  "year": 2015,
+  "date": "2015-10-05",
+  "type": "article",
+  "venue": "Strategic Management Journal",
+  "doi": "10.1002/smj.2457",
+  "url": "https://doi.org/10.1002/smj.2457",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/455/1/Mani_et_al-2015-Strategic_Management_Journal.pdf",
+  "citations": 21,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anand Nandkumar"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Research summary : This article uses Group‐Based Trajectory ( GBT ) Models to advance strategic management research, focusing on demonstrating the differential impacts of markets for technology on the value of technological capabilities. Group Based Trajectory ( GBT ) models, a statistical technique based on finite mixture models, can be used to discern heterogeneity based on an attribute of interest, especially when the heterogeneity changes or evolves over time, and when there is a lack of theoretical guidance to discern the basis of heterogeneity. We illustrate these advantages of GBT models in our study of how the moderating effect of markets for technology on the value of technological capability is itself moderated by firm types. We conclude with a discussion of potential uses of the method in strategic management research . Managerial summary : This article illustrates the use of Group-Based Trajectory Models in discerning heterogeneity in an attribute of interest, including firm resources, capabilities, strategies, and performance, especially when such heterogeneity changes or evolves over time. We illustrate these advantages of GBT models in an analysis of how the moderating effect of markets for technology on the value of technological capability is itself moderated by firm types. Specifically, we find that the performance of firms, whose strategic position is based on technological competence, is negatively impacted when MFT are extensive, whereas that of firms whose strategic position is also based on other complementary capabilities is relatively unaffected . Copyright © 2015 John Wiley & Sons, Ltd.",
+  "summary": {
+    "oneLiner": "Firms whose strategic position rests on technological competence see performance hurt when markets for technology are extensive, while firms with complementary capabilities are relatively unaffected.",
+    "overview": "This paper is mainly a methods study. It introduces Group-Based Trajectory (GBT) models, a statistical technique that finds subgroups in a firm attribute that changes over time, when theory gives little guidance on what defines those subgroups. The authors use the technique to ask whether the effect of markets for technology on the value of technological capabilities depends on firm type. Their main finding is that firms whose position is built on technological competence are negatively affected when markets for technology are extensive, while firms that also have other complementary capabilities are relatively unaffected. The abstract also points to other uses of the method in strategic management research.",
+    "question": "How do markets for technology affect the value of technological capabilities, and does this effect differ across firm types? The paper also asks how GBT models can reveal heterogeneity in firm attributes that change over time.",
+    "method": "The authors apply Group-Based Trajectory (GBT) models, a statistical technique based on finite mixture models (methods that split a population into unobserved subgroups). They use it to discern heterogeneity in an attribute of interest, especially when that heterogeneity evolves over time. They then use it to test how the moderating effect of markets for technology is itself moderated by firm types. The abstract does not describe the estimation details.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Performance of firms whose strategic position is based on technological competence is negatively impacted when markets for technology (MFT) are extensive.",
+      "Performance of firms whose strategic position is also based on other complementary capabilities is relatively unaffected by extensive markets for technology.",
+      "The authors argue that GBT models are useful for discerning heterogeneity when it changes over time and when theory offers little guidance on its basis."
+    ],
+    "whyItMatters": "The managerial summary suggests that the value of technological capability depends on firm type and on how extensive markets for technology are, so firms relying only on technological competence may be more exposed. For researchers, the paper offers GBT models as a way to study firm heterogeneity that changes over time, including in resources, capabilities, strategies and performance.",
+    "topics": [
+      "markets for technology",
+      "technological capabilities",
+      "group-based trajectory models",
+      "finite mixture models",
+      "firm heterogeneity",
+      "firm types",
+      "complementary capabilities",
+      "strategic management methods"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "W2081775265",
+  "title": "Growth Options, Beta, and the Cost of Capital",
+  "year": 2007,
+  "date": "2007-07-01",
+  "type": "article",
+  "venue": "Financial Management",
+  "doi": "10.1111/j.1755-053x.2007.tb00084.x",
+  "url": "https://doi.org/10.1111/j.1755-053x.2007.tb00084.x",
+  "pdf": null,
+  "citations": 101,
+  "authors": [
+    {
+      "name": "Antonio E. Bernardo"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Amit Goyal"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We show how to decompose a firm's beta into its beta of assets‐in‐place and its beta of growth opportunities. Our empirical results demonstrate that the beta of growth opportunities is greater than the beta of assets‐in‐place for virtually all industries over all periods of time dating back to 1977. The difference has important implications for determining the cost of capital. For example, when choosing comparables to determine a project beta one should match the growth opportunities of the project with those of the comparable firm. Assuming a 6% market equity risk premium, accounting for growth opportunities alters the project cost of capital by as much as 2% to 3%.",
+  "summary": {
+    "oneLiner": "Growth opportunities carry higher beta than assets-in-place in virtually all industries, so comparables must match growth to price projects correctly.",
+    "overview": "The paper splits a firm's beta, a measure of how much its returns move with the overall market, into two parts: the beta of assets already in place and the beta of future growth opportunities. The authors find that growth opportunities have a higher beta than assets-in-place in virtually all industries and periods back to 1977. This matters for the cost of capital, the return a firm must earn to satisfy its investors, because a project's risk depends on the growth opportunities it shares with comparable firms. The authors say that accounting for growth can change a project's cost of capital by as much as 2 to 3 percentage points, assuming a 6% market equity risk premium.",
+    "question": "How can a firm's beta be decomposed into the beta of its assets-in-place and the beta of its growth opportunities, and what does this imply for the cost of capital?",
+    "method": "The abstract describes showing how to decompose a firm's beta into these two components, followed by empirical results. The specific empirical technique is not described in the abstract.",
+    "data": "Empirical results cover all industries over all periods dating back to 1977. The abstract does not name the specific sample, data source, or industries.",
+    "findings": [
+      "The beta of growth opportunities is greater than the beta of assets-in-place for virtually all industries over all periods of time dating back to 1977.",
+      "The difference between the two betas has important implications for determining the cost of capital.",
+      "When choosing comparable firms to estimate a project's beta, one should match the project's growth opportunities with those of the comparable firm.",
+      "Assuming a 6% market equity risk premium, accounting for growth opportunities alters the project cost of capital by as much as 2% to 3%."
+    ],
+    "whyItMatters": "For managers and analysts estimating the cost of capital for a project, the paper suggests that comparable firms should be chosen to match growth opportunities, not just the assets in place. Ignoring growth opportunities could misstate a project's cost of capital by as much as 2 to 3 percentage points under the stated assumption.",
+    "topics": [
+      "cost of capital",
+      "beta",
+      "growth options",
+      "comparable firms",
+      "project valuation",
+      "assets-in-place",
+      "equity risk premium",
+      "discount rate"
+    ],
+    "industries": [
+      "All industries (not individually named in the abstract)"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

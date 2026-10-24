@@ -1,0 +1,66 @@
+{
+  "id": "W4402758481",
+  "title": "How Does a Health Insurance Program Covering 500 Million Poor Impact Credit Market Outcomes?",
+  "year": 2024,
+  "date": "2024-09-24",
+  "type": "article",
+  "venue": "Management Science",
+  "doi": "10.1287/mnsc.2023.01039",
+  "url": "https://doi.org/10.1287/mnsc.2023.01039",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "I study the impact of the world’s largest publicly funded health insurance plan for the poor on credit markets. India launched a health insurance plan that covered 500 million beneficiaries. The fact that opposition-ruled states did not implement the program for political reasons allows me to compare border districts of implemented and nonimplemented states within a difference-in-differences framework. I find that loan delinquency reduced significantly in implemented districts. Increased liquidity for loan repayment seems to be the mechanism at work. I rule out the federal-level ruling party’s influence as an explanation. This paper was accepted by Kay Giesecke, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01039 .",
+  "summary": {
+    "oneLiner": "A large-scale public health insurance program in India reduced loan delinquency by providing households with increased liquidity for repayment.",
+    "overview": "This study examines how India's massive government-funded health insurance program for the poor affects the credit market. By using a natural experiment where some states did not adopt the program for political reasons, the author compares delinquency rates in neighboring districts. The results suggest that access to health insurance leads to fewer loan defaults because households have more available cash to meet their debt obligations. The study highlights a clear link between social safety nets and financial stability in the credit market.",
+    "question": "Does a large-scale publicly funded health insurance program for the poor lead to changes in credit market outcomes such as loan delinquency?",
+    "method": "A difference-in-differences framework comparing border districts between states that implemented the insurance program and those that did not.",
+    "data": "Districts across states in India following the launch of a national health insurance plan covering 500 million beneficiaries.",
+    "findings": [
+      "Loan delinquency reduced significantly in districts where the health insurance program was implemented.",
+      "Increased liquidity for loan repayment is identified as the likely mechanism driving the reduction in delinquency.",
+      "The federal-level ruling party’s influence is ruled out as an explanation for the observed changes."
+    ],
+    "whyItMatters": "The findings suggest that public health interventions can have positive spillover effects on credit markets and financial health by reducing the liquidity constraints faced by poor households during emergencies.",
+    "topics": [
+      "Health Insurance",
+      "Credit Markets",
+      "Loan Delinquency",
+      "Financial Inclusion",
+      "Social Safety Nets",
+      "India"
+    ],
+    "industries": [
+      "Banking",
+      "Insurance"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4226243676",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.2139/ssrn.4063386"
+    }
+  ]
+}

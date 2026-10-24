@@ -1,0 +1,57 @@
+{
+  "id": "W1964226322",
+  "title": "Pre-Tender Offer Share Acquisition Strategy in Takeovers",
+  "year": 1994,
+  "date": "1994-03-01",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "10.2307/2331194",
+  "url": "https://doi.org/10.2307/2331194",
+  "pdf": null,
+  "citations": 93,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Narasimhan Jegadeesh"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "This paper models the strategic pre-tender offer share acquisition problem faced by potential bidders in takeovers. The model provides a rational explanation for the seemingly anomalous empirical evidence that the information about the impending tender offers is not fully conveyed through the potential bidders' pre-tender offer trades and for the evidence that a large fraction of bidders do not hold any target shares prior to launching the tender offers. Additional testable implications are also provided.",
+  "summary": {
+    "oneLiner": "A theoretical model in which bidders' strategic pre-tender share purchases rationally explain weak information leakage and why many bidders hold no target shares.",
+    "overview": "Before launching a takeover bid, a potential acquirer may buy shares in the target company. Earlier studies found two puzzles: these pre-bid trades do not fully reveal that a bid is coming, and many bidders hold no target shares before bidding. The authors build a theoretical model of the bidder's strategic choice about buying shares before a tender offer. They argue the model gives a rational explanation for both patterns. The paper also states additional testable implications for future research.",
+    "question": "Why do potential bidders' pre-tender offer share purchases not fully convey information about an impending takeover, and why do many bidders hold no target shares before launching a tender offer?",
+    "method": "A theoretical model of the strategic pre-tender offer share acquisition problem faced by potential bidders in takeovers.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The model provides a rational explanation for the seemingly anomalous empirical evidence that information about impending tender offers is not fully conveyed through potential bidders' pre-tender offer trades.",
+      "The model provides a rational explanation for the evidence that a large fraction of bidders do not hold any target shares prior to launching tender offers.",
+      "The paper provides additional testable implications."
+    ],
+    "whyItMatters": "The abstract indicates the model helps explain observed bidder trading behaviour before takeovers and offers testable predictions. It does not spell out specific implications for managers, policymakers or investors.",
+    "topics": [
+      "takeovers",
+      "tender offers",
+      "pre-bid share acquisition",
+      "information leakage",
+      "insider trading",
+      "target shares",
+      "corporate finance theory"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

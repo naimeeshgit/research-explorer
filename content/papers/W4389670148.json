@@ -1,0 +1,72 @@
+{
+  "id": "W4389670148",
+  "title": "Does labor composition impact the transmission of monetary policy to output?",
+  "year": 2023,
+  "date": "2023-12-13",
+  "type": "article",
+  "venue": "Journal of Development Economics",
+  "doi": "10.1016/j.jdeveco.2023.103241",
+  "url": "https://doi.org/10.1016/j.jdeveco.2023.103241",
+  "pdf": "http://eprints.lse.ac.uk/121576/1/does_labour_composition_impact_tranmission_of_monetary_policy.pdf",
+  "citations": 6,
+  "authors": [
+    {
+      "name": "Raja Reddy Bujunoori"
+    },
+    {
+      "name": "Nithin Mannil"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Increased hiring of contract workers, triggered by a legal change in India, makes firm output less sensitive to monetary policy due to flexible wages.",
+    "overview": "This study examines how the mix of contract versus regular workers influences how firms respond to interest rate changes. Using a 2001 Indian Supreme Court ruling that made it easier for firms to hire contract workers as an 'exogenous' shock—a natural experiment not caused by the firms themselves—the authors find that firms with more contract labor see their output fluctuate less when central banks change interest rates. The mechanism is wage flexibility: contract workers' wages are less rigid (more easily adjusted) than those of regular workers, allowing firms to manage costs and production more effectively during monetary policy shifts. This provides new insight into why labor composition is a critical factor for both policymakers and corporate managers.",
+    "question": "Does the labor composition within a firm, specifically the presence of contract workers, impact the sensitivity of firm-level output to monetary policy changes?",
+    "method": "A difference-in-differences and triple-difference approach using an unexpected Supreme Court of India judgment as an exogenous shock to the proportion of contract workers, combined with factory-level panel data regressions.",
+    "data": "Establishment-level data from the Indian Annual Survey of Industries (ASI), spanning the financial years 1998-1999 to 2007-2008, totaling 77,351 observations from 18,413 factories.",
+    "findings": [
+      "The presence of contract workers is associated with a moderation in the sensitivity of output to monetary policy changes.",
+      "Following the Supreme Court judgment, a 100 basis points increase in the policy rate leads to up to 5.1 percentage points lower sensitivity in output for firms in pro-worker states compared to other states.",
+      "Wages of contract workers are relatively less rigid than those of regular workers, and show 1.9% higher sensitivity to policy rate changes.",
+      "The ease of hiring/firing contract workers alone does not explain the moderation; rather, it is the flexibility of their wages which alters the nominal marginal cost of labor."
+    ],
+    "whyItMatters": "The findings suggest that the composition of labor is a crucial, under-studied factor in the transmission of monetary policy, implying that labor market regulations and the reliance on non-standard employment arrangements can significantly alter the real-world impact of central bank decisions.",
+    "topics": [
+      "monetary policy transmission",
+      "contract workers",
+      "wage rigidity",
+      "labor market regulations",
+      "firm-level output",
+      "India"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4389993396",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2023,
+      "url": "https://doi.org/10.2139/ssrn.4660324"
+    }
+  ]
+}

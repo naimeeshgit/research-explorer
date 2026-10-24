@@ -1,0 +1,74 @@
+{
+  "id": "W4317243206",
+  "title": "The Impact of Ride-Hailing Services on Congestion: Evidence from Indian Cities",
+  "year": 2023,
+  "date": "2023-01-09",
+  "type": "article",
+  "venue": "Manufacturing & Service Operations Management",
+  "doi": "10.1287/msom.2022.1158",
+  "url": "https://doi.org/10.1287/msom.2022.1158",
+  "pdf": null,
+  "citations": 86,
+  "authors": [
+    {
+      "name": "Saharsh Agarwal"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Rahul Telang"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Problem definition: Early research has documented significant growth in ride-hailing services worldwide and allied benefits. However, growing evidence of their negative externalities is leading to significant policy scrutiny. Despite demonstrated socioeconomic benefits and consumer surplus worth billions of dollars, cities are choosing to curb these services in a bid to mitigate first order urban mobility problems. Existing studies on the congestion effects of ride-hailing are limited, report mixed evidence, and exclusively focus on the United States, where the supply consists primarily of part-time drivers. Methodology/results: We study how the absence of ride-hailing services affects congestion levels in three major cities in India, a market where most ride-hailing drivers participate full time. Using rich real-time traffic and route trajectory data from Google Maps, we show that in, all three cities, periods of ride-hailing unavailability due to driver strikes see a discernible drop in travel time. The effects are largest for the most congested regions during the busiest hours, which see 10.1%–14.8% reduction in travel times. Additionally, we provide suggestive evidence for some of the mechanisms behind the observed effects, including deadheading elimination, substitution with public transit, and opening up of shorter alternative routes. Managerial implications: These results suggest that despite their paltry modal share, ride-hailing vehicles are substituting more sustainable means of transport and are contributing significantly to congestion in the cities studied. The reported effect sizes quantify the maximum travel time gains that can be expected on curbing them. Funding: This work was supported by the Srini Raju Center for Information Technology and the Networked Economy at Indian School of Business. Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2022.1158 .",
+  "summary": {
+    "oneLiner": "Ride-hailing driver strikes in three Indian cities cut travel times by 10.1%–14.8% in the most congested areas at peak hours, suggesting ride-hailing adds to congestion.",
+    "overview": "Ride-hailing services such as Uber and Ola have grown quickly, but cities are increasingly considering curbs because of concerns about traffic. This paper asks whether these services actually worsen congestion in Indian cities, where most drivers work full time. The authors use real-time traffic and route data from Google Maps and compare travel times during periods when driver strikes made ride-hailing unavailable. They find that travel times dropped noticeably in those periods, especially in the most congested areas at the busiest hours. The authors say this suggests ride-hailing vehicles contribute significantly to congestion, even though their share of total trips is small.",
+    "question": "How does the absence of ride-hailing services affect congestion levels in three major Indian cities?",
+    "method": "The authors compare travel times during periods when ride-hailing services were unavailable because of driver strikes against periods when they were available. The abstract does not name the specific statistical design beyond this comparison.",
+    "data": "Real-time traffic and route trajectory data from Google Maps for three major Indian cities. The abstract does not state the time period.",
+    "findings": [
+      "In all three cities, periods of ride-hailing unavailability due to driver strikes showed a discernible drop in travel time.",
+      "The effects were largest for the most congested regions during the busiest hours, with travel time reductions of 10.1%–14.8%.",
+      "The authors provide suggestive evidence of mechanisms including elimination of deadheading (driving without a passenger), substitution with public transit, and opening of shorter alternative routes."
+    ],
+    "whyItMatters": "The authors suggest that despite their small modal share, ride-hailing vehicles substitute for more sustainable transport and contribute significantly to congestion. They state that the reported effect sizes quantify the maximum travel time gains that could be expected from curbing ride-hailing.",
+    "topics": [
+      "ride-hailing",
+      "congestion",
+      "urban mobility",
+      "India",
+      "Uber and Ola",
+      "negative externalities",
+      "transport policy",
+      "deadheading"
+    ],
+    "industries": [
+      "ride-hailing",
+      "urban transport"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3000227260",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2019,
+      "url": "https://doi.org/10.2139/ssrn.3410623"
+    }
+  ]
+}

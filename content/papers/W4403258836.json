@@ -1,0 +1,99 @@
+{
+  "id": "W4403258836",
+  "title": "Private provider practices and incentives for hypertension management in rural and peri-urban Telangana, India– a qualitative study",
+  "year": 2024,
+  "date": "2024-10-09",
+  "type": "article",
+  "venue": "BMC Health Services Research",
+  "doi": "10.1186/s12913-024-11560-5",
+  "url": "https://doi.org/10.1186/s12913-024-11560-5",
+  "pdf": "https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-024-11560-5",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Samriddhi S. Gupte"
+    },
+    {
+      "name": "Ashish Sachdeva"
+    },
+    {
+      "name": "Aman Kabra"
+    },
+    {
+      "name": "Bhanu Pratap Singh"
+    },
+    {
+      "name": "Ashish Krishna"
+    },
+    {
+      "name": "Anupam Khungar Pathni"
+    },
+    {
+      "name": "Bhawna Sharma"
+    },
+    {
+      "name": "Andrew Edward Moran"
+    },
+    {
+      "name": "Amarendar Reddy Mamindla"
+    },
+    {
+      "name": "Nanda Kishore Kannuri"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Abstract Hypertension poses a critical threat to health in India, being the predominant risk factor for mortality and disability. With over 70% of outpatient care being provided by the private sector, our study investigated the practices and incentives of private health providers in screening, diagnosing, treating, monitoring, and counseling hypertension patients in rural and peri-urban India. Conducted from April 2020 to February 2021, the qualitative study involved 46 participants, including various healthcare professionals and patients in three Telangana state districts. Analysis revealed a lack of recognition of hypertension's gravity among private providers in these areas, leading to inconsistent screening practices and varied diagnostic thresholds, particularly among rural medical practitioners. Both formal and informal providers lacked standardized protocols and follow-up mechanisms, with limited technical knowledge about hypertension observed, especially among rural practitioners who were often the first point of contact. Drug effectiveness, and incentives from pharmaceutical sales representatives influenced prescribing practices. Diagnostic labs also offered financial incentives for patient referrals. Thus, aligning providers' objectives with patient preferences and public health goals is crucial. To encourage evidence-based hypertension care, the government and NGOs could implement strategies such as tailored incentives, financial rewards, tax benefits, accreditation, and recognition for private healthcare providers. Professional bodies in the private sector should establish programs emphasizing quality assurance and certifications. Future research should focus on designing and testing new models for private sector hypertension service delivery, coupled with targeted interventions to enhance care in rural and peri-urban settings.",
+  "summary": {
+    "oneLiner": "Private health providers in rural and peri-urban Telangana exhibit inconsistent hypertension management driven by limited technical knowledge and external financial incentives.",
+    "overview": "In India, most outpatient care is delivered by private providers, yet hypertension management in rural and peri-urban areas remains inconsistent. This study found that providers often lack standardized protocols for diagnosing and treating high blood pressure, frequently influenced by pharmaceutical incentives and referral fees from diagnostic labs. Because these practitioners are often the first point of contact for patients, their limited technical knowledge poses a significant barrier to effective care. The findings suggest that aligning private provider incentives with public health goals is essential to improving long-term health outcomes.",
+    "question": "What are the practices and incentives of private health providers regarding the screening, diagnosis, treatment, and monitoring of hypertension in rural and peri-urban India?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Private providers in the studied areas showed a lack of recognition regarding the gravity of hypertension.",
+      "Screening practices are inconsistent and diagnostic thresholds vary, especially among rural medical practitioners.",
+      "Both formal and informal providers lack standardized protocols and follow-up mechanisms.",
+      "Prescribing practices are influenced by drug effectiveness and incentives provided by pharmaceutical sales representatives.",
+      "Diagnostic labs offer financial incentives to providers for patient referrals."
+    ],
+    "whyItMatters": "Improving hypertension management requires aligning private sector incentives with patient health outcomes. Policymakers and NGOs should consider offering tailored financial rewards, tax benefits, and accreditation systems to encourage evidence-based care, while professional bodies should prioritize quality assurance programs and certifications.",
+    "topics": [
+      "hypertension management",
+      "private healthcare providers",
+      "healthcare incentives",
+      "public health",
+      "provider behavior",
+      "rural healthcare",
+      "healthcare delivery models"
+    ],
+    "industries": [
+      "healthcare",
+      "pharmaceuticals"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4392818519",
+      "type": "preprint",
+      "venue": "Research Square",
+      "year": 2024,
+      "url": "http://dx.doi.org/10.21203/rs.3.rs-4015151/v1"
+    }
+  ]
+}

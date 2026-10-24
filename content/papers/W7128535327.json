@@ -1,0 +1,64 @@
+{
+  "id": "W7128535327",
+  "title": "Preventing Defaults in Response to Deteriorating Bank Health: The Prompt Corrective Action Approach",
+  "year": 2026,
+  "date": "2026-02-09",
+  "type": "article",
+  "venue": "Contemporary Accounting Research",
+  "doi": "10.1111/1911-3846.70027",
+  "url": "https://doi.org/10.1111/1911-3846.70027",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Nishant Kashyap"
+    },
+    {
+      "name": "Sriniwas Mahapatro"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "ABSTRACT Prior research shows that borrowers are more likely to default when their banks are financially distressed, particularly where contract enforcement is weak. We examine whether regulatory intervention in the form of Prompt Corrective Action (PCA), which seeks to improve bank health through enhanced monitoring, reverses such defaults. To address this question, we exploit the bright‐line entry thresholds in India's PCA regime using a regression discontinuity framework. We first show that such defaults exist in India. Our main result is that PCA intervention significantly reduces such defaults. The result is robust to variation in methodology and alternative definitions of bank health. Our evidence suggests that PCA reduces such defaults by credibly signaling to borrowers the likely restoration of bank health and continuity of lending relationships. Its effectiveness was reinforced by an earlier regulatory reform that improved the timeliness of loan‐loss provisioning, enhancing the credibility of enforcement. Overall, our findings suggest that PCA, when underpinned by credible financial reporting, can serve as an effective policy tool to curb strategic defaults.",
+  "summary": {
+    "oneLiner": "Regulatory intervention through Prompt Corrective Action (PCA) helps reduce borrower defaults by signaling improved bank stability and preserving lending relationships.",
+    "overview": "When banks face financial distress, borrowers may strategically default, especially in environments with weak contract enforcement. This study examines whether Prompt Corrective Action (PCA), a regulatory framework that imposes stricter monitoring on struggling banks, can prevent these defaults. The authors find that such interventions effectively reduce borrower defaults by signaling to the market that the bank's health will be restored. This mechanism works best when supported by credible financial reporting and timely loan-loss provisioning.",
+    "question": "Does regulatory intervention via Prompt Corrective Action (PCA) reverse borrower defaults triggered by bank financial distress?",
+    "method": "A regression discontinuity framework, which compares banks just above and below the regulatory thresholds for PCA intervention.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "PCA intervention is associated with a significant reduction in borrower defaults at distressed banks.",
+      "The effectiveness of PCA appears to be driven by a credible signal to borrowers regarding the restoration of bank health and the continuity of lending relationships.",
+      "Regulatory reforms that improved the timeliness of loan-loss provisioning reinforced the effectiveness of PCA by enhancing the credibility of enforcement."
+    ],
+    "whyItMatters": "The findings suggest that PCA is an effective policy tool for regulators to curb strategic defaults, provided the intervention is backed by credible financial reporting and strong regulatory enforcement.",
+    "topics": [
+      "bank regulation",
+      "prompt corrective action",
+      "loan defaults",
+      "financial distress",
+      "bank monitoring",
+      "regulatory policy",
+      "strategic default"
+    ],
+    "industries": [
+      "banking"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

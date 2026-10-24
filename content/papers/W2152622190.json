@@ -1,0 +1,69 @@
+{
+  "id": "W2152622190",
+  "title": "Cournot Competition Under Yield Uncertainty: The Case of the U.S. Influenza Vaccine Market",
+  "year": 2008,
+  "date": "2008-12-05",
+  "type": "article",
+  "venue": "Manufacturing & Service Operations Management",
+  "doi": "10.1287/msom.1080.0242",
+  "url": "https://doi.org/10.1287/msom.1080.0242",
+  "pdf": null,
+  "citations": 204,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Charles J. Corbett"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "This paper is inspired by the recurring mismatch between demand and supply in the U.S. influenza vaccine market. Economic theory predicts that an oligopolistic market with unregulated but costly entry will experience excess entry and oversupply, not the undersupply observed in the market for influenza vaccine in recent years. In this paper, we examine the interaction between yield uncertainty, a key characteristic of many production processes, including that for influenza vaccine, and firms' strategic behavior. We find that yield uncertainty can contribute to a high degree of concentration in an industry and a reduction in the industry output and the expected consumer surplus in equilibrium. We use parameter values loosely based on the U.S. influenza vaccine market to numerically illustrate the impact of yield uncertainty.",
+  "summary": {
+    "oneLiner": "Yield uncertainty in production can cause industry concentration and market undersupply, contradicting standard economic predictions of excess entry in oligopolistic markets.",
+    "overview": "Standard economic theory often suggests that markets with many firms will lead to oversupply. However, the U.S. influenza vaccine market frequently experiences undersupply. This paper demonstrates that when production processes are unreliable—a phenomenon known as yield uncertainty—firms behave differently. This uncertainty discourages competition and can lead to a more concentrated market with lower overall output and reduced benefits for consumers.",
+    "question": "How does yield uncertainty, where production output is unpredictable, affect firm behavior and market outcomes in oligopolistic industries?",
+    "method": "A theoretical model using numerical illustration.",
+    "data": "Parameter values based on the U.S. influenza vaccine market.",
+    "findings": [
+      "Yield uncertainty can contribute to a high degree of industry concentration.",
+      "Yield uncertainty is associated with a reduction in industry output.",
+      "The presence of yield uncertainty reduces the expected consumer surplus in equilibrium."
+    ],
+    "whyItMatters": "The findings challenge conventional wisdom that simply encouraging more entry is enough to solve supply shortages, suggesting that manufacturing reliability is a critical component of market stability and consumer welfare.",
+    "topics": [
+      "Oligopoly",
+      "Supply chain management",
+      "Yield uncertainty",
+      "Market concentration",
+      "Vaccine production",
+      "Operations strategy"
+    ],
+    "industries": [
+      "Healthcare",
+      "Pharmaceuticals"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3121824825",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2009,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1508859"
+    }
+  ]
+}

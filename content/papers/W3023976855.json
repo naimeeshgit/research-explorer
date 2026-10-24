@@ -1,0 +1,72 @@
+{
+  "id": "W3023976855",
+  "title": "Extracting Inflation from Stock Returns to Test Purchasing Power Parity",
+  "year": 2005,
+  "date": "2005-02-01",
+  "type": "article",
+  "venue": "American Economic Review",
+  "doi": "10.1257/0002828053828554",
+  "url": "https://doi.org/10.1257/0002828053828554",
+  "pdf": "http://www.anderson.ucla.edu/faculty/bhagwan.chowdhry/ppp.pdf",
+  "citations": 23,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Richard W. Roll"
+    },
+    {
+      "name": "Yihong Xia"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Relative purchasing power parity (PPP) holds for pure price inflations, which affect prices of all goods and services by the same proportion, while leaving relative prices unchanged. Pure price inflations also affect nominal returns of all traded financial assets by exactly the same amount. Recognizing that relative PPP may not hold for the official inflation data constructed from commodity price indices because of relative price changes and other frictions that cause prices to be “sticky,” we provide a novel method for extracting a proxy for realized pure price inflation from stock returns. We find strong support for relative PPP in the short run using the extracted inflation measures.",
+  "summary": {
+    "oneLiner": "A new method backs out inflation from stock returns, and the resulting inflation estimates suggest purchasing power parity holds quite well.",
+    "overview": "The authors propose a way to estimate realized pure price inflation using stock returns rather than price indices. Their key idea is that inflation should raise the nominal returns of all traded assets by the same amount. They first strip out real economic influences from stock returns using the Fama-French three-factor model, a standard asset-pricing model that explains returns with market, size and value factors. Using the inflation measures extracted this way, they report evidence that purchasing power parity, the idea that exchange rates adjust so a basket of goods costs about the same across countries, holds quite well.",
+    "question": "Can inflation be extracted from stock returns, and if so, do the extracted inflation measures support purchasing power parity?",
+    "method": "A novel extraction method that uses the principle that pure price inflation affects nominal returns of all traded assets equally. Stock returns are purged of real economic factors using the Fama-French three-factor model, and the resulting inflation measures are used to test purchasing power parity.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Evidence that purchasing power parity holds quite well using the extracted inflation measures."
+    ],
+    "whyItMatters": "The abstract presents the method as a novel way to estimate realized inflation from market data, which could be a substitute or complement to conventional price indices when testing purchasing power parity. The abstract does not spell out further implications for managers, policymakers or investors.",
+    "topics": [
+      "inflation measurement",
+      "purchasing power parity",
+      "stock returns",
+      "Fama-French three-factor model",
+      "exchange rates",
+      "asset pricing"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3122843100",
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "year": 2004,
+      "url": "http://www.anderson.ucla.edu/faculty/bhagwan.chowdhry/ppp.pdf"
+    },
+    {
+      "id": "W2044540208",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2003,
+      "url": "https://doi.org/10.2139/ssrn.417920"
+    }
+  ]
+}

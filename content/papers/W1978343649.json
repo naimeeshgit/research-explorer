@@ -1,0 +1,92 @@
+{
+  "id": "W1978343649",
+  "title": "Modeling the Impact of Integrating HIV and Outpatient Health Services on Patient Waiting Times in an Urban Health Clinic in Zambia",
+  "year": 2012,
+  "date": "2012-04-23",
+  "type": "article",
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0035479",
+  "url": "https://doi.org/10.1371/journal.pone.0035479",
+  "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0035479&type=printable",
+  "citations": 36,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Stephanie M. Topp"
+    },
+    {
+      "name": "Ariel Garcia"
+    },
+    {
+      "name": "Mallory Soldner"
+    },
+    {
+      "name": "Kezban Yagci Sokat"
+    },
+    {
+      "name": "Julien M Chipukuma"
+    },
+    {
+      "name": "Chibesa S. Wamulume"
+    },
+    {
+      "name": "Stewart E. Reid"
+    },
+    {
+      "name": "Julie Swann"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Rapid scale up of HIV treatment programs in sub-Saharan Africa has refueled the long-standing health policy debate regarding the merits and drawbacks of vertical and integrated system. Recent pilots of integrating outpatient and HIV services have shown an improvement in some patient outcomes but deterioration in waiting times, which can lead to worse health outcomes in the long run. METHODS: A pilot intervention involving integration of outpatient and HIV services in an urban primary care facility in Lusaka, Zambia was studied. Data on waiting time of patients during two seven-day periods before and six months after the integration were collected using a time and motion study. Statistical tests were conducted to investigate whether the two observation periods differed in operational details such as staffing, patient arrival rates, mix of patients etc. A discrete event simulation model was constructed to facilitate a fair comparison of waiting times before and after integration. The simulation model was also used to develop alternative configurations of integration and to estimate the resulting waiting times. RESULTS: Comparison of raw data showed that waiting times increased by 32% and 36% after integration for OPD and ART patients respectively (p<0.01). Using simulation modeling, we found that a large portion of this increase could be explained by changes in operational conditions before and after integration such as reduced staff availability (p<0.01) and longer breaks between consecutive patients (p<0.05). Controlling for these differences, integration of services, per se, would have resulted in a significant decrease in waiting times for OPD and a moderate decrease for HIV services. CONCLUSIONS: Integrating health services has the potential of reducing waiting times due to more efficient use of resources. However, one needs to ensure that other operational factors such as staff availability are not adversely affected due to integration.",
+  "summary": {
+    "oneLiner": "Integrating HIV and outpatient services can reduce patient wait times, provided that operational factors like staff availability and patient load are managed effectively.",
+    "overview": "In many healthcare systems, specialized HIV services and general outpatient care are managed separately. Researchers studied a pilot program in Zambia that combined these services to improve efficiency. While initial raw data showed that patient waiting times increased after integration, computer simulations revealed that this was mostly due to staffing shortages and operational disruptions rather than the integration itself. The study suggests that if clinics manage resources well, integrating these services can actually lead to shorter, not longer, wait times for patients.",
+    "question": "What is the true impact of integrating HIV and general outpatient health services on patient waiting times, and how do operational factors influence this outcome?",
+    "method": "The authors conducted a time and motion study over two separate seven-day periods (before and after integration). They then used discrete event simulation (a computer modeling technique that mimics real-world processes to identify bottlenecks and test scenarios) to isolate the effects of integration from other operational variables like staff levels and patient load.",
+    "data": "Data was collected from an urban primary health clinic in Lusaka, Zambia, focusing on patient arrival times and interactions at various clinical stations, with approximately 80 patients per day.",
+    "findings": [
+      "A raw comparison of the data suggests that waiting times increased by 32% to 36% after integration.",
+      "Simulation results suggest that much of the observed increase in waiting times was driven by lower staff availability and longer breaks taken by staff rather than the integration process itself.",
+      "The model suggests that, when controlling for operational variables, integration would have resulted in a significant decrease in waiting times for outpatient care and a moderate decrease for HIV services.",
+      "The simulation suggests that partial integration of specific clinic steps can provide a significant portion of the benefits found in full integration.",
+      "The analysis suggests that clinics with a higher proportion of HIV patients may experience lower overall waiting times after integration due to more efficient resource sharing."
+    ],
+    "whyItMatters": "For clinic managers and policymakers, this study highlights that observed increases in wait times during service integration are often symptoms of poor operational management rather than inherent flaws in the integration model. By proactively adjusting staffing and identifying which specific service steps to integrate, administrators can improve patient throughput and satisfaction without compromising the quality of care.",
+    "topics": [
+      "healthcare operations",
+      "service integration",
+      "HIV care",
+      "patient waiting times",
+      "discrete event simulation",
+      "resource-limited settings",
+      "public health management"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "Zambia"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3121679893",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2010,
+      "url": "https://doi.org/10.2139/ssrn.1699566"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "W2151737407",
+  "title": "Essays on the organization and value of outsourcing relationships",
+  "year": 2008,
+  "date": "2008-08-01",
+  "type": "article",
+  "venue": "Texas ScholarWorks (Texas Digital Library)",
+  "doi": null,
+  "url": "http://hdl.handle.net/2152/17879",
+  "pdf": "https://repositories.lib.utexas.edu/bitstreams/5c806fb6-b5ad-472e-856e-cf2854d59a4a/download",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Over the past decade, outsourcing has emerged as an imperative for competitive success in modern organizations. Yet, the high failure rate of outsourcing initiatives suggests that despite the significant opportunities available through outsourcing, several organizations remain unprepared for the transformation that it brings. My dissertation, “Essays on the Organization and Value of Outsourcing Relationships,” identifies governance strategies that maximize the strategic value of outsourcing investments and estimates the size of governance effects by analyzing the contribution of efficient governance to an increase in shareholder value of the outsourcing firm. The first two essays, “An Empirical Analysis of the Impact of Information Capabilities Design on Business Process Outsourcing (BPO) Performance” and “An Empirical Analysis of the Contractual and Information Structures of Business Process Outsourcing (BPO) Relationships,” focus on business process outsourcing (BPO), the fastest growing segment of the outsourcing market. In particular, the first essay emphasizes the information intensive nature of BPO to posit that performance heterogeneity across BPO relationships is a function of the fit between the information requirements and information capabilities of the relationship. The design of information capabilities extends contract design that addresses incentive conflicts to include design of the information structure comprising relational processes and technologies that address cognitive conflict between the participant firms. The second essay demonstrates complementarities between the contractual and information structures to emphasize that their joint assessment is necessary to enhance the explanatory power of extant theories of organization. These results have important implications for how BPO relationships must be designed and managed to realize strategic value. The third essay in my dissertation, “Outsourcing Discount or Paradox? A Comparative Analysis of the Long-Term Abnormal Stock Returns and Operational Performance Gains across Outsourcing Contracts,” estimates the extent of this strategic value by assessing the longterm abnormal stock returns to the hundred largest outsourcing initiatives implemented between 1996 and 2005. I find that transaction cost economizing outsourcing decisions yield significantly higher abnormal returns. The results imply the need to exercise caution in initiating outsourcing initiatives and emphasize that value chain scoping and management are important sources of comparative advantage in the modern firm.",
+  "summary": {
+    "oneLiner": "Efficient governance of outsourcing deals, including fit between information needs and capabilities, is linked to better BPO performance and higher long-term stock returns.",
+    "overview": "This dissertation studies how firms should govern their outsourcing relationships so that outsourcing creates value rather than failing. The first two essays focus on business process outsourcing (BPO), arguing that performance depends on whether the information needs of the deal match the information capabilities built into it, alongside the contract. The third essay examines the stock market returns to the hundred largest outsourcing initiatives announced between 1996 and 2005, finding that outsourcing decisions driven by transaction cost economizing (choosing the cheapest governance structure for a transaction) yield significantly higher abnormal returns, meaning returns above what would be expected. The author concludes that firms should be cautious about starting outsourcing initiatives and should treat value chain scoping and management as sources of advantage.",
+    "question": "Which governance strategies maximize the strategic value of outsourcing investments, and how large are those governance effects on the shareholder value of the outsourcing firm?",
+    "method": "Not stated in the available text.",
+    "data": "The third essay uses the hundred largest outsourcing initiatives implemented between 1996 and 2005 and assesses their long-term abnormal stock returns and operational performance gains. The data source and the methods for the first two essays are not stated in the available text.",
+    "findings": [
+      "Performance heterogeneity across BPO relationships is a function of the fit between information requirements and information capabilities of the relationship (first essay).",
+      "Contractual and information structures are complementary, so their joint assessment is necessary to enhance the explanatory power of extant theories of organization (second essay).",
+      "Transaction cost economizing outsourcing decisions yield significantly higher abnormal returns (third essay).",
+      "The results imply the need to exercise caution in initiating outsourcing initiatives."
+    ],
+    "whyItMatters": "The author states that the results have important implications for how BPO relationships must be designed and managed to realize strategic value. The author also argues that managers should exercise caution when initiating outsourcing and should treat value chain scoping and management as important sources of comparative advantage.",
+    "topics": [
+      "outsourcing governance",
+      "business process outsourcing",
+      "BPO performance",
+      "information capabilities",
+      "contract design",
+      "abnormal stock returns",
+      "transaction cost economics",
+      "value chain management"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

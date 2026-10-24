@@ -1,0 +1,75 @@
+{
+  "id": "W4200357931",
+  "title": "Optimal Scale‐Up of HIV Treatment Programs in Resource‐Limited Settings Under Supply Uncertainty",
+  "year": 2021,
+  "date": "2021-11-05",
+  "type": "article",
+  "venue": "Production and Operations Management",
+  "doi": "10.1111/poms.13613",
+  "url": "https://doi.org/10.1111/poms.13613",
+  "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/poms.13613",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Sameer Mehta"
+    },
+    {
+      "name": "Charles J. Corbett"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "This study is motivated by the challenges faced by clinics in sub‐Saharan Africa in allocating scarce and unreliable supply of antiretroviral drugs (ARVs) among a large pool of eligible patients. Existing discussion of ARV allocation is focused on qualitative rules for prioritizing certain socioeconomic and demographic patient segments over others at the national level. However, such prioritization rules are of limited utility in providing quantitative guidance on scaling up of treatment programs at individual clinics. In this study, we take the perspective of a clinic administrator whose objective is to maximize the quality‐adjusted survival of the entire patient population in its service area by allocating scarce and unreliable supply of drugs among two activities: initiating treatment for untreated patients and continuing treatment for previously treated patients. The key trade‐off underlying this allocation decision is between the marginal health benefit obtained by initiating an untreated patient on treatment and that obtained by avoiding treatment interruption of a treated patient. This trade‐off has not been explicitly studied in the clinical literature, which focuses either on the incremental value obtained from initiating treatment (over no treatment) or on the value of providing continuous treatment (over interrupted treatment) but not on the difference of the two. We cast the clinic's problem as a stochastic dynamic program and provide a partial characterization of the optimal policy, which consists of dynamic prioritization of patient segments and is characterized by state‐dependent thresholds. We use this structure of the optimal policy to design a simpler Two‐Period heuristic and show that it substantially outperforms the Safety‐Stock heuristic, which is commonly used in practice. In our numerical experiments based on realistic parameter values, the performance of the Two‐Period heuristic is within 4% of the optimal policy whereas that of the Safety‐Stock heuristic can be as much as 20% lower than that of the optimal policy. Our model can serve as a basis for developing a decision support tool for clinics to design their ARV treatment program scale‐up plans.",
+  "summary": {
+    "oneLiner": "Clinics in resource-limited settings can optimize HIV treatment scale-up by using a two-period heuristic that balances initiation with risk of treatment interruption.",
+    "overview": "HIV clinics in resource-limited areas often face an ethical and operational dilemma: should they use scarce, unpredictable drug supplies to initiate new patients or ensure existing patients do not face treatment interruptions? Interrupting treatment for existing patients can lead to drug resistance, which is dangerous for the patient and costly to treat. The authors model this decision as a dynamic problem to maximize overall quality-adjusted life years. They demonstrate that common 'safety-stock' practices can lead to significant inefficiencies, and propose a more effective, robust heuristic for clinics to use when scaling up their programs.",
+    "question": "How should HIV clinics in resource-limited settings optimally allocate uncertain supplies of antiretroviral drugs between initiating new patients and maintaining treatment for existing patients to maximize overall population health?",
+    "method": "The authors model the clinic's decision-making as a stochastic dynamic program. They characterize the optimal policy and use this to develop a simpler two-period heuristic, comparing its performance against current industry practices (the Safety-Stock heuristic) and an analytical upper bound.",
+    "data": "The model uses realistic parameters for patient quality-of-life (QOL) utilities, survival rates, and drug resistance probabilities derived from established clinical literature. Numerical experiments simulate these decisions over a 24-month horizon.",
+    "findings": [
+      "The optimal policy is state-dependent, meaning the best decision changes based on the number of patients already on treatment and the current drug inventory.",
+      "The Two-Period heuristic consistently outperforms the common Safety-Stock heuristic, with performance gaps within 4% of the theoretical optimum compared to 20% for current practices.",
+      "The Two-Period heuristic is more robust to changes in parameter values, such as the probability of drug resistance or patient quality-of-life scores.",
+      "Under some conditions, the optimal policy suggests that even with available inventory, it may be beneficial to limit treatment initiation to hedge against future supply shocks.",
+      "The insights from the main model hold in an extended version that includes patient heterogeneity (e.g., varying susceptibility to drug resistance)."
+    ],
+    "whyItMatters": "The findings provide clinic administrators with a practical, computationally simple decision-support tool that is more effective than standard rules of thumb. By helping clinics better manage the trade-off between scaling up and maintaining adherence, this model can reduce treatment failures, drug resistance, and mortality in resource-constrained environments.",
+    "topics": [
+      "HIV treatment",
+      "global health",
+      "supply chain management",
+      "inventory rationing",
+      "healthcare operations",
+      "resource-limited settings",
+      "stochastic dynamic programming"
+    ],
+    "industries": [
+      "Healthcare",
+      "Public Health"
+    ],
+    "geographies": [
+      "Sub-Saharan Africa"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2779493983",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2017,
+      "url": "https://doi.org/10.2139/ssrn.3087685"
+    }
+  ]
+}

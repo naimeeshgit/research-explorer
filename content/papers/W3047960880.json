@@ -1,0 +1,30 @@
+{
+  "id": "W3047960880",
+  "title": "Suitability for Machine Learning and Immunity to the COVID-19 Pandemic",
+  "year": 2020,
+  "date": "2020-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.3647989",
+  "url": "https://doi.org/10.2139/ssrn.3647989",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Abhishek Bhatia"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Shekhar Tomar"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

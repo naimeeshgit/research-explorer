@@ -1,0 +1,70 @@
+{
+  "id": "W3121887329",
+  "title": "Investing for Impact",
+  "year": 2018,
+  "date": "2018-06-14",
+  "type": "article",
+  "venue": "Review of Financial Studies",
+  "doi": "10.1093/rfs/hhy068",
+  "url": "https://doi.org/10.1093/rfs/hhy068",
+  "pdf": null,
+  "citations": 169,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Shaun William Davies"
+    },
+    {
+      "name": "Brian Waters"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We study joint financing between profit-motivated and socially motivated (impact) investors and derive conditions under which impact investments improve social outcomes. When project owners cannot commit to social objectives, impact investors hold financial claims to counterbalance owners’ tendencies to overemphasize profits. Impact investors’ ownership stakes are higher when the value of social output is higher, and pure nonprofit status may be optimal for the highest valued social projects. We provide guidance about the design of contingent social contracts, such as social impact bonds and social impact guarantees. Received May 23, 2016; editorial decision April 28, 2018 by Editor Francesca Cornelli. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+  "summary": {
+    "oneLiner": "Impact investors can improve social outcomes under some conditions when project owners cannot commit to social goals, by holding financial claims that counter profit overemphasis.",
+    "overview": "The paper studies projects financed jointly by profit-seeking investors and impact investors, who also care about social outcomes. When project owners cannot credibly commit to social goals, they tend to overemphasize profits, and impact investors' financial stakes can offset this tendency. The authors derive conditions under which such joint financing improves social outcomes. They also suggest that impact investors' ownership stakes rise with the value of the social output, and that purely nonprofit status may be best for the most valuable social projects. The paper offers guidance on designing contingent social contracts, such as social impact bonds and social impact guarantees, which tie payments to social results.",
+    "question": "When do impact investors, who also value social outcomes, improve social outcomes when they co-finance projects with profit-motivated investors, and how should contingent social contracts be designed?",
+    "method": "The abstract describes deriving conditions from an analysis of joint financing between profit-motivated and impact investors, where project owners cannot commit to social objectives. It does not describe the specific analytical framework or any empirical testing.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "When project owners cannot commit to social objectives, impact investors hold financial claims that counterbalance owners' tendencies to overemphasize profits.",
+      "Impact investors' ownership stakes are higher when the value of social output is higher.",
+      "Pure nonprofit status may be optimal for the highest-valued social projects.",
+      "The authors provide guidance about the design of contingent social contracts, such as social impact bonds and social impact guarantees."
+    ],
+    "whyItMatters": "The paper gives guidance to those designing blended financing for social projects, including how investors' stakes should vary with social value and how contingent contracts such as social impact bonds and social impact guarantees might be structured. The abstract frames these as conditions under which impact investment may improve social outcomes, not as guaranteed results.",
+    "topics": [
+      "impact investing",
+      "social impact bonds",
+      "blended finance",
+      "social enterprise",
+      "contingent contracts",
+      "nonprofit status",
+      "mission drift",
+      "social venture financing"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2187600322",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2014,
+      "url": "https://doi.org/10.2139/ssrn.2437238"
+    }
+  ]
+}

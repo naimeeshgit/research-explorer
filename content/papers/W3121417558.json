@@ -1,0 +1,72 @@
+{
+  "id": "W3121417558",
+  "title": "The Impact of Size and Occupancy of Hospital on the Extent of Ambulance Diversion: Theory and Evidence",
+  "year": 2013,
+  "date": "2013-06-01",
+  "type": "article",
+  "venue": "Operations Research",
+  "doi": "10.1287/opre.2013.1176",
+  "url": "https://doi.org/10.1287/opre.2013.1176",
+  "pdf": null,
+  "citations": 92,
+  "authors": [
+    {
+      "name": "Gad Allon"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Wuqin Lin"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "In recent years, growth in the demand for emergency medical services, along with decline in the number of hospitals with emergency departments (EDs), has raised concerns about the ability of the EDs to provide adequate service. Many EDs frequently report periods of overcrowding during which they are forced to divert incoming ambulances to neighboring hospitals, a phenomenon known as “ambulance diversion.” The objective of this paper is to study the impact of key operational characteristics of the hospitals such as the number of ED beds, the number of inpatient beds, and the utilization of inpatient beds on the extent to which hospitals go on ambulance diversion. We propose a simple queueing network model to describe the patient flow between the ED and the inpatient department. We analyze this network using two different approximations—diffusion and fluid—to derive two separate sets of measures for inpatient occupancy and ED size. We use these sets of measures to form hypotheses and test them by estimating a sample selection model using data on a cross section of hospitals from California. We find that the measures derived from the diffusion approximation provide better explanation of the data than those derived from the fluid approximation. For this model, we find that the fraction of time that the ED spends on diversion is decreasing in the spare capacity of the inpatient department and in the size of the ED, where both are appropriately normalized for the size of the inpatient department. In addition, controlling for these hospital-specific factors, we find that the fraction of time on diversion at a hospital increases with the number of hospitals in its neighborhood. We also find that certain hospitals, owing to their location, ownership, and trauma center status, are more likely to choose ambulance diversion to mitigate overcrowding than others.",
+  "summary": {
+    "oneLiner": "This paper examines how hospital capacity and inpatient occupancy influence ambulance diversion rates, finding that larger EDs and higher spare inpatient capacity reduce diversion.",
+    "overview": "Emergency departments often experience overcrowding that leads to ambulance diversion, where incoming patients are sent to other facilities. This paper uses a mathematical model to understand how the number of beds and inpatient usage affect these diversion rates. The authors test their model using data from California hospitals. They find that hospitals with more emergency department beds and more available inpatient capacity spend less time on diversion.",
+    "question": "How do operational characteristics such as ED beds, inpatient beds, and inpatient utilization impact the frequency of ambulance diversion?",
+    "method": "The authors propose a queueing network model analyzed via diffusion and fluid approximations, and test their hypotheses using a sample selection model.",
+    "data": "A cross-section of hospitals from California.",
+    "findings": [
+      "Measures derived from the diffusion approximation provide a better explanation of the data than those derived from the fluid approximation.",
+      "The fraction of time an ED spends on diversion is decreasing in the spare capacity of the inpatient department and the size of the ED, when normalized for inpatient department size.",
+      "Controlling for hospital-specific factors, the fraction of time on diversion increases with the number of hospitals in the immediate neighborhood.",
+      "Certain hospitals are more likely to use ambulance diversion to manage overcrowding based on factors like their location, ownership, and trauma center status."
+    ],
+    "whyItMatters": "The findings help hospital administrators and policymakers understand how structural capacity and operational efficiency influence critical emergency services, potentially informing resource allocation to reduce ambulance diversion.",
+    "topics": [
+      "ambulance diversion",
+      "emergency department management",
+      "hospital operations",
+      "queueing theory",
+      "healthcare capacity planning",
+      "patient flow"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "USA"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2144959826",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2009,
+      "url": "https://doi.org/10.2139/ssrn.1516843"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "W7171113166",
+  "title": "Why efficient systems fail spectacularly: A unified theory of systemic risk",
+  "year": 2026,
+  "date": "2026-07-25",
+  "type": "article",
+  "venue": "Economics Letters",
+  "doi": "10.1016/j.econlet.2026.112984",
+  "url": "https://doi.org/10.1016/j.econlet.2026.112984",
+  "pdf": "https://doi.org/10.2139/ssrn.7055479",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W7170714252",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2026,
+      "url": "https://doi.org/10.2139/ssrn.7055479"
+    }
+  ]
+}

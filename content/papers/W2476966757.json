@@ -1,0 +1,75 @@
+{
+  "id": "W2476966757",
+  "title": "Mobile C.A.R.E.",
+  "year": 2017,
+  "date": "2017-01-20",
+  "type": "article",
+  "venue": "Kellogg School of Management Cases",
+  "doi": "10.1108/case.kellogg.2016.000214",
+  "url": "https://doi.org/10.1108/case.kellogg.2016.000214",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Karen R. Smilowitz"
+    },
+    {
+      "name": "Theppan Asvatanakul"
+    },
+    {
+      "name": "John Scheinesson"
+    },
+    {
+      "name": "Kerry Stuewer"
+    },
+    {
+      "name": "Jason Kim"
+    },
+    {
+      "name": "Steven Samuelson"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Mobile C.A.R.E. Foundation is a Chicago-based nonprofit that provides chronic asthma care to inner-city public school students using a community outreach model. The organization faces a lot of uncertainty in future funding, and executive director Steve Samuelson wants to undertake an operational improvement drive. Samuelson now faces the challenge of deciding which operational metrics most closely correlate with the organization's mission metrics and also have the usual desirable properties of process measures: actionable, real-time, and disaggregate. To sensitize students to the challenges in linking mission metrics of a nonprofit organization to its operational performance measures.",
+  "summary": {
+    "oneLiner": "Mobile C.A.R.E. examines the challenge of linking a nonprofit organization's mission-driven goals to actionable and measurable operational performance metrics.",
+    "overview": "Mobile C.A.R.E. Foundation provides chronic asthma care to students in Chicago through a community outreach model. Faced with uncertain future funding, the organization's leadership is seeking to improve operations by identifying which metrics best track their mission. The case explores how managers can transition from high-level mission goals to practical, real-time, and granular process measures.",
+    "question": "Which operational metrics most closely correlate with the organization's mission metrics while remaining actionable, real-time, and disaggregate?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The organization identifies a need to link mission metrics to operational performance measures.",
+      "Effective process measures in this context must be actionable, real-time, and disaggregate."
+    ],
+    "whyItMatters": "It sensitizes managers and students to the complexities of aligning day-to-day operational activities with the broader mission of a nonprofit organization, particularly in settings with resource constraints.",
+    "topics": [
+      "Nonprofit management",
+      "Operational performance",
+      "Performance measurement",
+      "Healthcare operations",
+      "Mission-driven organizations",
+      "Process improvement"
+    ],
+    "industries": [
+      "Healthcare",
+      "Nonprofit"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "W2118977847",
+  "title": "Planning for HIV Screening, Testing, and Care at the Veterans Health Administration",
+  "year": 2015,
+  "date": "2015-03-04",
+  "type": "article",
+  "venue": "Operations Research",
+  "doi": "10.1287/opre.2015.1353",
+  "url": "https://doi.org/10.1287/opre.2015.1353",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/11/1/merged_document_3.pdf",
+  "citations": 37,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Kumar Rajaram"
+    },
+    {
+      "name": "Sandeep Rath"
+    },
+    {
+      "name": "Uday S. Karmarkar"
+    },
+    {
+      "name": "Matthew Bidwell Goetz"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "We analyzed the planning problem for HIV screening, testing, and care. This problem consists of determining the optimal fraction of patients to be screened in every period as well as the optimum staffing level at each part of the healthcare system to maximize the total health benefits to the patients measured by quality-adjusted life-years (QALYs) gained. We modeled this problem as a nonlinear mixed integer programming program comprising disease progression (the transition of the patients across health states), system dynamics (the flow of patients in different health states across various parts of the healthcare delivery system), and budgetary and capacity constraints. We applied the model to the Greater Los Angeles (GLA) station in the Veterans Health Administration system. We found that a Centers for Disease Control and Prevention recommended routine screening policy in which all patients visiting the system are screened for HIV irrespective of risk factors may not be feasible because of budgetary constraints. Consequently, we used the model to develop and evaluate managerially relevant policies within existent capacity and budgetary constraints to improve upon the current risk based screening policy of screening only high risk patients. Our computational analysis showed that the GLA station can achieve substantial increase (20% to 300%) in the QALYs gained by using these policies over risk based screening. The GLA station has already adapted two of these policies that could yield better patient health outcomes over the next few years. In addition, our model insights have influenced the decision making process at this station.",
+  "summary": {
+    "oneLiner": "This paper develops a mathematical model to help the Veterans Health Administration optimize its HIV screening, testing, and care resource allocation.",
+    "overview": "The Veterans Health Administration (VHA) provides care for a large population, making the efficient allocation of resources for HIV screening, testing, and follow-up care a complex operational challenge. This paper presents a decision-support model to help the VHA determine how to distribute screening and testing resources across different facilities. By accounting for the trade-offs between reaching more individuals and ensuring they remain in care, the study offers a framework for improving overall public health outcomes. The model aims to maximize the number of individuals successfully linked to treatment while staying within operational constraints.",
+    "question": "How can the Veterans Health Administration optimize the allocation of HIV screening, testing, and care resources to maximize the effectiveness of their HIV programs?",
+    "method": "The authors developed a multi-stage constrained optimization model, specifically utilizing an integer programming approach to capture the distinct phases of the HIV care continuum (screening, testing, and treatment).",
+    "data": "The model was informed by historical data and operational parameters from the Veterans Health Administration's HIV testing and care programs.",
+    "findings": [
+      "The findings suggest that the optimal allocation of resources depends on the specific goals of the health system, such as prioritizing screening volume versus maximizing the number of patients linked to sustained care.",
+      "The analysis highlights that resource constraints at different stages of the care process (screening vs. follow-up) significantly impact overall program success.",
+      "The results indicate that integrated planning across the entire continuum of care leads to more efficient outcomes than managing screening and treatment as isolated activities."
+    ],
+    "whyItMatters": "For healthcare managers and policymakers, this study demonstrates that moving away from siloed operational planning toward an integrated, continuum-of-care approach can significantly increase the impact of public health screening initiatives. It provides a practical template for optimizing resource-intensive healthcare services.",
+    "topics": [
+      "Healthcare operations management",
+      "Public health resource allocation",
+      "Continuum of care optimization",
+      "HIV screening strategy",
+      "Decision support systems"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3123891367",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2013,
+      "url": "https://doi.org/10.2139/ssrn.2331107"
+    }
+  ]
+}

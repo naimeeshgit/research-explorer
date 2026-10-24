@@ -1,0 +1,73 @@
+{
+  "id": "W3121920134",
+  "title": "What's in a vote? The short- and long-run impact of dual-class equity on IPO firm values",
+  "year": 2007,
+  "date": "2007-07-23",
+  "type": "article",
+  "venue": "Journal of Accounting and Economics",
+  "doi": "10.1016/j.jacceco.2007.07.002",
+  "url": "https://doi.org/10.1016/j.jacceco.2007.07.002",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/118/1/23.2.pdf",
+  "citations": 126,
+  "authors": [
+    {
+      "name": "Scott Smart"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    },
+    {
+      "name": "Chad J. Zutter"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Dual-class IPO firms face a persistent valuation discount because their voting structures insulate management, making them harder to replace than single-class firm managers.",
+    "overview": "Dual-class firms, where one class of shares holds superior voting rights for insiders, consistently trade at lower prices relative to their fundamentals than single-class companies. This valuation discount is not caused by poor operating performance or stock market pricing errors, but rather appears to be a rational market response to the governance risks involved. The study finds that dual-class managers are harder to replace through internal mechanisms, and firms that eventually unify their share classes see a significant increase in value. Essentially, investors discount these stocks because the governance structure entrenches insiders at the expense of shareholder control.",
+    "question": "Does the dual-class share structure at IPOs influence firm valuation and governance, and how does the market price these firms over time?",
+    "method": "The study uses regression analysis on financial ratios, event study methodology around CEO turnover and share unification dates, and Fama-French three-factor model regressions to evaluate long-term abnormal returns.",
+    "data": "A sample of 2,622 initial public offerings (IPOs), including 253 dual-class issues, sourced from the Disclosure New Issues database for the period 1990 through 1998.",
+    "findings": [
+      "Dual-class firms trade at a significant valuation discount relative to fundamentals (earnings and replacement cost) compared to single-class firms, which persists for at least five years post-IPO.",
+      "The valuation discount does not reflect abnormally low stock returns or poor operating performance, suggesting the market pricing of dual-class IPOs is efficient.",
+      "CEO turnover occurs less frequently in dual-class firms than in single-class firms.",
+      "Internal disciplinary mechanisms for CEO turnover appear more effective in single-class firms, while dual-class firms rely more on the external market for corporate control to displace underperforming management.",
+      "Firms that unify their dual-class share structures experience positive abnormal returns of 5 to 6 percent, which suggests value gains upon eliminating the dual-class structure."
+    ],
+    "whyItMatters": "The findings provide empirical support for the view that investors penalize firms with governance structures that insulate management. For managers and investors, this highlights that dual-class equity acts as a form of entrenchment that can depress firm value, and that moving toward a one-share, one-vote structure can create significant value for shareholders.",
+    "topics": [
+      "dual-class equity",
+      "IPO firm value",
+      "corporate governance",
+      "shareholder rights",
+      "managerial entrenchment",
+      "CEO turnover",
+      "valuation discounts",
+      "one-share one-vote"
+    ],
+    "industries": [],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2029081954",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2005,
+      "url": "https://doi.org/10.2139/ssrn.784722"
+    }
+  ]
+}

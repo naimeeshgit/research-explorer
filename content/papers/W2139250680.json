@@ -1,0 +1,70 @@
+{
+  "id": "W2139250680",
+  "title": "Consumption Externality and Yield Uncertainty in the Influenza Vaccine Supply Chain: Interventions in Demand and Supply Sides",
+  "year": 2012,
+  "date": "2012-02-29",
+  "type": "article",
+  "venue": "Management Science",
+  "doi": "10.1287/mnsc.1110.1469",
+  "url": "https://doi.org/10.1287/mnsc.1110.1469",
+  "pdf": null,
+  "citations": 145,
+  "authors": [
+    {
+      "name": "Kenan Arifoğlu"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Seyed M. R. Iravani"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "We study the impact of yield uncertainty (supply side) and self-interested consumers (demand side) on the inefficiency in the influenza vaccine supply chain. Previous economic studies, focusing on demand side, find that the equilibrium demand is always less than the socially optimal demand because self-interested individuals do not internalize the social benefit of protecting others via reduced infectiousness (positive externality). In contrast, we show that the equilibrium demand can be greater than the socially optimal demand after accounting for the limited supply due to yield uncertainty and manufacturer's incentives. The main driver for this result is a second (negative) externality: Self-interested individuals ignore that vaccinating people with high infection costs is more beneficial for the society when supply is limited. We show that the extent of the negative externality can be reduced through more efficient and less uncertain allocation mechanisms. To investigate the relative effectiveness of government interventions on supply and demand sides under various demand and supply characteristics, we construct two partially centralized scenarios where the social planner (i.e., government) intervenes either on the demand side or the supply side, but not both. We conduct an extensive numerical analysis. This paper was accepted by Yossi Aviv, operations management.",
+  "summary": {
+    "oneLiner": "When influenza vaccine supply is limited by production uncertainty, private demand can exceed the socially optimal level, creating a negative externality.",
+    "overview": "In the context of the flu vaccine, individuals often ignore the positive social benefit of preventing the spread of disease, leading to under-vaccination. However, this study finds that when vaccine supply is uncertain and limited, the opposite problem can occur: equilibrium demand may exceed what is socially optimal. This happens because individuals do not consider that it is more beneficial for society to prioritize vaccinating those at the highest risk when supply is scarce. The authors suggest that government interventions on the supply or demand side can help manage these inefficiencies.",
+    "question": "How do yield uncertainty and self-interested consumer behavior impact the efficiency of the influenza vaccine supply chain, and what is the effectiveness of government interventions?",
+    "method": "Numerical analysis of two partially centralized scenarios.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Equilibrium demand can be greater than socially optimal demand when vaccine supply is limited by yield uncertainty.",
+      "A negative externality exists because individuals ignore the social value of prioritizing vaccine access for those with high infection costs.",
+      "Efficient and less uncertain allocation mechanisms can reduce the extent of the negative externality."
+    ],
+    "whyItMatters": "Policymakers and managers should recognize that supply constraints can fundamentally change the nature of market inefficiencies in vaccine distribution, requiring distinct intervention strategies for demand and supply.",
+    "topics": [
+      "vaccine supply chain",
+      "healthcare operations",
+      "positive externalities",
+      "yield uncertainty",
+      "social welfare",
+      "government intervention"
+    ],
+    "industries": [
+      "healthcare",
+      "pharmaceuticals"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3121598902",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2010,
+      "url": "https://doi.org/10.2139/ssrn.1619406"
+    }
+  ]
+}

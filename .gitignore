@@ -1,0 +1,20 @@
+# Node / Next
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+
+# Python pipeline (local only)
+.venv/
+__pycache__/
+.env
+python/data/explorer.db*
+python/data/cache/
+python/data/pdfs/*.pdf
+python/data/manual_pdfs/*.pdf
+python/data/index/*
+!python/data/**/.gitkeep
+
+.DS_Store

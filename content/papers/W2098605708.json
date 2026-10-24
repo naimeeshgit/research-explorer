@@ -1,0 +1,66 @@
+{
+  "id": "W2098605708",
+  "title": "Outsourcing Contracts and Equity Prices",
+  "year": 2013,
+  "date": "2013-05-18",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.2013.0478",
+  "url": "https://doi.org/10.1287/isre.2013.0478",
+  "pdf": null,
+  "citations": 41,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Andrew B. Whinston"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "We investigate the impact of outsourcing on the long-term market performance of the firm. Outsourcing initiatives vary in terms of uncertainty in business requirements, complexity of coordination between the outsourcing firm and provider, and the consequent choice of the governing contract (fixed or variable price). Using theories from institutional economics, strategy, and information systems, we argue that firms pursuing large-scale, fixed price outsourcing, which are characterized by lower business uncertainty and simpler coordination requirements, will realize higher market returns relative to similar firms in the same industry who did not outsource. In contrast, variable price contracts that proxy for higher business uncertainty and coordination complexity may have a higher risk of failure and loss of shareholder value; however, prior outsourcing experience and prior association with the vendor may reduce uncertainty in the outsourcing relationship to help the outsourcing firm better manage challenges associated with complex, variable price engagements. We posit that financial markets are either not privy to or unlikely to accurately interpret such intangible information on the antecedents of outsourcing success during the announcement period. The delay in incorporation of this information in market prices results in positive long-term abnormal returns to fixed price contracts. Variable price contracts characterized by prior association between participant firms and greater outsourcing experience also realize positive long-term abnormal returns. Data on the hundred largest outsourcing initiatives implemented between 1996 and 2005 strongly support our hypotheses. The results imply that firms who retain simple functions and tasks in-house as well as those who outsource complex functions without pertinent experience or association with the vendor experience significant loss of shareholder value.",
+  "summary": {
+    "oneLiner": "Large fixed-price outsourcing deals earn positive long-term stock returns, while complex variable-price deals without prior experience or vendor ties lose shareholder value.",
+    "overview": "The paper asks whether outsourcing helps a firm's stock market performance over the long run. The authors argue that outsourcing deals differ in how uncertain the business requirements are and how hard coordination with the provider is, and that this shapes the contract type: fixed price or variable price. They suggest that markets do not fully grasp the intangible factors behind outsourcing success when a deal is announced, so the effect shows up slowly in share prices. Their data on the hundred largest outsourcing initiatives from 1996 to 2005 strongly support their hypotheses. The implication is that firms keeping simple tasks in-house, or outsourcing complex functions without relevant experience or a prior vendor relationship, may lose shareholder value.",
+    "question": "How does outsourcing affect the long-term market performance of the firm, and how do contract type (fixed or variable price) and prior experience or vendor association shape that effect?",
+    "method": "Abstract describes the authors applying theories from institutional economics, strategy and information systems to build hypotheses, which they test on outsourcing initiatives compared with similar firms in the same industry that did not outsource. The abstract does not name the specific statistical technique. Long-term abnormal returns (stock returns above what would be expected) are the outcome measure.",
+    "data": "Data on the hundred largest outsourcing initiatives implemented between 1996 and 2005. Comparison firms are similar firms in the same industry that did not outsource. Full sample details are not stated in the available text.",
+    "findings": [
+      "Firms pursuing large-scale, fixed price outsourcing are expected to earn higher market returns than similar non-outsourcing firms in the same industry.",
+      "Variable price contracts, which proxy for higher business uncertainty and coordination complexity, may carry a higher risk of failure and loss of shareholder value.",
+      "Prior outsourcing experience and prior association with the vendor may reduce uncertainty and help manage complex variable price engagements.",
+      "The authors posit that markets do not fully interpret intangible information about outsourcing success at announcement, so the delay in price adjustment yields positive long-term abnormal returns for fixed price contracts.",
+      "Variable price contracts with prior firm-vendor association and greater outsourcing experience also realize positive long-term abnormal returns.",
+      "Firms retaining simple functions in-house, and those outsourcing complex functions without pertinent experience or vendor association, may experience significant loss of shareholder value."
+    ],
+    "whyItMatters": "The paper implies that managers should match contract type to the uncertainty and coordination demands of the outsourcing work, and should weigh prior experience and vendor relationships. For investors, it suggests that outsourcing announcements may be under-priced at the time and that the effect on value appears over the long run.",
+    "topics": [
+      "outsourcing",
+      "IT outsourcing",
+      "contract choice",
+      "fixed price contracts",
+      "variable price contracts",
+      "long-term abnormal returns",
+      "shareholder value",
+      "vendor relationships",
+      "transaction cost economics",
+      "market efficiency"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

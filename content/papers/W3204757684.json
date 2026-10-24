@@ -1,0 +1,27 @@
+{
+  "id": "W3204757684",
+  "title": "A Layman’s Guide to Bitcoin and Blockchain",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "book-chapter",
+  "venue": "The Palgrave Handbook of Technological Finance",
+  "doi": "10.1007/978-3-030-65117-6_3",
+  "url": "https://doi.org/10.1007/978-3-030-65117-6_3",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Seoyoung Kim"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

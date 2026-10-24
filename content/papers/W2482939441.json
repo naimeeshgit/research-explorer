@@ -1,0 +1,60 @@
+{
+  "id": "W2482939441",
+  "title": "Financial versus operational hedging",
+  "year": 2004,
+  "date": "2004-05-19",
+  "type": "book-chapter",
+  "venue": "International finance review",
+  "doi": "10.1016/s1569-3767(02)03009-1",
+  "url": "https://doi.org/10.1016/s1569-3767(02)03009-1",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Multinational firms will engage in operational hedging only when both exchange rate uncertainty and demand uncertainty are present. Operational hedging is less important for managing short-term exposures, since demand uncertainty is lower in the short term. Operational hedging is also less important for commodity-based firms, which face price but not quantity uncertainty. For firms with plants in both a domestic and foreign location, the foreign currency cash flow generally will not be independent of the exchange rate. Consequently the optimal financial hedging policy cannot be implemented with forward contracts alone but can be implemented using foreign currency call and put options, and forward contracts.",
+  "summary": {
+    "oneLiner": "Multinationals use operational hedging only when both exchange rate and demand uncertainty exist, and optimal financial hedging may need options alongside forwards.",
+    "overview": "The paper asks when multinational firms should protect themselves against currency swings by changing where they produce (operational hedging) rather than by using financial contracts. According to the abstract, operational hedging matters only when both exchange rate uncertainty and demand uncertainty are present, so it is less important for short-term exposures and for commodity firms that face price but not quantity risk. For firms with plants at home and abroad, foreign currency cash flows generally depend on the exchange rate, so the best financial hedge cannot be built from forward contracts (agreements to exchange currency at a fixed future rate) alone. The author suggests that currency call and put options (rights to buy or sell currency at a set rate) together with forwards can implement it.",
+    "question": "When do multinational firms engage in operational hedging, and how can optimal financial hedging be implemented?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Multinational firms will engage in operational hedging only when both exchange rate uncertainty and demand uncertainty are present.",
+      "Operational hedging is less important for managing short-term exposures, since demand uncertainty is lower in the short term.",
+      "Operational hedging is less important for commodity-based firms, which face price but not quantity uncertainty.",
+      "For firms with plants in both a domestic and foreign location, the foreign currency cash flow generally will not be independent of the exchange rate.",
+      "The optimal financial hedging policy cannot be implemented with forward contracts alone but can be implemented using foreign currency call and put options, and forward contracts."
+    ],
+    "whyItMatters": "The abstract implies that firms should judge whether operational hedging is worth pursuing based on whether both currency and demand risk are present, and that choosing hedging instruments requires attention to how cash flows depend on the exchange rate. It also suggests that options may be needed alongside forwards for an optimal financial hedge.",
+    "topics": [
+      "operational hedging",
+      "financial hedging",
+      "exchange rate risk",
+      "demand uncertainty",
+      "currency options",
+      "forward contracts",
+      "multinational firms",
+      "commodity firms"
+    ],
+    "industries": [
+      "Multinational firms",
+      "Commodity-based firms"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

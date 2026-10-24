@@ -1,0 +1,45 @@
+{
+  "id": "W4402223658",
+  "title": "How Does the Rescue of Weak Banks Through Mergers Impact Loan Performance? Evidence from India",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.4946640",
+  "url": "http://dx.doi.org/10.2139/ssrn.4946640",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Nishant Kashyap"
+    },
+    {
+      "name": "Sriniwas Mahapatro"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W4385559810",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2023,
+      "url": "https://doi.org/10.2139/ssrn.4530156"
+    },
+    {
+      "id": "W4289535456",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.2139/ssrn.4160936"
+    }
+  ]
+}

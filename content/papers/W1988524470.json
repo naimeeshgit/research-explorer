@@ -1,0 +1,55 @@
+{
+  "id": "W1988524470",
+  "title": "What is Different about International Lending?",
+  "year": 1991,
+  "date": "1991-01-01",
+  "type": "article",
+  "venue": "Review of Financial Studies",
+  "doi": "10.1093/rfs/4.1.121",
+  "url": "https://doi.org/10.1093/rfs/4.1.121",
+  "pdf": null,
+  "citations": 68,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "An attempt is made to explain how enforceability is achieved in international debt contracts. Each bank announces the policy of denying credit to borrowers who default and chooses to adhere to it to maintain its reputation of being a tough bank to discipline its other borrowers. Loans are made by syndicates of banks in order to make the penalty for default severe enough so borrowers would choose not to default voluntarily. The model predicts that the interest rate charged on loans is smaller for the larger borrowers. Also, for any given borrower, the interest rate may fall after each successive default.",
+  "summary": {
+    "oneLiner": "A model explaining how international bank loans are enforced: banks refuse credit to defaulters to protect reputation, and syndicates make default penalties severe.",
+    "overview": "International loans are hard to enforce because a lender cannot easily force a foreign borrower to repay. The paper argues that each bank publicly commits to cutting off credit to any borrower that defaults, and sticks to that policy to keep its reputation as a tough lender that disciplines its other borrowers. Loans are made by syndicates, groups of banks lending together, so the penalty for default is severe enough that borrowers choose not to default voluntarily. The model predicts that larger borrowers pay lower interest rates, and that a given borrower's rate may fall after each successive default.",
+    "question": "How is enforceability achieved in international debt contracts, given that lenders have limited ability to compel repayment?",
+    "method": "A theoretical model. The abstract describes the model's predictions but does not describe any empirical testing.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Each bank announces a policy of denying credit to borrowers who default and chooses to adhere to it to maintain its reputation of being a tough bank.",
+      "Loans made by syndicates of banks make the penalty for default severe enough that borrowers would choose not to default voluntarily.",
+      "The model predicts that the interest rate charged on loans is smaller for larger borrowers.",
+      "The model predicts that, for any given borrower, the interest rate may fall after each successive default."
+    ],
+    "whyItMatters": "The paper offers an explanation of how lenders can make international debt enforceable without legal enforcement, relying on reputation and syndicated lending. Its predictions on borrower size and repeated defaults concern how loan pricing may behave. The abstract does not state specific implications for managers, policymakers or investors.",
+    "topics": [
+      "international lending",
+      "sovereign debt",
+      "loan syndicates",
+      "reputation and default",
+      "enforceability of debt contracts",
+      "interest rates",
+      "bank lending"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

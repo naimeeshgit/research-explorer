@@ -1,0 +1,85 @@
+{
+  "id": "W4377088045",
+  "title": "Outcomes of a hypertension care program based on task-sharing with private pharmacies: a retrospective study from two blocks in rural India",
+  "year": 2023,
+  "date": "2023-05-19",
+  "type": "article",
+  "venue": "Journal of Human Hypertension",
+  "doi": "10.1038/s41371-023-00837-7",
+  "url": "http://dx.doi.org/10.1038/s41371-023-00837-7",
+  "pdf": "https://www.nature.com/articles/s41371-023-00837-7.pdf",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Hemanshu Das"
+    },
+    {
+      "name": "Ashish Sachdeva"
+    },
+    {
+      "name": "Harish Kumar"
+    },
+    {
+      "name": "Ashish Krishna"
+    },
+    {
+      "name": "Andrew Edward Moran"
+    },
+    {
+      "name": "Anupam Khungar Pathni"
+    },
+    {
+      "name": "Bhawna Sharma"
+    },
+    {
+      "name": "Bhanu Pratap Singh"
+    },
+    {
+      "name": "Manish Ranjan"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Low density of formal care providers in rural India results in restricted and delayed access to standardized management of hypertension. Task-sharing with pharmacies, typically the first point of contact for rural populations, can bridge the gap in access to formal care and improve health outcomes. In this study, we implemented a hypertension care program involving task-sharing with twenty private pharmacies between November 2020 and April 2021 in two blocks of Bihar, India. Pharmacists conducted free hypertension screening, and a trained physician offered free consultations at the pharmacy. We calculated the number of subjects screened, initiated on treatment (enrolled) and the change in blood pressure using the data collected through the program application. Of the 3403 subjects screened at pharmacies, 1415 either reported having a history of hypertension or had elevated blood pressure during screening. Of these, 371 (26.22%) were enrolled in the program. Of these, 129 (34.8%) made at least one follow-up visit. For these subjects, the adjusted average difference in systolic and diastolic blood pressure between the screening and follow-up visits was -11.53 (-16.95 to -6.11, 95% CI) and -4.68 (-8.53 to -0.82, 95% CI) mmHg, respectively. The adjusted odds of blood pressure being under control in this group during follow-up visits compared to screening visit was 7.07 (1.29 to 12.85, 95% CI). Task-sharing with private pharmacies can lead to early detection and improved control of blood pressure in a resource-constrained setting. Additional strategies to increase patient screening and retention rates are needed to ensure sustained health benefits.",
+  "summary": {
+    "oneLiner": "Training rural pharmacists to screen and monitor blood pressure, paired with physician consultations, improves hypertension management and control in rural India.",
+    "overview": "In rural India, a shortage of formal doctors leaves many hypertension patients untreated. This study tested a 'task-sharing' model where private pharmacies performed free blood pressure screenings and facilitated monthly consultations with a physician. The program helped patients achieve significant reductions in blood pressure and improved overall control. However, the study also highlights that maintaining patient follow-up remains a significant challenge for long-term health success.",
+    "question": "Does a hypertension care program that utilizes task-sharing with private pharmacies improve blood pressure control in resource-constrained rural Indian settings?",
+    "method": "A retrospective cohort study evaluating a hypertension care program where pharmacists conducted screenings and coordinated physician consultations over five months. The researchers used linear and logistic regression models to analyze changes in blood pressure and the likelihood of achieving blood pressure control, clustering standard errors at the pharmacy level.",
+    "data": "A sample of 3,403 individuals screened at 20 private pharmacies across two blocks in the Bhojpur district of Bihar, India, between November 2020 and April 2021.",
+    "findings": [
+      "Among enrolled patients who attended follow-up visits, the program is associated with an average reduction of 11.53 mmHg in systolic blood pressure and 4.68 mmHg in diastolic blood pressure.",
+      "The adjusted odds of blood pressure being under control during follow-up visits compared to the initial screening visit was 7.07.",
+      "The program reached 3,403 individuals, but patient retention was a challenge, as only 35% of the 371 enrolled hypertensive subjects attended at least one follow-up visit."
+    ],
+    "whyItMatters": "The findings suggest that collaborating with the private sector through task-sharing can bridge gaps in healthcare delivery in areas with limited public infrastructure. For managers and policymakers, the study emphasizes that while such models are feasible, future success depends on designing better incentives to improve patient retention and ensure pharmacists remain engaged.",
+    "topics": [
+      "hypertension management",
+      "task-sharing",
+      "rural healthcare",
+      "pharmacy-based care",
+      "public-private partnership",
+      "healthcare delivery models"
+    ],
+    "industries": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

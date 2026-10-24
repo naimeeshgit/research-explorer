@@ -1,0 +1,41 @@
+{
+  "id": "W4315488263",
+  "title": "Machine learning approaches to understand IT outsourcing portfolios",
+  "year": 2023,
+  "date": "2023-01-10",
+  "type": "article",
+  "venue": "Electronic Commerce Research",
+  "doi": "10.1007/s10660-022-09663-4",
+  "url": "https://doi.org/10.1007/s10660-022-09663-4",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    {
+      "name": "Yingda Lu"
+    },
+    {
+      "name": "Anjana Susarla"
+    },
+    {
+      "name": "Kiron Ravindran"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W4313637291",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.2139/ssrn.4316683"
+    }
+  ]
+}

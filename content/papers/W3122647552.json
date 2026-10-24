@@ -1,0 +1,73 @@
+{
+  "id": "W3122647552",
+  "title": "Government Employment Guarantee, Labor Supply, and Firms’ Reaction: Evidence from the Largest Public Workfare Program in the World",
+  "year": 2020,
+  "date": "2020-04-08",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "10.1017/s0022109020000186",
+  "url": "https://doi.org/10.1017/s0022109020000186",
+  "pdf": null,
+  "citations": 18,
+  "authors": [
+    {
+      "name": "Sumit D. Agarwal"
+    },
+    {
+      "name": "Shashwat Alok"
+    },
+    {
+      "name": "Yakshup Chopra"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "Abstract Using establishment-level data, we examine the impact of the Indian government’s employment guarantee program on labor and firm behavior. We exploit the staggered implementation of the program for identification and find that the program led to a 10% reduction in the permanent workforce in firms. Firms responded to the adverse labor-supply shock by resorting to increased mechanization. This significantly increased the firms’ cost of production, leading to a decline in net profits and productivity. These effects manifested primarily in firms paying low wages, firms having low labor productivity and greater sales volatility, and firms located in states with pro-employer labor regulations.",
+  "summary": {
+    "oneLiner": "India's government employment guarantee program reduces firm workforce sizes, forcing companies to mechanize at the cost of lower productivity and reduced net profits.",
+    "overview": "This study examines how India's public workfare program affects private firms. The authors find that as the government guarantee pulls labor away from the private sector, firms experience a shrinking workforce. To compensate, firms invest more in machinery, which increases their production costs and reduces overall profitability. These effects are particularly strong in low-wage firms and those operating in regions with pro-employer labor laws.",
+    "question": "How does a government-mandated employment guarantee program influence the labor supply, workforce size, and operational performance of private firms?",
+    "method": "A study using staggered implementation of the policy as a natural experiment to identify causal effects.",
+    "data": "Establishment-level data from India.",
+    "findings": [
+      "The program is associated with a 10% reduction in the permanent workforce within private firms.",
+      "Firms responded to the reduction in labor supply by increasing mechanization.",
+      "Increased mechanization led to higher production costs, resulting in a decline in net profits and firm productivity.",
+      "The negative effects were most pronounced among low-wage firms, firms with low labor productivity, firms with high sales volatility, and those in states with pro-employer labor regulations."
+    ],
+    "whyItMatters": "The findings suggest that large-scale public employment programs can create unintended negative externalities for private sector productivity and firm financial health, particularly for firms that rely on low-cost labor.",
+    "topics": [
+      "labor supply",
+      "workfare programs",
+      "firm productivity",
+      "mechanization",
+      "labor regulations",
+      "public policy impact"
+    ],
+    "industries": [],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2572850988",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2016,
+      "url": "https://doi.org/10.2139/ssrn.2880629"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "W2271862994",
+  "title": "A Tree-Based Approach for Addressing Self-Selection in Impact Studies with Big Data",
+  "year": 2013,
+  "date": "2013-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.2276770",
+  "url": "https://doi.org/10.2139/ssrn.2276770",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/85/1/forest%20%282%20files%20merged%29%20%284%29.pdf",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Inbal Yahav"
+    },
+    {
+      "name": "Galit Shmueli"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Proposes a classification-and-regression-tree approach to correct for self-selection in impact studies with large observational datasets, illustrated with eGov passport services in India and outsourcing contracts.",
+    "overview": "Organizations and citizens often choose an intervention themselves, so simple comparisons of outcomes can be biased. The authors propose using decision trees, a data-driven method, to find the pre-intervention variables that drive these choices and then compare outcomes separately within each resulting group. They illustrate the approach with two studies: online versus offline Indian passport applications, where awareness of eGov services turned out to be the one unbalanced variable, and performance across outsourcing contract pricing types and durations. They also compare the tree approach against propensity score matching, which they say corrected little for self-selection in the passport study. The method is presented as transparent and easy to communicate, and as applicable to binary, multi-category and continuous interventions.",
+    "question": "How can impact of self-selected interventions be estimated from large observational datasets in a way that handles many variables, multiple intervention types and continuous interventions, compared with propensity score matching?",
+    "method": "The authors use classification and regression trees (conditional-inference trees) to model the selection of an intervention from pre-intervention variables. Each leaf node is treated as a bin with similar pre-intervention profiles, and performance is compared between intervention groups within each leaf using t-tests, regressions or non-parametric tests. Results are benchmarked against a naive comparison and against propensity score matching using logistic regression.",
+    "data": "Study 1: survey of users of Indian government electronic services in 2006, covering a sample of 9,500 users drawn from cities where 13 passport offices were located, comparing online and offline passport applicants. Study 2: over 1,400 outsourcing initiatives (final sample of 1,411 contracts, 374 vendors and 710 clients) implemented between 1996 and 2008, drawn from IDC's services contracts database and linked to Compustat, SDC Platinum and CRSP stock price data.",
+    "findings": [
+      "In the passport study, the tree found a single split on awareness of eGov initiatives, suggesting online and offline samples are otherwise balanced on the measured demographic, geographic and perception variables.",
+      "Those aware of eGov initiatives were more likely to choose the online system (probability 0.72) than those unaware (probability 0.11).",
+      "After conditioning on awareness, the direction of the online effect was identical across aware and unaware groups for all but one performance measure; for intermediary agent use, online users were 2% less likely to use an agent in the aware group and 9% more likely in the unaware group.",
+      "The naive analysis suggested the effect on intermediary agent use was statistically insignificant, which the authors describe as an important contrast to the tree-based result.",
+      "The authors report a Simpson's Paradox pattern for bribes paid to police: the aggregate data show a higher rate in the online group, but offline rates are higher within each awareness group.",
+      "Propensity score matching produced outcome estimates very close to the naive approach, suggesting little correction for self-selection, and the awareness effect was lost in that approach.",
+      "In the outsourcing study, the tree shows that relational trust and task complexity explain heterogeneity in contract pricing choice; the authors report differing performance by pricing type within leaf nodes, for example positive income efficiency gains for time and materials contracts in one node.",
+      "For contract duration, task variables and client prior experience explain heterogeneity in duration; the naive analysis showed no significant slope, while leaf-node analyses suggested markets reward long-term contracts in some nodes and that costs may outweigh benefits of long contracts for larger-scope IT engagements."
+    ],
+    "whyItMatters": "The authors argue the tree approach can identify unbalanced pre-intervention variables without requiring a theory-specified selection model, handles multiple and continuous interventions more naturally than logistic or probit propensity scores, and produces visuals that non-experts can understand. For managers and policymakers evaluating self-selected programs, this suggests that naive comparisons can mislead and that subgroup-specific effects may matter. The paper frames the method as an early empirical demonstration rather than a definitive replacement for existing approaches.",
+    "topics": [
+      "self-selection bias",
+      "impact assessment",
+      "classification and regression trees",
+      "propensity score matching",
+      "observational data",
+      "big data",
+      "eGovernance",
+      "IT outsourcing contracts",
+      "contract pricing",
+      "contract duration"
+    ],
+    "industries": [
+      "Government services (passport services)",
+      "Information technology outsourcing",
+      "Business process outsourcing"
+    ],
+    "geographies": [
+      "India",
+      "United States (contracts data sources, not explicitly stated as study setting)"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "W4220932328",
+  "title": "Relationship Banking and Monetary Policy Transmission: Evidence from India",
+  "year": 2022,
+  "date": "2022-01-26",
+  "type": "article",
+  "venue": "Journal of money credit and banking",
+  "doi": "10.1111/jmcb.12905",
+  "url": "https://doi.org/10.1111/jmcb.12905",
+  "pdf": null,
+  "citations": 12,
+  "authors": [
+    {
+      "name": "Abhishek Bhardwaj"
+    },
+    {
+      "name": "Krishnamurthy V. Subramanian"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "Abstract Though the monetary policy transmission and financial intermediation literature have highlighted the role of the “bank credit channel” and relationship banking, respectively, the effect of relationship banking on the transmission of monetary policy has not been investigated. In this paper, we study the impact of relationship banking on the transmission of monetary policy. Theoretically, relationship banking could ameliorate or exacerbate the effects of monetary policy shocks. Using unique and comprehensive data on bank–borrower relationships in India, we find that firms that enjoy an exclusive banking relationship are less susceptible to monetary policy shocks than firms that bank with multiple banks.",
+  "summary": {
+    "oneLiner": "Exclusive bank-borrower relationships in India help insulate firms from the effects of monetary policy shocks compared to firms with multiple banking partners.",
+    "overview": "This study examines how the nature of a firm's banking relationships influences its vulnerability to shifts in monetary policy. The authors explore whether having a single, exclusive bank versus multiple banking partners changes how a firm is affected when central banks change interest rates or liquidity conditions. The findings indicate that exclusive relationships act as a buffer, providing firms with greater stability during periods of monetary policy shifts.",
+    "question": "Does relationship banking, specifically the exclusivity of the bank-borrower relationship, affect the transmission of monetary policy to firms?",
+    "method": "An empirical analysis comparing firms with exclusive banking relationships to those with multiple banking relationships.",
+    "data": "Unique and comprehensive data on bank-borrower relationships in India.",
+    "findings": [
+      "Firms that maintain an exclusive banking relationship are found to be less susceptible to monetary policy shocks than firms that bank with multiple lenders."
+    ],
+    "whyItMatters": "Understanding how bank-firm structures influence the impact of central bank policies is critical for managers assessing financing risks and for policymakers evaluating how monetary policy ripples through the corporate sector.",
+    "topics": [
+      "Monetary Policy",
+      "Relationship Banking",
+      "Bank Credit Channel",
+      "Financial Intermediation",
+      "Corporate Finance",
+      "Bank-Borrower Relationships"
+    ],
+    "industries": [
+      "Banking",
+      "Corporate Finance"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2340872514",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2015,
+      "url": "https://doi.org/10.2139/ssrn.2691556"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "W7153052490",
+  "title": "Detecting Lies When Truth is Unobservable",
+  "year": 2026,
+  "date": "2026-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.6445461",
+  "url": "https://doi.org/10.2139/ssrn.6445461",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Konark Saxena"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

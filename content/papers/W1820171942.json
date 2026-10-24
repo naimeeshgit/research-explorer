@@ -1,0 +1,68 @@
+{
+  "id": "W1820171942",
+  "title": "An Empirical Analysis of the Impact of Information Capabilities Design on Business Process Outsourcing Performance1",
+  "year": 2010,
+  "date": "2010-03-01",
+  "type": "article",
+  "venue": "MIS Quarterly",
+  "doi": "10.2307/20721414",
+  "url": "https://doi.org/10.2307/20721414",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/1115/1/An%20Empirical%20Analysis%20of%20the%20Impact%20of%20Information%20Capabilities%20Design%20on%20Business%20Process%20Outsourcing%20Performance.pdf",
+  "citations": 253,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Andrew B. Whinston"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Organizations today outsource diverse business processes to achieve a wide variety of business objectives ranging from reduction of costs to innovation and business transformation. We build on the information processing view of the firm to theorize that performance heterogeneity across business process outsourcing (BPO) exchanges is a function of the design of information capabilities (IC) that fit the unique information requirements (IR) of the exchange. Further, we compare performance effects of the fit between IR and IC across dominant categories of BPO relationships to provide insights into the relative benefits of enacting such fit between the constructs. Empirical tests of our hypotheses using survey data on 127 active BPO relationships find a significant increase (decrease) in satisfaction as a result of the fit (misfit) between IR and IC of the relationship. The results have implications for how BPO relationships must be designed and managed to realize significant performance gains. The study also extends the IPV to identify IC that provide the incentives and means to process information in an interfirm relationship.",
+  "summary": {
+    "oneLiner": "Business process outsourcing relationships perform better when the coordination setup (governance, relational processes, technology) matches the information needs of the outsourced process.",
+    "overview": "Companies outsource many kinds of business processes, from payroll to customer analytics, and results vary widely. This study argues that performance depends on whether the way a company and its provider share information fits what the outsourced process needs. Drawing on the information processing view of the firm, the authors measure information requirements and information capabilities across 127 outsourcing relationships. They find that satisfaction is higher when capabilities fit requirements and lower when they do not, with underinvestment hurting more in complex, interdependent processes. The findings are associational survey results, not proof of cause.",
+    "question": "Does the fit between the information requirements of an outsourced business process and the information capabilities designed into the outsourcing relationship affect user-firm satisfaction, and does this effect differ between transactional and transformational BPO?",
+    "method": "Survey-based empirical study. The authors built a model linking process complexity and interdependence to information requirements, then used a probit selection model of high versus low information capabilities, a factor model for the capabilities construct, and second-stage regressions of satisfaction on a misfit measure with a self-selection correction. Misfit is the absolute difference between observed and predicted capability choice.",
+    "data": "Survey of senior executives responsible for managing and reviewing outsourced business processes. 600 pre-committed surveys were mailed, 145 valid responses were received, and 127 were complete and used. Firms were small to large across diverse industries. Financial data period referenced for firm size is 2000-2003. Survey was cross-sectional. The paper does not state the country of the sample.",
+    "findings": [
+      "Satisfaction rises when information capabilities fit information requirements and falls when they do not (misfit), a result the authors describe as significant.",
+      "The negative effect of underinvestment in information capabilities on satisfaction with reliability is larger than that of overinvestment, supporting Hypothesis 2 for reliability, responsiveness and innovation, but not for systematization.",
+      "Information requirements are a significant predictor of the choice of high versus low information capabilities; the authors say this is consistent with the information processing view.",
+      "Governance structure, relational processes and information technologies covary positively; the authors note this is not direct evidence of complementarity.",
+      "The authors say the results are robust to transactional and transformational BPO classes and to the four satisfaction measures, except as noted for systematization."
+    ],
+    "whyItMatters": "The authors suggest that managers should design BPO relationships with information capabilities matched to the complexity and interdependence of the outsourced process, and should involve the CIO and IT staff in ongoing BPO work. They argue that for transformational BPO, underinvesting in coordination can significantly reduce satisfaction. They also note that the findings may help user firms design relationships with providers, though the study uses service satisfaction rather than cost or SLA data.",
+    "topics": [
+      "business process outsourcing",
+      "information processing view",
+      "fit and misfit",
+      "outsourcing governance",
+      "relational governance",
+      "IT outsourcing",
+      "service satisfaction",
+      "transactional vs transformational BPO"
+    ],
+    "industries": [
+      "Business process outsourcing across diverse industries",
+      "Finance, insurance and real estate (control variable)",
+      "Wholesale and retail trade (control variable)",
+      "Manufacturing (benchmark sector)"
+    ],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

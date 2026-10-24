@@ -1,0 +1,30 @@
+{
+  "id": "W4211165297",
+  "title": "Housing Price Index (HPI) - Indian real estate market through the lens of HPI",
+  "year": 2022,
+  "date": "2022-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.3975234",
+  "url": "https://doi.org/10.2139/ssrn.3975234",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Shekhar Tomar"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Sachin Kumar Srinivasa Murthy"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

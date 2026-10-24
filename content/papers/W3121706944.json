@@ -1,0 +1,76 @@
+{
+  "id": "W3121706944",
+  "title": "Effects of CEO Turnover in Banks: Evidence Using Exogenous Turnovers in Indian Banks",
+  "year": 2018,
+  "date": "2018-11-05",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "10.1017/s002210901800056x",
+  "url": "https://doi.org/10.1017/s002210901800056x",
+  "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/43BD1506F6DBC4452E5B9C45A7D82E2F/S002210901800056Xa.pdf/div-class-title-effects-of-ceo-turnover-in-banks-evidence-using-exogenous-turnovers-in-indian-banks-div.pdf",
+  "citations": 37,
+  "authors": [
+    {
+      "name": "Arkodipta Sarkar"
+    },
+    {
+      "name": "Krishnamurthy V. Subramanian"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "We examine the effects of chief executive officer (CEO) turnover in banks. Incoming bank CEOs face problems of information asymmetry because banks’ operations are opaque and bank risk can change dramatically in a short time. These CEOs may therefore change bank policies to manage their personal risks. Since CEO turnover is usually endogenous, we utilize a setting in which CEO turnover is based solely on retirement age and is thus exogenous to bank performance. Consistent with our thesis, incoming CEOs increase provisioning for future delinquencies and shrink lending. Bank stock prices decline following these changes. Politically motivated lending or ever-greening cannot explain our results.",
+  "summary": {
+    "oneLiner": "Incoming bank CEOs increase loan provisions and reduce lending to manage their personal risks due to information asymmetry, lowering shareholder value.",
+    "overview": "Banks are inherently opaque, making it difficult for new CEOs to evaluate the quality of loans inherited from their predecessors. To protect themselves from future blame or negative career consequences, incoming bank CEOs immediately increase provisions for bad loans and shrink lending volume. This behavior is consistent with the 'personal risk management hypothesis,' where the new leader prioritizes minimizing personal risk over maximizing the bank's value. Consequently, the stock market reacts negatively to the announcements made by these new CEOs.",
+    "question": "What are the causal effects of CEO turnover on bank policies, and what are the underlying motivations for the changes in policy following the appointment of a new bank CEO?",
+    "method": "A generalized difference-in-difference approach comparing banks experiencing CEO turnover with those that are not, leveraging age-based mandatory retirement in Indian government-owned banks as an exogenous, performance-independent source of turnover.",
+    "data": "Quarterly financial data for 21 Indian government-owned banks (GOBs) and bank-borrower relationship data from the Prowess database, covering the period from 2002 to 2013, with 79 total CEO turnover events.",
+    "findings": [
+      "Incoming CEOs increase loan loss provisions (LLPs) by 8.5% in their first quarter.",
+      "The increased LLPs in the transition quarter impound information about future nonperforming assets (NPAs), suggesting they are not used for earnings smoothing.",
+      "Loan volume declines by approximately 7.04% during the transition year.",
+      "Bank stock prices decline by 1.7% around the announcement of results by a new CEO.",
+      "Changes in bank policies are not driven by politically motivated lending or the termination of ever-greened loans.",
+      "Evidence suggests that postretirement career concerns, such as obtaining future board memberships, may influence this personal risk management behavior."
+    ],
+    "whyItMatters": "The findings suggest that CEO turnover in banks can have significant economic costs due to reduced lending. Since this behavior is driven by information asymmetry, the results imply that policies or succession processes that reduce this opacity—such as internal promotions or better disclosure—could help mitigate these negative effects on credit availability and firm value.",
+    "topics": [
+      "CEO turnover",
+      "Banking regulation",
+      "Information asymmetry",
+      "Loan loss provisions",
+      "Agency problems",
+      "Corporate governance",
+      "Bank lending"
+    ],
+    "industries": [
+      "Banking",
+      "Government-owned enterprises"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2342639970",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2016,
+      "url": "https://doi.org/10.2139/ssrn.2730495"
+    }
+  ]
+}

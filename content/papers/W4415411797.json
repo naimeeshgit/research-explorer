@@ -1,0 +1,74 @@
+{
+  "id": "W4415411797",
+  "title": "AI and Immunity to the COVID-19 Pandemic",
+  "year": 2025,
+  "date": "2025-10-22",
+  "type": "article",
+  "venue": "Production and Operations Management",
+  "doi": "10.1177/10591478251392711",
+  "url": "https://doi.org/10.1177/10591478251392711",
+  "pdf": null,
+  "citations": 3,
+  "authors": [
+    {
+      "name": "Abhishek Bhatia"
+    },
+    {
+      "name": "Nikhil Madan"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Deepa Mani"
+    },
+    {
+      "name": "Shekhar Tomar"
+    },
+    {
+      "name": "Shekhar Tomar"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "We evaluate economic immunity to the COVID-19 pandemic accorded by a sector’s exposure to artificial intelligence (AI). Using an event study design, we causally estimate the impact of AI industry exposure (AIIE) on shifts in economic activity following the first pandemic-induced lockdown in India. We use payments data from one of India’s largest payment gateways and find that a one-standard-deviation increase in AIIE arrests the post-pandemic decline in industry payments by a third. High AIIE of neighboring sectors further improves a sector’s economic resilience, emphasizing the importance of supply chain partners in technology adoption and change. Further analyses speak to the mechanisms underlying the documented impact of AI on economic activity. Notably, we present evidence suggesting that the observed effects of AI are distinct from those attributable to IT investments or digitization, that AI investments are associated with superior information capabilities prior to the pandemic that arguably enabled agility and responsiveness, and that AI-enabled adaptation occurs in a manner that complements labor rather than displacing it. We discuss the implications of our findings in terms of the assessment of the business value of AI and management of disruptions associated with crises events.",
+  "summary": {
+    "oneLiner": "Higher AI industry exposure is estimated to arrest about a third of the post-lockdown payment decline in India's sectors.",
+    "overview": "The authors ask whether sectors that use or depend on AI held up better economically during COVID-19. They compare how industry payment activity changed after India's first lockdown, using an event study, a method that tracks outcomes before and after a single shock. A one-standard-deviation rise in a sector's AI industry exposure (AIIE, a measure of how much AI shapes that sector) is estimated to arrest about a third of the post-lockdown fall in payments. The authors also report that high AI exposure in neighbouring sectors adds to resilience, and they suggest AI helps through better pre-crisis information and adaptation that complements rather than replaces labour.",
+    "question": "Did a sector's exposure to artificial intelligence give it economic resilience against the COVID-19 pandemic, and if so, through what mechanisms?",
+    "method": "The authors use an event study design to causally estimate how AI industry exposure (AIIE) relates to shifts in economic activity following the first pandemic-induced lockdown in India. They also run further analyses on possible mechanisms, including comparisons with IT investment and digitization and evidence on information capabilities and labour effects.",
+    "data": "Payments data from one of India's largest payment gateways. The abstract does not state the sample size or the exact time window beyond the period around the first lockdown.",
+    "findings": [
+      "A one-standard-deviation increase in AI industry exposure (AIIE) arrests the post-pandemic decline in industry payments by a third.",
+      "High AIIE in neighbouring sectors further improves a sector's economic resilience, which the authors link to the importance of supply chain partners in technology adoption and change.",
+      "The authors present evidence suggesting that the effects of AI are distinct from those attributable to IT investments or digitization.",
+      "The authors present evidence suggesting that AI investments are associated with superior information capabilities before the pandemic, which arguably enabled agility and responsiveness.",
+      "The authors present evidence suggesting that AI-enabled adaptation complements labour rather than displacing it."
+    ],
+    "whyItMatters": "The authors say their findings bear on how to assess the business value of AI and how firms can manage disruptions from crisis events. They highlight that supply chain partners matter for technology adoption, so firms may benefit from considering their partners' AI exposure as well as their own.",
+    "topics": [
+      "AI adoption",
+      "COVID-19 resilience",
+      "event study",
+      "supply chain partners",
+      "business value of AI",
+      "crisis management",
+      "digital payments",
+      "India"
+    ],
+    "industries": [],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

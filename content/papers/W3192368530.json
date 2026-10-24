@@ -1,0 +1,61 @@
+{
+  "id": "W3192368530",
+  "title": "Community health worker-led, technology-enabled private sector intervention for diabetes and hypertension management among urban poor: a retrospective cohort study from large Indian metropolitan city",
+  "year": 2021,
+  "date": "2021-08-01",
+  "type": "article",
+  "venue": "BMJ Open",
+  "doi": "10.1136/bmjopen-2020-045246",
+  "url": "https://doi.org/10.1136/bmjopen-2020-045246",
+  "pdf": null,
+  "citations": 26,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Preeti Singh"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "OBJECTIVES: We assessed the effectiveness of community health workers (CHWs)-led, technology-enabled programme as a large-scale, real-world solution for screening and long-term management of diabetes and hypertension in low-income and middle-income countries. DESIGN: Retrospective cohort design. SETTING: Forty-seven low-income neighbourhoods of Hyderabad, a large Indian metropolis. PARTICIPANTS: Participants (aged ≥20 years) who subscribed to an ongoing community-based chronic disease management programme employing CHWs and technology to manage diabetes and hypertension. PRIMARY AND SECONDARY OUTCOME MEASURES: We used deidentified programme data between 1 March 2015 and 8 October 2018 to measure participants' pre-enrolment and post-enrolment retention rate and within time-interval mean difference in participants' fasting blood glucose and blood pressure using Kaplan-Meier and mixed-effect regression models, respectively. RESULTS: 51 126 participants were screened (median age 41 years; 65.2% women). Participant acquisition rate (screening to enrolment) was 4%. Median (IQR) retention period was 163.3 days (87.9-288.8), with 12 months postenrolment retention rate as 16.5% (95% CI 14.7 to 18.3). Reduction in blood glucose and blood pressure levels varied by participants' retention in the programme. Adjusted mean difference from baseline ranged from -14.0 mg/dL (95% CI -18.1 to -10.0) to -27.9 mg/dL (95% CI -47.6 to -8.1) for fasting blood glucose; -2.7 mm Hg (95% CI -7.2 to 2.7) to -7.1 mm Hg (95% CI -9.1 to -4.9) for systolic blood pressure and -1.7 mm Hg (95% CI -4.6 to 1.1) to -4.2 mm Hg (95% CI -4.9 to -3.6) for diastolic blood pressure. CONCLUSIONS: CHW-led, technology-enabled private sector interventions can feasibly screen individuals for non-communicable diseases and effectively manage those who continue on the programme in the long run. However, changes in the model (eg, integration with the public health system to reduce out-of-pocket expenditure) may be needed to increase its adoption by individuals and thereby improve its cost-effectiveness.",
+  "summary": {
+    "oneLiner": "A community health worker-led, tech-enabled intervention shows potential for managing diabetes and hypertension in urban poor populations, though long-term retention remains a challenge.",
+    "overview": "This study evaluated a program using community health workers and technology to help low-income residents in Hyderabad manage chronic conditions like diabetes and hypertension. While the program successfully improved blood glucose and blood pressure levels for those who stayed enrolled, the long-term retention rate was relatively low at 16.5% after one year. The findings suggest that such models are feasible for screening and management but may require better integration with public health systems to improve broader adoption and cost-effectiveness.",
+    "question": "How effective is a community health worker-led, technology-enabled intervention for screening and long-term management of diabetes and hypertension in an urban low-income setting?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The program achieved a 4% screening-to-enrolment rate among the 51,126 individuals screened.",
+      "The median retention period for participants was 163.3 days, with a 16.5% retention rate at 12 months post-enrolment.",
+      "Reductions in fasting blood glucose and blood pressure levels were associated with the duration of participant retention in the program.",
+      "Adjusted mean differences showed decreases in blood glucose, systolic blood pressure, and diastolic blood pressure compared to baseline levels."
+    ],
+    "whyItMatters": "The study highlights that while technology and community health workers can effectively manage chronic diseases, addressing the barriers to long-term patient retention and integration with existing public health systems is critical for scaling such interventions to improve population health.",
+    "topics": [
+      "chronic disease management",
+      "community health workers",
+      "healthcare access",
+      "urban health",
+      "public-private health partnerships",
+      "digital health"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

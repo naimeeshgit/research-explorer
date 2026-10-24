@@ -1,0 +1,86 @@
+{
+  "id": "W4403786275",
+  "title": "Transportation Technology and Gentrification: Evidence from the entry of Ridesharing Services",
+  "year": 2024,
+  "date": "2024-09-23",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": "10.48550/arxiv.2409.15462",
+  "url": "http://arxiv.org/pdf/2409.15462",
+  "pdf": "https://arxiv.org/pdf/2409.15462",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Sumit D. Agarwal"
+    },
+    {
+      "name": "Shashwat Alok"
+    },
+    {
+      "name": "Correia, Sergio"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Bernardo Morais"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "We analyze the staggered entry of rideshare services across U.S. metropolitan areas, estimating its effect on the spatial redistribution and real outcomes of residents. Ridesharing services gentrify urban areas-especially those with ex-ante lower housing values-causing housing prices to rise 9 percent, with the in-migration of rich-younger individuals more than offsetting the out-migration of incumbent residents and reduced in-migration of poorer individuals. Impact on incumbent residents is conditional on ex-ante homeownership. For homeowners, there is no displacement and a decline in delinquency rates. For non-homeowners, displacement and delinquency rates rise 11 percent and 42 percent, respectively. Our study emphasizes how the private provision of high-end transportation technologies can increase urbanization and exacerbate inequality.",
+  "summary": {
+    "oneLiner": "Rideshare entry into US metros raised urban house prices about 9% and displaced non-homeowners, while homeowners' delinquency fell, suggesting gentrification with uneven effects.",
+    "overview": "The authors study what happened when Uber and Lyft entered U.S. metropolitan areas at different times, comparing dense urban zip codes with suburban ones. After entry, higher-income and younger households moved into urban zip codes, mortgage originations rose, and house prices rose about 9 percent in the four years after treatment. Effects differed by ex-ante homeownership: homeowners showed no displacement and lower late-payment rates, while non-homeowners showed more moving out and higher late-payment rates. The authors describe this as rideshare-driven gentrification that may widen inequality, though they frame the evidence as associations estimated with a staggered difference-in-differences design.",
+    "question": "Does the entry of ridesharing services into U.S. metropolitan areas increase urban gentrification, and how does it affect housing markets and incumbent residents' relocation and financial health?",
+    "method": "Staggered difference-in-differences using the Borusyak et al. (2021) imputation estimator, comparing urban zip codes (top quartile of perceived urbanicity) with suburban zip codes (bottom quartile) and not-yet-treated MSAs, with zip-code and state-by-year fixed effects. Robustness checks include MSA-by-year fixed effects, a hazard model of entry timing, and the temporary exit of Uber and Lyft from Austin in 2016.",
+    "data": "Yearly zip-code and MSA data for 2009-2019 across U.S. metropolitan areas, covering 312 MSAs for rideshare entry. Sources include IRS Statistics of Income, HMDA mortgage records, CoreLogic house prices, Zillow rents, HUD/USPS vacancies, Census Non-employer Statistics, and the Equifax Consumer Credit Panel (a 5 percent sample of adults, used for individual relocation and delinquency outcomes).",
+    "findings": [
+      "Urban zip codes saw a gradual increase averaging 3.5 percent in high-income households and a slight decline of about 0.8 percent in low-income households after entry; suburban zip codes showed no similar pattern.",
+      "Mortgage originations in urban zip codes rose about 8.1 percent over five years, and the average income of mortgage applicants rose 6.5 percent, while the share of FHA-insured loans fell about 6.4 percentage points (around 30 percent).",
+      "House prices in urban zip codes rose on average about 9 percent in the four years after treatment, and rents rose about 6 percent; the authors note these effects are concentrated in ex-ante lower-value neighborhoods.",
+      "Non-homeowners showed an increase of about 11 percent in moving out of urban zip codes, and their late repayments rose by 0.9 percentage points (42 percent); homeowners' late repayments fell by 1.2 percentage points (36 percent).",
+      "The authors attribute the non-homeowner delinquency rise to likely increased rental costs and the homeowner decline to likely higher property values and net worth, presenting these as likely explanations rather than established causes.",
+      "The Austin exit in 2016 is associated with about a 2 percent drop in urban rental prices, consistent with the main results."
+    ],
+    "whyItMatters": "The authors argue that privately provided high-end transportation can accelerate urbanization and worsen inequality, with the gains going to homeowners and the costs falling on renters. They say the welfare and distributional effects of vehicle automation, including shared autonomous vehicles, are likely to depend on how these technologies are implemented and how population shifts. They state that policymakers should weigh transportation access against protection for vulnerable renters.",
+    "topics": [
+      "ride-sharing",
+      "Uber and Lyft",
+      "gentrification",
+      "housing prices",
+      "mortgage markets",
+      "displacement",
+      "homeowners vs renters",
+      "difference-in-differences",
+      "urban economics",
+      "autonomous vehicles"
+    ],
+    "industries": [
+      "Ride-hailing and taxi services",
+      "Residential real estate",
+      "Mortgage lending"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4403852791",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2024,
+      "url": "https://doi.org/10.2139/ssrn.4965150"
+    }
+  ]
+}

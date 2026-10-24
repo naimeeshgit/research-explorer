@@ -1,0 +1,79 @@
+{
+  "id": "W7168294384",
+  "title": "Framework to estimate the cost-effectiveness of the Genome Sequencing-based surveillance network: an integrated operational model-epidemiological model approach",
+  "year": 2026,
+  "date": "2026-07-13",
+  "type": "preprint",
+  "venue": "medRxiv",
+  "doi": "10.64898/2026.07.11.26351795",
+  "url": "https://doi.org/10.64898/2026.07.11.26351795",
+  "pdf": "https://www.medrxiv.org/content/medrxiv/early/2026/07/13/2026.07.11.26351795.full.pdf",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Mayank Jha"
+    },
+    {
+      "name": "Konduri Naga Abhishek Reddy"
+    },
+    {
+      "name": "Nimalan Arinaminpathy"
+    },
+    {
+      "name": "Abha Mehndiratta"
+    },
+    {
+      "name": "Javier Guzmán"
+    },
+    {
+      "name": "Sripad Devalkar"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Understanding how genomic surveillance capacity translates into population health outcomes is critical for designing effective pandemic response systems, yet the interaction between operational design and epidemiological dynamics remains insufficiently characterized. We develop an integrated analytical framework that links a whole-genome sequencing (WGS) – based surveillance network with a two – variant epidemiological transmission model to evaluate how surveillance operations influence variant detection, intervention timing, and health outcomes. The framework combines a modified susceptible – exposed – infectious – recovered – susceptible (SEIRS) model with a detailed operational representation of a centralized WGS surveillance network in India, incorporating sample collection, transport, batching, sequencing capacity, and reporting delays. We simulate 54 scenario combinations defined by three sequencing capacity levels, three sampling proportions, three variant emergence timings, and two variant profiles (high severity – high immune escape and low severity – low immune escape). Detection of a novel variant triggers a modeled intervention consisting of isolation of some diagnosed individuals, increased testing rates across disease states, and expanded access to hospitalization. Across simulations, the time from variant emergence to intervention implementation ranged from 73 to 351 days, depending on operational and epidemiological conditions. Increasing sampling proportion reduced detection time only when sequencing capacity was sufficient; under constrained capacity, higher sampling increased congestion and delayed detection. Expanding capacity from low to nominal levels substantially reduced turnaround times, with diminishing returns at higher capacity. Earlier detection consistently improved intervention effectiveness, with deaths averted ranging from 0.06% to 14.49% across scenarios. The cost per life – year saved ranged from INR 9,137 to INR 326,714 across all configurations, remaining below one to three times India ′ s GDP per capita, consistent with established cost – effectiveness thresholds. These results demonstrate that the performance of genomic surveillance systems is jointly determined by operational and epidemiological dynamics. Effective surveillance design, therefore, requires coordinated optimization of sampling strategies and sequencing capacity to enable timely intervention and maximize population health benefits.",
+  "summary": {
+    "oneLiner": "A model linking genomic surveillance capacity and epidemiological data helps optimize pandemic response and shows that integrated network design is cost-effective.",
+    "overview": "This paper develops a model to help policymakers understand how genomic surveillance networks influence the speed of detecting new virus variants and, subsequently, the timing of public health interventions. By linking laboratory operations like sample processing and sequencing with disease transmission dynamics, the authors demonstrate that simply increasing sample collection isn't always better; if a lab lacks the capacity to process them, congestion can actually delay the detection of a new variant. The results suggest that effective surveillance requires a balanced strategy between sequencing capacity and sampling rates to ensure interventions are implemented quickly. Overall, the study finds that genomic surveillance is highly cost-effective across various scenarios in India.",
+    "question": "How do operational parameters of a genome sequencing surveillance network—such as laboratory capacity and sampling proportions—impact the timing of variant detection and the overall cost-effectiveness of resulting public health interventions?",
+    "method": "The authors created an integrated framework combining an epidemiological model (a modified SEIRS model accounting for two virus variants) with an operational model of a centralized whole-genome sequencing (WGS) network. They simulated 54 scenarios across different sequencing capacities, sampling rates, and variant characteristics (severity and immune escape potential) and used Latin Hypercube Sampling for uncertainty analysis.",
+    "data": "The study is based on data and operational processes from Indian public health institutions, sequencing labs, and epidemiological data from February 2021 to December 2021. It uses COVID-19 case data, GISAID sequence data, and literature-derived transmission and cost parameters.",
+    "findings": [
+      "Increasing the sampling proportion reduces detection time only when sequencing capacity is sufficient; otherwise, it creates congestion and increases delays.",
+      "Expanding sequencing capacity from low to nominal levels substantially reduces turnaround times for variant detection, with diminishing returns as capacity increases further.",
+      "Earlier detection of a variant consistently improves intervention effectiveness, with deaths averted ranging from 0.06% to 14.49%.",
+      "The cost per life-year saved across all scenarios ranged from INR 9,137 to INR 326,714, remaining well below established cost-effectiveness thresholds.",
+      "The impact of increasing capacity is more significant when a higher number of samples are sent for sequencing, provided the network has the resources to process the queue."
+    ],
+    "whyItMatters": "The findings suggest that simply scaling up sample collection without matching laboratory capacity is counterproductive. Policymakers should focus on coordinated optimization of sampling strategies and sequencing infrastructure to maximize the public health benefits of genomic surveillance.",
+    "topics": [
+      "Genomic surveillance",
+      "Cost-effectiveness analysis",
+      "Pandemic preparedness",
+      "Operational modeling",
+      "Public health intervention",
+      "Healthcare resource allocation",
+      "Epidemiological modeling"
+    ],
+    "industries": [
+      "Public health",
+      "Healthcare diagnostics"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "W215247327",
+  "title": "Associations between organizational characteristics and intervention choices in quality improvement collaboratives",
+  "year": 2008,
+  "date": "2008-01-01",
+  "type": "article",
+  "venue": null,
+  "doi": null,
+  "url": "https://www.kellogg.northwestern.edu/~/media/Files/Departments/hema/Deo_Associations.ashx",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "D. Keith McInnes"
+    },
+    {
+      "name": "Charles J. Corbett"
+    },
+    {
+      "name": "Bruce E. Landon"
+    },
+    {
+      "name": "Martin F. Shapiro"
+    },
+    {
+      "name": "Ira B. Wilson"
+    },
+    {
+      "name": "Paul D. Cleary"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Background: Few studies have rigorously evaluated the associations between organizational characteristics and intervention choices made by health care organizations participating in quality improvement collaboratives (QICs). Objective: To examine the relationship between clinic characteristics and intervention choices made by primary care clinics that provide HIV care and that participated in a QIC. Design: Cross-sectional study of Ryan White CARE Act (now called Ryan White HIV/AIDS Treatment Modernization Act) funded clinics that participated in a QIC. Data were collected using surveys of clinicians and administrators in participating clinics and monthly reports of clinic improvement activities. Measures: Number of interventions attempted, percent of interventions repeated, percent of interventions evaluated, ratings of intervention importance, and organizational characteristics. Results: Clinics varied significantly in their intervention choices. Organizations with a more open culture and a greater emphasis on quality improvement attempted more interventions (p<0.01, p<0.05) and interventions that were more comprehensive (p<0.01, p<0.10). Presence of multi-disciplinary teams and measurement of progress toward quantifiable goals also were associated with comprehensiveness of interventions (p<0.01, p<0.05). Conclusion: Organizational characteristics of clinics seem to predict intervention choices during the QIC. Further research is needed on how these organizational characteristics impact quality of care through intervention choices.",
+  "summary": {
+    "oneLiner": "Clinics' internal organizational culture and structure significantly influence the number and type of quality improvement interventions they choose to implement.",
+    "overview": "This study examines why some primary care clinics choose different strategies for improving quality during collaborative programs. It finds that clinics with a more open culture, a stronger focus on quality improvement, and the use of multi-disciplinary teams are more likely to attempt a higher volume of interventions. Additionally, clinics that track progress toward specific goals tend to select more comprehensive improvement strategies. The research suggests that organizational environment is a key driver of how healthcare providers approach quality initiatives.",
+    "question": "What is the relationship between a clinic's organizational characteristics and the specific quality improvement intervention choices they make?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Organizations with a more open culture attempted more interventions.",
+      "A greater organizational emphasis on quality improvement is associated with more interventions and interventions that are more comprehensive.",
+      "The presence of multi-disciplinary teams is associated with the comprehensiveness of interventions.",
+      "The measurement of progress toward quantifiable goals is associated with the comprehensiveness of interventions."
+    ],
+    "whyItMatters": "Understanding these associations helps healthcare leaders recognize that organizational culture and structure are critical factors in the success and selection of quality improvement efforts.",
+    "topics": [
+      "quality improvement",
+      "healthcare management",
+      "organizational culture",
+      "intervention design",
+      "clinic performance",
+      "healthcare operations"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

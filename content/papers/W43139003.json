@@ -1,0 +1,33 @@
+{
+  "id": "W43139003",
+  "title": "A Network Perspective on the Dynamics of Market Structure for Outsourced IT Services: A Bayesian Inference Approach",
+  "year": 2015,
+  "date": "2015-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.2551852",
+  "url": "https://doi.org/10.2139/ssrn.2551852",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Yingda Lu"
+    },
+    {
+      "name": "Anjana Susarla"
+    },
+    {
+      "name": "Kiron Ravindran"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

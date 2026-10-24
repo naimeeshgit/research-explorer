@@ -1,0 +1,75 @@
+{
+  "id": "W3125117539",
+  "title": "Learning from Many: Partner Exposure and Team Familiarity in Fluid Teams",
+  "year": 2020,
+  "date": "2020-06-25",
+  "type": "article",
+  "venue": "Management Science",
+  "doi": "10.1287/mnsc.2019.3576",
+  "url": "https://doi.org/10.1287/mnsc.2019.3576",
+  "pdf": "https://lbsresearch.london.edu/id/eprint/1442/1/LASR3%20-%202019.12.04.pdf",
+  "citations": 79,
+  "authors": [
+    {
+      "name": "O. Zeynep Akşin"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Jónas Oddur Jónasson"
+    },
+    {
+      "name": "Kamalini Ramdas"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "In services where teams come together for short collaborations, managers are often advised to strive for high team familiarity so as to improve coordination and consequently, performance. However, inducing high team familiarity by keeping team membership intact can limit workers’ opportunities to acquire useful knowledge and alternative practices from exposure to a broader set of partners. We introduce an empirical measure for prior partner exposure and estimate its impact (along with that of team familiarity) on operational performance using data from the London Ambulance Service. Our analysis focuses on ambulance transports involving new paramedic recruits, where exogenous changes in team membership enable identification of the performance effect. Specifically, we investigate the impact of prior partner exposure on time spent during patient pickup at the scene and patient handover at the hospital. We find that the effect varies with the process characteristics. For the patient pickup process, which is less standardized, greater partner exposure directly improves performance. For the more standardized patient handover process, this beneficial effect is triggered beyond a threshold of sufficient individual experience. In addition, we find some evidence that this beneficial performance impact of prior partner exposure is amplified during periods of high workload, particularly for the patient handover process. Finally, a counterfactual analysis based on our estimates shows that a team formation strategy emphasizing partner exposure outperforms one that emphasizes team familiarity by about 9.2% in our empirical context. This paper was accepted by Jay Swaminathan, operations management.",
+  "summary": {
+    "oneLiner": "For fluid teams, diverse partner exposure improves operational performance, particularly in non-standardized tasks and during periods of high workload.",
+    "overview": "In fast-paced, 'fluid' teams—where members change frequently—managers often focus on keeping teams together to build 'familiarity' and coordination. This study suggests that this strategy may limit the knowledge workers gain from interacting with different partners. Using data from the London Ambulance Service, the authors show that working with a diverse set of partners helps paramedics learn varied problem-solving methods, which can speed up tasks. This benefit is especially strong in less standardized processes and during high-workload periods, and it can outperform the benefits of team familiarity alone.",
+    "question": "How does an individual's prior exposure to a diverse set of partners, distinct from team familiarity, impact the operational performance of fluid teams across different types of processes?",
+    "method": "A longitudinal analysis of operational performance data using fixed-effects regressions to account for individual and task heterogeneity.",
+    "data": "Operational and clinical data for 5,773 ambulance transports in 2011, involving 81 new paramedic recruits and 702 senior paramedics in the London Ambulance Service.",
+    "findings": [
+      "Greater prior partner exposure is associated with reduced time spent during patient pick-up at the scene, a process with less standardization.",
+      "For the more standardized patient handover process, the performance benefit of prior partner exposure is triggered only after the individual has accumulated sufficient experience.",
+      "The performance improvements resulting from prior partner exposure appear to be amplified during periods of high workload, particularly for the patient handover process.",
+      "A team formation strategy emphasizing partner exposure is estimated to outperform one emphasizing team familiarity by approximately 9.2% in the empirical setting studied."
+    ],
+    "whyItMatters": "Managers in fluid team environments should consider a team formation strategy that balances the benefits of team familiarity with the learning gains from partner exposure, as relying solely on stable teams may lead to suboptimal performance outcomes.",
+    "topics": [
+      "fluid teams",
+      "partner exposure",
+      "team familiarity",
+      "operational performance",
+      "knowledge acquisition",
+      "service operations"
+    ],
+    "industries": [
+      "Emergency medical services"
+    ],
+    "geographies": [
+      "United Kingdom"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2252444450",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2015,
+      "url": "https://doi.org/10.2139/ssrn.2672133"
+    }
+  ]
+}

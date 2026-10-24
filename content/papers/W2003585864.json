@@ -1,0 +1,60 @@
+{
+  "id": "W2003585864",
+  "title": "Leverage and Market Stability: The Role of Margin Rules and Price Limits",
+  "year": 1998,
+  "date": "1998-04-01",
+  "type": "article",
+  "venue": "The Journal of Business",
+  "doi": "10.1086/209742",
+  "url": "https://doi.org/10.1086/209742",
+  "pdf": null,
+  "citations": 141,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Vikram K. Nanda"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We propose a simple model in which all agents are rational and symmetrically informed. We show that when some investors hold levered portfolios by engaging in margin borrowing, repeated rounds of trading can result in market instability -- in the sense that prices can move rationally, even in the absence of any change in fundamentals. We explore the effects of market composition and market trading rules on the stability of the market. Sufficiently large margin requirements are always associated with stability. Decreasing the margin requirements sufficiently may also ensure stability. A major result of the paper is that price limits might enhance market stability by excluding potentially destabilizing market prices. The tradeoffs involved in choosing an optimal combination of price limits and margin requirements to achieve market stability are analyzed. The possible role of specialists and price continuity rules in enhancing market stability are discussed.",
+  "summary": {
+    "oneLiner": "A rational-agent model shows that margin borrowing can make prices move without any change in fundamentals, and that price limits may help stabilise markets.",
+    "overview": "The paper builds a simple model in which all traders are rational and have the same information, and some of them buy shares with borrowed money (margin borrowing). The authors show that repeated rounds of trading can make prices swing even when the underlying value of the assets has not changed. They find that large margin requirements, meaning larger cash deposits needed to borrow, are always associated with stability, and that lowering margins enough may also restore it. A key result is that price limits, which cap how far a price can move in one step, might improve stability by filtering out prices that could destabilise the market.",
+    "question": "Can margin borrowing by some investors make markets unstable even when all agents are rational and information is symmetric, and how do margin requirements, market composition, and trading rules such as price limits affect that stability?",
+    "method": "A simple theoretical model in which all agents are rational and symmetrically informed, used to analyse how repeated trading affects prices and stability under different margin requirements and trading rules.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "When some investors hold levered portfolios through margin borrowing, repeated rounds of trading can result in market instability, in the sense that prices can move rationally even without a change in fundamentals.",
+      "Sufficiently large margin requirements are always associated with stability.",
+      "Decreasing margin requirements sufficiently may also ensure stability.",
+      "Price limits might enhance market stability by excluding potentially destabilising market prices.",
+      "The tradeoffs involved in choosing an optimal combination of price limits and margin requirements to achieve market stability are analysed."
+    ],
+    "whyItMatters": "The paper's findings bear on how exchanges and regulators set margin requirements and price limits. The authors indicate that the combination of these rules matters for stability, and they note that the roles of specialists (market makers) and price continuity rules may also help enhance stability.",
+    "topics": [
+      "margin borrowing",
+      "market stability",
+      "price limits",
+      "margin requirements",
+      "leverage",
+      "trading rules",
+      "specialists",
+      "price continuity"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

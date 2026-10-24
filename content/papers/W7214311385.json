@@ -1,0 +1,64 @@
+{
+  "id": "W7214311385",
+  "title": "Attention Trap? How Visual Motion Shapes Children's Screen Time and Engagement on Video Platforms",
+  "year": 2026,
+  "date": "2026-09-25",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.2023.0718",
+  "url": "https://doi.org/10.1287/isre.2023.0718",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Sumeet Kumar"
+    },
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    },
+    {
+      "name": "Ravi Bapna"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "Children increasingly consume video content through platforms such as YouTube and YouTube Kids, yet the content-level drivers of their engagement remain poorly understood. Unlike adults, children rely less on social and participatory cues in digital media, suggesting that their attention may be shaped more directly by perceptual features. In this research, we investigate visual motion, quantified using optical flow, as a perceptual feature that shapes children’s engagement with digital video. Across three studies, we evaluate its influence using observational, field experimental, and behavioral data. In Study 1, we analyze more than 32,000 videos from leading children’s channels on YouTube and find that higher visual motion significantly predicts video viewership after accounting for a broad set of visual, audio, and affective characteristics. In Study 2, we create educational videos with experimentally manipulated background motion and deploy randomized advertising campaigns using YouTube’s A/B testing infrastructure. Videos with higher motion generate significantly higher view-rates and views, replicating the observational findings in a field setting. In Study 3, a lab-based eye-tracking experiment with children shows that visual motion increases screen engagement primarily by reducing the duration of long off-screen attentional lapses rather than reducing the frequency of attention breaks. Additional analyses show that motion increases attention to background regions without reducing attention to instructional content, a pattern more consistent with screen-level re-engagement than with the displacement of instructional attention. These findings identify visual motion as a perceptual mechanism that reduces prolonged disengagement by accelerating attentional re-orientation, with implications for the design and governance of child-directed media.",
+  "summary": {
+    "oneLiner": "Visual motion in digital video acts as a perceptual mechanism that increases children's engagement by reducing the duration of their off-screen attention lapses.",
+    "overview": "This research examines how specific visual features, specifically visual motion, influence how children engage with video content on platforms like YouTube. Using a mix of observational analysis, field experiments, and lab-based eye-tracking, the authors find that videos with higher visual motion keep children engaged for longer periods. Importantly, this motion helps children re-orient their attention back to the screen more quickly during breaks, rather than distracting them from educational content. The results highlight how fundamental sensory cues shape digital consumption habits in younger audiences.",
+    "question": "How does visual motion, measured as optical flow, influence children's engagement with digital video content?",
+    "method": "The study employs three methods: observational analysis of YouTube data, a field experiment using A/B testing on educational video content, and a lab-based eye-tracking study.",
+    "data": "The study uses data from over 32,000 videos on YouTube children's channels and experimental data from lab participants and randomized advertising campaigns.",
+    "findings": [
+      "Higher visual motion significantly predicts increased video viewership.",
+      "Videos with higher motion generate significantly higher view-rates and total views in field settings.",
+      "Visual motion increases screen engagement primarily by shortening the length of long off-screen attention lapses rather than decreasing how often a child looks away.",
+      "Motion appears to increase attention to background regions without displacing or reducing focus on instructional content."
+    ],
+    "whyItMatters": "These findings provide critical insights for the design, curation, and governance of media directed at children, suggesting that perceptual features play a vital role in capturing and sustaining attention.",
+    "topics": [
+      "Digital engagement",
+      "Video platforms",
+      "Children's media",
+      "Perceptual features",
+      "Attention economy",
+      "Human-computer interaction"
+    ],
+    "industries": [
+      "Digital media",
+      "Streaming services",
+      "Education technology"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

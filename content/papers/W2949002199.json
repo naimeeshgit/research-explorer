@@ -1,0 +1,101 @@
+{
+  "id": "W2949002199",
+  "title": "What would it cost to scale-up private sector engagement efforts for tuberculosis care? Evidence from three pilot programs in India",
+  "year": 2019,
+  "date": "2019-06-05",
+  "type": "article",
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0214928",
+  "url": "https://doi.org/10.1371/journal.pone.0214928",
+  "pdf": null,
+  "citations": 23,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Pankaj Jindal"
+    },
+    {
+      "name": "Devesh Gupta"
+    },
+    {
+      "name": "Sunil Khaparde"
+    },
+    {
+      "name": "Kiran Rade"
+    },
+    {
+      "name": "Kuldeep Singh Sachdeva"
+    },
+    {
+      "name": "Bhavin Vadera"
+    },
+    {
+      "name": "Daksha Shah"
+    },
+    {
+      "name": "Kamlesh Patel"
+    },
+    {
+      "name": "Paresh Dave"
+    },
+    {
+      "name": "Rishabh Chopra"
+    },
+    {
+      "name": "Nita Jha"
+    },
+    {
+      "name": "Sirisha Papineni"
+    },
+    {
+      "name": "Shibu Vijayan"
+    },
+    {
+      "name": "Puneet Kumar Dewan"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Private providers dominate health care in India and provide most tuberculosis (TB) care. Yet efforts to engage private providers were viewed as unsustainably expensive. Three private provider engagement pilots were implemented in Patna, Mumbai and Mehsana in 2014 based on the recommendations in the National Strategic Plan for TB Control, 2012-17. These pilots sought to improve diagnosis and treatment of TB and increase case notifications by offering free drugs and diagnostics for patients who sought care among private providers, and monetary incentives for providers in one of the pilots. As these pilots demonstrated much higher levels of effectiveness than previously documented, we sought to understand program implementation costs and predict costs for their national scale-up. METHODS AND FINDINGS: We developed a common cost structure across these three pilots comprising fixed and variable cost components. We conducted a retrospective, activity-based costing analysis using programmatic data and qualitative interviews with the respective program managers. We estimated the average recurring costs per TB case at different levels of program scale for the three pilots. We used these cost estimates to calculate the budget required for a national scale up of such pilots. The average cost per privately-notified TB case for Patna, Mumbai and Mehsana was estimated to be US$95, US$110 and US$50, respectively, in May 2016 when these pilots were estimated to cover 50%, 36% and 100% of the total private TB patients, respectively. For Patna and Mumbai pilots, the average cost per case at full scale, i.e. 100% coverage of private TB patients, was projected to be US$91 and US$101, respectively. In comparison, the national TB program's budget for 2015 averages out to $150 per notified TB case. The total annual additional budget for a national scale up of these pilots was estimated to be US$267 million. CONCLUSIONS: As India seeks to eliminate TB, extensive national engagement of private providers will be required. The cost per privately-notified TB case from these pilots is comparable to that already being spent by the public sector and to the projected cost per privately-notified TB case required to achieve national scale-up of these pilots. With additional funds expected to execute against national TB elimination commitments, the scale-up costs of these operationally viable and effective private provider engagement pilots are likely to be financially viable.",
+  "summary": {
+    "oneLiner": "Scaling up private sector engagement for tuberculosis care in India is financially viable and comparable to existing public sector costs per case.",
+    "overview": "In India, most tuberculosis (TB) patients seek care in the private sector, but previous efforts to collaborate with private providers were considered too expensive. This study examined three pilot programs that offered free diagnostics and drugs to private patients to improve treatment outcomes. The researchers found that the cost of these private engagement models is lower than or comparable to the current per-case spending of the national TB program. Ultimately, the study suggests that a national scale-up is a financially feasible strategy for achieving TB elimination goals.",
+    "question": "What are the implementation costs of private provider engagement pilots for tuberculosis care in India, and what are the projected costs for a national scale-up?",
+    "method": "The researchers developed a common cost structure and conducted a retrospective, activity-based costing analysis using programmatic data and qualitative interviews with program managers.",
+    "data": "Programmatic data from three private provider engagement pilots in Patna, Mumbai, and Mehsana, India, implemented in 2014.",
+    "findings": [
+      "The average cost per privately-notified TB case was estimated at US$95 in Patna, US$110 in Mumbai, and US$50 in Mehsana as of May 2016.",
+      "At full scale, the average cost per case in Patna and Mumbai is projected to be US$91 and US$101, respectively.",
+      "The costs identified in the pilots are comparable to the US$150 average per-case budget of the national TB program in 2015.",
+      "The total annual additional budget required for a national scale-up of these pilot models is estimated to be US$267 million.",
+      "The authors conclude that the scale-up of these pilots is likely to be financially viable."
+    ],
+    "whyItMatters": "The findings provide policymakers and health program managers with evidence that engaging the private sector—where most patients currently seek care—is a cost-effective path to achieving national tuberculosis elimination targets.",
+    "topics": [
+      "healthcare operations",
+      "public-private partnerships",
+      "tuberculosis control",
+      "cost-effectiveness analysis",
+      "healthcare policy",
+      "health service delivery"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

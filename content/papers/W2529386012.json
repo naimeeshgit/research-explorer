@@ -1,0 +1,58 @@
+{
+  "id": "W2529386012",
+  "title": "Issues Arising from Managing a Rental Store: Rental Duration, Inventory, Rental Price and Competition",
+  "year": 2004,
+  "date": "2004-10-01",
+  "type": "article",
+  "venue": null,
+  "doi": null,
+  "url": "https://escholarship.org/uc/item/74s6p2dw",
+  "pdf": null,
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Christopher Siew Wai Tang"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Consider a retailer that rents products such as video tapes, DVDs, books, etc., to customers for a pre-specified rental duration. By considering the dynamics of uncertain rental demand and return process, we first develop a base model that is intended to analyze the impact of rental duration on the stocking level, the rental price, and the retailer’s profit in this paper. Then we extend this base model to the case in which a retailer enters a revenue sharing agreement with a distributor, and the case when the underlying demand is uncertain and time dependent. Moreover, we expand our base model to address the issue of competition in rental duration and rental price. The analysis of our competition model suggests that the market equilibrium depends on the customer’s sensitivity towards rental duration and the market potential. Furthermore, we establish conditions under which one firm competes on rental price while the other firm competes on rental duration at the equilibrium.",
+  "summary": {
+    "oneLiner": "This paper analyzes how rental duration, inventory levels, and pricing strategies interact in rental markets, considering scenarios like competition and revenue sharing.",
+    "overview": "Rental businesses must balance how long they allow customers to keep items with their inventory levels and pricing. This research models how these variables change under different conditions, such as uncertain demand or revenue sharing agreements with suppliers. It also explores how competing firms may choose to differentiate themselves by focusing either on price or the length of the rental period. The findings suggest that market dynamics are heavily influenced by how sensitive customers are to rental duration and the total size of the market.",
+    "question": "How do factors such as rental duration, inventory stocking levels, rental pricing, and competition affect the profitability and operations of a rental retailer?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The market equilibrium is suggested to depend on customer sensitivity toward rental duration and the overall market potential.",
+      "Conditions exist under which, at equilibrium, one firm chooses to compete primarily on rental price while the other competes on rental duration."
+    ],
+    "whyItMatters": "Understanding these competitive dynamics helps rental business managers determine whether to prioritize aggressive pricing or flexible rental terms to gain a strategic advantage in the market.",
+    "topics": [
+      "Rental business management",
+      "Inventory management",
+      "Pricing strategy",
+      "Competitive strategy",
+      "Revenue sharing",
+      "Operations management"
+    ],
+    "industries": [
+      "Retail",
+      "Media rental"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "W2059541612",
+  "title": "The winner's curse and international methods of allocating initial public offerings",
+  "year": 1996,
+  "date": "1996-05-01",
+  "type": "article",
+  "venue": "Pacific-Basin Finance Journal",
+  "doi": "10.1016/0927-538x(96)00004-2",
+  "url": "https://doi.org/10.1016/0927-538x(96)00004-2",
+  "pdf": null,
+  "citations": 84,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Ann E. Sherman"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "An interesting feature of the allocation of initial public offerings (IPOs) is that issuers in many countries tend to favor small over large investors. This occurs in the U.K., Hong Kong, Singapore, Malaysia, Indonesia, India, Thailand and Bangladesh, among other places. For example in Hong Kong between 1986 and 1992, around 85% of IPOs were allocated in a way that strictly favored smaller orders. The reason for favoring small investors over large investors is often thought to be some notion of fairness. We develop a model to show that such a policy may, in fact, be consistent with revenue maximization by the issuing firm because it reduces the adverse selection or the winner's curse problem pointed out by Rock (1986). The intuition is that informed investors tend to place larger orders than do uninformed investors even when they have the same wealth level; this tendency is obviously stronger if informed investors tend to be wealthier than the uninformed. We derive other empirical implications of the model and relate them to the stylized facts about IPOs in various countries.",
+  "summary": {
+    "oneLiner": "Favoring small investors in IPO allocation may raise issuer revenue by reducing the winner's curse, since informed investors tend to place larger orders.",
+    "overview": "Many countries allocate initial public offerings (IPOs, a company's first sale of shares to the public) in ways that favor small investors over large ones. The authors build a model showing this policy can be consistent with the issuer maximizing revenue, not only with fairness. The idea is that large orders often come from informed investors, and allocating to small investors reduces the winner's curse (the problem that getting full allocation of a share is worse news when others with better information are not competing for it). The authors also derive further empirical implications and relate them to IPO patterns in several countries.",
+    "question": "Can favoring small investors over large investors in IPO allocation be consistent with revenue maximization by the issuing firm, rather than being driven only by fairness?",
+    "method": "Theoretical model. The authors develop a model and use it to derive empirical implications, which they relate to stylized facts about IPOs in various countries.",
+    "data": "The abstract does not describe a specific dataset. It refers to stylized facts about IPO allocations in several countries, including Hong Kong between 1986 and 1992, where around 85% of IPOs were allocated in a way that strictly favored smaller orders.",
+    "findings": [
+      "Favoring small investors may be consistent with revenue maximization by the issuing firm because it reduces the adverse selection or winner's curse problem identified by Rock (1986).",
+      "Informed investors tend to place larger orders than uninformed investors even at the same wealth level, and this tendency is stronger if informed investors are wealthier.",
+      "The authors derive other empirical implications of the model and relate them to stylized facts about IPOs in various countries."
+    ],
+    "whyItMatters": "The paper suggests that small-investor preference in IPO allocation may be a rational pricing choice for issuers rather than purely a fairness concern. This bears on how IPO allocation rules are designed in markets where the practice is common. The abstract does not state specific policy recommendations.",
+    "topics": [
+      "IPO allocation",
+      "winner's curse",
+      "adverse selection",
+      "small investor preference",
+      "revenue maximization",
+      "IPO pricing",
+      "emerging markets",
+      "Hong Kong IPOs"
+    ],
+    "industries": [],
+    "geographies": [
+      "United Kingdom",
+      "Hong Kong",
+      "Singapore",
+      "Malaysia",
+      "Indonesia",
+      "India",
+      "Thailand",
+      "Bangladesh"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3121866650",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2005,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=723744"
+    }
+  ]
+}

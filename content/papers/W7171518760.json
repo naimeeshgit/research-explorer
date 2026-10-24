@@ -1,0 +1,33 @@
+{
+  "id": "W7171518760",
+  "title": "The Economics of Digital Transactions",
+  "year": 2026,
+  "date": "2026-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.7103678",
+  "url": "https://doi.org/10.2139/ssrn.7103678",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Shilpa Aggarwal"
+    },
+    {
+      "name": "Syed Anas Ahmed"
+    },
+    {
+      "name": "Shashwat Alok"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

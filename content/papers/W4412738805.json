@@ -1,0 +1,30 @@
+{
+  "id": "W4412738805",
+  "title": "Optimizing Sequential Diagnostic Testing under Uncertainty: Models, Heuristics, and Bounds for Differential Diagnosis",
+  "year": 2025,
+  "date": "2025-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.5367662",
+  "url": "https://doi.org/10.2139/ssrn.5367662",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Simrita Singh"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Sumit Kunnumkal"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

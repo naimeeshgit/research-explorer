@@ -1,0 +1,90 @@
+{
+  "id": "W2899448285",
+  "title": "Delays, behaviour and transmission: modelling the impact of effective private provider engagement on tuberculosis control in urban India",
+  "year": 2018,
+  "date": "2018-11-04",
+  "type": "preprint",
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/461426",
+  "url": "https://doi.org/10.1101/461426",
+  "pdf": "https://www.biorxiv.org/content/biorxiv/early/2018/11/04/461426.full.pdf",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Nimalan Arinaminpathy"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Simrita Singh"
+    },
+    {
+      "name": "Sunil Khaparde"
+    },
+    {
+      "name": "Raghuram Rao"
+    },
+    {
+      "name": "Bhavin Vadera"
+    },
+    {
+      "name": "Niraj Kulshrestha"
+    },
+    {
+      "name": "Devesh Gupta"
+    },
+    {
+      "name": "Kiran Rade"
+    },
+    {
+      "name": "Sreenivas Achuthan Nair"
+    },
+    {
+      "name": "Puneet Kumar Dewan"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Abstract In India, the country with the world’s largest burden of tuberculosis (TB), most patients first seek care in the private healthcare sector, which is fragmented and unregulated. Ongoing initiatives are demonstrating effective approaches for engaging with this sector, and form a central part of India’s recent National Strategic Plan: here we aimed to address their potential impact on TB transmission in urban settings, when taken to scale. We developed a mathematical model of TB transmission dynamics, calibrated to urban populations in Mumbai and Patna, two major cities in India where pilot interventions are currently ongoing. We found that, when taken to sufficient scale to capture 75% of patient-provider interactions, the intervention could reduce incidence by upto 21.3% (95% Bayesian credible interval (CrI) 13.0 – 32.5%) and 15.8% (95% CrI 7.8 – 28.2%) in Mumbai and Patna respectively, between 2018 and 2025. There is a stronger impact on TB mortality, with a reduction of up to 38.1% (95% CrI 20.0 – 55.1%) in the example of Mumbai. The incidence impact of this intervention alone may be limited by the amount of transmission that has already occurred by the time a patient first presents for care: model estimates suggest an initial patient delay of 4-5 months before first seeking care, followed by a diagnostic delay of 1-2 months before ultimately initiating TB treatment. Our results suggest that the transmission impact of such interventions could be maximised by additional measures to encourage early uptake of TB services.",
+  "summary": {
+    "oneLiner": "Mathematical modeling shows that scaling up engagement with private TB providers can reduce tuberculosis incidence and mortality in urban India.",
+    "overview": "Most tuberculosis (TB) patients in India first seek care in the private sector, which is often fragmented and unregulated, leading to diagnostic and treatment delays. This paper uses a mathematical model to simulate the impact of 'Public Private Support Agency' (PPSA) models, which provide subsidies and incentives to improve the quality of diagnosis and treatment in this private sector. The findings suggest that scaling this intervention to cover 75% of patient-provider interactions could significantly reduce both TB incidence and mortality. However, the study also notes that addressing the 'patient delay'—the time before a patient first seeks care—is crucial to maximizing the impact of these interventions.",
+    "question": "What is the potential epidemiological impact of scaling up private provider engagement on TB transmission in urban settings in India?",
+    "method": "The authors developed a deterministic, compartmental mathematical model of TB transmission, calibrated using community-based patient pathway survey data from Mumbai and Patna and existing epidemiological data. They utilized a Bayesian melding procedure to estimate uncertainty and conducted multivariate sensitivity analyses to identify key drivers of the intervention's impact.",
+    "data": "Data includes community-based patient pathway surveys in Mumbai (76 TB patients, 196 patient-provider interactions) and Patna (64 TB patients, 121 patient-provider interactions), along with subnational epidemiological inputs and program-reported data on drug-resistant TB.",
+    "findings": [
+      "Scaling up engagement to 75% of patient-provider interactions suggests an incidence reduction of up to 21.3% in Mumbai and 15.8% in Patna by 2025.",
+      "The intervention is associated with a reduction in TB mortality of up to 38.1% in Mumbai.",
+      "Model estimates suggest a lengthy initial patient delay of 4-5 months before first seeking care, which may limit the impact of provider-focused interventions.",
+      "The transmission impact of the intervention could be maximized by additional measures to encourage earlier uptake of TB services.",
+      "The results suggest that intervention priorities, such as which type of private provider to focus on, may need to be tailored to local conditions."
+    ],
+    "whyItMatters": "The findings imply that engaging the private sector is a necessary foundation for TB control in India but may not be sufficient on its own to meet elimination goals. Managers and policymakers should recognize that combining private sector engagement with initiatives to reduce initial patient delays and improve demand for services is essential for accelerating declines in the TB epidemic.",
+    "topics": [
+      "Tuberculosis control",
+      "Private sector engagement",
+      "Public health modeling",
+      "Healthcare delivery",
+      "TB diagnostic delays",
+      "India healthcare policy"
+    ],
+    "industries": [
+      "Healthcare",
+      "Public health"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

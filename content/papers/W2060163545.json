@@ -1,0 +1,74 @@
+{
+  "id": "W2060163545",
+  "title": "Associations Between Organizational Characteristics and Quality Improvement Activities of Clinics Participating in a Quality Improvement Collaborative",
+  "year": 2009,
+  "date": "2009-08-22",
+  "type": "article",
+  "venue": "Medical Care",
+  "doi": "10.1097/mlr.0b013e31819a5937",
+  "url": "https://doi.org/10.1097/mlr.0b013e31819a5937",
+  "pdf": null,
+  "citations": 18,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Keith McInnes"
+    },
+    {
+      "name": "Charles J. Corbett"
+    },
+    {
+      "name": "Bruce E. Landon"
+    },
+    {
+      "name": "Martin F. Shapiro"
+    },
+    {
+      "name": "Ira B. Wilson"
+    },
+    {
+      "name": "Paul D. Cleary"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Few studies have rigorously evaluated the associations between organizational characteristics and intervention activities of health care organizations participating in quality improvement collaboratives (QICs). OBJECTIVE: To examine the relationship between clinic characteristics and intervention activities by primary care clinics that provide HIV care and that participated in a QIC. DESIGN: Cross-sectional study of Ryan White CARE Act (now called Ryan White HIV/AIDS Treatment Modernization Act) funded clinics that participated in a QIC over 16 months in 2000 and 2001. The QIC was originally planned to be a more typical 12 months long, but was extended to increase the likelihood of success. Data were collected using surveys of clinicians and administrators in participating clinics and monthly reports of clinic improvement activities. MEASURES: Number of interventions attempted, percent of interventions repeated, percent of interventions evaluated, and organizational characteristics. RESULTS: Clinics varied significantly in their intervention choices. Organizations with a more open culture and a greater emphasis on quality improvement attempted more interventions (P < 0.01, P < 0.05) and interventions that were more comprehensive (P < 0.01, P < 0.10). Presence of multidisciplinary teams and measurement of progress toward quantifiable goals also were associated with comprehensiveness of interventions (P < 0.01, P < 0.05). CONCLUSION: Clinic characteristics predicted intervention activities during a QIC. Further research is needed on how these organizational characteristics affect quality of care through their influence on intervention activities.",
+  "summary": {
+    "oneLiner": "Internal clinic culture and organizational structure significantly influence the number and comprehensiveness of quality improvement activities during healthcare initiatives.",
+    "overview": "This study examines how internal organizational traits, such as culture and team structure, affect how clinics engage in quality improvement (QI) initiatives. The authors find that clinics with a more open organizational culture and a strong emphasis on quality are more likely to attempt a wider variety of improvement activities. Furthermore, the use of multidisciplinary teams and goal-tracking helps clinics perform more comprehensive improvement work. Understanding these factors can help managers better anticipate how clinics will perform when participating in collaborative improvement programs.",
+    "question": "What is the relationship between organizational characteristics and the specific quality improvement intervention activities of primary care clinics participating in a Quality Improvement Collaborative?",
+    "method": "Cross-sectional study using surveys of clinicians and administrators alongside monthly reports of clinic improvement activities.",
+    "data": "Primary care clinics funded by the Ryan White CARE Act participating in a quality improvement collaborative over 16 months in 2000 and 2001.",
+    "findings": [
+      "Organizations with a more open culture attempted more interventions and more comprehensive interventions.",
+      "A greater emphasis on quality improvement was associated with a higher number of attempted interventions and more comprehensive interventions.",
+      "The presence of multidisciplinary teams was associated with the comprehensiveness of interventions.",
+      "The measurement of progress toward quantifiable goals was associated with the comprehensiveness of interventions."
+    ],
+    "whyItMatters": "The findings suggest that organizational characteristics are important predictors of how clinics engage in quality improvement, which has implications for how collaborative programs are designed and which clinics might need more support.",
+    "topics": [
+      "Quality improvement",
+      "Organizational culture",
+      "Healthcare management",
+      "Collaborative initiatives",
+      "Operations management",
+      "Primary care"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

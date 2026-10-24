@@ -1,0 +1,59 @@
+{
+  "id": "W2060956527",
+  "title": "Repurchase Premia as a Reason for Dividends: A Dynamic Model of Corporate Payout Policies",
+  "year": 1994,
+  "date": "1994-04-01",
+  "type": "article",
+  "venue": "Review of Financial Studies",
+  "doi": "10.1093/rfs/7.2.321",
+  "url": "https://doi.org/10.1093/rfs/7.2.321",
+  "pdf": null,
+  "citations": 71,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Vikram K. Nanda"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We propose that it is precisely because firms’ repurchases of their own stock through tender offers are associated with large stock-price increases that repurchases are unattractive as a means of distributing cash. As a result, firms distribute some cash in the form of dividends—despite the tax disadvantage—and carry the rest to future periods. However, when their stock is sufficiently undervalued, firms distribute all accumulated cash through stock repurchases. We show that dividends are smoothed and are positively related both to earnings innovations and to previous period’s dividends. Also, the stock-price reaction to a repurchase announcement, of a given size, is increasing in the previous period’s dividends.",
+  "summary": {
+    "oneLiner": "Firms pay dividends despite their tax cost because repurchases through tender offers trigger large stock-price jumps, making buybacks an unattractive way to distribute cash.",
+    "overview": "The paper asks why firms pay dividends even though dividends are taxed unfavourably compared with buying back shares. The authors argue that tender-offer repurchases are associated with large stock-price increases, which makes buybacks costly as a way to hand out cash. So firms distribute part of their cash as dividends and save the rest for later, and they use buybacks only when their stock looks sufficiently undervalued, at which point they distribute all accumulated cash this way. The model predicts that dividends are smoothed over time and move with earnings surprises and with last period's dividend.",
+    "question": "Why do firms pay dividends despite their tax disadvantage, and when do they use stock repurchases instead to distribute cash?",
+    "method": "A dynamic theoretical model of corporate payout policy, which the abstract describes as a model rather than an empirical test.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Firms distribute some cash as dividends despite the tax disadvantage and carry the rest forward, because tender-offer repurchases are associated with large stock-price increases.",
+      "When the stock is sufficiently undervalued, firms distribute all accumulated cash through stock repurchases.",
+      "Dividends are smoothed and are positively related to earnings innovations and to the previous period's dividends.",
+      "The stock-price reaction to a repurchase announcement of a given size is increasing in the previous period's dividends."
+    ],
+    "whyItMatters": "The paper offers a rationale for dividends that does not rely on tax benefits: the price reaction to buybacks makes them a costly way to distribute cash, so firms keep paying dividends. For managers, this links payout choices to the stock's valuation and to the timing of cash distributions. The abstract does not state explicit policy implications.",
+    "topics": [
+      "dividend policy",
+      "share repurchases",
+      "tender offers",
+      "payout policy",
+      "dividend smoothing",
+      "signalling",
+      "stock undervaluation",
+      "corporate finance theory"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

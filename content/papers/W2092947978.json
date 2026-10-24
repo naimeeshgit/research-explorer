@@ -1,0 +1,65 @@
+{
+  "id": "W2092947978",
+  "title": "Defaults and interest rates in international lending",
+  "year": 2000,
+  "date": "2000-07-01",
+  "type": "article",
+  "venue": "Pacific-Basin Finance Journal",
+  "doi": "10.1016/s0927-538x(00)00022-6",
+  "url": "https://doi.org/10.1016/s0927-538x(00)00022-6",
+  "pdf": "https://escholarship.org/content/qt4nq6p3nz/qt4nq6p3nz.pdf",
+  "citations": 2,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Since lenders cannot observe the riskiness of the projects borrowers could choose, interest rates alone cannot be used as an instrument to discipline the borrowers. A credible threat to exclude borrowers who default more than a certain number of times from participating in the capital markets makes international debt contracts incentive compatible. Larger borrowers, since they get fewer chances to default, choose safer proejcts and are therefore charged smaller interest rates. Also, borrowers, after each successive default swtich to safer and safer projects which may result in smaller and smaller interest rates. This paper provides empirical evidence supporting these two predictions.",
+  "summary": {
+    "oneLiner": "Lenders cannot see borrowers' project risk, so a threat of exclusion after repeated defaults can discipline international borrowers and shape their interest rates.",
+    "overview": "Lenders cannot observe how risky the projects a borrower chooses are, so setting interest rates alone cannot keep borrowers in line. The paper argues that a credible threat to shut out borrowers who default more than a set number of times from capital markets makes international debt contracts workable. Its two predictions are that larger borrowers, who get fewer chances to default, choose safer projects and pay lower rates, and that borrowers move to safer projects after each default, which may lower their rates further. The author says the paper provides empirical evidence supporting both predictions.",
+    "question": "How can lenders discipline borrowers in international lending when they cannot observe the riskiness of the projects borrowers choose, and how does this affect interest rates?",
+    "method": "The abstract sets out theoretical predictions about incentives and interest rates and states that the paper provides empirical evidence supporting them. The specific empirical method is not described in the abstract.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Because lenders cannot observe project riskiness, interest rates alone cannot be used to discipline borrowers.",
+      "A credible threat to exclude borrowers who default more than a certain number of times from capital markets makes international debt contracts incentive compatible.",
+      "Larger borrowers, who get fewer chances to default, choose safer projects and are therefore charged smaller interest rates.",
+      "After each successive default, borrowers switch to safer and safer projects, which may result in smaller and smaller interest rates.",
+      "The paper states that it provides empirical evidence supporting these two predictions."
+    ],
+    "whyItMatters": "The abstract implies that lenders can manage borrower risk through the threat of exclusion after repeated defaults, rather than through interest rates alone. It also suggests that borrower size and default history are linked to the rates borrowers pay. The abstract does not state explicit implications for managers, policymakers or investors.",
+    "topics": [
+      "international lending",
+      "sovereign debt",
+      "default risk",
+      "moral hazard",
+      "incentive compatibility",
+      "interest rates",
+      "capital market exclusion",
+      "borrower size"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3123551887",
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "year": 1991,
+      "url": "https://www.escholarship.org/uc/item/4nq6p3nz.pdf;origin=repeccitec"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "W1482289984",
+  "title": "Information Aggregation, Currency Swaps, and the Design of Derivative Securities",
+  "year": 1997,
+  "date": "1997-04-01",
+  "type": "preprint",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": null,
+  "url": "https://www.escholarship.org/uc/item/0js61067.pdf;origin=repeccitec",
+  "pdf": "https://escholarship.org/uc/item/0js61067",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Mark S. Grinblatt"
+    },
+    {
+      "name": "David K. Levine"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "A model of security design based on the principle of information aggregation and alignment is used to show that (i) firms needing to finance their operations should issue different securities to different groups of investors in order to aggregate their disparate information and (ii) each security should be highly correlated (closely aligned) with the private information signal of the investor to whom it is marketed. This alignment reduces the adverse selection penalty paid by a firm with superior information. Adverse selection costs are often contingent on ex post publicly observable and contractible state variables such as exchange rates. In such cases, debt contracts are dominated by currency swaps and optimal securities, in general, are derivative contracts that are contingent on state variables that influence adverse selection costs. This is because the netting of cash flows in these derivative contracts, in effect, alters the state-by-state seniority of different claims in a desirable way.",
+  "summary": {
+    "oneLiner": "Multinational firms with low reorganization costs can minimize adverse selection by issuing currency swaps whose bankruptcy priorities switch with the exchange rate.",
+    "overview": "The paper models a multinational firm whose domestic and foreign investors each hold private information about different parts of the firm's cash flows. Because investors cannot tell how costly it would be for them to reorganize assets abroad, they price the firm's securities at average values, which penalizes firms that are cheap to reorganize. The authors show that issuing separate securities to domestic and foreign investors lets prices reveal investor information, and that currency swaps can let the firm allocate bankruptcy proceeds to whichever investor group faces smaller adverse selection costs at the realized exchange rate. The authors argue this gives an issue-cost explanation for derivative use that does not rely on hedging or risk-sharing motives.",
+    "question": "Why do firms design and market multiple, seemingly redundant securities to different investor groups, and why do they use currency swaps?",
+    "method": "A theoretical security design model with risk-neutral agents, rational reservation price schedules, and an auctioneer that clears prices. The authors derive equilibrium prices, solve for the bankruptcy sharing rule that minimizes adverse selection, and show that currency swaps can implement it and dominate pairs of debt contracts.",
+    "data": "Not applicable; the paper is a theoretical model with no empirical sample. It uses assumed joint distributions of cash flows, reorganization costs, exchange rates and a noncontractible shock, and illustrates with a Harvard Business School case on Walt Disney's yen financing (Allen, 1987).",
+    "findings": [
+      "Whenever a firm issues two distinct securities to domestic and foreign investors, equilibrium prices reveal all investor signals about domestic and foreign future cash flows.",
+      "Because investors cannot observe reorganization costs, the equilibrium pools firms with high and low reorganization costs, penalizing low-cost firms through adverse selection.",
+      "The optimal sharing rule allocates each bankrupt state's cash flow to the investor group that values it most, which can be implemented with a pair of currency swaps.",
+      "Two properly designed currency swaps with identical settlement exchange rates implement the optimal feature, though the authors say they cannot assert that the fully optimal debt level can be implemented by swaps without further distributional assumptions.",
+      "Any pair of debt contracts, or a currency swap paired with debt, is dominated by a pair of currency swaps, without further distributional assumptions.",
+      "Pari passu domestic and foreign debt and senior-subordinated structures are always suboptimal in this model."
+    ],
+    "whyItMatters": "The paper suggests that corporate use of currency swaps and multiple securities can be explained by minimizing the cost of information asymmetry in financing, rather than by hedging or risk-sharing. The authors state that financing packages with properly designed swaps may appear cheaper than straight debt. The model is framed for corporate finance and derivatives design rather than giving direct policy prescriptions.",
+    "topics": [
+      "security design",
+      "currency swaps",
+      "adverse selection",
+      "derivative securities",
+      "multinational finance",
+      "bankruptcy priority",
+      "information aggregation",
+      "corporate financing"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

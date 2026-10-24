@@ -1,0 +1,65 @@
+{
+  "id": "W2950915040",
+  "title": "Do Activity-Based Incentive Plans Work? Evidence from a Large-Scale Field Intervention",
+  "year": 2021,
+  "date": "2021-05-10",
+  "type": "article",
+  "venue": "Journal of Marketing Research",
+  "doi": "10.1177/00222437211020013",
+  "url": "https://doi.org/10.1177/00222437211020013",
+  "pdf": null,
+  "citations": 13,
+  "authors": [
+    {
+      "name": "Raghunath Singh Rao"
+    },
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    },
+    {
+      "name": "George John"
+    },
+    {
+      "name": "Sunil Kishore"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "Many firms incorporate activity-based incentive (ABI) compensation into their pay plans. These ABIs are based on salespeople’s activity measures derived from their call reports. Despite their prevalence and theory-based expectations, there is a distinct lack of empirical work studying the sales productivity effects of ABI pay. With the cooperation of a large pharmaceutical firm, the authors conducted a three-year-long intervention based on a “treatment-removal” design. Their first intervention added modest ABI pay for frontline salespeople and their supervisors across 305 sales territories; the second intervention removed ABI pay from the salespeople; and the third intervention removed ABI pay from the supervisors as well, returning to the status quo. Using detailed territory-level data from the intervention in conjunction with syndicated market-level data and employing synthetic control procedures, the authors find sales gains of around 6%–9% from each of the two ABI interventions relative to the no-ABI baseline. These effects are moderated by the number of salespeople in a territory, with territories with more salespeople showing larger effects. Analyses of activity effects show that when supervisors are paid ABIs, they exert behavior control downward on salespeople. Managerially, both ABI schemes improve performance over an output-only pay plan. Between the two, a rudimentary gross profit impact calculation shows that ABIs targeted at supervisors alone are more efficient than ABIs targeted at both salespeople and their supervisors. The results support tying compensation to call reports despite the potential for self-serving biases in these measures because supervisors are able to exercise more behavior control with ABIs.",
+  "summary": {
+    "oneLiner": "Linking salesperson compensation to activity metrics rather than just output improves sales performance, particularly when supervisors are incentivized to exercise behavior control.",
+    "overview": "Many companies pay salespeople based on their activity metrics, such as call reports, rather than just final sales output. This study tested the effectiveness of such activity-based incentives (ABI) in a large pharmaceutical company over three years. The researchers found that linking compensation to these activities increased sales performance significantly. Furthermore, the results suggest that incentivizing supervisors to monitor these activities is more cost-efficient than incentivizing salespeople directly.",
+    "question": "Do activity-based incentive plans increase sales productivity for firms?",
+    "method": "The authors conducted a three-year intervention using a treatment-removal design in 305 sales territories, utilizing synthetic control procedures to evaluate the impact of ABI pay.",
+    "data": "The study utilized territory-level and market-level data from a large pharmaceutical firm over a three-year period.",
+    "findings": [
+      "The introduction of activity-based incentives resulted in sales gains of approximately 6%–9% compared to the baseline.",
+      "The positive effects of ABI pay are moderated by the size of the sales team, with territories featuring more salespeople experiencing larger gains.",
+      "When supervisors receive activity-based incentives, they appear to exert greater behavior control over their salespeople.",
+      "Incentive schemes targeted at supervisors alone are more efficient than schemes targeting both salespeople and their supervisors."
+    ],
+    "whyItMatters": "The study suggests that managers can improve organizational performance by tying compensation to activity metrics, as these provide supervisors with a mechanism to exert behavioral influence. It highlights that focus on supervisor incentives may offer a higher return on investment compared to incentivizing frontline staff directly.",
+    "topics": [
+      "sales compensation",
+      "incentive design",
+      "sales force management",
+      "behavior control",
+      "sales productivity",
+      "activity-based incentives"
+    ],
+    "industries": [
+      "pharmaceutical"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

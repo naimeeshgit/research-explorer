@@ -1,0 +1,71 @@
+{
+  "id": "W4307038921",
+  "title": "Routine childhood vaccination in India from 2005–2006 to 2015–2016: Temporal trends and geographic variation",
+  "year": 2022,
+  "date": "2022-10-21",
+  "type": "article",
+  "venue": "Vaccine",
+  "doi": "10.1016/j.vaccine.2022.10.024",
+  "url": "https://doi.org/10.1016/j.vaccine.2022.10.024",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S0264410X22012853/pdf",
+  "citations": 5,
+  "authors": [
+    {
+      "name": "Rashmi Nayar"
+    },
+    {
+      "name": "Balasubramanyam Pattath"
+    },
+    {
+      "name": "Nivedita Mantha"
+    },
+    {
+      "name": "Sisir Debnath"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "OBJECTIVE: India has experienced a substantial increase in the coverage of routine childhood vaccines in recent years. However, a large fraction of these vaccines is not delivered in a timely manner, i.e., at the recommended age. Further, substantial disparities exist in both coverage and timeliness across states. We aim to quantify the changes in coverage and timeliness of routine childhood vaccination in India over time, their variation across states, and changes in these variations over time. METHODS: We used data from two rounds of India's National Family Health Surveys, NFHS-3 (2005-06) and NFHS-4 (2015-16) on bacille Calmette-Guerin vaccine (BCG), three doses of diphtheria, pertussis, and tetanus vaccine (DPT1, DPT2, DPT3), and measles-containing vaccine (MCV). We used the Turnbull estimator to estimate the cumulative distribution function (CDF) of administering each vaccine by a certain age while accounting for two-sided censoring in the survey data. We then used these estimated CDFs to calculate coverage and timeliness at the national and state levels. FINDINGS: At the national level, both vaccination coverage and timeliness estimates increased from NFHS-3 to NFHS-4 for all vaccines. The increase in timeliness ranging from 27.3% for DPT3 to 74.0% for MCV continued to be lower than coverage, ranging from 75.3% (95% CI 57.7-87.2) for DPT3 to 74.0% (95% CI 42.2-33.0) for MCV, for all vaccines. Cross-state variation in timeliness was greater than the variation in coverage. Variation in both timeliness and coverage reduced from NFHS-3 to NFHS-4. However, this reduction was greater for timeliness than for coverage. CONCLUSIONS: A large fraction of the children in India receive vaccines later than the recommended age thereby keeping them exposed to vaccine-preventable diseases. Interventions that specifically focus on improving the timely delivery of vaccines are needed to improve the overall effectiveness of the routine immunization program.",
+  "summary": {
+    "oneLiner": "While routine childhood vaccination coverage and timeliness in India improved between 2005 and 2016, delays in administration remain a significant public health challenge.",
+    "overview": "This study analyzes how childhood vaccination rates and the timeliness of these vaccines have evolved in India over a decade. While the researchers found that more children are receiving vaccines, many are not receiving them at the recommended age, leaving them vulnerable to preventable diseases for longer. The study highlights that regional disparities persist, though these gaps have narrowed over time. Ultimately, the authors argue that policy efforts should shift focus toward ensuring vaccines are delivered exactly when scheduled to maximize health outcomes.",
+    "question": "How have coverage and timeliness of routine childhood vaccinations in India changed between 2005-06 and 2015-16, and how do these metrics vary across states?",
+    "method": "The authors used the Turnbull estimator, a statistical technique for estimating distributions when data is censored (i.e., when exact vaccination dates are missing or incomplete), to analyze coverage and timeliness.",
+    "data": "Data from the National Family Health Surveys (NFHS-3, 2005-06 and NFHS-4, 2015-16) focusing on BCG, DPT (1-3), and measles vaccines.",
+    "findings": [
+      "Both vaccination coverage and timeliness increased nationally for all studied vaccines between 2005-06 and 2015-16.",
+      "Vaccine timeliness consistently lags behind overall coverage rates.",
+      "Cross-state variation in vaccine timeliness is greater than the variation observed in overall coverage rates.",
+      "The disparity in both coverage and timeliness across states reduced over the study period, with a more significant reduction observed in timeliness."
+    ],
+    "whyItMatters": "The findings suggest that simply tracking coverage is insufficient; policymakers must prioritize the timely delivery of vaccines to minimize the period during which children remain unprotected from preventable diseases.",
+    "topics": [
+      "public health",
+      "childhood immunization",
+      "healthcare delivery",
+      "vaccination timeliness",
+      "India health policy",
+      "health service gaps"
+    ],
+    "industries": [
+      "Public Health",
+      "Healthcare Administration"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

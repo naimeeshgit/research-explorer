@@ -1,0 +1,73 @@
+{
+  "id": "W2977049620",
+  "title": "Markdowns in Seasonal Conspicuous Goods",
+  "year": 2020,
+  "date": "2020-07-30",
+  "type": "article",
+  "venue": "Marketing Science",
+  "doi": "10.1287/mksc.2020.1223",
+  "url": "https://doi.org/10.1287/mksc.2020.1223",
+  "pdf": "https://discovery.ucl.ac.uk/10091991/7/Arifoglu_Luxury_sb_04_01_20.pdf",
+  "citations": 17,
+  "authors": [
+    {
+      "name": "Kenan Arifoğlu"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Seyed M. R. Iravani"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "In common parlance, luxury and markdowns are, in many respects, contradictory concepts. Markdowns decrease product exclusivity and hence consumers’ willingness to pay (i.e., snob effect) since most consumers purchasing luxury desire uniqueness. Markdowns also encourage strategic (forward-looking) consumers to wait for lower prices (i.e., strategic effect). Yet, luxury retailers frequently adopt markdowns in practice to stimulate the demand for their seasonal products (i.e., sales effect). To study the impact of these three countervailing effects on a luxury retailer’s markdown policy and rationing strategy, this paper develops a game-theoretic model with strategic and exclusivity-seeking consumers who have heterogeneous (high and low) valuations. We characterize a luxury retailer’s equilibrium markdown and rationing strategies, and find that the retailer induces a buying frenzy (i.e., selling deliberately less than the demand) to increase consumers’ willingness to pay when they are sufficiently exclusivity-seeking. We show that the retailer’s markdown policy depends on consumers’ desire for exclusivity when the proportion of consumers with high valuation is not too high or too low. Interestingly, we find that, in such cases, consumers’ higher desire for exclusivity does not motivate the retailer to increase exclusivity and to adopt uniform pricing. To the contrary, it motivates the retailer to decrease the exclusivity and to adopt markdowns. By doing so, we identify exclusivity-seeking consumer behavior as another rationale behind markdown pricing. Lastly, we find that, when selling to exclusivity-seeking consumers, the negative impact of strategic consumer behavior is lower; however, ignoring it can be more costly.",
+  "summary": {
+    "oneLiner": "Exclusivity-seeking behavior by consumers is a key, yet often overlooked, driver for luxury retailers to use markdowns and create artificial scarcity.",
+    "overview": "Luxury retailers often face a dilemma: markdowns can increase sales, but they threaten brand prestige and encourage strategic consumers to delay their purchases in hopes of a discount. This paper finds that when consumers highly value exclusivity, the retailer is actually motivated to implement markdowns and use 'buying frenzies'—deliberately limiting supply—to boost the perceived value of early access. Contrary to intuition, increasing a consumer's desire for exclusivity can sometimes lead a retailer to increase sales rather than restrict them. Ultimately, failing to account for strategic consumer behavior in this context can be significantly costly for a brand.",
+    "question": "When should a luxury retailer adopt markdowns, and what is the role of exclusivity-seeking and strategic consumer behavior in shaping these pricing and rationing strategies?",
+    "method": "The authors develop a game-theoretic model to analyze the interaction between a profit-maximizing retailer and a population of heterogeneous (high and low valuation), strategic, and exclusivity-seeking consumers over a two-period seasonal selling window.",
+    "data": "The analysis uses a theoretical modeling approach rather than empirical data, supported by numerical simulations and literature-based examples of luxury retail practices.",
+    "findings": [
+      "Exclusivity-seeking behavior by consumers can serve as a rationale for luxury retailers to adopt markdown pricing.",
+      "The retailer may induce a 'buying frenzy' (selling less than demand) to increase willingness to pay, even when uniform pricing is used.",
+      "Higher consumer desire for exclusivity does not always motivate a retailer to increase exclusivity; in some cases, it motivates decreasing exclusivity through markdowns to reach a wider customer base.",
+      "The negative impact of strategic consumer behavior on profit is lower when consumers are exclusivity-seeking compared to when they are not, as rationing increases the value of early consumption.",
+      "Ignoring strategic consumer behavior when customers are exclusivity-seeking can be highly costly, reducing profit by up to 45% in certain scenarios."
+    ],
+    "whyItMatters": "The findings challenge the common belief that luxury brands should avoid markdowns entirely. It suggests that markdown strategies and artificial scarcity are calculated responses to specific consumer psychological traits rather than just failures of brand management. Managers must calibrate their rationing and pricing by balancing the desire for exclusivity against the strategic waiting behavior of their customer base.",
+    "topics": [
+      "luxury retail",
+      "markdown pricing",
+      "conspicuous consumption",
+      "strategic consumers",
+      "buying frenzy",
+      "retail inventory management",
+      "consumer psychology"
+    ],
+    "industries": [
+      "luxury fashion",
+      "luxury retail"
+    ],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3123807928",
+      "type": "article",
+      "venue": "UCL Discovery (University College London)",
+      "year": 2019,
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10091991/"
+    }
+  ]
+}

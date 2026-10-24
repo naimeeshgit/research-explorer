@@ -1,0 +1,58 @@
+{
+  "id": "W4296047565",
+  "title": "Does a Government Mandate Crowd Out Voluntary Corporate Social Responsibility? Evidence from India",
+  "year": 2022,
+  "date": "2022-09-16",
+  "type": "article",
+  "venue": "Journal of Accounting Research",
+  "doi": "10.1111/1475-679x.12461",
+  "url": "https://doi.org/10.1111/1475-679x.12461",
+  "pdf": null,
+  "citations": 83,
+  "authors": [
+    {
+      "name": "Shivaram Rajgopal"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "ABSTRACT This study investigates the implementation of a Government of India mandate that requires firms to spend at least 2% of their profits on corporate social responsibility (CSR). The results show that qualifying firms that voluntarily engaged in CSR before the mandate reduce their CSR spending afterward. Despite increasing advertisement expenditure likely to offset the lost signaling value of voluntary CSR, stock prices and operating performance of former voluntary CSR spenders who qualify under the law decline. Our results suggest that regulatory intervention in CSR can both diminish its signaling value and lead to a reduction in voluntary CSR spending.",
+  "summary": {
+    "oneLiner": "A CSR mandate in India led firms that previously practiced voluntary CSR to reduce spending, negatively impacting their stock performance.",
+    "overview": "This study examines the unintended consequences of India's mandate requiring firms to spend 2% of their profits on Corporate Social Responsibility (CSR). The authors find that companies previously committed to CSR actually cut their spending once it became a legal requirement. This suggests that the mandate stripped CSR of its value as a voluntary signal of company quality to the market. Consequently, these firms saw a decline in both their stock prices and operating performance.",
+    "question": "Does a government mandate requiring firms to spend a portion of profits on corporate social responsibility (CSR) crowd out pre-existing voluntary CSR efforts?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Qualifying firms that previously engaged in voluntary CSR reduced their CSR spending after the mandate was implemented.",
+      "Firms increased advertisement expenditure, which the authors suggest is an attempt to compensate for the lost signaling value of their voluntary CSR.",
+      "The stock prices and operating performance of firms that were previously voluntary CSR spenders declined following the mandate."
+    ],
+    "whyItMatters": "The study suggests that regulatory intervention in CSR can backfire by diminishing the signaling value of voluntary social engagement, potentially hurting firm value rather than enhancing it.",
+    "topics": [
+      "Corporate Social Responsibility",
+      "CSR mandate",
+      "Signaling theory",
+      "Corporate governance",
+      "Regulatory impact",
+      "Firm performance"
+    ],
+    "industries": [],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

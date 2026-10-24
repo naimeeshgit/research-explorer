@@ -1,0 +1,64 @@
+{
+  "id": "W2102869915",
+  "title": "Real Options and the Diversication Discount",
+  "year": 2000,
+  "date": "2000-01-01",
+  "type": "article",
+  "venue": null,
+  "doi": null,
+  "url": "http://www.realoptions.org/papers2000/bernardo.pdf",
+  "pdf": null,
+  "citations": 13,
+  "authors": [
+    {
+      "name": "Antonio Bernardo-Sánchez"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Darius Palia"
+    },
+    {
+      "name": "Elena Sernova"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Lang and Stulz (1994) and Berger and Ofek (1995) documented that multi-segment diversiedrms trade at a discount relative to the sum of the market values of comparable single-segmentrms. Bernardo and Chowdhry (1999) o®er one possible explanation for the diversication discount: the market value of single-segmentrms in- clude the value of real options to diversify and expand in other seg- ments whereas multi-segment diversiedrms have perhaps exhausted their options to diversify and expand. In this paper, we document ev- idence that the diversication discount is increasing in variables that proxy for real options. In particular, wend that the diversication discount is increasing in R&D expenditures of single-segmentrms, decreasing in the age of the single-segmentrms, and increasing in market volatility.",
+  "summary": {
+    "oneLiner": "Diversification discounts tend to be larger where single-segment firms have more R&D and volatility, and less firm age, consistent with lost real options.",
+    "overview": "Multi-segment diversified firms are known to trade at a discount compared with the combined value of comparable single-segment firms. The authors build on Bernardo and Chowdhry (1999), who argue that single-segment firms are worth more because they keep valuable real options (the flexibility to expand or enter new businesses later, without an obligation to do so). Diversified firms may have already used up these options. The paper reports evidence that the size of the discount rises with proxies for these options, including R&D spending and market volatility of single-segment firms, and falls with their age.",
+    "question": "Is the diversification discount related to the real options that single-segment firms hold, such as options to diversify and expand into other segments?",
+    "method": "The abstract does not name a specific statistical technique. It says the authors document evidence by relating the diversification discount to variables that proxy for real options: R&D expenditures and age of single-segment firms, and market volatility.",
+    "data": "The abstract refers to multi-segment diversified firms and comparable single-segment firms. The sample size, time period, and countries are not stated in the available text.",
+    "findings": [
+      "The diversification discount is increasing in variables that proxy for real options, according to the authors.",
+      "The discount is increasing in R&D expenditures of single-segment firms.",
+      "The discount is decreasing in the age of single-segment firms.",
+      "The discount is increasing in market volatility."
+    ],
+    "whyItMatters": "Not stated in the available text.",
+    "topics": [
+      "diversification discount",
+      "real options",
+      "conglomerate discount",
+      "R&D expenditures",
+      "firm age",
+      "market volatility",
+      "multi-segment firms"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "W1970044330",
+  "title": "Resources, real options, and corporate strategy",
+  "year": 2002,
+  "date": "2002-02-01",
+  "type": "article",
+  "venue": "Journal of Financial Economics",
+  "doi": "10.1016/s0304-405x(01)00094-0",
+  "url": "https://doi.org/10.1016/s0304-405x(01)00094-0",
+  "pdf": "https://www.escholarship.org/uc/item/2m96n2gw.pdf;origin=repeccitec",
+  "citations": 221,
+  "authors": [
+    {
+      "name": "Antonio E. Bernardo"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "A firm's resources are difficult to identify and imitate. Firms learn about their resources by undertaking real investments and observing the outcomes. The types of real investments a firm will make depends on what the firm is expected to learn from the outcomes of these investments and the real options that are available for it to exploit in the future. We predict that firms will follow a life-cycle in which they specialize when young, diversify after some time and then either expand into a large diversified firm or focus and specialize. We explain why similar investment opportunities are valued dierently by firms, offer a possible explanation for the well-documented diversification discount, and characterize the heterogeneity in corporate investment behavior and in the market price reaction of firms' traded securities to signals of firm performance.",
+  "summary": {
+    "oneLiner": "Firms learn their hidden resources by making investments and watching outcomes, which drives a life cycle from specialization to diversification and explains the diversification discount.",
+    "overview": "The paper argues that a firm's resources are hard to see and hard to copy, so firms find out what they are good at by making real investments and observing the results. What a firm invests in depends on what it expects to learn from those outcomes and on the future options it could exploit. The authors predict a life cycle: young firms specialize, later diversify, and then either grow into large diversified firms or refocus and specialize again. The model is also offered as a possible explanation for the well-documented diversification discount, and it describes how firms differ in investment behavior and in how their share prices react to signals of performance. The abstract does not describe any empirical test; the argument is framed in terms of the model's predictions.",
+    "question": "How do firms learn about their hard-to-identify resources through real investments, and how does that learning shape corporate strategy, diversification, and investment behavior over a firm's life?",
+    "method": "Not stated in the available text. The abstract refers to predictions and characterizations, which suggests a theoretical analysis, but it does not name the method explicitly.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Firms are predicted to follow a life cycle: they specialize when young, diversify after some time, and then either expand into a large diversified firm or focus and specialize.",
+      "Similar investment opportunities can be valued differently by different firms.",
+      "The model offers a possible explanation for the well-documented diversification discount.",
+      "The model characterizes heterogeneity in corporate investment behavior and in the market price reaction of traded securities to signals of firm performance."
+    ],
+    "whyItMatters": "The paper suggests that corporate strategy, including whether to diversify or focus, depends on what firms learn from past investments and on their future options. For managers, this implies that the value of an investment opportunity depends on the firm's own learning and resources, not only on the opportunity itself. For investors, it offers a possible explanation for the diversification discount and for how share prices may react to performance signals.",
+    "topics": [
+      "real options",
+      "corporate diversification",
+      "diversification discount",
+      "firm resources",
+      "corporate strategy",
+      "firm life cycle",
+      "organizational learning",
+      "investment behavior"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3123491616",
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "year": 1998,
+      "url": "https://www.escholarship.org/uc/item/2m96n2gw.pdf;origin=repeccitec"
+    }
+  ]
+}

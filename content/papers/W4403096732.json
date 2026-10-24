@@ -1,0 +1,45 @@
+{
+  "id": "W4403096732",
+  "title": "Does social capital positively influence loan performance even during a crisis?",
+  "year": 2024,
+  "date": "2024-10-03",
+  "type": "article",
+  "venue": "Journal of Development Economics",
+  "doi": "10.1016/j.jdeveco.2024.103384",
+  "url": "https://doi.org/10.1016/j.jdeveco.2024.103384",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    {
+      "name": "Sumit D. Agarwal"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    },
+    {
+      "name": "Nitin Vishen"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W4385844269",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2023,
+      "url": "https://doi.org/10.2139/ssrn.4534361"
+    },
+    {
+      "id": "W4232091100",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2021,
+      "url": "https://doi.org/10.2139/ssrn.3909257"
+    }
+  ]
+}

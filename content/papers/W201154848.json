@@ -1,0 +1,62 @@
+{
+  "id": "W201154848",
+  "title": "Successfully Governing Business Process Outsourcing Relationships",
+  "year": 2006,
+  "date": "2006-01-01",
+  "type": "article",
+  "venue": "Journal of the Association for Information Systems",
+  "doi": null,
+  "url": "https://aisel.aisnet.org/misqe/vol5/iss1/4",
+  "pdf": null,
+  "citations": 78,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Andrew B. Whinston"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Business Process Outsourcing (BPO) has matured into a powerful organizational lever for achieving a variety of strategic business objectives. But despite BPO’s strategic promise, many organizations are unprepared for the governance of this new way of working. Thus, many outsourcing programs fall short.We suggest that insufficient attention to BPO governance is the main reason BPO relationships fail to deliver value. We present a governance model that increases the odds of BPO success. It is based on the premise that three key requirements of the outsourced process—its interdependence with other processes, its complexity, and its strategic importance to the enterprise—should determine three key BPO governance capabilities—the outsourcing contract, relationship management, and technical capabilities. When this alignment is explicit, the relationship will succeed. We have tested the model using survey data on 137 BPO relationships. We illustrate the model’s premise using the successful experiences of Merrill Lynch and Qatar Airways at governing very different business processes, one transformational and the other transactional.",
+  "summary": {
+    "oneLiner": "Successful BPO depends on matching the outsourced process's interdependence, complexity and strategic importance with contract, relationship and technical governance.",
+    "overview": "Business process outsourcing (BPO) is handing a business process, such as a back-office function, to an outside provider. The authors argue that many BPO programs fall short mainly because firms give too little attention to how the relationship is governed. They propose a model in which three features of the outsourced process (how interdependent it is with other processes, how complex it is, and how strategically important it is) should determine three governance capabilities: the outsourcing contract, relationship management, and technical capabilities. They tested the model with survey data from 137 BPO relationships and illustrated it with the experiences of Merrill Lynch and Qatar Airways, which governed very different kinds of processes.",
+    "question": "How should an organization govern a business process outsourcing relationship so that it delivers value, given the process's interdependence, complexity and strategic importance?",
+    "method": "The authors present a governance model and test it using survey data. They also illustrate the model's premise with case examples of Merrill Lynch and Qatar Airways.",
+    "data": "Survey data on 137 BPO relationships, plus the two named case examples (Merrill Lynch and Qatar Airways). The abstract does not state the time period.",
+    "findings": [
+      "The authors suggest that insufficient attention to BPO governance is the main reason BPO relationships fail to deliver value.",
+      "Three key requirements of the outsourced process (interdependence with other processes, complexity, and strategic importance) should determine three governance capabilities: the outsourcing contract, relationship management, and technical capabilities.",
+      "The authors state that when this alignment between process requirements and governance capabilities is explicit, the relationship will succeed.",
+      "The model was tested with survey data on 137 BPO relationships, and its premise is illustrated with the experiences of Merrill Lynch and Qatar Airways at governing one transformational and one transactional process."
+    ],
+    "whyItMatters": "The paper suggests that managers can raise the odds of BPO success by deliberately designing governance (contract, relationship management and technical capabilities) to fit the characteristics of the process being outsourced, rather than treating outsourcing as a simple transfer of work.",
+    "topics": [
+      "business process outsourcing",
+      "BPO governance",
+      "outsourcing contracts",
+      "relationship management",
+      "IT outsourcing",
+      "outsourcing success",
+      "process interdependence",
+      "strategic outsourcing"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

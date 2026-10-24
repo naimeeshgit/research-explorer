@@ -1,0 +1,67 @@
+{
+  "id": "W1973858400",
+  "title": "Internal financing of multinational subsidiaries: Debt vs. equity",
+  "year": 1998,
+  "date": "1998-03-01",
+  "type": "article",
+  "venue": "Journal of Corporate Finance",
+  "doi": "10.1016/s0929-1199(97)00011-4",
+  "url": "https://doi.org/10.1016/s0929-1199(97)00011-4",
+  "pdf": null,
+  "citations": 69,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Joshua D. Coval"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We show that an optimal tax management strategy for financing of subsidiaries by multinational corporations, that takes into account exploitation of tax-loss credits, may involve the use of both intra-firm parent debt as well as intra-firm parent equity. This is in contrast to the textbook argument that suggests a knife-edged subsidiary capital structure that, depending on the tax-rate differential between countries, uses either all debt or all equity. We develop a formal multi-period dynamic model to characterize the optimal dividend repatriation policy and the optimal choice of debt-equity mix. The model generates several testable empirical implications that are consistent with available empirical evidence and several others that have not been either discussed or empirically tested in the literature.",
+  "summary": {
+    "oneLiner": "Multinationals may optimally fund foreign subsidiaries with a mix of parent debt and parent equity, not the all-debt or all-equity answer textbooks suggest.",
+    "overview": "Multinational firms can fund their foreign subsidiaries either with loans from the parent (debt) or with parent-owned shares (equity), and tax rules shape which is cheaper. The standard textbook view says the best choice is an extreme one, all debt or all equity, depending on the tax gap between countries. This paper argues that, once the use of tax-loss credits is taken into account, the optimal policy may combine both debt and equity. The authors build a multi-period dynamic model to characterise the best dividend repatriation policy and debt-equity mix. They say the model yields several testable empirical implications, some consistent with existing evidence and others not previously discussed or tested.",
+    "question": "What is the optimal way for a multinational parent to finance its subsidiaries through intra-firm debt and equity, once tax-loss credits and dividend repatriation are considered?",
+    "method": "A formal multi-period dynamic model, used to characterise the optimal dividend repatriation policy and the optimal debt-equity mix. The abstract describes the model's outputs but does not describe any empirical estimation beyond comparing its implications with existing evidence.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "An optimal tax management strategy that accounts for exploitation of tax-loss credits may involve using both intra-firm parent debt and intra-firm parent equity.",
+      "This contrasts with the textbook argument for a knife-edged subsidiary capital structure, which uses all debt or all equity depending on the tax-rate differential between countries.",
+      "The model generates several testable empirical implications that the authors say are consistent with available empirical evidence.",
+      "The model also generates several other implications that the authors say have not been either discussed or empirically tested in the literature."
+    ],
+    "whyItMatters": "The paper suggests that multinational treasury and tax planning should not assume an all-debt or all-equity funding rule for subsidiaries, since a mixed structure may be optimal when tax-loss credits matter. The authors also point to testable predictions that future empirical work could examine.",
+    "topics": [
+      "multinational finance",
+      "internal capital markets",
+      "intra-firm debt",
+      "tax management",
+      "dividend repatriation",
+      "subsidiary capital structure",
+      "tax-loss credits",
+      "debt vs equity"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3123375725",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 1999,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467"
+    }
+  ]
+}

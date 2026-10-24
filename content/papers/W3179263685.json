@@ -1,0 +1,76 @@
+{
+  "id": "W3179263685",
+  "title": "An Unstructured Supplementary Service Data System for Daily Tracking of Patient Samples and Diagnostic Results in a Diagnostic Network in Malawi: System Development and Field Trial",
+  "year": 2021,
+  "date": "2021-07-06",
+  "type": "article",
+  "venue": "Journal of Medical Internet Research",
+  "doi": "10.2196/26582",
+  "url": "https://doi.org/10.2196/26582",
+  "pdf": "https://www.jmir.org/2021/7/e26582/PDF",
+  "citations": 11,
+  "authors": [
+    {
+      "name": "Daniel Killian"
+    },
+    {
+      "name": "Emma Gibson"
+    },
+    {
+      "name": "Mphatso Kachule"
+    },
+    {
+      "name": "Kara M. Palamountain"
+    },
+    {
+      "name": "Joseph Bitilinyu Bangoh"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Jónas Oddur Jónasson"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Diagnostics in many low- and middle-income countries are conducted through centralized laboratory networks. Samples are collected from patients at remote point-of-care health facilities, and diagnostic tests are performed at centralized laboratories. Sample transportation systems that deliver diagnostic samples and test results are crucial for timely diagnosis and treatment in such diagnostic networks. However, they often lack the timely and accurate data (eg, the quantity and location of samples prepared for collection) required for efficient operation. OBJECTIVE: This study aims to demonstrate the feasibility, adoption, and accuracy of a distributed data collection system that leverages basic mobile phone technology to gather reports on the quantity and location of patient samples and test results prepared for delivery in the diagnostic network of Malawi. METHODS: We designed a system that leverages unstructured supplementary service data (USSD) technology to enable health workers to submit daily reports describing the quantity of transportation-ready diagnostic samples and test results at specific health care facilities, free of charge with any mobile phone, and aggregate these data for sample transportation administrators. We then conducted a year-long field trial of this system in 51 health facilities serving 3 districts in Malawi. Between July 2019 and July 2020, the participants submitted daily reports containing the number of patient samples or test results designated for viral load, early infant diagnosis, and tuberculosis testing at each facility. We monitored daily participation and compared the submitted USSD reports with program data to assess system feasibility, adoption, and accuracy. RESULTS: The participating facilities submitted 37,771 reports over the duration of the field trial. Daily facility participation increased from an average of 50% (26/51) in the first 2 weeks of the trial to approximately 80% (41/51) by the midpoint of the trial and remained at or above 80% (41/51) until the conclusion of the trial. On average, more than 80% of the reports submitted by a facility for a specific type of sample matched the actual number of patient samples collected from that facility by a courier. CONCLUSIONS: Our findings suggest that a USSD-based system is a feasible, adoptable, and accurate solution to the challenges of untimely, inaccurate, or incomplete data in diagnostic networks. Certain design characteristics of our system, such as the use of USSD, and implementation characteristics, such as the supportive role of the field team, were necessary to ensure high participation and accuracy rates without any explicit financial incentives.",
+  "summary": {
+    "oneLiner": "A USSD-based mobile phone system improves data collection accuracy and facility participation in tracking diagnostic samples within laboratory networks in Malawi.",
+    "overview": "In many low-income countries, the process of transporting samples from remote clinics to centralized labs is inefficient due to poor data tracking. This study tested a system using Unstructured Supplementary Service Data (USSD), a basic mobile technology that works on any phone without requiring internet. Health workers used this system to report daily sample quantities, achieving high levels of participation and accuracy over a one-year trial. The findings suggest that this low-cost digital tool can significantly improve logistics management in diagnostic networks without requiring financial incentives.",
+    "question": "Can a USSD-based mobile phone system provide a feasible, accurate, and adoptable method for tracking diagnostic samples and test results in the Malawi diagnostic network?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "A USSD-based system is a feasible, adoptable, and accurate solution to the challenges of untimely, inaccurate, or incomplete data in diagnostic networks.",
+      "Daily facility participation increased from 50% in the first two weeks to approximately 80% by the midpoint and sustained that level until the end of the trial.",
+      "On average, more than 80% of submitted reports matched the actual number of samples collected by couriers."
+    ],
+    "whyItMatters": "The study suggests that design choices like using USSD technology and providing supportive field teams are critical for operational success in resource-constrained environments, even in the absence of financial incentives.",
+    "topics": [
+      "diagnostic networks",
+      "healthcare logistics",
+      "mobile health",
+      "USSD technology",
+      "operations management",
+      "low-income country healthcare"
+    ],
+    "industries": [
+      "healthcare",
+      "diagnostic laboratories"
+    ],
+    "geographies": [
+      "Malawi"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

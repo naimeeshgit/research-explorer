@@ -1,0 +1,59 @@
+{
+  "id": "W3129734105",
+  "title": "Pricing your outsourcing contract in uncertainty",
+  "year": 2020,
+  "date": "2020-05-01",
+  "type": "book",
+  "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+  "doi": null,
+  "url": "https://eprints.exchange.isb.edu/id/eprint/1372/",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Sumit Joshi"
+    },
+    {
+      "name": "Ranjani Krishnan"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "A study examines the impact that volatility and ambiguity can have on whether a fixed-price or cost-plus contract provides greater benefit in strategic outsourcing agreements.",
+  "summary": {
+    "oneLiner": "This abstract examines how volatility and ambiguity affect whether fixed-price or cost-plus outsourcing contracts offer greater benefit. It does not report results.",
+    "overview": "The paper looks at how a company should choose between two ways of paying an outsourcing provider: a fixed-price contract, where the price is agreed in advance, and a cost-plus contract, where the provider is repaid its costs plus a fee. The authors focus on two sources of difficulty, volatility (how much conditions change) and ambiguity (how unclear the situation is). The abstract says the study examines their impact on which contract gives greater benefit in strategic outsourcing agreements. It does not state what the authors found.",
+    "question": "How do volatility and ambiguity affect whether a fixed-price or a cost-plus contract provides greater benefit in strategic outsourcing agreements?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The abstract does not report specific findings. It states only that the study examines the impact of volatility and ambiguity on whether a fixed-price or cost-plus contract provides greater benefit."
+    ],
+    "whyItMatters": "The abstract does not state implications for managers, policymakers or investors. Its stated focus is on how contract choice in strategic outsourcing depends on volatility and ambiguity, which is a question relevant to anyone pricing or negotiating outsourcing contracts.",
+    "topics": [
+      "outsourcing contracts",
+      "fixed-price contract",
+      "cost-plus contract",
+      "contract pricing",
+      "strategic outsourcing",
+      "uncertainty",
+      "volatility",
+      "ambiguity"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "W2904441664",
+  "title": "Impact of Formal Controls on Client Satisfaction and Profitability in Strategic Outsourcing Contracts",
+  "year": 2018,
+  "date": "2018-10-02",
+  "type": "article",
+  "venue": "Journal of Management Information Systems",
+  "doi": "10.1080/07421222.2018.1522895",
+  "url": "https://doi.org/10.1080/07421222.2018.1522895",
+  "pdf": null,
+  "citations": 24,
+  "authors": [
+    {
+      "name": "Nishtha Langer"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "The reach and impact of outsourcing has grown rapidly to include a variety of strategic objectives. Significant issues of cooperation and coordination in strategic outsourcing necessitate investments in formal controls that specify and monitor execution of the outsourced task to mitigate unforeseen contingencies and improve predictability in the attainment of desirable goals. In this study, we investigate the nature of formal controls in strategic outsourcing contracts and their impact on client satisfaction and financial performance. Specifically, using rich field data on 390 strategic outsourcing contracts, we examine the differential impact of output controls, activity controls, and capability controls on client satisfaction and vendor profitability. We find that activity and capability controls are positively associated with client satisfaction and profitability; in contrast, output controls differentially impact satisfaction and profitability, reflecting potential tradeoffs between the two outcomes. Our results, in addition to contributing to the research in control theory, provide actionable insights for technology vendors into the appropriate strategy and tactics required to compete efficiently and effectively in strategic services markets.",
+  "summary": {
+    "oneLiner": "Activity and capability controls are positively associated with client satisfaction and vendor profitability in strategic outsourcing; output controls show tradeoffs between the two.",
+    "overview": "Strategic outsourcing, where firms hand over work that supports their core goals, needs formal controls, meaning written mechanisms that specify and monitor how the outsourced work is carried out. The authors study 390 strategic outsourcing contracts and compare three kinds of control: output controls (judging the vendor by results), activity controls (monitoring the work as it is done), and capability controls (controls focused on the vendor's abilities). They find that activity and capability controls are positively associated with both client satisfaction and vendor profitability. Output controls affect satisfaction and profitability differently, which the authors read as a possible tradeoff between the two outcomes.",
+    "question": "How do output, activity, and capability controls in strategic outsourcing contracts affect client satisfaction and vendor profitability?",
+    "method": "The authors examine the differential impact of the three types of formal control on client satisfaction and vendor profitability. The abstract does not name the specific statistical technique used.",
+    "data": "Rich field data on 390 strategic outsourcing contracts. The time period and specific industry setting are not stated in the available text.",
+    "findings": [
+      "Activity and capability controls are positively associated with client satisfaction and profitability.",
+      "Output controls differentially impact satisfaction and profitability, reflecting potential tradeoffs between the two outcomes."
+    ],
+    "whyItMatters": "The authors say the study contributes to control theory and gives technology vendors actionable insights on the strategy and tactics needed to compete efficiently and effectively in strategic services markets.",
+    "topics": [
+      "strategic outsourcing",
+      "formal controls",
+      "client satisfaction",
+      "vendor profitability",
+      "output controls",
+      "activity controls",
+      "capability controls",
+      "control theory",
+      "IT services contracts"
+    ],
+    "industries": [
+      "Technology services (strategic outsourcing)"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

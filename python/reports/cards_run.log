@@ -1,0 +1,321 @@
+Model gemini-3.1-flash-lite, prompt card_v1
+Cards to generate: 177  (full text 42, abstract only 135)  |  unchanged: 0  |  skipped: 156 (see reports/cards_skipped.csv)
+Estimated cost at paid-tier prices: $0.57  (~997,891 input tokens by chars ÷ 3.5, ~212,400 output tokens). On the free tier: $0.
+Estimated time: at least 13 min (4.5s between calls, LLM_MIN_SECONDS_BETWEEN_CALLS).
+  [1/177] ok     abstract_only Multimarket Trading and Market Liquidity
+  [2/177] ok     abstract_only Investing for Impact
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [3/177] ok     abstract_only Corporate Risk Management for Multinational Corporations: Fi
+  [4/177] ok     abstract_only Stabilization, Syndication, and Pricing of IPOs
+  [5/177] ok     abstract_only Leverage and Market Stability: The Role of Margin Rules and 
+  [6/177] ok     abstract_only Growth Options, Beta, and the Cost of Capital
+  [7/177] ok     abstract_only Some Evidence that a Tobin Tax on Foreign Exchange Transacti
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [8/177] ok     abstract_only Repurchase Premia as a Reason for Dividends: A Dynamic Model
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [9/177] ok     abstract_only Pre-Tender Offer Share Acquisition Strategy in Takeovers
+  [10/177] ok     abstract_only What is Different about International Lending?
+  [11/177] ok     abstract_only The Strategic Role of Debt in Takeover Contests
+  [12/177] ok     abstract_only Assessing Project Risk
+  [13/177] ok     abstract_only Corporate Hedging of Exchange Risk When Foreign Currency Cas
+  [14/177] ok     abstract_only Franchising Microfinance
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [15/177] ok     abstract_only Extracting Inflation from Stock Returns to Test Purchasing P
+  [16/177] ok     abstract_only POSSIBILITY OF DYING AS A UNIFIED EXPLANATION OF WHY WE DISC
+  [17/177] ok     abstract_only Real Options and the Diversication Discount
+  [18/177] ok     full_text     Information Aggregation, Security Design, and Currency Swaps
+  [19/177] ok     abstract_only How Should Firms Hedge Market Risk?
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 22s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 41s
+  [20/177] ok     abstract_only Stabilization, Syndication, and Pricing of IPOs
+  [21/177] ok     abstract_only International Differences in Oversubscription and Underprici
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [22/177] ok     abstract_only Organization Capital and Intrafirm Communication
+  [23/177] ok     abstract_only The Winner's Curse and international Methods of Allocating I
+  [24/177] ok     abstract_only Internal Financing of Multinational Subsidiaries: Debt vs. E
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+  [25/177] ok     abstract_only Transactions Costs in the Foreign Exchange Market
+  [26/177] ok     full_text     Information Aggregation, Security Design, and Currency Swaps
+  [27/177] ok     abstract_only Extracting Inflation from Stock Returns to test Purchasing P
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+  [28/177] ok     full_text     Information Aggregation, Currency Swaps, and the Design of D
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [29/177] ok     abstract_only International Debt Crisis and the Prices of Options of Bank 
+  [30/177] ok     abstract_only Pricing Microfinance Loans and Loan Guarantees using Biased 
+  [31/177] ok     abstract_only Exchange Risk Management and Corporate Capital Structure
+  [32/177] ok     abstract_only Why is CEO compensation excessive and unrelated to their per
+  [33/177] ok     abstract_only Financial versus operational hedging
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+  [34/177] ok     abstract_only Resources, real options, and corporate strategy
+  [35/177] ok     abstract_only Defaults and Interest Rates in International Lending
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 41s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 81s
+  [36/177] ok     abstract_only Why Real Interest Rates, Cost of Capital and Price/Earnings 
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+  [37/177] ok     full_text     An Empirical Analysis of the Impact of Information Capabilit
+  [38/177] ok     abstract_only Research Commentary—Cooperation, Coordination, and Governanc
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [39/177] ok     abstract_only The Impact of Ride-Hailing Services on Congestion: Evidence 
+  [40/177] ok     abstract_only An Empirical Analysis of the Contractual and Information Str
+  [41/177] ok     abstract_only Successfully Governing Business Process Outsourcing Relation
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+  [42/177] ok     abstract_only Social Capital and Contract Duration in Buyer-Supplier Netwo
+  [43/177] ok     abstract_only Efficacy of R&D Work in Offshore Captive Centers: An Empiric
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [44/177] ok     abstract_only Outsourcing Contracts and Equity Prices
+  [45/177] ok     abstract_only Impact of Formal Controls on Client Satisfaction and Profita
+  [46/177] ok     abstract_only The differential impacts of markets for technology on the va
+  [47/177] ok     abstract_only Augmenting Conflict Resolution with Informational Response: 
+  [48/177] ok     abstract_only Growing Technological Relatedness to the ICT Industry and It
+  [49/177] ok     abstract_only The Impact of Firm Learning on Value Creation in Strategic O
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [50/177] ok     abstract_only Reexamining the Market Value of Information Technology Event
+  [51/177] ok     abstract_only AI and Immunity to the COVID-19 Pandemic
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [52/177] ok     abstract_only Uncertainty and Compensation Design in Strategic Interfirm C
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [53/177] ok     abstract_only Information Privacy Concerns of Real Estate Customers and In
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+  [54/177] ok     abstract_only Information Systems Sourcing
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 40s
+  [55/177] ok     abstract_only How Firms Build Isolating Mechanisms for Knowledge: A Study 
+  [56/177] ok     abstract_only Understanding the Information Security Awareness Process in 
+  [57/177] ok     full_text     A Tree-Based Approach for Addressing Self-Selection in Impac
+  [58/177] ok     abstract_only Collaboration, Automation, and Cognitive Aids Technologies t
+  [59/177] ok     abstract_only Essays on the organization and value of outsourcing relation
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [60/177] ok     abstract_only How Investors Constrain Digital Innovation
+  [61/177] ok     abstract_only Friends with Benefits: The Role of Social Learning In Techno
+  [62/177] ok     abstract_only Uncertainty and Compensation Design in Strategic Inter-Firm 
+  [63/177] ok     abstract_only Pricing your outsourcing contract in uncertainty
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [64/177] ok     full_text     Transportation Technology and Gentrification: Evidence from 
+  [65/177] ok     abstract_only Fintech for the Poor: Financial Intermediation Without Discr
+  [66/177] ok     abstract_only Does a Government Mandate Crowd Out Voluntary Corporate Soci
+  [67/177] ok     abstract_only Bank Cleanups, Capitalization, and Lending: Evidence from In
+  [68/177] ok     full_text     Effects of CEO Turnover in Banks: Evidence Using Exogenous T
+  [69/177] ok     full_text     Borrowers’ Distress and Debt Relief: Evidence from a Natural
+  [70/177] ok     abstract_only Creditors’ Rights and Strategic Default: Evidence from India
+  [71/177] ok     abstract_only Contagious Effects of a Political Intervention in Debt Contr
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+  [72/177] ok     abstract_only Relationship Banking and Monetary Policy Transmission: Evide
+  [73/177] ok     abstract_only Indirect Evergreening Using Related Parties: Evidence From I
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [74/177] ok     full_text     Does labor composition impact the transmission of monetary p
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [75/177] ok     abstract_only Bankruptcy law and equity capital: Evidence from India
+  [76/177] ok     abstract_only Government Employment Guarantee, Labor Supply, and Firms’ Re
+  [77/177] ok     abstract_only Costs of Job Rotation: Evidence from Mandatory Loan Officer 
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 41s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 81s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 120s
+  [78/177] FAILED full_text     Board conduct in banks  -> gemini-3.1-flash-lite: gave up after repeated rate-limit/server errors
+  [79/177] ok     full_text     Do Derivatives Matter?: Evidence from a Policy Experiment
+  [80/177] ok     abstract_only Do bank boards focus adequately on risk?
+  [81/177] ok     abstract_only Creditor Rights and Strategic Default: Evidence from India
+  [82/177] ok     abstract_only How Does a Health Insurance Program Covering 500 Million Poo
+  [83/177] ok     abstract_only Familiarity Breeds Contagion ∗
+  [84/177] ok     abstract_only The Role of Bank CEOs in Zombie Lending During a Crisis: Evi
+  [85/177] ok     abstract_only Preventing Defaults in Response to Deteriorating Bank Health
+  [86/177] ok     full_text     What's in a vote? The short- and long-run impact of dual-cla
+  [87/177] ok     abstract_only SHORT‐TERM RETURN PREDICTABILITY AND REPETITIVE INSTITUTIONA
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+  [88/177] ok     full_text     Information revelation in the futures market: Evidence from 
+  [89/177] ok     abstract_only Active vs. Passive ETFs
+  [90/177] ok     abstract_only Cournot Competition Under Yield Uncertainty: The Case of the
+  [91/177] ok     abstract_only Consumption Externality and Yield Uncertainty in the Influen
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 41s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 82s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 120s
+  [92/177] FAILED full_text     Learning from Many: Partner Exposure and Team Familiarity in  -> gemini-3.1-flash-lite: gave up after repeated rate-limit/server errors
+  [93/177] ok     full_text     Risk Stratification for Early Detection of Diabetes and Hype
+  [94/177] ok     abstract_only Multichannel Delivery in Healthcare: The Impact of Telemedic
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+  [95/177] ok     abstract_only Improving Health Outcomes Through Better Capacity Allocation
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [96/177] ok     abstract_only Centralized vs. Decentralized Ambulance Diversion: A Network
+  [97/177] ok     abstract_only The Impact of Size and Occupancy of Hospital on the Extent o
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 42s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 80s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 120s
+  [98/177] FAILED full_text     The Importance of Implementation Strategy in Scaling Up Xper  -> gemini-3.1-flash-lite: gave up after repeated rate-limit/server errors
+  [99/177] ok     full_text     Optimal Decentralization of Early Infant Diagnosis of HIV in
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+  [100/177] ok     full_text     Improving HIV Early Infant Diagnosis Supply Chains in Sub-Sa
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [101/177] ok     full_text     Do Diagnosis Delays Impact Receipt of Test Results? Evidence
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [102/177] ok     abstract_only Slow First, Fast Later: Temporal Speed‐Up in Service Episode
+  [103/177] ok     full_text     Planning for HIV Screening, Testing, and Care at the Veteran
+  [104/177] ok     abstract_only Improving vaccination coverage and timeliness through period
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+  [105/177] ok     abstract_only Modeling the Impact of Alternative Strategies for Rapid Mole
+  [106/177] ok     full_text     Modelling the impact of effective private provider engagemen
+  [107/177] ok     abstract_only Cost-Effectiveness of Improved Hypertension Management in In
+  [108/177] ok     abstract_only Community health worker-led, technology-enabled private sect
+  [109/177] ok     abstract_only Role of community health workers in improving cost efficienc
+  [110/177] ok     abstract_only Implementation and Operational Research
+  [111/177] ok     abstract_only Redesigning Sample Transportation in Malawi Through Improved
+  [112/177] ok     abstract_only Leveraging Digital Technology to Improve Monitoring and Plan
+  [113/177] ok     full_text     Modeling the Impact of Integrating HIV and Outpatient Health
+  [114/177] ok     abstract_only What would it cost to scale-up private sector engagement eff
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 42s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 82s
+  [115/177] ok     full_text     Predicting the impact of patient and private provider behavi
+  [116/177] ok     abstract_only Associations Between Organizational Characteristics and Qual
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [117/177] ok     abstract_only Managing virtual appointments in chronic care
+  [118/177] ok     abstract_only Markdowns in Seasonal Conspicuous Goods
+  [119/177] ok     abstract_only Leveraging Providers’ Preferences to Customize Instructional
+  [120/177] ok     full_text     Combining serology with case-detection, to allow the easing 
+  [121/177] ok     abstract_only Routine childhood vaccination in India from 2005–2006 to 201
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [122/177] ok     full_text     Planning a Community Approach to Diabetes Care in Low- and M
+  [123/177] ok     abstract_only Private provider practices and incentives for hypertension m
+  [124/177] ok     full_text     Understanding Providers’ Attitude Toward AI in India’s Infor
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [125/177] ok     abstract_only Initiative for Promoting Affordable and Quality Tuberculosis
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [126/177] ok     abstract_only An Unstructured Supplementary Service Data System for Daily 
+  [127/177] ok     full_text     Optimizing Tuberculosis Case Detection through a Novel Diagn
+  [128/177] ok     full_text     Optimal Scale‐Up of HIV Treatment Programs in Resource‐Limit
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [129/177] ok     full_text     Outcomes of a hypertension care program based on task-sharin
+  [130/177] ok     abstract_only Managing EMS systems with user abandonment in emerging econo
+  [131/177] ok     abstract_only Integrating Xpert MTB/RIF for TB diagnosis in the private se
+  [132/177] ok     full_text     Impact of a financial incentive scheme on purchase of fruits
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [133/177] ok     abstract_only Field sales force model to increase adoption of a novel tube
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 40s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 82s
+  [134/177] ok     abstract_only Technology-Enabled Agent Choice and Uptake of Social Assista
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [135/177] ok     full_text     Impact of organizational factors on adherence to laboratory 
+  [136/177] ok     abstract_only Optimizing Flu Vaccine Planning at NorthShore University Hea
+  [137/177] ok     full_text     SMART (artificial intelligence enabled) DROP (diabetic retin
+  [138/177] ok     abstract_only Issues Arising from Managing a Rental Store: Rental Duration
+  [139/177] ok     full_text     When to relax a lockdown? A modelling-based study of testing
+  [140/177] ok     abstract_only Cournot Competition Under Yield Uncertainty: The Case of the
+  [141/177] ok     abstract_only Do Diagnosis Delays Impact Receipt of Test Results? Evidence
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [142/177] ok     abstract_only Did India’s Price Control Policy for Coronary Stents Create 
+  [143/177] ok     abstract_only Optimal procurement, disposal and pricing policies for manag
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+  [144/177] ok     abstract_only Mobile C.A.R.E.
+  [145/177] ok     abstract_only Adani Wilmar Limited (AWL)
+  [146/177] ok     abstract_only Associations between organizational characteristics and inte
+  [147/177] ok     abstract_only Infant HIV Diagnostics: Supply Chain in Sub-Saharan Africa
+  [148/177] ok     abstract_only Adani wilmar limited
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+  [149/177] ok     abstract_only PRE-HOSPITAL PATIENT TRANSFER BY HELICOPTER AMBULANCE: SHOUL
+  [150/177] ok     full_text     Delays, behaviour and transmission: modelling the impact of 
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [151/177] ok     abstract_only Announcing Waiting Time in Emergency Departments
+  [152/177] ok     full_text     Markdowns in Seasonal Conspicuous Goods
+  [153/177] ok     abstract_only Managing virtual appointments in chronic care
+  [154/177] ok     abstract_only Risk Stratification for Early Detection of Diabetes and Hype
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [155/177] ok     abstract_only An Unstructured Supplementary Service Data System for Daily 
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [156/177] ok     abstract_only Ndlovu
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [157/177] ok     abstract_only Impact of organizational factors on adherence to laboratory 
+  [158/177] ok     abstract_only Process evaluation of a financial incentive scheme to increa
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [159/177] ok     abstract_only Most Believe in Artificial Intelligence, but Many Do not Wan
+  [160/177] ok     abstract_only Private provider practices and incentives for hypertension m
+  [161/177] ok     abstract_only Evaluating novel methods of enhancing the impact of financia
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [162/177] ok     full_text     Unintended consequences of a financial incentive scheme for 
+  [163/177] ok     abstract_only A case for free, rapid, and accurate tuberculosis testing ba
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [164/177] ok     abstract_only Linking access to stewardship: a pathway for introducing res
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [165/177] ok     full_text     Framework to estimate the cost-effectiveness of the Genome S
+  [166/177] ok     abstract_only Measurement Error and Research Design
+  [167/177] ok     abstract_only JPP&M 's Global Perspective and Impact: An Agenda for Resear
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [168/177] ok     full_text     Is Cash King for Sales Compensation Plans? Evidence from a L
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+  [169/177] ok     abstract_only Do Activity-Based Incentive Plans Work? Evidence from a Larg
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 22s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 40s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 80s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 120s
+  [170/177] FAILED full_text     Economic Impact of Category Captaincy: An Examination of Ass  -> gemini-3.1-flash-lite: gave up after repeated rate-limit/server errors
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 20s
+  [171/177] ok     full_text     The Performance Impact of Core-Component Outsourcing: Insigh
+  [172/177] ok     abstract_only Ownership, privacy, and value of health-care data: Perspecti
+    gemini-3.1-flash-lite: HTTP 503; retrying in 5s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 11s
+  [173/177] ok     abstract_only A transaction cost approach to channel design with applicati
+    gemini-3.1-flash-lite: HTTP 503; retrying in 6s
+  [174/177] ok     abstract_only Savings that hurt: Production rationalization and its effect
+  [175/177] ok     full_text     Is cash king for sales compensation plans? Evidence from a l
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 12s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 42s
+  [176/177] ok     full_text     The Performance Impact of Core-Component Outsourcing: Insigh
+    gemini-3.1-flash-lite: HTTP 503; retrying in 7s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 10s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 21s
+    gemini-3.1-flash-lite: HTTP 503; retrying in 41s
+  [177/177] ok     abstract_only Attention Trap? How Visual Motion Shapes Children's Screen T
+4 papers failed; they are retried on the next run.
+
+Current cards: 173 of 177 eligible papers are up to date with gemini-3.1-flash-lite (4 still to do). Papers with any card: 173.
+Skipped (no title, or neither full text nor abstract, or too long): 156
+Cost of this run: $0.3428

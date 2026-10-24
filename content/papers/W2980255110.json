@@ -1,0 +1,61 @@
+{
+  "id": "W2980255110",
+  "title": "Savings that hurt: Production rationalization and its effect on prices",
+  "year": 2019,
+  "date": "2019-10-11",
+  "type": "article",
+  "venue": "Journal of Economics & Management Strategy",
+  "doi": "10.1111/jems.12330",
+  "url": "https://doi.org/10.1111/jems.12330",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Mauricio Varela"
+    },
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "Abstract Postmerger scenarios often lead to a reallocation of resources and production across the merged entity. Production rationalization, the process of reallocating production across facilities so as to reduce total costs, results in firms equating marginal costs across markets. This results in marginal costs, and hence prices, being higher in some markets and lower in others than otherwise would be without production rationalization. This paper proposes a model of competition that elicits these effects and the resulting consequences on consumer and producer surplus. The paper also presents empirical evidence to show that production rationalization, in the form of fleet reoptimization, affected prices following the US Airways/American Airlines merger. Prices of the merged firm increased 10% on routes typically served by US Airways relative to routes typically served by American Airlines, and by 12% relative to US Airways’ rivals’ prices. Price‐cost regressions confirm such price hikes were likely due to fleet reoptimization.",
+  "summary": {
+    "oneLiner": "When merged firms reallocate production to cut costs, they may inadvertently raise prices in specific markets, negatively impacting consumer surplus.",
+    "overview": "After a merger, companies often engage in 'production rationalization,' which means moving work between facilities to minimize total operating costs. This process aims to balance the cost of producing one additional unit (marginal cost) across different locations. While this creates efficiency for the firm, it can cause prices to rise in some markets while falling in others. The authors demonstrate this effect using the American Airlines and US Airways merger as a case study.",
+    "question": "How does the post-merger process of reallocating production across facilities to reduce costs (production rationalization) affect consumer prices and surplus?",
+    "method": "The authors propose a theoretical model of competition and perform price-cost regressions.",
+    "data": "The study analyzes fleet reoptimization following the US Airways and American Airlines merger.",
+    "findings": [
+      "Production rationalization leads firms to equate marginal costs across markets, which causes prices to be higher in some areas and lower in others than they would be otherwise.",
+      "Following the US Airways/American Airlines merger, prices on routes historically served by US Airways increased by 10% relative to routes historically served by American Airlines.",
+      "Prices on routes historically served by US Airways increased by 12% relative to the prices charged by US Airways' competitors.",
+      "Price-cost regressions indicate that the observed price hikes were likely driven by fleet reoptimization."
+    ],
+    "whyItMatters": "Managers and regulators should be aware that cost-saving operational consolidations following a merger can lead to asymmetric price changes, which may have negative implications for consumers in specific segments of a network.",
+    "topics": [
+      "mergers and acquisitions",
+      "production rationalization",
+      "airline pricing",
+      "marginal cost",
+      "market competition",
+      "consumer surplus"
+    ],
+    "industries": [
+      "Airline"
+    ],
+    "geographies": [
+      "USA"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

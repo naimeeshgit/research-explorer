@@ -1,0 +1,64 @@
+{
+  "id": "W3126007193",
+  "title": "Optimal Decentralization of Early Infant Diagnosis of HIV in Resource-Limited Settings",
+  "year": 2015,
+  "date": "2015-02-13",
+  "type": "article",
+  "venue": "Manufacturing & Service Operations Management",
+  "doi": "10.1287/msom.2014.0512",
+  "url": "https://doi.org/10.1287/msom.2014.0512",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/10/1/Optimal%20Decentralization%20of%20Early%20Infant%20Diagnosis%20of%20HIV%20in%20Resource-Limited%20Settings.pdf",
+  "citations": 53,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Milind Sohoni"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Early infant diagnosis (EID) programs in many resource-limited settings are aimed at diagnosing infants born to HIV-infected mothers. Because of the complexity of the diagnostic technology, EID programs are often highly centralized with few laboratories testing blood samples from a large network of health facilities. This leads to long diagnostic delays and consequent failure of patients to collect results in a timely manner. Several point-of-care (POC) devices that provide rapid diagnosis within the health facilities are being developed to mitigate these drawbacks of centralized EID networks. We study the decision of which facilities should receive the POC device (the placement plan) using the EID program in Mozambique as a case study. We argue that the choice of an appropriate plan is critical to maximizing the public health impact of POC devices in the presence of tight budget constraints. To formalize this argument, we develop a detailed simulation model to evaluate the impact of a placement plan. It comprises two parts: an operational model that quantifies the impact of a POC placement plan on the diagnostic delay and a behavioral part that quantifies the impact of diagnostic delay on the likelihood of result collection by infants’ caregivers. We also develop an approximate version of these operational and patient behavior dynamics and embed them in an optimization model to generate candidate POC placement plans. We find that the optimization-based plan can result in up to 30% more patients collecting their results compared to rules of thumb that have practical appeal. Finally, we show that the effectiveness of POC devices is much higher than other operational improvements to the EID network such as increased laboratory capacity, reduced transportation delay, and more regularized transport.",
+  "summary": {
+    "oneLiner": "A formal modeling approach to optimize the placement of Point-of-Care diagnostic devices in resource-limited HIV programs to maximize patient result collection.",
+    "overview": "In many countries, early infant HIV diagnosis is centralized, causing long delays and making it difficult for caregivers to receive test results. Point-of-Care (POC) devices offer faster, on-site testing but are expensive, meaning they cannot be placed in every clinic. This paper develops an optimization model to decide which clinics should receive these devices. The authors find that using an optimization-based placement plan can lead to 30% more patients receiving their results compared to common rules of thumb, such as placing devices only in the largest clinics.",
+    "question": "How should a limited number of Point-of-Care diagnostic devices be allocated across a network of health facilities to maximize the number of infants who receive their HIV test results?",
+    "method": "The authors developed a two-part approach: a discrete event simulation model to capture the operational dynamics of the diagnostic network, and a mixed-integer nonlinear optimization model to generate optimal device allocation plans. They used a piecewise linear approximation to handle the non-linear relationship between diagnostic delay and patient result collection behavior.",
+    "data": "Operational data from the Early Infant Diagnosis (EID) program in Mozambique for 2011, specifically 6,601 samples from 42 health facilities.",
+    "findings": [
+      "The optimization-based allocation plan can result in up to 30% more patients collecting their results compared to commonly used rules of thumb.",
+      "The effectiveness of POC devices is often significantly higher than other operational improvements, such as increasing laboratory capacity or reducing transportation delays.",
+      "The benefit of adding POC devices shows diminishing returns as more devices are added to the network.",
+      "The optimal placement plan depends heavily on both the accuracy of the POC device and the sensitivity of patients to diagnostic delays."
+    ],
+    "whyItMatters": "For public health managers, this research provides a decision-support tool to effectively prioritize the deployment of new medical technologies in resource-constrained environments. It demonstrates that the implementation strategy for a device can be as important as the device's technical specifications in achieving health outcomes.",
+    "topics": [
+      "healthcare operations management",
+      "resource-limited settings",
+      "pediatric HIV diagnosis",
+      "point-of-care testing",
+      "facility location optimization",
+      "diagnostic delay",
+      "patient retention"
+    ],
+    "industries": [
+      "Public Health",
+      "Healthcare"
+    ],
+    "geographies": [
+      "Mozambique",
+      "Sub-Saharan Africa"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

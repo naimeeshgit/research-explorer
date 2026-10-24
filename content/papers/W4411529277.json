@@ -1,0 +1,59 @@
+{
+  "id": "W4411529277",
+  "title": "The Role of Bank CEOs in Zombie Lending During a Crisis: Evidence from India",
+  "year": 2025,
+  "date": "2025-06-22",
+  "type": "article",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "doi": "10.1017/s0022109025101737",
+  "url": "https://doi.org/10.1017/s0022109025101737",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "Abstract A well-documented pattern of bank lending during crises is allocating credit to insolvent firms at the expense of productive firms, leading to inefficient resource allocation at the macro level. I investigate the role of bank CEOs in influencing such distortions during crises, using the strictly enforced age-based retirement policy of Indian government-controlled banks. I find that banks experiencing a CEO turnover in a crisis are less likely to bail out insolvent borrowers, as the new CEO has a lower incentive to do so. Consequently, the efficiency of credit allocation improves, and the zombification of the economy decreases.",
+  "summary": {
+    "oneLiner": "CEO turnover in Indian government-controlled banks during a crisis reduces zombie lending and improves credit allocation efficiency.",
+    "overview": "When financial crises hit, banks often lend to insolvent firms—known as 'zombie firms'—to prevent them from collapsing, which keeps resources tied up unproductively. This study examines whether bank CEOs drive this behavior by analyzing mandatory retirement-driven CEO changes in Indian state-run banks. It suggests that new CEOs are less likely to support these failing firms compared to their predecessors. As a result, credit allocation becomes more efficient, reducing the overall 'zombification' of the economy.",
+    "question": "Does CEO turnover influence the likelihood of zombie lending—the practice of extending credit to insolvent firms—during economic crises?",
+    "method": "An empirical study utilizing age-based mandatory retirement policies as a mechanism to identify exogenous CEO turnover.",
+    "data": "Indian government-controlled banks during crises.",
+    "findings": [
+      "Banks undergoing a CEO turnover during a crisis are less likely to extend credit to insolvent borrowers.",
+      "New CEOs have a lower incentive to bail out insolvent firms compared to outgoing CEOs.",
+      "CEO turnover is associated with improved efficiency of credit allocation.",
+      "Crisis-period CEO turnover is associated with a decrease in the zombification of the economy."
+    ],
+    "whyItMatters": "For policymakers and bank stakeholders, the findings highlight that the incentives of individual bank leaders significantly shape credit market distortions during crises, suggesting that leadership stability or turnover dynamics are critical to preventing inefficient lending practices.",
+    "topics": [
+      "Zombie lending",
+      "Bank governance",
+      "Credit allocation",
+      "CEO turnover",
+      "Financial crisis",
+      "Banking policy",
+      "Resource allocation"
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

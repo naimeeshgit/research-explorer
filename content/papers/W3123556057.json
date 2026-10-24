@@ -1,0 +1,61 @@
+{
+  "id": "W3123556057",
+  "title": "Understanding the Information Security Awareness Process in Real Estate Organizations Using the SECI Model",
+  "year": 2014,
+  "date": "2014-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": null,
+  "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2431990_code2138273.pdf?abstractid=2431990&mirid=1",
+  "pdf": null,
+  "citations": 7,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Sameera Mubarak"
+    },
+    {
+      "name": "Kim‐Kwang Raymond Choo"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Information security awareness plays a key role in organizations using information systems for their business operations. Recent trends have indicated that not only critical infrastructure sectors but also organizations such as retail services are targeted by criminals as long as there is data of interest and the level of information security (and awareness) is relatively low. One such example concerns real estate organizations where they process their customers’ personal and sensitive information. In this study, we applied Nonaka’s Socialization, Externalization, Internalization, and Combination (SECI) model as the theoretical lens to understand how real estate business employees gain awareness and understanding of information security. Data collected from 105 real estate organizations is tested using the structural equation modelling approach. The results indicate Socialization, Internalization and Combination were found to support the development of information security awareness among employees while data analysis does not support Externalization.",
+  "summary": {
+    "oneLiner": "Socialization, internalization and combination of knowledge help real estate employees build information security awareness, but externalization did not.",
+    "overview": "Real estate firms hold customers' personal and sensitive data, which makes them attractive targets for criminals when their security is weak. The authors use Nonaka's SECI model, a knowledge-creation framework covering socialization, externalization, internalization and combination, to explain how employees come to understand information security. They test this with survey-style data from 105 real estate organizations using structural equation modelling, a statistical method for testing how several linked factors relate to each other. Three of the four SECI processes are found to support employee security awareness, while externalization is not supported by the data.",
+    "question": "How do real estate business employees gain awareness and understanding of information security, viewed through the SECI model of knowledge creation?",
+    "method": "The authors apply Nonaka's SECI model as a theoretical lens and test it using structural equation modelling, a statistical technique for estimating relationships among multiple linked constructs.",
+    "data": "Data collected from 105 real estate organizations. The abstract does not state the time period or the data collection instrument.",
+    "findings": [
+      "Socialization, internalization and combination were found to support the development of information security awareness among employees.",
+      "The data analysis does not support externalization as a driver of information security awareness."
+    ],
+    "whyItMatters": "The abstract does not explicitly state implications for managers, policymakers or investors. It suggests that, for real estate firms handling customers' personal data, knowledge-sharing processes such as socialization, internalization and combination are associated with stronger employee security awareness.",
+    "topics": [
+      "information security awareness",
+      "SECI model",
+      "knowledge management",
+      "real estate firms",
+      "employee training",
+      "structural equation modelling",
+      "customer data protection"
+    ],
+    "industries": [
+      "Real estate"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

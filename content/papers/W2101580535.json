@@ -1,0 +1,55 @@
+{
+  "id": "W2101580535",
+  "title": "Collaboration, Automation, and Cognitive Aids Technologies to Solve Complex Transportation Problems",
+  "year": 2003,
+  "date": "2003-01-01",
+  "type": "article",
+  "venue": "http://www.ctre.iastate.edu/pubs/midcon2003/manitechnologies.pdf",
+  "doi": null,
+  "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.113.1133",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "It has always been the endeavor of scientists and engineers to develop systems that could mimic the human brain and adapt themselves to complex situations in order to arrive at a solution to the problem at hand in an efficient and effective manner. These systems would not only be capable of action but also of thought. Heuristic and algorithmic technologies are needed for the automation of cognitive activities. There is a need to develop tools, which are capable of assessing a situation at hand, alerting the human part of the system to various concerns and providing advice on possible responses, and possibly proceed towards solving the problem. This paper deals with the development of a human-machine optimal automated transportation system. In this paper it is proposed to develop specific algorithms to predict and avoid traffic congestion and collision. Two such tools that can be used with each other to produce optimal results are the Global Positioning System (GPS) and the Kalman filter. The Kalman filter is an algorithm, which can be used to predict the future state of a system based on the past information. This could be useful when we are dealing with typically, the problem of collision. A Kalman filter could be designed to give an accurate estimate of the future state of a highway or an intersection based on the data collected for that particular highway or intersection by GPS. The goal is to successfully use data fusion algorithms specifically like GPS and Kalman filters to improve the safety and efficiency of transportation systems particularly with respect to collision avoidance. Key words: automated transportation system—global positioning system—Kalman filter",
+  "summary": {
+    "oneLiner": "Proposes combining GPS data with Kalman filter algorithms to predict and avoid traffic congestion and collisions in automated transportation systems.",
+    "overview": "This paper proposes a human-machine automated transportation system that uses algorithms to predict and avoid traffic congestion and collisions. It focuses on pairing GPS, which supplies location and traffic data, with a Kalman filter, an algorithm that estimates a system's future state from its past information. The authors suggest the Kalman filter could estimate the future state of a highway or intersection from GPS data collected there. The abstract frames the aim as improving safety and efficiency, but it does not report tested results.",
+    "question": "How can GPS data and Kalman filter algorithms be combined to predict and avoid traffic congestion and collisions in automated transportation systems?",
+    "method": "The paper proposes developing specific algorithms and data fusion methods (combining GPS data with a Kalman filter). The abstract does not describe an empirical test, simulation, or evaluation of these methods.",
+    "data": "The setting is a highway or intersection, using data collected by GPS for that location. The sample size and time period are Not stated in the available text.",
+    "findings": [
+      "The authors propose using GPS and Kalman filter data fusion to improve the safety and efficiency of transportation systems, particularly for collision avoidance.",
+      "The abstract does not report empirical results or evaluate how well the proposed approach performs."
+    ],
+    "whyItMatters": "The paper suggests that combining GPS data with predictive algorithms could help transportation systems improve safety and efficiency by anticipating collisions and congestion. The abstract does not describe a specific audience of managers, policymakers, or investors.",
+    "topics": [
+      "Kalman filter",
+      "GPS",
+      "collision avoidance",
+      "traffic congestion",
+      "automated transportation systems",
+      "data fusion",
+      "cognitive aids"
+    ],
+    "industries": [
+      "Transportation"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

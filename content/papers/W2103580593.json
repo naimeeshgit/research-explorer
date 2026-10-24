@@ -1,0 +1,54 @@
+{
+  "id": "W2103580593",
+  "title": "POSSIBILITY OF DYING AS A UNIFIED EXPLANATION OF WHY WE DISCOUNT THE FUTURE, GET WEAKER WITH AGE, AND DISPLAY RISK‐AVERSION",
+  "year": 2010,
+  "date": "2010-03-11",
+  "type": "article",
+  "venue": "Economic Inquiry",
+  "doi": "10.1111/j.1465-7295.2009.00271.x",
+  "url": "https://doi.org/10.1111/j.1465-7295.2009.00271.x",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "I formulate a simple and parsimonious evolutionary model that shows that because most species face a possibility of dying because of external factors, called extrinsic mortality in the biology literature, it can simultaneously explain (a) why we discount the future, (b) get weaker with age, and (c) display risk-aversion. The paper suggests that testable restrictions—across species, across time, or across genders—among time preference, aging, and risk-aversion could be analyzed in a simple framework .",
+  "summary": {
+    "oneLiner": "An evolutionary model shows that facing external mortality risk can jointly explain discounting the future, weaker aging and risk aversion.",
+    "overview": "The paper builds a simple evolutionary model, which describes how traits are shaped over generations by survival and reproduction. Its key assumption is that most species face extrinsic mortality, meaning a chance of dying from outside causes rather than from aging itself. The author argues this one feature can explain three behaviours: discounting the future (valuing near-term payoffs more than later ones), getting weaker with age, and risk aversion. The paper also suggests the framework could be used to test links among time preference, aging and risk aversion across species, over time, or between genders.",
+    "question": "Can the possibility of dying from external causes (extrinsic mortality) provide a single explanation for why people discount the future, weaken with age, and display risk aversion?",
+    "method": "A simple and parsimonious evolutionary model, which is a theoretical framework rather than an empirical test.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The model shows that because most species face extrinsic mortality, it can simultaneously explain why we discount the future, get weaker with age, and display risk aversion.",
+      "The paper suggests that testable restrictions among time preference, aging and risk aversion could be analyzed in a simple framework, across species, across time, or across genders."
+    ],
+    "whyItMatters": "The abstract does not discuss managerial, policy or investment implications. It suggests that the framework could generate testable predictions linking time preference, aging and risk aversion across species, over time, or between genders.",
+    "topics": [
+      "time preference",
+      "discounting the future",
+      "risk aversion",
+      "extrinsic mortality",
+      "aging",
+      "evolutionary models",
+      "mortality risk",
+      "behavioral economics"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

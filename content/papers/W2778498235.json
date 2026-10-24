@@ -1,0 +1,68 @@
+{
+  "id": "W2778498235",
+  "title": "SHORT‐TERM RETURN PREDICTABILITY AND REPETITIVE INSTITUTIONAL NET ORDER ACTIVITY",
+  "year": 2017,
+  "date": "2017-12-01",
+  "type": "article",
+  "venue": "The Journal of Financial Research",
+  "doi": "10.1111/jfir.12131",
+  "url": "https://doi.org/10.1111/jfir.12131",
+  "pdf": null,
+  "citations": 31,
+  "authors": [
+    {
+      "name": "Dermot Murphy"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    }
+  ],
+  "isb": [
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": "Abstract Half‐hour returns predict same‐half‐hour returns on subsequent days. We hypothesize that this is due to institutional traders who execute their parent orders over multiple days (“repetitive institutional traders”). Using a unique data set that provides masked trader identification and trader type, we find that the half‐hour net order submission activity of repetitive institutional traders is predictive of same‐half‐hour returns on subsequent days, and that this relation subsumes the return predictability at shorter intervals. Repetitive institutional traders incur lower transaction costs than their nonrepetitive counterparts, suggesting that other traders compete to provide liquidity to the anticipated order flow originating from the repetitive traders.",
+  "summary": {
+    "oneLiner": "Institutional traders executing large orders over multiple days create predictable return patterns that other market participants can anticipate and trade against.",
+    "overview": "This study examines why stock returns during a specific half-hour period on one day can predict returns during the same period on future days. The authors identify 'repetitive institutional traders'—investors who split large orders into smaller chunks executed over several days—as the primary cause. Because these traders follow a consistent, predictable schedule, other market participants can identify their activity and provide liquidity accordingly. As a result, these repetitive traders pay lower transaction costs compared to those who trade more sporadically.",
+    "question": "Does the predictable pattern of institutional traders executing parent orders over multiple days drive short-term stock return predictability at specific intraday intervals?",
+    "method": "An empirical analysis using masked trader identification to link net order submission activity with intraday returns.",
+    "data": "A unique data set providing masked trader identification and trader type information.",
+    "findings": [
+      "Half-hour net order submission activity by repetitive institutional traders is predictive of same-half-hour returns on subsequent days.",
+      "The predictive power of these traders' order flows subsumes, or explains away, return predictability observed at shorter intraday intervals.",
+      "Repetitive institutional traders appear to incur lower transaction costs than nonrepetitive traders.",
+      "The findings suggest that other market participants compete to provide liquidity to the anticipated order flow from these repetitive traders."
+    ],
+    "whyItMatters": "Understanding these patterns helps market participants recognize how institutional trading behavior impacts stock price dynamics and transaction costs. It suggests that liquidity providers actively 'front-run' or anticipate the predictable order schedules of large, repetitive institutional traders.",
+    "topics": [
+      "Market microstructure",
+      "Institutional trading",
+      "Intraday returns",
+      "Order flow",
+      "Transaction costs",
+      "Liquidity provision",
+      "Return predictability"
+    ],
+    "industries": [
+      "Financial markets"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2217155538",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2013,
+      "url": "https://doi.org/10.2139/ssrn.2264704"
+    }
+  ]
+}

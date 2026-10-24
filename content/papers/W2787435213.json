@@ -1,0 +1,62 @@
+{
+  "id": "W2787435213",
+  "title": "Reexamining the Market Value of Information Technology Events",
+  "year": 2018,
+  "date": "2018-02-09",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.2017.0718",
+  "url": "https://doi.org/10.1287/isre.2017.0718",
+  "pdf": null,
+  "citations": 22,
+  "authors": [
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "The widespread use of announcement period returns to assess the financial impact of information technology (IT) events implicitly assumes that the market can completely price IT investments during the announcement period. However, some studies in strategy and information systems have suggested that long-term abnormal returns may be a more appropriate measure of the value of IT events. To reconcile these streams of research, we develop and test an exploratory framework involving the maturity and scope of an IT event to assess the suitability of short-versus long-term abnormal returns. We conceptualize event maturity in terms of diffusion of the technology or phenomenon, and scope as the extent of complementary organizational changes that need to be implemented and managed. We posit that because of lack of widespread knowledge of best practices and cases of success and failure in a period of low technological maturity, the market may find it difficult to price such an event completely during the announcement period. Similarly, the challenge of acquiring and interpreting information on a firm’s capability to manage wide scope of change may be an impediment to pricing high-scope events. We test our framework using a sample of 642 large outsourcing contracts and 1,700 electronic commerce initiatives. We empirically demonstrate that announcement period returns are indeed a complete measure of event value for cases characterized by high maturity and low scope; however, long-term abnormal returns are realized for events involving low maturity and/or high scope, which questions the validity of announcement period returns. Our results are robust to alternate model specifications. We conclude with a discussion of the implications for theory and practice, and directions for future research. The online appendix is available at https://doi.org/10.1287/isre.2017.0718 .",
+  "summary": {
+    "oneLiner": "Announcement-period stock returns fully capture the value of IT events only when technology is mature and scope is low; otherwise long-term returns matter.",
+    "overview": "Researchers often measure the financial impact of IT projects by looking at how a firm's stock price moves when the project is announced. This paper argues that the market may not price some IT events fully at that moment, because investors may lack knowledge of best practices or of the firm's ability to manage large changes. The authors classify IT events by how mature the technology is (its diffusion) and how much complementary organizational change they require (their scope). They test this on 642 large outsourcing contracts and 1,700 electronic commerce initiatives. They find that announcement-period returns are a complete measure of value for mature, low-scope events, but long-term abnormal returns (stock performance above what would be expected over a longer period) appear for low-maturity and/or high-scope events, which questions the use of announcement returns alone.",
+    "question": "Are announcement-period stock returns a complete measure of the value of IT events, or are long-term abnormal returns a better measure, depending on the event's maturity and scope?",
+    "method": "The authors develop and test an exploratory framework that classifies IT events by maturity (diffusion of the technology or phenomenon) and scope (the extent of complementary organizational changes needed). They compare short-term (announcement period) and long-term abnormal returns across these categories. The abstract reports that results are robust to alternate model specifications.",
+    "data": "A sample of 642 large outsourcing contracts and 1,700 electronic commerce initiatives. The time period and geographic setting are not stated in the available text.",
+    "findings": [
+      "Announcement-period returns are indeed a complete measure of event value for cases characterized by high maturity and low scope.",
+      "Long-term abnormal returns are realized for events involving low maturity and/or high scope, which the authors say questions the validity of announcement-period returns.",
+      "The authors attribute the incomplete pricing at announcement to a lack of widespread knowledge of best practices and of cases of success and failure during periods of low technological maturity.",
+      "The authors suggest that the difficulty of acquiring and interpreting information on a firm's capability to manage wide-scope change may impede pricing of high-scope events.",
+      "Results are robust to alternate model specifications."
+    ],
+    "whyItMatters": "The paper suggests that managers, investors and researchers relying only on announcement-period returns may misjudge the value of IT events that are immature or wide in scope. The authors discuss implications for theory and practice and point to future research directions, but the available text does not detail specific recommendations.",
+    "topics": [
+      "IT investment value",
+      "event study",
+      "announcement returns",
+      "long-term abnormal returns",
+      "technology maturity",
+      "organizational change",
+      "IT outsourcing",
+      "electronic commerce",
+      "market efficiency",
+      "stock market reaction"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

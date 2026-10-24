@@ -1,0 +1,33 @@
+{
+  "id": "W3124496595",
+  "title": "Mind the Contagion, Your Honour",
+  "year": 2020,
+  "date": "2020-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.3603441",
+  "url": "https://doi.org/10.2139/ssrn.3603441",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Naman Nishesh"
+    },
+    {
+      "name": "Krishnamurthy V. Subramanian"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    },
+    {
+      "name": "Meghana Yerabati"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

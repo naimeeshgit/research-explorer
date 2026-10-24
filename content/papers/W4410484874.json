@@ -1,0 +1,79 @@
+{
+  "id": "W4410484874",
+  "title": "SMART (artificial intelligence enabled) DROP (diabetic retinopathy outcomes and pathways): Study protocol for diabetic retinopathy management",
+  "year": 2025,
+  "date": "2025-05-19",
+  "type": "article",
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0324382",
+  "url": "https://doi.org/10.1371/journal.pone.0324382",
+  "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0324382&type=printable",
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Padmaja Kumari Rani"
+    },
+    {
+      "name": "Durga Bhavani Kalavalapalli"
+    },
+    {
+      "name": "Raja Narayanan"
+    },
+    {
+      "name": "Shyam Kalavalapalli"
+    },
+    {
+      "name": "Ritesh Narula"
+    },
+    {
+      "name": "Rakesh Kumar Sahay"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "INTRODUCTION: Delayed diagnosis of diabetic retinopathy (DR) remains a significant challenge, often leading to preventable blindness and visual impairment. Given that physicians are frequently the first point of contact for people with diabetes, there is a critical need for integrated screening programs within diabetes clinics to enhance DR management and reduce the risk of severe vision loss. METHODS AND ANALYSIS: We will conduct a prospective cohort study comparing (i) the intervention cohort, screened at diabetes clinics and referred to eye clinics per the proposed pathway, and (ii) the standard-of-care (SOC) eye clinic cohort. The study will be conducted in Hyderabad, India, at LV Prasad Eye Institute and four IDEA (Institute of Diabetes, Endocrinology, and Adiposity) Clinics. The primary objective is to evaluate the effectiveness of a systematic diabetic retinopathy screening program in achieving earlier detection and reducing visual impairment among People With Diabetes (PWD) attending IDEA clinics compared to routine care at eye care settings. The screening program will be operationalized using AI-enabled tools and supported by trained non-medical technicians. We will perform visual acuity tests and non-mydriatic fundus photography using AI-assisted cameras. DR-positive patients will be referred for treatment and follow-up. We aim to achieve high accuracy (>90%) in appropriate referral of DR and high screening coverage (>80%) of eligible PWD. Success metrics include screening uptake, AI diagnostic accuracy, referral rates, cost-effectiveness, patient satisfaction, follow-up adherence, and long-term outcomes. CONCLUSION: This study aims to enhance diabetic retinopathy screening and management through an AI-enabled approach at diabetes clinics, improving early detection and care pathways. The findings will contribute to evidence-based strategies for optimizing DR screening and management, with results disseminated through peer-reviewed publications to inform policy and practice. TRIAL REGISTRATION: Trial registration number: CTRI/2024/03/064518 [Registered on: 20/03/2024] (https://ctri.nic.in/).",
+  "summary": {
+    "oneLiner": "A study protocol evaluating an AI-enabled, systematic diabetic retinopathy screening program integrated into diabetes clinics to improve early detection and patient care pathways.",
+    "overview": "Delayed diagnosis of diabetic retinopathy is a major health challenge in India, and physicians are often the first point of contact for patients with diabetes. This study protocol outlines a new, systematic approach that uses artificial intelligence and trained non-medical staff to screen for eye complications directly within diabetes clinics. By comparing this new model to traditional eye clinic care, the researchers aim to assess if this integrated pathway leads to earlier detection, better cost-effectiveness, and improved patient adherence to follow-up treatments. Ultimately, the study intends to provide evidence-based strategies that could be used to optimize national screening policies.",
+    "question": "Does implementing an AI-enabled, systematic diabetic retinopathy screening program at the physician clinic level lead to earlier detection and better management of vision-threatening conditions compared to routine care at eye clinics?",
+    "method": "A prospective cohort study comparing an intervention group (screened at diabetes clinics using AI-enabled cameras and non-medical technicians) with a standard-of-care group (patients visiting eye clinics via routine pathways).",
+    "data": "The study is conducted in Hyderabad, India, involving one tertiary eye care institute (LV Prasad Eye Institute) and four diabetes clinics (IDEA Clinics).",
+    "findings": [
+      "The intervention is designed to achieve over 90% accuracy in the referral of diabetic retinopathy and over 80% screening coverage of eligible patients.",
+      "Integrating AI-enabled screening at the physician's office is hypothesized to improve the early detection of diabetic retinopathy compared to existing self-reported or routine referral models.",
+      "The study aims to demonstrate that systematic screening and integrated referral pathways are cost-effective methods for reducing vision loss in low- and middle-income settings."
+    ],
+    "whyItMatters": "The findings are expected to help policymakers and healthcare providers optimize diabetic retinopathy management, specifically by validating the use of AI tools and non-medical personnel to overcome workforce shortages, improve screening uptake, and potentially influence reimbursement policies under national health programs.",
+    "topics": [
+      "diabetic retinopathy",
+      "artificial intelligence in healthcare",
+      "teleophthalmology",
+      "screening programs",
+      "patient care pathways",
+      "cost-effectiveness analysis",
+      "diabetes management",
+      "public health policy"
+    ],
+    "industries": [
+      "Healthcare",
+      "Ophthalmology",
+      "Telemedicine"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "W4376311860",
+  "title": "Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization",
+  "year": 2026,
+  "date": "2026-05-08",
+  "type": "article",
+  "venue": "Operations Research",
+  "doi": "10.1287/opre.2023.0248",
+  "url": "https://doi.org/10.1287/opre.2023.0248",
+  "pdf": "https://arxiv.org/pdf/2305.06426",
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Katherine B. Adams"
+    },
+    {
+      "name": "Justin J. Boutilier"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Yonatan Dov Mintz"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Smarter Community Health Visits Improve Diabetes Outcomes Diabetes takes a severe toll in developing countries, where high blood glucose contributes more than half of premature deaths. Community health workers (CHWs) offer a culturally tailored lifeline, but deploying them efficiently requires balancing the screening of new patients against managing those already in treatment. In this issue, researchers introduce an innovative optimization framework that personalizes CHW visit plans to maximize community-wide glycemic control. Uniquely, the model explicitly factors in patients’ motivational states—predicting their likelihood of enrolling in or dropping out of care—to guide intervention strategies and reduce attrition. Applied to operational data from urban slums in India, the approach delivers remarkable results; optimized visit plans reduced fasting blood glucose levels by up to 25% compared with the best baseline methods using identical capacity. The model also proved to be robust under imperfect information, offering a powerful, practical tool for global health resource allocation.",
+  "summary": {
+    "oneLiner": "An optimization framework using dynamic programming helps community health workers in low-income urban areas prioritize patient visits to maximize long-term glycemic control.",
+    "overview": "In low-income urban areas, community health workers often face limited time to balance finding new patients and managing those already in treatment. The authors created a mathematical model that accounts for patients' behavioral and motivational factors, such as social stigma, which influence their likelihood to stay in care. By using this model, healthcare managers can create personalized visit schedules that reduce dropout rates and improve health outcomes. The approach was tested using real data from India and proved to be significantly more efficient than standard practices.",
+    "question": "How can community health workers in resource-constrained, urban low- and middle-income settings optimize the trade-off between screening new patients and providing management visits to existing ones while accounting for patient behavior and dropout rates?",
+    "method": "The authors developed a bi-level optimization framework. The patient-level model predicts enrollment and disease progression based on behavioral factors (utility-maximizing agents). The provider-level model uses dynamic programming (a method for solving complex problems by breaking them into simpler sub-problems) to determine the optimal sequence of visits under capacity constraints.",
+    "data": "The study uses longitudinal data (2015–2018) from NanoHealth, a social enterprise operating a diabetes management program in urban slums in Hyderabad, India, comprising 378 patients who received at least six visits.",
+    "findings": [
+      "The proposed approach is associated with a reduction in fasting blood glucose by up to 25% with the same capacity as baseline methods.",
+      "The framework performs well even with imperfect information, suggesting robustness to real-world data limitations.",
+      "The optimization approach can maintain similar glycemic control performance with up to 50% less capacity compared to baseline heuristics.",
+      "The model suggests that focusing on 'patient-periods in control' and 'fasting blood glucose reduction' involves a managerial trade-off between concentrated resource allocation and broader, more equitable coverage."
+    ],
+    "whyItMatters": "For managers of community health programs, this research offers a scalable, data-driven tool to improve resource allocation in environments where health workforce capacity is scarce. It demonstrates that modeling patient psychology alongside disease progression is critical for long-term program success, helping to prevent the 're-screening' cycle caused by patient dropout.",
+    "topics": [
+      "diabetes management",
+      "resource allocation",
+      "dynamic programming",
+      "community health workers",
+      "global health operations",
+      "patient adherence",
+      "personalized healthcare"
+    ],
+    "industries": [
+      "Healthcare",
+      "Social Enterprise",
+      "Public Health"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

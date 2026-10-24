@@ -1,0 +1,54 @@
+{
+  "id": "W2075827036",
+  "title": "Corporate Hedging of Exchange Risk When Foreign Currency Cash Flow Is Uncertain",
+  "year": 1995,
+  "date": "1995-06-01",
+  "type": "article",
+  "venue": "Management Science",
+  "doi": "10.1287/mnsc.41.6.1083",
+  "url": "https://doi.org/10.1287/mnsc.41.6.1083",
+  "pdf": null,
+  "citations": 30,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We analyze hedging policies for a corporation that generates a foreign currency cash flow that is not known with certainty. We obtain an intriguing result that the probability of bankruptcy for a firm that attempts to minimize this probability is lower when there is some uncertainty in the exchange rates than when there is no uncertainty in the exchange rates: the firm reduces the probability of bankruptcy by borrowing more than its financing needs through foreign currency borrowing alone and by investing the excess funds in domestic risk-free securities.",
+  "summary": {
+    "oneLiner": "Under exchange-rate uncertainty, a firm minimizing bankruptcy risk may borrow more than needed in foreign currency and hold the excess in domestic risk-free assets.",
+    "overview": "This paper studies how a company should hedge (reduce its exposure to) currency risk when the foreign-currency cash it will earn is itself uncertain. The author finds a counterintuitive result: a firm trying to minimize its chance of bankruptcy faces a lower chance when exchange rates are uncertain than when they are fixed. The firm achieves this by borrowing more foreign currency than it strictly needs and investing the surplus in domestic risk-free securities (assets with a guaranteed return in the home currency). The abstract presents this as an intriguing result rather than a general rule.",
+    "question": "How should a corporation hedge its exchange-rate risk when the foreign-currency cash flow it generates is not known with certainty, and how does exchange-rate uncertainty affect its probability of bankruptcy?",
+    "method": "The abstract says the paper analyzes hedging policies for a corporation with an uncertain foreign-currency cash flow. It does not name a specific technique or model.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "A firm that attempts to minimize its probability of bankruptcy can have a lower probability when there is some uncertainty in exchange rates than when there is none.",
+      "The firm reduces its bankruptcy probability by borrowing more than its financing needs in foreign currency alone.",
+      "The excess borrowed funds are invested in domestic risk-free securities.",
+      "The author describes this result as intriguing."
+    ],
+    "whyItMatters": "The abstract does not state explicit managerial or policy recommendations. Its finding bears on how firms with uncertain foreign-currency cash flows might structure their foreign-currency borrowing to manage bankruptcy risk.",
+    "topics": [
+      "exchange rate risk",
+      "corporate hedging",
+      "foreign currency borrowing",
+      "bankruptcy risk",
+      "cash flow uncertainty",
+      "financial risk management"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

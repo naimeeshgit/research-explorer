@@ -1,0 +1,62 @@
+{
+  "id": "W2152585301",
+  "title": "An Empirical Analysis of the Contractual and Information Structures of Business Process Outsourcing Relationships",
+  "year": 2011,
+  "date": "2011-11-12",
+  "type": "article",
+  "venue": "Information Systems Research",
+  "doi": "10.1287/isre.1110.0374",
+  "url": "https://doi.org/10.1287/isre.1110.0374",
+  "pdf": null,
+  "citations": 79,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Anitesh Barua"
+    },
+    {
+      "name": "Andrew B. Whinston"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "The emergence of information-intensive business process outsourcing (BPO) relationships calls for the study of exchange performance beyond traditional considerations of the contractual structure that facilitates cooperative intent to include the information structure that facilitates the mutual exchange of information to enact cooperative intent and coordinate actions between the user firm and the service provider. Yet, there has been little analysis of the drivers and performance effects of the information structure of BPO relationships, including its linkages to the underlying contractual structure. This study integrates perspectives in neo-institutional economics and information processing to develop and test the theoretical argument that the extent of use and performance effects of the information structure of the BPO relationship are greater in time and materials BPO contracts than in fixed-price BPO contracts. Survey data on 134 BPO relationships provide empirical support for our hypotheses. The synergistic impact of incentives and information on BPO performance emphasizes that their joint assessment is necessary to enhance the explanatory power of extant theories of organization. This result also has implications for achieving maximum benefits from complex BPO arrangements that are more likely to be characterized by time and material contracts.",
+  "summary": {
+    "oneLiner": "In outsourcing deals, information sharing matters more under time-and-materials contracts than fixed-price ones, and incentives and information jointly shape performance.",
+    "overview": "Business process outsourcing (BPO) means a firm hands a business activity to an outside service provider. The authors argue that outsourcing success depends not only on the contract's incentive terms but also on the information flows between the client and the provider, which help them coordinate actions. They predict that information sharing has a larger role, and a larger effect on performance, in time-and-materials contracts, where the provider is paid for effort, than in fixed-price contracts. Using survey responses from 134 BPO relationships, they report empirical support for these predictions. They conclude that incentives and information should be assessed together, especially for complex arrangements that often use time-and-materials contracts.",
+    "question": "How do the information structure of a BPO relationship (how information is exchanged to enact cooperation and coordinate actions) and its underlying contractual structure jointly affect exchange performance? In particular, are the use and performance effects of information structure greater in time-and-materials contracts than in fixed-price contracts?",
+    "method": "Theory-driven hypothesis testing. The study integrates neo-institutional economics and information processing perspectives to develop hypotheses, which are then tested empirically using survey data.",
+    "data": "Survey data on 134 BPO relationships. The abstract does not state the respondents' industries, geographies, or the time period of the survey.",
+    "findings": [
+      "The extent of use and the performance effects of the information structure of a BPO relationship are greater in time-and-materials contracts than in fixed-price contracts.",
+      "Survey data on 134 BPO relationships provide empirical support for the authors' hypotheses.",
+      "Incentives and information have a synergistic impact on BPO performance, so their joint assessment is necessary to enhance the explanatory power of extant theories of organization.",
+      "The results have implications for achieving maximum benefits from complex BPO arrangements, which are more likely to be characterized by time-and-materials contracts."
+    ],
+    "whyItMatters": "For managers running complex outsourcing arrangements, the authors suggest that information exchange with the service provider deserves deliberate attention, particularly under time-and-materials contracts, if the firm wants to realise maximum benefits. For organization theorists, the paper suggests that incentives and information should be studied together rather than separately.",
+    "topics": [
+      "business process outsourcing",
+      "time and materials contracts",
+      "fixed-price contracts",
+      "information structure",
+      "contract design",
+      "outsourcing performance",
+      "neo-institutional economics",
+      "information processing"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

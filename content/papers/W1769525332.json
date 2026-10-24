@@ -1,0 +1,68 @@
+{
+  "id": "W1769525332",
+  "title": "Economic Impact of Category Captaincy: An Examination of Assortments and Prices",
+  "year": 2020,
+  "date": "2020-10-19",
+  "type": "article",
+  "venue": "Marketing Science",
+  "doi": "10.1287/mksc.2020.1251",
+  "url": "https://doi.org/10.1287/mksc.2020.1251",
+  "pdf": "https://researchonline.lse.ac.uk/id/eprint/107034/1/categorycaptaincy_mktscience_accepted_maindocument.pdf",
+  "citations": 18,
+  "authors": [
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    },
+    {
+      "name": "Om Narasimhan"
+    },
+    {
+      "name": "George John"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "An empirical examination of the impact of category captaincy on assortments and prices",
+  "summary": {
+    "oneLiner": "Category captaincy improves efficiency and market coverage, and while it favors the captain's products, it can still lead to increased consumer welfare.",
+    "overview": "Category captaincy occurs when a retailer lets a manufacturer manage the product selection and pricing for a category, including the products of rival manufacturers. The study finds that this arrangement is generally more efficient than retailer management because manufacturers have specialized knowledge that reduces the administrative costs of managing assortments. While captains do strategically favor their own products over rivals, the increased efficiency leads to a wider variety of products on shelves. Ultimately, this can benefit consumers through greater choice, even if prices in the category sometimes increase.",
+    "question": "What is the impact of category captaincy arrangements on product assortments, prices, channel profits, and consumer welfare?",
+    "method": "The authors develop a structural model consisting of four components: demand, pricing, assortment decision, and captaincy selection. They use an inequalities estimator to recover unobservable marginal and fixed costs from observed market data, then perform counterfactual analysis to compare outcomes under retailer management versus category captaincy.",
+    "data": "The dataset contains SKU-store-level sales and price data for a frozen food category across 24 retail chains and 8 local U.S. markets from March 2010 to December 2011, combined with hand-assembled category captaincy status.",
+    "findings": [
+      "Captaincy arrangements lead to a strong efficiency effect, evidenced by lower fixed costs per SKU under captaincy compared to retailer management.",
+      "Captaincy always leads to a market-coverage effect, resulting in the introduction of SKUs that the retailer would not have otherwise carried.",
+      "Captaincy exhibits a substitution effect, where the included SKUs favor the captain's products over those of rivals.",
+      "Retailers consistently benefit from captaincy arrangements through increased profits.",
+      "Consumer welfare increases under certain circumstances, suggesting that category captaincy can be a pro-competitive development in retail channels.",
+      "The impact on rival manufacturers is generally negative, particularly for those that are the closest rivals to the appointed captain."
+    ],
+    "whyItMatters": "The findings challenge the purely negative, anti-competitive view of category captaincy held by some policy makers. For managers, the study clarifies that while retailers and dominant manufacturers generally benefit from captaincy, it is not always a profit-improving move for smaller manufacturers, who should instead focus on differentiating their assortments if they cannot secure a captaincy role.",
+    "topics": [
+      "category management",
+      "category captaincy",
+      "retail assortments",
+      "channel coordination",
+      "structural modeling",
+      "consumer welfare",
+      "vertical relationships"
+    ],
+    "industries": [
+      "frozen food",
+      "grocery retail"
+    ],
+    "geographies": [
+      "United States"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

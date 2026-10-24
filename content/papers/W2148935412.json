@@ -1,0 +1,30 @@
+{
+  "id": "W2148935412",
+  "title": "Investment in organization capital",
+  "year": 2011,
+  "date": "2011-10-24",
+  "type": "article",
+  "venue": "Journal of Financial Intermediation",
+  "doi": "10.1016/j.jfi.2011.08.001",
+  "url": "https://doi.org/10.1016/j.jfi.2011.08.001",
+  "pdf": null,
+  "citations": 69,
+  "authors": [
+    {
+      "name": "Bruce Ian Carlin"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Mark J. Garmaise"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

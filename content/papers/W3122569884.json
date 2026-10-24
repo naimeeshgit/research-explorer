@@ -1,0 +1,64 @@
+{
+  "id": "W3122569884",
+  "title": "Integrating Xpert MTB/RIF for TB diagnosis in the private sector: evidence from large-scale pilots in Patna and Mumbai, India",
+  "year": 2021,
+  "date": "2021-01-28",
+  "type": "article",
+  "venue": "BMC Infectious Diseases",
+  "doi": "10.1186/s12879-021-05817-1",
+  "url": "https://doi.org/10.1186/s12879-021-05817-1",
+  "pdf": "https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-021-05817-1",
+  "citations": 7,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Pankaj Jindal"
+    },
+    {
+      "name": "Sirisha Papineni"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "BACKGROUND: Xpert MTB/RIF (Xpert) has been recommended by WHO as the initial diagnostic test for TB and rifampicin-resistance detection. Existing evidence regarding its uptake is limited to public health systems and corresponding resource and infrastructure challenges. It cannot be readily extended to private providers, who treat more than half of India's TB cases and demonstrate complex diagnostic behavior. METHODS: We used routine program data collected from November 2014 to April 2017 from large-scale private sector engagement pilots in Mumbai and Patna. It included diagnostic vouchers issued to approximately 150,000 patients by about 1400 providers, aggregated to 18,890 provider-month observations. We constructed three metrics to capture provider behavior with regards to adoption of Xpert and studied their longitudinal variation: (i) Uptake (ordering of test), (ii) Utilization for TB diagnosis, and (iii) Non-adherence to negative results. We estimated multivariate linear regression models to assess heterogeneity in provider behavior based on providers' prior experience and Xpert testing volumes. RESULTS: Uptake of Xpert increased considerably in both Mumbai (from 36 to 60.4%) and Patna (from 12.2 to 45.1%). However, utilization of Xpert for TB diagnosis and non-adherence to negative Xpert results did not show systematic trends over time. In regression models, cumulative number of Xpert tests ordered was significantly associated with Xpert uptake in Patna and utilization for diagnosis in Mumbai (p-value< 0.01). Uptake of Xpert and its utilization for diagnosis was predicted to be higher in high-volume providers compared to low-volume providers and this gap was predicted to widen over time. CONCLUSIONS: Private sector engagement led to substantial increase in uptake of Xpert, especially among high-volume providers, but did not show strong evidence of Xpert results being integrated with TB diagnosis. Increasing availability and affordability of a technically superior diagnostic tool may not be sufficient to fundamentally change diagnosis and treatment of TB in the private sector. Behavioral interventions, specifically aimed at, integrating Xpert results into clinical decision making of private providers may be required to impact patient-level outcomes.",
+  "summary": {
+    "oneLiner": "Increased availability of advanced TB diagnostics in India's private sector improves testing uptake but does not automatically lead to better clinical integration.",
+    "overview": "This study examines the adoption of the Xpert MTB/RIF diagnostic tool by private healthcare providers in Mumbai and Patna. While the program successfully increased the number of tests ordered, simply making the technology available and affordable did not guarantee that doctors used the results effectively to diagnose and treat patients. The findings suggest that technology alone is insufficient; providers need additional support to integrate these advanced diagnostic results into their routine clinical decision-making. High-volume providers were more likely to adopt the testing, suggesting a gap between large and small practices that persists over time.",
+    "question": "How do private sector providers in India change their diagnostic behavior regarding TB when given access to Xpert MTB/RIF testing?",
+    "method": "Multivariate linear regression models were used to analyze longitudinal data from private sector engagement pilots, measuring test uptake, diagnostic utilization, and non-adherence to negative test results.",
+    "data": "Routine program data from approximately 150,000 patients and 1,400 providers in Mumbai and Patna, India, collected between November 2014 and April 2017.",
+    "findings": [
+      "Xpert test uptake increased substantially in both Mumbai (36% to 60.4%) and Patna (12.2% to 45.1%).",
+      "Utilization of Xpert for TB diagnosis and non-adherence to negative results did not show systematic improvement over time.",
+      "Higher cumulative testing volumes were associated with increased uptake in Patna and increased utilization for diagnosis in Mumbai.",
+      "The gap in adoption and diagnostic utilization is predicted to widen over time between high-volume and low-volume providers."
+    ],
+    "whyItMatters": "For policymakers and public health managers, this suggests that scaling up technology in the private sector requires more than just vouchers or accessibility. Behavioral interventions are likely necessary to ensure that diagnostic tools actually translate into improved clinical practices and better patient health outcomes.",
+    "topics": [
+      "healthcare delivery",
+      "TB diagnostics",
+      "private sector engagement",
+      "India healthcare",
+      "clinical decision making",
+      "technology adoption"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

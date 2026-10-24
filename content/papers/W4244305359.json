@@ -1,0 +1,71 @@
+{
+  "id": "W4244305359",
+  "title": "Franchising Microfinance",
+  "year": 2009,
+  "date": "2009-04-09",
+  "type": "article",
+  "venue": "European Finance Review",
+  "doi": "10.1093/rof/rfp005",
+  "url": "https://doi.org/10.1093/rof/rfp005",
+  "pdf": null,
+  "citations": 13,
+  "authors": [
+    {
+      "name": "Amit Bubna"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Abstract Financial intermediaries worldwide are seeking mechanisms for participating in micro lending. Using informed “local capitalists” as bank's on-lenders fails due to borrowers' incentive to default with multiple credit sources. A coalition of local capitalists may not resolve the problem in the presence of a monopoly moneylender with superior skills in lending and enforcement. A credible competitive threat to the moneylender can only arise if the local capitalist coalition also provides information sharing benefits that lower their cost of lending vis-à-vis the moneylender. Franchising allows local capitalists to form such a coalition. We analyze conditions under which welfare-enhancing franchising would obtain.",
+  "summary": {
+    "oneLiner": "Franchising lets local capitalists form a coalition that shares information and cuts lending costs, creating a credible threat to a monopoly moneylender in micro lending.",
+    "overview": "Banks worldwide want ways to take part in micro lending, but using local capitalists as on-lenders is hard because borrowers may default by taking loans from several sources. The paper argues that a group of local lenders working together may not solve this when a single moneylender has better lending and enforcement skills. A credible competitive threat arises only if the coalition also shares information that lowers its lending costs relative to the moneylender. The authors argue that franchising is a way for local capitalists to form such a coalition, and they analyze when this franchising would improve welfare.",
+    "question": "Can franchising allow local capitalists to form a coalition that competes with a monopoly moneylender in micro lending, and under what conditions would this be welfare-enhancing?",
+    "method": "Theoretical analysis; the abstract describes analyzing conditions under which the arrangement would obtain but does not name the specific modelling approach.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Using informed local capitalists as on-lenders for a bank fails because borrowers have an incentive to default when they can borrow from multiple credit sources.",
+      "A coalition of local capitalists may not resolve this problem when a monopoly moneylender has superior lending and enforcement skills.",
+      "A credible competitive threat to the moneylender can arise only if the local capitalist coalition also provides information sharing benefits that lower its cost of lending relative to the moneylender.",
+      "Franchising allows local capitalists to form such a coalition.",
+      "The authors analyze conditions under which welfare-enhancing franchising would obtain."
+    ],
+    "whyItMatters": "The paper suggests that financial intermediaries seeking to enter micro lending may use franchising, with local capitalists as franchisees sharing information, as a mechanism to compete with an entrenched local moneylender. The abstract frames the result in terms of welfare gains under certain conditions.",
+    "topics": [
+      "microfinance",
+      "franchising",
+      "information sharing",
+      "moneylenders",
+      "credit default",
+      "local capitalists",
+      "competition in lending",
+      "financial intermediation"
+    ],
+    "industries": [
+      "Microfinance",
+      "Banking"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W4236094536",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2006,
+      "url": "https://doi.org/10.2139/ssrn.890667"
+    }
+  ]
+}

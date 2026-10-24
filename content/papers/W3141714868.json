@@ -1,0 +1,81 @@
+{
+  "id": "W3141714868",
+  "title": "The Performance Impact of Core-Component Outsourcing: Insights from the LCD TV Industry",
+  "year": 2021,
+  "date": "2021-04-02",
+  "type": "article",
+  "venue": "Journal of Marketing Research",
+  "doi": "10.1177/00222437211010766",
+  "url": "https://doi.org/10.1177/00222437211010766",
+  "pdf": "https://researchonline.lse.ac.uk/id/eprint/109853/1/Narasimhan_performance_impact_core_component_outsourcing_accepted.pdf",
+  "citations": 8,
+  "authors": [
+    {
+      "name": "Madhu Viswanathan",
+      "isb": "madhu-viswanathan"
+    },
+    {
+      "name": "Prokriti Mukherji"
+    },
+    {
+      "name": "Om Narasimhan"
+    },
+    {
+      "name": "Rajesh K. Chandy"
+    }
+  ],
+  "isb": [
+    "madhu-viswanathan"
+  ],
+  "abstract": "Firms in technology markets often outsource the manufacture of core components—components that are central to product performance and comprise a substantial portion of product costs. Despite the strategic importance of core-component outsourcing, there is little empirical evidence (and many conflicting opinions) about its impact on consumer demand. The authors address this gap with an examination of panel data from the flat panel TV industry, across key regions globally. Results from their estimation indicate that core-component outsourcing reduces the firm’s ability to be on the technological frontier; this hurts demand, because the authors’ estimates suggest that consumers care about firms being on the frontier. However, such outsourcing also reduces costs. Finally, the authors find that outsourcing increases the intensity of competition in the marketplace. They assess these (often opposing) effects and conduct thought experiments to quantify the performance impact of core-component outsourcing.",
+  "summary": {
+    "oneLiner": "Core component outsourcing reduces production costs but hinders innovation, potentially damaging a firm's reputation and competitive position.",
+    "overview": "Firms often outsource key components to save money, but this paper finds that such a decision can reduce a firm’s ability to stay at the cutting edge of technology. Being at the 'technological frontier' helps boost consumer demand, so losing that edge can hurt a brand. Furthermore, outsourcing may make brands more similar to each other, intensifying price competition. The authors show that the decision to outsource is a delicate balance between these efficiency gains and potential losses in brand value and competitive differentiation.",
+    "question": "What is the impact of core component outsourcing on firm performance, specifically considering consumer demand, production costs, and competitive interactions?",
+    "method": "The authors develop a structural model of supply and demand for the LCD TV industry. They utilize a random coefficients logit model for demand, a Bertrand-Nash pricing model for competition, and moment inequalities to estimate fixed costs. They control for endogeneity using instrumental variables.",
+    "data": "The study uses a unique panel dataset from the flat panel television market (LCD and PDP) spanning North America, Europe, and Japan between 2004 and 2005, containing 383 observations.",
+    "findings": [
+      "Core component outsourcing reduces the firm’s marginal cost of production by almost 21% on average.",
+      "Outsourcing is associated with a 17% reduction in the likelihood that a firm will reach the technological frontier.",
+      "A firm’s position on the technological frontier creates a positive 'aura effect' that increases demand for its other products.",
+      "Outsourcing increases the intensity of market competition because it reduces differentiation between products.",
+      "Moving to outsourcing generally leads to lower prices and higher margins, but firms that were previously technology leaders may suffer profit losses due to decreased demand.",
+      "The authors' thought experiments suggest that joint ventures, like the one between Sony and Samsung, can negatively affect the profits of the involved parties while benefiting competitors."
+    ],
+    "whyItMatters": "The findings suggest that firms should not view outsourcing solely through the lens of cost reduction. Managers must consider the 'aura' that a leadership position in technology provides, as well as how outsourcing decisions change their firm's competitive differentiation relative to rivals. Strategic choices should be based on the net effect of costs, consumer brand perceptions, and likely competitor responses.",
+    "topics": [
+      "outsourcing",
+      "technology frontier",
+      "consumer demand",
+      "competitive strategy",
+      "structural modeling",
+      "brand aura effect",
+      "firm profitability"
+    ],
+    "industries": [
+      "consumer electronics",
+      "flat panel television"
+    ],
+    "geographies": [
+      "North America",
+      "Europe",
+      "Japan"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3195649589",
+      "type": "article",
+      "venue": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+      "year": 2021,
+      "url": "https://orcid.org/0000-0001-8027-8800>"
+    }
+  ]
+}

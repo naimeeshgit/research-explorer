@@ -1,0 +1,30 @@
+{
+  "id": "W3201984000",
+  "title": "Digital Identity in India",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "book-chapter",
+  "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+  "doi": "10.1007/978-3-030-65117-6_30",
+  "url": "https://doi.org/10.1007/978-3-030-65117-6_30",
+  "pdf": null,
+  "citations": 5,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Amit Goyal"
+    },
+    {
+      "name": "Syed Anas Ahmed"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

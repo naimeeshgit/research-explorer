@@ -1,0 +1,72 @@
+{
+  "id": "W2604900776",
+  "title": "Do Derivatives Matter?: Evidence from a Policy Experiment",
+  "year": 2015,
+  "date": "2015-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.2726446",
+  "url": "https://doi.org/10.2139/ssrn.2726446",
+  "pdf": "https://eprints.exchange.isb.edu/id/eprint/468/1/Agrawal_Subramanyam_Tantri_Thirumalai_2015.pdf",
+  "citations": 2,
+  "authors": [
+    {
+      "name": "Deepak Kumar Agrawal"
+    },
+    {
+      "name": "K.R. Subramanyam"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    },
+    {
+      "name": "Ramabhadran S. Thirumalai",
+      "isb": "ramabhadran-thirumalai"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri",
+    "ramabhadran-thirumalai"
+  ],
+  "abstract": null,
+  "summary": {
+    "oneLiner": "Exogenous derivative delisting reveals that derivatives enhance stock valuations by improving liquidity and informational price efficiency.",
+    "overview": "Many academic studies struggle to determine if derivatives actually improve stock markets because companies choose whether to list them based on their own performance. This study avoids this problem by examining a 2012 regulatory change in India that forcibly delisted 51 stocks from derivative trading. The researchers find that these stocks suffered a significant loss in value following the delisting. This decline occurred because the loss of derivatives reduced liquidity and led to less accurate stock prices, as fewer analysts followed these companies after their delisting.",
+    "question": "Do derivative instruments (options and futures) improve or worsen fundamental stock characteristics such as valuation, price efficiency, liquidity, and volatility?",
+    "method": "Event study methodology and difference-in-difference regression analysis, utilizing a regulatory shock as an exogenous event.",
+    "data": "A sample of 51 stocks delisted from the Indian derivative segment due to a 2012 SEBI policy change, compared against stocks that remained in the segment.",
+    "findings": [
+      "Excluded firms underperformed the broader market by 4.07% over the event window.",
+      "Stock turnover in the spot market declined by 29.1% to 54.8% following derivative exclusion.",
+      "Price efficiency, measured by how quickly prices incorporate market-wide news, significantly decreased post-delisting.",
+      "Analyst coverage of the excluded firms significantly declined after delisting.",
+      "Overall stock volatility remains largely unchanged, though returns show a significant increase in skewness and kurtosis (extreme values).",
+      "The results rule out regulatory targeting and price pressure effects, suggesting that derivatives add value."
+    ],
+    "whyItMatters": "The findings suggest that derivatives are not passive instruments but actively improve market quality; therefore, restrictive policies that limit access to derivative markets may inadvertently harm stock valuation, liquidity, and informational efficiency.",
+    "topics": [
+      "Derivative markets",
+      "Market microstructure",
+      "Price efficiency",
+      "Stock liquidity",
+      "Regulatory policy",
+      "Information production",
+      "Event study"
+    ],
+    "industries": [
+      "Financial markets"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

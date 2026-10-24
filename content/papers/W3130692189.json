@@ -1,0 +1,57 @@
+{
+  "id": "W3130692189",
+  "title": "Creditor Rights and Strategic Default: Evidence from India",
+  "year": 2020,
+  "date": "2020-02-24",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": null,
+  "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3543249_code1685900.pdf?abstractid=3543249&mirid=1",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "I examine whether higher creditor rights prevent strategic default. Borrowers who cross either of two thresholds are exempt from a creditor rights law in India. Using a loan day-level dataset, I ﬁnd that loan performance is better when the law applies and that outperformance increases after a further rise in creditor rights. To discern the strategic motive, I use an unprecedented invalidation of the Indian currency whereby holders of high-value currency were forced to declare their cash holdings to banks. Defaulters exempt from the law showed a greater tendency to repay their loans during the ban period.",
+  "summary": {
+    "oneLiner": "This paper suggests that stronger creditor rights reduce strategic defaults by Indian borrowers, particularly when they cannot hide liquid assets.",
+    "overview": "Strategic default occurs when a borrower chooses to stop paying back a loan even though they have the money to pay. This study examines whether stronger legal protections for creditors make such behavior less likely. By looking at how borrowers reacted to a mandatory currency exchange program in India, the author identifies that those protected by stricter laws were less likely to withhold payments they could afford to make.",
+    "question": "Do higher creditor rights prevent strategic default by borrowers?",
+    "method": "A comparative analysis using loan performance around specific regulatory thresholds and an exogenous shock created by a currency ban.",
+    "data": "Loan day-level dataset in India.",
+    "findings": [
+      "Loan performance is better when creditor rights laws apply to the borrower.",
+      "Outperformance of loans increases following a further rise in creditor rights.",
+      "Borrowers exempt from creditor rights laws show a greater tendency to repay loans only when forced to disclose cash holdings during a currency ban, suggesting they were previously acting strategically."
+    ],
+    "whyItMatters": "The findings suggest that the efficacy of bankruptcy or debt recovery laws is highly dependent on a borrower's ability to hide assets and the legal tools available to lenders to overcome such information asymmetries.",
+    "topics": [
+      "strategic default",
+      "creditor rights",
+      "loan performance",
+      "debt enforcement",
+      "corporate finance",
+      "banking regulation"
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

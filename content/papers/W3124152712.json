@@ -1,0 +1,64 @@
+{
+  "id": "W3124152712",
+  "title": "Some Evidence that a Tobin Tax on Foreign Exchange Transactions May Increase Volatility",
+  "year": 2003,
+  "date": "2003-12-01",
+  "type": "article",
+  "venue": "European Finance Review",
+  "doi": "10.1023/b:eufi.0000022143.77321.20",
+  "url": "https://doi.org/10.1023/b:eufi.0000022143.77321.20",
+  "pdf": "https://academic.oup.com/rof/article-pdf/7/3/481/26322024/7-3-481.pdf",
+  "citations": 73,
+  "authors": [
+    {
+      "name": "Robert Z. Aliber"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Shu Yan"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Robert Z. Aliber, Bhagwan Chowdhry, Shu Yan; Some Evidence that a Tobin Tax on Foreign Exchange Transactions May Increase Volatility *, European Finance Re",
+  "summary": {
+    "oneLiner": "Some evidence suggests a Tobin tax on foreign exchange transactions may increase currency volatility, according to the paper's title.",
+    "overview": "The paper examines a Tobin tax, a proposed small levy on foreign exchange trades, and argues that some evidence points the other way from what its proponents expect. Its title says the tax may increase volatility, meaning larger and more frequent swings in exchange rates. The available text is only the author and title information, so the study's design, data and detailed results cannot be described. Readers should treat the title's claim as a hedged, tentative finding.",
+    "question": "Whether a Tobin tax on foreign exchange transactions may increase volatility in currency markets, as the title indicates. The title does not state the question in more detail.",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Some evidence suggests that a Tobin tax on foreign exchange transactions may increase volatility (per the paper's title; the authors' hedged wording is 'some evidence' and 'may')."
+    ],
+    "whyItMatters": "Not stated in the available text.",
+    "topics": [
+      "Tobin tax",
+      "foreign exchange",
+      "currency volatility",
+      "financial transaction taxes",
+      "exchange rates"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2072331236",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2002,
+      "url": "https://doi.org/10.2139/ssrn.311700"
+    }
+  ]
+}

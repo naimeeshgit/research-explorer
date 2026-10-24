@@ -1,0 +1,30 @@
+{
+  "id": "W4313134007",
+  "title": "Differential Diagnosis: Models, Heuristics, and Bounds",
+  "year": 2022,
+  "date": "2022-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.4256524",
+  "url": "https://doi.org/10.2139/ssrn.4256524",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Sumit Kunnumkal"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Simrita Singh"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "W7204800600",
+  "title": "Love in the Time of Markets: Nested Risk-Sharing",
+  "year": 2026,
+  "date": "2026-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.7374100",
+  "url": "https://doi.org/10.2139/ssrn.7374100",
+  "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/7374100.pdf?abstractid=7374100&mirid=1",
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Dilip Mookherjee"
+    },
+    {
+      "name": "Tejas Chhabra"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

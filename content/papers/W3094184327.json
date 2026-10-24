@@ -1,0 +1,65 @@
+{
+  "id": "W3094184327",
+  "title": "Bank Cleanups, Capitalization, and Lending: Evidence from India",
+  "year": 2020,
+  "date": "2020-09-30",
+  "type": "article",
+  "venue": "Review of Financial Studies",
+  "doi": "10.1093/rfs/hhaa119",
+  "url": "https://doi.org/10.1093/rfs/hhaa119",
+  "pdf": null,
+  "citations": 82,
+  "authors": [
+    {
+      "name": "Yakshup Chopra"
+    },
+    {
+      "name": "Krishnamurthy V. Subramanian"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "Abstract We examine the Indian bank asset quality review, which doubled the declared loan delinquency rate. Relative economic stability during the exercise and the absence of a capital backstop together make it unique. We find that the expected reduction in information asymmetry does not automatically lead to the recapitalization of banks by markets. The consequent undercapitalization leads to underinvestment and risk-shifting through zombie lending. The impact flows to the real economy through borrowers, including shadow banks, and adversely impacts growth. These findings show that bank cleanup exercises not accompanied by policies aimed at recapitalization may be insufficient even during normal times.",
+  "summary": {
+    "oneLiner": "Bank cleanup exercises that increase transparency about bad loans can harm the real economy if they are not paired with active bank recapitalization.",
+    "overview": "This paper examines India's 'asset quality review,' a regulatory initiative that forced banks to declare higher rates of bad, or delinquent, loans. The authors argue that while this increased transparency, it failed to trigger automatic bank recapitalization by private investors. Consequently, undercapitalized banks engaged in 'zombie lending'—continuing to fund unproductive firms to avoid recognizing losses—which ultimately hindered economic growth. The study highlights that forced transparency without government-backed capital support can lead to unintended negative consequences for lending and economic output.",
+    "question": "Does increasing transparency through bank asset quality reviews lead to recapitalization and improved economic outcomes in the absence of a capital backstop?",
+    "method": "Not stated in the available text.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The expected reduction in information asymmetry does not automatically lead to the recapitalization of banks by markets.",
+      "Undercapitalization following transparency initiatives is associated with underinvestment and risk-shifting through zombie lending.",
+      "The impact of undercapitalized banks flows to the real economy, including shadow banks, and adversely impacts growth."
+    ],
+    "whyItMatters": "Bank cleanup exercises not accompanied by policies aimed at recapitalization may be insufficient to support economic health, even when conducted during periods of relative economic stability.",
+    "topics": [
+      "banking regulation",
+      "asset quality review",
+      "zombie lending",
+      "information asymmetry",
+      "bank recapitalization",
+      "financial stability",
+      "credit markets"
+    ],
+    "industries": [
+      "banking",
+      "shadow banking"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v2",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

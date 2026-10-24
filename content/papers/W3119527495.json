@@ -1,0 +1,64 @@
+{
+  "id": "W3119527495",
+  "title": "Friends with Benefits: The Role of Social Learning In Technology-Enabled Educational Outcomes",
+  "year": 2020,
+  "date": "2020-12-02",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": null,
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3741468",
+  "pdf": null,
+  "citations": 0,
+  "authors": [
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    },
+    {
+      "name": "Sundar G. Bharadwaj"
+    },
+    {
+      "name": "Sreevathsan Sridhar"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Technology interventions to enhance academic performance have been promoted by the EdTech industry and financed by foundations, the private sector and governments. The motivation for such interventions is that they remedy for teacher shortage, student heterogeneity, and enable self-directed learning. However, the empirical outcomes of technology adoption suggests that personalizing instruction is necessary for better student performance. This moderator is expensive to implement, disruptive to pedagogy and not typically scalable. This research examines the role of social learning, a low cost and scalable complement to technology solutions in the classroom that both motivates students and enhances their ability. We find from a quasi-natural experiment that the negative main effect on student performance is positively moderated by social (peer) learning. We add nuance to the research by identifying the critical role of scholastic ability at the time of adoption. The findings have implications for educational technology vendors, parents, students and educators involved in such interventions in terms of use of technology solutions and selection and targeting of students.",
+  "summary": {
+    "oneLiner": "Classroom technology had a negative average effect on student performance, but social peer learning softened it, and prior scholastic ability mattered.",
+    "overview": "Schools and funders often adopt educational technology to address teacher shortages and differences between students, but the abstract notes that results have been mixed and that good outcomes seem to require personalised instruction, which is costly and hard to scale. This paper studies social (peer) learning as a cheaper, scalable complement to technology in the classroom. Using a quasi-natural experiment (a comparison created by circumstances outside the researchers' control, rather than random assignment by design), the authors find that technology's negative main effect on performance is positively moderated by peer learning, meaning peer learning reduces that negative effect. They also report that scholastic ability at the time of adoption plays a critical role, which they say helps guide which students to target.",
+    "question": "Does social (peer) learning change how technology adoption in the classroom affects student academic performance, and does students' scholastic ability at the time of adoption matter?",
+    "method": "A quasi-natural experiment, which uses an external change or event to compare outcomes between groups as if it were a randomised study. The abstract does not name the specific estimation technique.",
+    "data": "The abstract does not state the sample size, country, school type, or time period. It describes the setting only as classroom technology adoption and student academic performance.",
+    "findings": [
+      "Technology adoption has a negative main effect on student performance.",
+      "That negative main effect is positively moderated by social (peer) learning, according to the quasi-natural experiment.",
+      "Scholastic ability at the time of adoption plays a critical role in these outcomes."
+    ],
+    "whyItMatters": "The authors state that the findings have implications for educational technology vendors, parents, students and educators involved in such interventions. They point to choices about how technology is used and which students are selected and targeted for it. The abstract presents peer learning as a low-cost, scalable complement to technology, as opposed to personalised instruction, which it describes as expensive and hard to scale.",
+    "topics": [
+      "educational technology",
+      "social learning",
+      "peer learning",
+      "technology in classrooms",
+      "student performance",
+      "scholastic ability",
+      "quasi-natural experiment",
+      "personalised instruction"
+    ],
+    "industries": [
+      "Education technology (EdTech)",
+      "Classroom instruction"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

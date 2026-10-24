@@ -1,0 +1,35 @@
+{
+  "id": "W4231730526",
+  "title": "Borrowing Culture and Debt Relief: Evidence from a Policy Experiment",
+  "year": 2014,
+  "date": "2014-01-01",
+  "type": "preprint",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.2139/ssrn.2396368",
+  "url": "https://doi.org/10.2139/ssrn.2396368",
+  "pdf": null,
+  "citations": 8,
+  "authors": [
+    {
+      "name": "Sankar De"
+    },
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": [
+    {
+      "id": "W1535517339",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2013,
+      "url": "https://doi.org/10.2139/ssrn.2242390"
+    }
+  ]
+}

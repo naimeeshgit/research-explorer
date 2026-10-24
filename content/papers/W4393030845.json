@@ -1,0 +1,72 @@
+{
+  "id": "W4393030845",
+  "title": "Leveraging Digital Technology to Improve Monitoring and Planning in Public Sector Supply Chains: Evidence From India’s Food Security Program",
+  "year": 2024,
+  "date": "2024-03-21",
+  "type": "article",
+  "venue": "Production and Operations Management",
+  "doi": "10.1177/10591478241242119",
+  "url": "https://doi.org/10.1177/10591478241242119",
+  "pdf": null,
+  "citations": 8,
+  "authors": [
+    {
+      "name": "Maya Ganesh"
+    },
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Sripad K. Devalkar"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Governments across the developing world are adopting digital technologies to improve the performance of public sector supply chains. However, empirical evidence regarding the impact of these technologies on performance is mixed. In this paper, we evaluate the impact of using biometric authentication (BA) devices on the performance of India’s food security program. The program aims to deliver subsidized food grains to nearly 160 million low-income households through approximately 500,000 fair price shops (FPSs). Nearly half of those grains do not reach the beneficiaries and are diverted to the open market for private benefit. We estimate the impact of installing BA devices on reducing diversion in more than 3,300 FPSs in the Indian state of Karnataka between 2013 and 2015 using a difference-in-differences approach. We find that BA devices reduce up to 4% of the current diversion at the last mile. We argue that this relatively low impact is due to the presence of a workaround mechanism which results in imperfect monitoring and validate the decrease in diversion mechanism by estimating the differential impact of BA devices. We complement the empirical analysis with a simulation exercise to estimate the additional value that can be unlocked by using the BA devices. We find that the value of better replenishment planning using sales and inventory information captured by BA devices can be significant. The value of better planning can be as high as six times the value of reduction in diversion, depending on the preintervention levels of demand from genuine beneficiaries and diversion at the FPSs.",
+  "summary": {
+    "oneLiner": "Biometric authentication in India's food security program reduces grain diversion slightly but offers significant potential for improvement through better inventory planning.",
+    "overview": "This study examines the effectiveness of using biometric authentication devices to stop the theft of subsidized food grains in India's public distribution system. While the technology successfully reduces the diversion of food, its impact is limited by the presence of workarounds that undermine monitoring. However, the authors find that the real strategic value of these devices lies in the data they generate, which enables more accurate replenishment planning. By utilizing this data, managers can achieve operational gains that far outweigh the direct savings from reduced theft.",
+    "question": "What is the impact of using biometric authentication devices on the performance of India’s food security program, specifically regarding the reduction of food grain diversion?",
+    "method": "The researchers employed a difference-in-differences approach to compare diversion rates before and after the installation of biometric devices, complemented by a simulation exercise to evaluate inventory planning improvements.",
+    "data": "The study utilized data from over 3,300 fair price shops in the Indian state of Karnataka between 2013 and 2015.",
+    "findings": [
+      "Biometric authentication devices reduce up to 4% of current food grain diversion at the last mile.",
+      "The low impact of the technology is attributed to the presence of workaround mechanisms that lead to imperfect monitoring.",
+      "The value of improved replenishment planning using data captured by biometric devices can be as high as six times the value gained from simply reducing diversion."
+    ],
+    "whyItMatters": "For policymakers, the findings suggest that the value of digital technologies in public supply chains is often realized more through improved planning and data-driven decision-making than through direct monitoring or enforcement alone.",
+    "topics": [
+      "public sector supply chain",
+      "digital transformation",
+      "biometric authentication",
+      "food security",
+      "operations management",
+      "inventory planning"
+    ],
+    "industries": [
+      "Public Sector",
+      "Supply Chain Management"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3118664124",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2019,
+      "url": "https://doi.org/10.2139/ssrn.3419350"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "W2123708304",
+  "title": "Assessing Project Risk",
+  "year": 2012,
+  "date": "2012-09-01",
+  "type": "article",
+  "venue": "Journal of applied corporate finance",
+  "doi": "10.1111/j.1745-6622.2012.00393.x",
+  "url": "https://doi.org/10.1111/j.1745-6622.2012.00393.x",
+  "pdf": null,
+  "citations": 21,
+  "authors": [
+    {
+      "name": "Antonio E. Bernardo"
+    },
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Amit Goyal"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "Finding the appropriate discount rate, or cost of capital, for evaluating investment projects requires an accurate estimate of project risk. This can be challenging because project risk cannot be estimated directly using the CAPM, but must instead be inferred from a set of traded securities, typically the equity betas of comparable firms in the same industry. These equity betas are then unlevered to undo the effect of comparable companies' financial leverage and obtain estimates of “asset” betas, which are then used to estimate project risk. The authors show that asset betas estimated in this way are likely to overestimate project risk. The equity returns of companies are risky not only because of their existing projects but also because of their growth opportunities. Such growth opportunities often include embedded “real options,” such as the option to delay, expand, or abandon a project. Because such real options are similar to leveraged positions in the underlying project, a company's growth opportunities are typically riskier than its existing projects. Therefore, to properly assess project risk, analysts must also unlever the asset betas derived from comparable company stock returns for the leverage contributed by their growth options. The authors derive a simple method for unlevering asset betas for growth options leverage in order to properly assess project risk. They then show that standard methods for assessing project risk significantly overestimate project costs of capital—by as much as 2–3% in industries such as healthcare, pharmaceuticals, communications, medical equipment, and entertainment. Their method should also be applied to stock return volatility to derive project volatility, an important input for determining the value of a firm's growth opportunities and the appropriate time for investing in these opportunities.",
+  "summary": {
+    "oneLiner": "Standard beta-based methods overstate project risk because they fail to remove the extra risk that growth options add to comparable firms' stock returns.",
+    "overview": "Firms often set a project's discount rate by looking at the stock betas of comparable companies, adjusting for debt, to get an asset beta. The authors argue this approach is likely to overestimate project risk. Growth opportunities, such as options to delay, expand or abandon a project, behave like leveraged positions and so make a firm's stock riskier than its existing projects alone. The authors derive a simple way to strip out this growth-option leverage before using asset betas. They report that standard methods can overstate project costs of capital by as much as 2–3 percentage points in several industries.",
+    "question": "Do standard methods of estimating project risk from comparable firms' equity betas overstate project risk, and if so, how can growth-option leverage be removed to correct this?",
+    "method": "A theoretical derivation of a simple method for unlevering asset betas for growth-option leverage, applied to asset betas estimated from comparable companies' stock returns. The abstract does not describe any empirical testing beyond this.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "Asset betas estimated from comparable firms' equity betas are likely to overestimate project risk.",
+      "Growth opportunities, including real options such as the option to delay, expand or abandon, are typically riskier than existing projects because they act like leveraged positions in the underlying project.",
+      "Standard methods for assessing project risk significantly overestimate project costs of capital, by as much as 2–3% in industries such as healthcare, pharmaceuticals, communications, medical equipment and entertainment."
+    ],
+    "whyItMatters": "The authors suggest analysts should unlever asset betas for growth-option leverage as well as for financial leverage to properly assess project risk. They also suggest the method should be applied to stock return volatility to derive project volatility, which matters for valuing growth opportunities and deciding when to invest in them.",
+    "topics": [
+      "cost of capital",
+      "project risk",
+      "asset beta",
+      "real options",
+      "growth options",
+      "discount rate",
+      "capital budgeting",
+      "financial leverage"
+    ],
+    "industries": [
+      "healthcare",
+      "pharmaceuticals",
+      "communications",
+      "medical equipment",
+      "entertainment"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

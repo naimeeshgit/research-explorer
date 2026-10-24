@@ -1,0 +1,27 @@
+{
+  "id": "W2041605019",
+  "title": "Understanding the financial crisis in Asia",
+  "year": 2000,
+  "date": "2000-05-01",
+  "type": "article",
+  "venue": "Pacific-Basin Finance Journal",
+  "doi": "10.1016/s0927-538x(00)00011-1",
+  "url": "https://doi.org/10.1016/s0927-538x(00)00011-1",
+  "pdf": null,
+  "citations": 71,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Amit Goyal"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": null,
+  "summary": null,
+  "versions": []
+}

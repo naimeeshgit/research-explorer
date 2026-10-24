@@ -1,0 +1,72 @@
+{
+  "id": "W2015873037",
+  "title": "International differences in oversubscription and underpricing of IPOs",
+  "year": 1996,
+  "date": "1996-07-01",
+  "type": "article",
+  "venue": "Journal of Corporate Finance",
+  "doi": "10.1016/0929-1199(96)00002-8",
+  "url": "https://doi.org/10.1016/0929-1199(96)00002-8",
+  "pdf": null,
+  "citations": 168,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Ann E. Sherman"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "We argue that when the offer price of an IPO is set many days before the issue closes for bidding by investors (as is the case in countries such as Hong Kong, Singapore and the U.K.), relevant price information leaks and becomes public knowledge before investors have finished bidding for firm's shares. Consequently, there are instances when all investors realize ex ante that the offer price is ``too low'' and we observe a large oversubscription for firm's shares. There are also instances when the investors realize that the offer price is ``too high'' and the issue fails. In order to reduce the likelihood of instances in which the issue fails, the offering is underpriced. We further argue that if the underwriter collects the interest float on checks deposited by investors for shares they bid, this interest revenue reduces the cost associated with underpricing and thus provides an incentive to underprice the issue further. Our analysis allows us to explore some empirical and policy implications.",
+  "summary": {
+    "oneLiner": "Early-set IPO offer prices let price information leak before bidding closes, so issuers underprice to reduce the chance of failed issues.",
+    "overview": "In some markets, such as Hong Kong, Singapore and the U.K., an IPO's offer price is fixed many days before investors finish bidding. The authors argue that price information leaks out during this gap, so investors can tell whether the price is too low or too high. If the price looks too low, the issue is heavily oversubscribed, and if it looks too high, the issue fails. To lower the risk of failure, the offering is underpriced. The authors further argue that the underwriter earns interest on investors' deposited bid cheques, which reduces the cost of underpricing and gives extra reason to underprice more.",
+    "question": "How does setting the IPO offer price well before the bidding period closes affect oversubscription and underpricing, and why do these differ across countries?",
+    "method": "The abstract describes the authors' argument and analysis but does not name a specific research method. It does not say whether the analysis is a formal model or an empirical test.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "When the offer price is set well before bidding closes, relevant price information leaks and becomes public before bidding ends, according to the authors' argument.",
+      "Investors may realise ex ante that the offer price is too low, which the authors argue leads to large oversubscription.",
+      "Investors may realise the offer price is too high, which the authors argue leads to a failed issue.",
+      "The offering is underpriced to reduce the likelihood of failed issues.",
+      "Interest earned by the underwriter on investors' deposited cheques reduces the cost of underpricing, which the authors argue gives an incentive to underprice further."
+    ],
+    "whyItMatters": "The authors say their analysis allows them to explore some empirical and policy implications, but the abstract does not specify them.",
+    "topics": [
+      "IPO underpricing",
+      "IPO oversubscription",
+      "offer price setting",
+      "information leakage",
+      "failed IPOs",
+      "underwriters",
+      "international IPO markets",
+      "bidding mechanisms"
+    ],
+    "industries": [],
+    "geographies": [
+      "Hong Kong",
+      "Singapore",
+      "United Kingdom"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3124627329",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 1994,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5446"
+    }
+  ]
+}

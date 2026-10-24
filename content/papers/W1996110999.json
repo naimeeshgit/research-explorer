@@ -1,0 +1,61 @@
+{
+  "id": "W1996110999",
+  "title": "Optimal procurement, disposal and pricing policies for managing rental goods",
+  "year": 2005,
+  "date": "2005-11-01",
+  "type": "article",
+  "venue": "International Transactions in Operational Research",
+  "doi": "10.1111/j.1475-3995.2005.00528.x",
+  "url": "https://doi.org/10.1111/j.1475-3995.2005.00528.x",
+  "pdf": null,
+  "citations": 1,
+  "authors": [
+    {
+      "name": "Sarang Deo",
+      "isb": "sarang-deo"
+    },
+    {
+      "name": "Christopher Siew Wai Tang"
+    }
+  ],
+  "isb": [
+    "sarang-deo"
+  ],
+  "abstract": "Consider a video rental retailer who procures DVDs or video cassettes from a distributor and rents them to the customers. To meet the time-varying rental demand, the retailer needs to develop cost-effective procurement and disposal policies. In this paper, we first present a base model in which the underlying rental demand is decreasing over time, backorders are not allowed and the disposal price is exogenous. For this base model, we show that the optimal procurement quantity is equal to the sum of effective demands (rental demand net of returns) over an integral number of periods, and the optimal disposal policy can be determined by solving a simple dynamic program with polynomial complexity. We then analyze the case of endogenous disposal prices and derive optimal disposal policies by solving a quadratic optimization problem with tree constraints. We also extend the base model to allow for backorders and to cases where the retailer has multiple procurement opportunities and a contractual period where disposals are not allowed. We show that the qualitative nature of the procurement policy is preserved in these cases and the optimal procurement and selling policies can be determined using similar dynamic programming algorithms.",
+  "summary": {
+    "oneLiner": "This paper provides mathematical models to help rental retailers optimize how many units to buy, when to sell them, and how to manage pricing.",
+    "overview": "Retailers of rental goods, such as DVD shops, must balance buying new inventory with the inevitable drop in demand over time. This research provides a framework for determining the best time to acquire stock and when to dispose of it to maximize cost-efficiency. The authors developed dynamic programming algorithms—mathematical methods for solving complex problems by breaking them into simpler steps—to handle scenarios with varying demand and pricing structures.",
+    "question": "How can rental retailers determine optimal procurement, disposal, and pricing policies for inventory facing time-varying demand?",
+    "method": "Mathematical modeling using dynamic programming and quadratic optimization.",
+    "data": "Not stated in the available text.",
+    "findings": [
+      "The optimal procurement quantity is equivalent to the total effective demand over an integer number of periods.",
+      "Optimal disposal policies for exogenous disposal prices can be determined via a dynamic program with polynomial complexity.",
+      "When disposal prices are endogenous, optimal policies can be derived by solving a quadratic optimization problem with tree constraints.",
+      "The qualitative nature of the procurement policy remains consistent even when backorders are allowed or when there are multiple procurement opportunities.",
+      "The retailer can determine optimal procurement and selling policies using dynamic programming algorithms across various operational constraints."
+    ],
+    "whyItMatters": "The findings provide managers with systematic, algorithmic approaches to inventory lifecycle management, helping them reduce waste and optimize turnover for goods with declining rental appeal.",
+    "topics": [
+      "inventory management",
+      "rental business models",
+      "procurement strategy",
+      "dynamic programming",
+      "operations research",
+      "lifecycle pricing"
+    ],
+    "industries": [
+      "retail",
+      "rental services"
+    ],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "gemini-3.1-flash-lite",
+      "prompt": "card_v1",
+      "createdAt": "2026-09-29"
+    }
+  },
+  "versions": []
+}

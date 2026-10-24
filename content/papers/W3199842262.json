@@ -1,0 +1,62 @@
+{
+  "id": "W3199842262",
+  "title": "Information Systems Sourcing",
+  "year": null,
+  "date": null,
+  "type": "book",
+  "venue": "Digital Eprints Services at ISB (DESI) (Indian School of Business)",
+  "doi": "10.7892/boris.147931",
+  "url": "https://eprints.exchange.isb.edu/id/eprint/2006/",
+  "pdf": null,
+  "citations": 4,
+  "authors": [
+    {
+      "name": "Julia Kotlarsky"
+    },
+    {
+      "name": "Ilan Oshri"
+    },
+    {
+      "name": "Jens Dibbern"
+    },
+    {
+      "name": "Deepa Mani",
+      "isb": "deepa-mani"
+    }
+  ],
+  "isb": [
+    "deepa-mani"
+  ],
+  "abstract": "Information Systems (IS) Sourcing is a broad umbrella term that refers to the contracting or delegating of IS- or IT-related work (e.g., an ongoing service or one-off project) to an internal or external entity (a supplier). It encompasses various sourcing models that are typically based on the distinction between ownership (in-house or third party) and location (domestic, nearshore or offshore), as well as online sourcing models. The significance of this topic for the IS discipline is evident in the number of publications that have addressed different aspects of IS sourcing since 1998 when the first two MISQ articles on this topic were published. We have identified 38 MISQ publications on the topic up to Spring 2020. A Special Issue of MISQ on IS offshoring published in 2008 was an important step in advancing research on the subject.",
+  "summary": {
+    "oneLiner": "Overview of IS sourcing research: 38 MISQ publications from 1998 to Spring 2020 on contracting IS work to internal or external suppliers.",
+    "overview": "IS sourcing means handing IT work, either an ongoing service or a one-off project, to an internal unit or an outside supplier. Sourcing models differ by who owns the work (in-house or third party) and where it is done (domestic, nearshore or offshore), and the abstract also mentions online sourcing models. The abstract argues the topic matters to the information systems field, pointing to 38 MISQ articles on it from 1998 to Spring 2020. It notes that a 2008 MISQ special issue on IS offshoring was an important step in advancing this research.",
+    "question": "Not stated in the available text.",
+    "method": "The abstract says the authors identified 38 MISQ publications on IS sourcing. It does not name the analysis method used to review them.",
+    "data": "The 38 MISQ publications on IS sourcing, up to Spring 2020. The abstract does not describe any firms, samples or settings beyond this.",
+    "findings": [
+      "The authors identified 38 MISQ publications on IS sourcing up to Spring 2020.",
+      "The abstract describes the topic as significant for the IS discipline, based on the number of publications since 1998.",
+      "A 2008 MISQ special issue on IS offshoring is described as an important step in advancing research on the subject."
+    ],
+    "whyItMatters": "The abstract frames IS sourcing as a research topic with a substantial publication record in MISQ. It does not state explicit implications for managers, policymakers or investors.",
+    "topics": [
+      "IS sourcing",
+      "IT outsourcing",
+      "offshoring",
+      "nearshoring",
+      "IS research review",
+      "MISQ"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": []
+}

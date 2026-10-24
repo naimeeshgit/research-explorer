@@ -1,0 +1,69 @@
+{
+  "id": "W3111861264",
+  "title": "Fintech for the Poor: Financial Intermediation Without Discrimination",
+  "year": 2020,
+  "date": "2020-09-12",
+  "type": "article",
+  "venue": "European Finance Review",
+  "doi": "10.1093/rof/rfaa039",
+  "url": "https://doi.org/10.1093/rof/rfaa039",
+  "pdf": null,
+  "citations": 94,
+  "authors": [
+    {
+      "name": "Prasanna L. Tantri",
+      "isb": "prasanna-tantri"
+    }
+  ],
+  "isb": [
+    "prasanna-tantri"
+  ],
+  "abstract": "Abstract I ask whether machine learning (ML) algorithms improve the efficiency in lending without compromising on equity in a credit environment where soft information dominates. I obtain loan application-level data from an Indian bank. To overcome the problem of the selective labels, I exploit the incentive-driven within officer difference in leniency within a calendar month. I find that the ML algorithm can lend 60% more at loan officers’ delinquency rate or achieve a 33% lower delinquency rate at loan officers’ approval rate. The efficiency is maintained even when the algorithm is explicitly prevented from discriminating against disadvantaged social classes.",
+  "summary": {
+    "oneLiner": "ML lending algorithms can lend 60% more at officers' delinquency rate, and efficiency holds even when barred from discriminating by social class.",
+    "overview": "The paper asks whether machine learning can make bank lending more efficient without becoming unfair in a setting where loan officers rely heavily on soft information, meaning qualitative judgments that are hard to put in a spreadsheet. The author uses loan application data from an Indian bank and addresses selective labels, the problem that repayment is only observed for loans that were approved, by comparing officers who differ in how lenient they are within the same calendar month. The author finds that the algorithm can lend 60% more at the officers' delinquency rate (the share of borrowers who fall behind on payments), or achieve a 33% lower delinquency rate at the officers' approval rate. These efficiency gains are maintained even when the algorithm is explicitly prevented from discriminating against disadvantaged social classes.",
+    "question": "Do machine learning algorithms improve lending efficiency without compromising equity in a credit environment where soft information dominates?",
+    "method": "The author compares a machine learning algorithm with loan officers' decisions. To handle the selective labels problem, the author exploits within-officer differences in leniency (how readily an officer approves loans) within a calendar month, which are driven by incentives. The paper also tests the algorithm when it is explicitly prevented from discriminating against disadvantaged social classes.",
+    "data": "Loan application-level data from an Indian bank. The time period and sample size are not stated in the available text.",
+    "findings": [
+      "The ML algorithm can lend 60% more at loan officers' delinquency rate.",
+      "The ML algorithm can achieve a 33% lower delinquency rate at loan officers' approval rate.",
+      "The efficiency gains are maintained even when the algorithm is explicitly prevented from discriminating against disadvantaged social classes."
+    ],
+    "whyItMatters": "The abstract suggests lenders can use ML to improve lending efficiency without sacrificing equity toward disadvantaged social classes, which is relevant to the paper's framing around fintech for the poor. The abstract does not spell out specific policy or managerial recommendations.",
+    "topics": [
+      "machine learning lending",
+      "credit scoring",
+      "fintech lending",
+      "soft information",
+      "loan officers",
+      "selective labels",
+      "algorithmic fairness",
+      "discrimination in lending",
+      "Indian banking"
+    ],
+    "industries": [
+      "Banking",
+      "Consumer lending"
+    ],
+    "geographies": [
+      "India"
+    ],
+    "basis": "abstract_only",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W3124284105",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2020,
+      "url": "https://doi.org/10.2139/ssrn.3518601"
+    }
+  ]
+}

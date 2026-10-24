@@ -1,0 +1,72 @@
+{
+  "id": "W3023344426",
+  "title": "Information Aggregation, Security Design, and Currency Swaps",
+  "year": 2002,
+  "date": "2002-06-01",
+  "type": "article",
+  "venue": "Journal of Political Economy",
+  "doi": "10.1086/339717",
+  "url": "https://doi.org/10.1086/339717",
+  "pdf": "http://www.nber.org/papers/w8746.pdf",
+  "citations": 11,
+  "authors": [
+    {
+      "name": "Bhagwan Chowdhry",
+      "isb": "bhagwan-chowdhry"
+    },
+    {
+      "name": "Mark S. Grinblatt"
+    },
+    {
+      "name": "David K. Levine"
+    }
+  ],
+  "isb": [
+    "bhagwan-chowdhry"
+  ],
+  "abstract": "A security design model shows that multinational firms needing to finance their operations should issue different securities to investors in different countries in order to aggregate their disparate information about domestic and foreign cash flows. However, if the firm becomes bankrupt, investors may face uncertain costs of reorganizing assets in a foreign country and thus may value foreign assets at their average value. This penalizes superior firms with low reorganization costs. Such firms minimize the adverse selection penalty by designing securities that allocate all the cash flow in bankruptcy to investors for which the adverse selection costs are the smallest given the exchange rate. We show that this sharing rule can be implemented with currency swaps because these instruments allow the priorities of claims in bankruptcy to switch depending on the exchange rate.",
+  "summary": {
+    "oneLiner": "Multinational firms can cut adverse selection costs by issuing currency swaps whose payoffs switch bankruptcy priority depending on the exchange rate.",
+    "overview": "The paper models a multinational firm that has private information about its cash flows, which domestic and foreign investors do not fully share. Because investors cannot tell a firm with low reorganization costs from one with high costs, they price the firm's securities at an average, penalizing the efficient firm. The authors show that issuing separate securities to domestic and foreign investors can reveal information through prices, and that currency swaps can let bankruptcy priority depend on the exchange rate, reducing this penalty. The authors state that this gives a rationale for derivative use based purely on issue-cost minimization rather than hedging, and that debt structures are suboptimal in their model. Results are theoretical, so their practical reach depends on the model's assumptions.",
+    "question": "Why do multinational firms issue multiple distinct securities to investors in different countries, and can currency swaps be explained as an optimal security design that reduces adverse selection costs?",
+    "method": "A theoretical security design model with risk-neutral agents, rational reservation price functions and an auctioneer that clears prices; the authors derive equilibrium prices, optimal payoff-sharing rules in bankruptcy, and show that a pair of currency swaps implements the optimal rule and dominates debt contracts.",
+    "data": "Not stated in the available text. The paper is a theoretical model with no empirical sample, setting, or time period.",
+    "findings": [
+      "Issuing two distinct securities to domestic and foreign investors can make equilibrium prices reveal all investor signals about domestic and foreign cash flows.",
+      "When contracts are written on aggregate cash flows, low-reorganization-cost firms face an adverse selection penalty because investors impute average reorganization costs.",
+      "The optimal bankruptcy sharing rule allocates each state's cash flow to the investor type facing smaller adverse selection costs given the exchange rate.",
+      "A pair of properly designed currency swaps implements this rule, with the exchange rate set to the ratio of the pool-leading firm's valuations.",
+      "The authors state that any pair of debt contracts, or a currency swap paired with debt, is dominated by a pair of currency swaps.",
+      "The authors note they cannot assert that the fully optimal bankruptcy boundary can be implemented with a pair of currency swaps without further distributional assumptions."
+    ],
+    "whyItMatters": "The paper suggests that firms may use currency swaps and multiple securities to reduce the cost of information asymmetry in financing, even without hedging or risk-sharing motives. The authors frame this as relevant to understanding why corporations issue derivative securities when risk-management motives seem implausible. The paper does not give direct managerial prescriptions beyond this framing.",
+    "topics": [
+      "security design",
+      "currency swaps",
+      "adverse selection",
+      "information aggregation",
+      "bankruptcy priority",
+      "derivatives",
+      "multinational finance",
+      "debt versus swaps"
+    ],
+    "industries": [],
+    "geographies": [],
+    "basis": "full_text",
+    "source": {
+      "kind": "ai-pipeline",
+      "model": "claude-haiku-5-5",
+      "prompt": "card_v3",
+      "createdAt": "2026-10-24"
+    }
+  },
+  "versions": [
+    {
+      "id": "W2170899038",
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "year": 2002,
+      "url": "https://doi.org/10.2139/ssrn.6031"
+    }
+  ]
+}
